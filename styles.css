@@ -279,3 +279,26 @@ footer { font-size: 0.75rem; letter-spacing: 0.08em; font-weight: 500; }
 /* Logo-Marke: weißes D im roten Kreis (links neben dem Schriftzug) */
 .brand { gap: .55rem; }
 .brand .mk { display: inline-flex; align-items: center; justify-content: center; flex: none; width: 1.9rem; height: 1.9rem; border-radius: 50%; background: #b3151b; color: #fff; font: 700 1.2rem/1 "Bodoni Moda", "Playfair Display", Georgia, serif; padding-bottom: .08rem; }
+
+/* Erklärt: aufklappbare Beiträge */
+.ex { border-top: 1px solid var(--line); }
+.ex:last-of-type { border-bottom: 1px solid var(--line); }
+.ex-sum { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 1rem; align-items: baseline; padding-block: 1.5rem; cursor: pointer; list-style: none; }
+.ex-sum::-webkit-details-marker { display: none; }
+.ex-sum::after { content: "+"; grid-column: 3; font-size: 1.6rem; line-height: 1; color: var(--muted); }
+.ex[open] .ex-sum::after { content: "–"; }
+.ex-head h3 { margin: 0; font-size: clamp(1.3rem, 3vw, 1.8rem); letter-spacing: -0.02em; line-height: 1.15; font-weight: 700; }
+.ex-head p { margin: 0.3rem 0 0; color: var(--muted); }
+.ex-sum .t { color: var(--muted); font-size: 0.9rem; white-space: nowrap; }
+.ex-sum:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
+.ex-body { padding: 0 0 2rem; max-width: 44rem; }
+.ex-body p { font-size: 1.08rem; line-height: 1.7; margin: 0 0 1rem; }
+.ex-body h4 { font-size: 1.2rem; margin: 1.8rem 0 .6rem; letter-spacing: -0.01em; }
+.ex-kern { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 1rem; margin: .5rem 0 1rem; }
+.ex-z { background: var(--panel); border-radius: 1rem; padding: 1rem 1.1rem; display: grid; gap: .3rem; align-content: start; }
+.ex-z strong { font-size: clamp(1.5rem, 4vw, 2.1rem); line-height: 1.05; color: #b3151b; letter-spacing: -0.02em; }
+.ex-z span { font-size: .88rem; color: var(--muted); line-height: 1.35; }
+.ex-q ul { margin: 0; padding-left: 1.1rem; line-height: 1.6; }
+.ex-q a { color: inherit; text-underline-offset: 3px; overflow-wrap: anywhere; }
+.ex-stand { font-size: .88rem !important; color: var(--muted); margin-top: 1rem !important; }
+@media (max-width: 40rem) { .ex-kern { grid-template-columns: minmax(0,1fr); } .ex-sum { grid-template-columns: minmax(0,1fr) auto; } .ex-sum .t { display: none; } }

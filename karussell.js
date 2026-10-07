@@ -184,6 +184,7 @@
       lab(ctx, s.label || "Die Zahl", x, y, fg);
       var m = String(s.zahl || "").match(/^(\S+)\s*(.*)$/) || [0, s.zahl, ""];
       var num = m[1], unit = m[2], fs = 520;
+      if (/^%$/.test(unit)) { num = num + " %"; unit = ""; }
       ctx.font = "400 " + fs + "px " + PF;
       while (ctx.measureText(num).width > mw && fs > 150) { fs -= 10; ctx.font = "400 " + fs + "px " + PF; }
       ctx.fillStyle = fg; ctx.fillText(num, x - 10, y + 90);
@@ -193,15 +194,15 @@
       foot(s.quelle);
     } else if (s.typ === "betrifft") {
       lab(ctx, s.label || "Warum dich das betrifft", x, y, ac);
-      var y3 = head(ctx, s.titel, IS, 400, x, y + 80, mw, 260, 120, 70, 1.04, fg, null, ac, 0.004);
-      var pts = s.punkte || [], top = y3 + 50, avail = bottom - top, rowH = Math.min(260, avail / Math.max(1, pts.length));
+      var y3 = head(ctx, s.titel, IS, 400, x, y + 80, mw, 200, 104, 70, 1.04, fg, null, ac, 0.004);
+      var pts = s.punkte || [], top = y3 + 40, avail = bottom - top + 20, rowH = Math.min(270, avail / Math.max(1, pts.length));
       pts.forEach(function (p, k) {
         var ry = top + k * rowH;
         ctx.fillStyle = T.soft; ctx.fillRect(x, ry, mw, 3);
         ctx.font = "400 110px " + PF; ctx.fillStyle = ac; ctx.fillText(String(k + 1), x, ry + 24);
         var tx = x + 120;
         ctx.font = "700 44px " + SANS; ctx.fillStyle = fg; ctx.fillText(p.kopf, tx, ry + 32);
-        head(ctx, p.text, SANS, 400, tx, ry + 92, mw - 120, rowH - 100, 38, 26, 1.35, mu, null, ac, 0);
+        head(ctx, p.text, SANS, 400, tx, ry + 88, mw - 120, rowH - 92, 40, 30, 1.32, mu, null, ac, 0);
       });
       foot(s.quelle);
     } else if (s.typ === "einordnung") {
