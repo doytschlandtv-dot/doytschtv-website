@@ -302,3 +302,17 @@ footer { font-size: 0.75rem; letter-spacing: 0.08em; font-weight: 500; }
 .ex-q a { color: inherit; text-underline-offset: 3px; overflow-wrap: anywhere; }
 .ex-stand { font-size: .88rem !important; color: var(--muted); margin-top: 1rem !important; }
 @media (max-width: 40rem) { .ex-kern { grid-template-columns: minmax(0,1fr); } .ex-sum { grid-template-columns: minmax(0,1fr) auto; } .ex-sum .t { display: none; } }
+
+/* Dossiers */
+.ds { margin-bottom: 4rem; }
+.ds-t { font-size: clamp(1.8rem, 5vw, 2.8rem); letter-spacing: -0.03em; line-height: 1.1; margin: 0 0 .6rem; font-weight: 700; }
+.ds-lead { font-size: 1.15rem; line-height: 1.5; color: var(--muted); max-width: 44rem; margin: 0 0 1.2rem; }
+.ds-m { background: var(--panel); border-radius: 1.25rem; padding: 1.1rem 1.4rem; margin-bottom: 1.5rem; max-width: 52rem; }
+.ds-m h4 { margin: 0 0 .5rem; font-size: .8rem; letter-spacing: .12em; text-transform: uppercase; color: #b3151b; }
+.ds-m ul { margin: 0; padding-left: 1.1rem; line-height: 1.6; }
+.ds-m li { margin-bottom: .4rem; }
+.ds-q { margin: 0 0 1.5rem; padding: 1.1rem 1.4rem; border-left: 5px solid #b3151b; background: var(--panel); border-radius: 0 1rem 1rem 0; }
+.ds-qt { font-size: 1.25rem !important; line-height: 1.45 !important; font-style: italic; margin: 0 0 .5rem !important; }
+.ds-qm { font-size: .88rem !important; color: var(--muted); margin: 0 0 .6rem !important; }
+.ds-u { display: inline-block; font-weight: 700; font-size: .9rem; color: #fff; background: #b3151b; border-radius: 980px; padding: .25rem .8rem; }
+.ds-k { margin-top: 1.5rem; max-width: none; }
