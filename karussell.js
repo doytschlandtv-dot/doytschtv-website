@@ -212,6 +212,7 @@
   function toBlob(canvas) {
     return new Promise(function (res) { canvas.toBlob(res, "image/png"); });
   }
+  function zslug(t) { return String(t || "").toLowerCase().replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue").replace(/ß/g, "ss").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 40).replace(/-$/, ""); }
   function slug(t) { return String(t || "karussell").toLowerCase().replace(/[^a-z0-9äöüß]+/g, "-").replace(/^-|-$/g, ""); }
 
   function view(day) {
@@ -267,6 +268,13 @@
         if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(done, function () {});
       });
       act.appendChild(bCap);
+      if (day.datum) {
+        var zl = el("a", "k-btn k-btn-ghost", "ZIP laden (Bilder + Caption)");
+        zl.href = "karussells/" + day.datum + "/" + (ki + 1) + "-" + zslug(k.thema) + ".zip";
+        zl.setAttribute("download", "");
+        zl.style.textDecoration = "none"; zl.style.display = "inline-block";
+        act.appendChild(zl);
+      }
       sec.appendChild(act);
 
       var cap = el("div", "k-cap");
