@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Rendert die Karussells eines Tages als PNG-Slides + caption.txt + ZIP.
 Aufruf: python3 tools/render.py 2026-10-08   (ohne Datum: neuester Tag mit Karussells)
-Ausgabe: karussells/<datum>/<nr>-<slug>/slide-1.png ... caption.txt  und  <nr>-<slug>.zip
+Ausgabe (NICHT im Repo, nicht öffentlich): <out>/<datum>/<nr>-<slug>/slide-1.png ... caption.txt und <nr>-<slug>.zip
+Ziel mit Umgebungsvariable DTV_EXPORT, Standard /tmp/doytschtv-export
 Benötigt: playwright (python) mit Chromium."""
 import sys, os, re, json, base64, zipfile, threading, http.server, functools, subprocess
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -31,7 +32,7 @@ with sync_playwright() as p:
     pg.goto(url); pg.wait_for_timeout(1200)
     pg.click('text=Karussell'); pg.wait_for_timeout(3000)
     secs = pg.query_selector_all('section.k-sec')
-    out = os.path.join(root, 'karussells', day['datum'])
+    out = os.path.join(os.environ.get('DTV_EXPORT', '/tmp/doytschtv-export'), day['datum'])
     for ki, (k, sec) in enumerate(zip(day['karussells'], secs), 1):
         name = '%d-%s' % (ki, slug(k['thema']))
         d = os.path.join(out, name); os.makedirs(d, exist_ok=True)
