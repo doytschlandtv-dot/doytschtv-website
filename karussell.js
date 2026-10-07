@@ -202,6 +202,85 @@
       if (s.frage) head(ctx, s.frage, SANS, 400, x + 6, y6 + 410, mw - 200, 170, 36, 26, 1.35, mu, null, ac, 0);
     }
   }
+
+  /* --- Storys (10 Sekunden): 1080 x 1920, optional mit frei lizenziertem Foto --- */
+  var SW = 1080, SH = 1920;
+  function drawStory(canvas, s, img, i, n) {
+    canvas.width = SW; canvas.height = SH;
+    var ctx = canvas.getContext("2d");
+    var photo = !!img;
+    var fg = photo ? "#ffffff" : C.ink, ac = photo ? "#ff8b84" : C.red, mu = photo ? "#e8e4da" : C.muted;
+    ctx.fillStyle = C.paper; ctx.fillRect(0, 0, SW, SH);
+    if (photo) {
+      var r = Math.max(SW / img.width, SH / img.height), w = img.width * r, h = img.height * r;
+      ctx.drawImage(img, (SW - w) / 2, (SH - h) / 2, w, h);
+      var g = ctx.createLinearGradient(0, 0, 0, SH);
+      g.addColorStop(0, "rgba(10,10,10,.55)"); g.addColorStop(.28, "rgba(10,10,10,.25)");
+      g.addColorStop(.5, "rgba(10,10,10,.55)"); g.addColorStop(1, "rgba(10,10,10,.92)");
+      ctx.fillStyle = g; ctx.fillRect(0, 0, SW, SH);
+    }
+    ctx.textBaseline = "top"; setLS(ctx, 0);
+    var x = 80, mw = SW - 160;
+    ctx.font = "700 56px " + PF; ctx.fillStyle = fg; ctx.fillText("Doytschland", x, 250);
+    var wd = ctx.measureText("Doytschland").width;
+    ctx.fillStyle = ac; ctx.fillText("Tv", x + wd, 250);
+    ctx.fillStyle = photo ? "rgba(255,255,255,.7)" : C.rule; ctx.fillRect(x, 330, mw, 3);
+    var y = 700;
+    lab(ctx, s.kicker || "Das Wichtigste", x, y, ac);
+    var y2 = head(ctx, s.titel, IS, 400, x, y + 70, mw, 520, 150, 80, 1.06, fg, hlSet(s.rot), ac, 0.012);
+    head(ctx, s.text, SANS, 400, x, y2 + 40, mw, 1500 - y2 - 40, 46, 30, 1.38, fg, null, ac, 0);
+    if (s.quelle) { ctx.font = "400 28px " + SANS; ctx.fillStyle = mu; ctx.fillText("Quelle: " + s.quelle, x, 1560); }
+    if (photo && s.bild && s.bild.urheber) {
+      ctx.font = "400 22px " + SANS; ctx.fillStyle = "rgba(255,255,255,.75)";
+      var cr = "Foto: " + s.bild.urheber + (s.bild.lizenz ? " (" + s.bild.lizenz + ")" : "") + (s.bild.quelle ? ", " + s.bild.quelle : "");
+      ctx.fillText(cr.length > 90 ? cr.slice(0, 89) + "…" : cr, x, 1625);
+    }
+    ctx.font = "700 40px " + PF; ctx.fillStyle = ac;
+    var cnt = (i + 1) + "/" + n; ctx.fillText(cnt, SW - 80 - ctx.measureText(cnt).width, 1625);
+  }
+  function loadImg(url) {
+    return new Promise(function (res) {
+      if (!url) return res(null);
+      var im = new Image(); im.crossOrigin = "anonymous";
+      im.onload = function () { res(im); }; im.onerror = function () { res(null); };
+      im.src = url;
+    });
+  }
+  function storyView(day) {
+    var box = el("div", "k-wrap");
+    var list = day.storys || [];
+    if (!list.length) { box.appendChild(el("p", "b-empty", "Die Storys für diesen Tag erscheinen täglich am Morgen.")); return box; }
+    box.appendChild(el("p", "k-intro", "Fertig für Instagram- und TikTok-Storys (9:16). Bilder sind frei lizenziert, die Quelle steht auf der Story. Speichern oder direkt teilen."));
+    var row = el("div", "k-row k-row-story"), cvs = [], jobs = [];
+    list.forEach(function (s, i) {
+      var cv = document.createElement("canvas"); cv.className = "k-slide k-story";
+      cv.setAttribute("role", "img"); cv.setAttribute("aria-label", "Story " + (i + 1) + ": " + (s.titel || ""));
+      row.appendChild(cv); cvs.push(cv);
+      jobs.push(function () { return loadImg(s.bild && s.bild.url).then(function (im) { drawStory(cv, s, im, i, list.length); }); });
+    });
+    box.appendChild(row);
+    var act = el("div", "k-act");
+    var b = el("button", "k-btn", "Alle Storys teilen oder speichern"); b.type = "button";
+    b.addEventListener("click", function () {
+      Promise.all(cvs.map(toBlob)).then(function (blobs) {
+        if (blobs.some(function (x) { return !x; })) { b.textContent = "Export nicht möglich (Bildquelle gesperrt)"; return; }
+        var files = blobs.map(function (bl, i) { return new File([bl], "doytschlandtv-story-" + day.datum + "-" + (i + 1) + ".png", { type: "image/png" }); });
+        if (navigator.canShare && navigator.canShare({ files: files })) return navigator.share({ files: files }).catch(function () {});
+        files.forEach(function (f, i) { setTimeout(function () { var a = document.createElement("a"); a.href = URL.createObjectURL(f); a.download = f.name; document.body.appendChild(a); a.click(); a.remove(); }, i * 400); });
+      });
+    });
+    act.appendChild(b); box.appendChild(act);
+    var src = el("div", "k-cap"); src.appendChild(el("span", "k-cap-k", "Bildnachweis"));
+    list.forEach(function (s, i) {
+      var t = s.bild ? "Story " + (i + 1) + ": " + (s.bild.urheber || "?") + (s.bild.lizenz ? ", " + s.bild.lizenz : "") + (s.bild.quelle ? ", " + s.bild.quelle : "") : "Story " + (i + 1) + ": ohne Foto";
+      var p = el("p", null, t);
+      if (s.bild && s.bild.seite) { p.appendChild(document.createTextNode(" ")); var a = el("a", "inline", "Quelle öffnen"); a.href = s.bild.seite; a.target = "_blank"; a.rel = "noopener"; p.appendChild(a); }
+      src.appendChild(p);
+    });
+    box.appendChild(src);
+    fontsReady().then(function () { jobs.forEach(function (j) { j(); }); });
+    return box;
+  }
   function rr(ctx, x, y, w, h, r) {
     ctx.beginPath();
     ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r);
@@ -291,5 +370,5 @@
     var tags = Array.isArray(k.hashtags) ? k.hashtags.join(" ") : (k.hashtags || "");
     return (k.caption || "") + (tags ? "\n\n" + tags : "");
   }
-  window.DTVK = { view: view };
+  window.DTVK = { view: view, storyView: storyView };
 })();

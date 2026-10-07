@@ -46,6 +46,7 @@
       var badges = el("div", "b-badges");
       badges.appendChild(el("span", "b-badge" + (d.morgen ? " on" : ""), d.morgen ? "Morning Briefing" + (d.morgen.dauer ? " · " + d.morgen.dauer : "") : "Morning Briefing folgt"));
       badges.appendChild(el("span", "b-badge" + (d.abend ? " on" : ""), d.abend ? "Tagesrückblick" + (d.abend.dauer ? " · " + d.abend.dauer : "") : "Tagesrückblick folgt um 19:00 Uhr"));
+      if (d.storys && d.storys.length) badges.appendChild(el("span", "b-badge on", "Storys · " + d.storys.length));
       if (d.karussells && d.karussells.length) badges.appendChild(el("span", "b-badge on", "Karussells · " + d.karussells.length));
       mid.appendChild(badges);
       a.appendChild(mid);
@@ -127,6 +128,7 @@
     var defs = [
       { key: "morgen", name: "Morning Briefing" },
       { key: "abend", name: "Tagesrückblick" },
+      { key: "storys", name: "Storys" },
       { key: "karussell", name: "Karussells" }
     ];
     function show(key) {
@@ -135,8 +137,8 @@
       });
       panel.textContent = "";
       var d = defs.filter(function (x) { return x.key === key; })[0];
-      panel.appendChild(key === "karussell" ? (window.DTVK ? window.DTVK.view(day) : el("p", "b-empty", "")) : edition(day[key], d.name, key, day));
-      try { history.replaceState(null, "", "#" + day.datum + (key === "abend" ? "/abend" : key === "karussell" ? "/karussell" : "")); } catch (e) {}
+      panel.appendChild(key === "karussell" ? (window.DTVK ? window.DTVK.view(day) : el("p", "b-empty", "")) : key === "storys" ? (window.DTVK ? window.DTVK.storyView(day) : el("p", "b-empty", "")) : edition(day[key], d.name, key, day));
+      try { history.replaceState(null, "", "#" + day.datum + (key === "abend" ? "/abend" : key === "karussell" ? "/karussell" : key === "storys" ? "/storys" : "")); } catch (e) {}
     }
     defs.forEach(function (d) {
       var b = el("button", "b-tab", d.name);
@@ -148,7 +150,7 @@
     });
     root.appendChild(tabs);
     root.appendChild(panel);
-    show(tab === "abend" || tab === "karussell" ? tab : "morgen");
+    show(tab === "abend" || tab === "karussell" || tab === "storys" ? tab : "morgen");
   }
 
   function route() {

@@ -59,3 +59,10 @@
 .k-cap p { margin: 0 0 .6rem; line-height: 1.65; white-space: pre-line; }
 .k-cap p:last-child { margin-bottom: 0; }
 .k-tags { color: var(--muted, #4b4840); font-size: .92rem; }
+
+.k-row-story { align-items: flex-start; }
+.k-slide.k-story { flex: 0 0 min(60vw, 15rem); width: min(60vw, 15rem); aspect-ratio: 1080 / 1920; }
+
+.kol { max-width: 42rem; margin: 0 auto 3.5rem; }
+.kol h2 { font-family: var(--display, Georgia, serif); font-size: clamp(1.8rem, 5vw, 2.6rem); line-height: 1.1; margin: .2rem 0 1.2rem; }
+.kol p { line-height: 1.65; }
