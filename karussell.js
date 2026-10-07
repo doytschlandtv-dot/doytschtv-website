@@ -3,10 +3,11 @@
    Slide-Typen: hook, fakten, zahl, vergleich, meinung, cta. */
 (function () {
   "use strict";
-  var W = 1080, H = 1350, PAD = 90;
-  var C = { paper: "#f8f7f2", ink: "#0a0a0a", red: "#b2231c", redL: "#ff7a6e", muted: "#4b4840", panel: "#efede5", line: "#d8d4c8" };
-  var DISP = '"Bodoni Moda", Georgia, "Times New Roman", serif';
-  var SANS = 'Montserrat, "Helvetica Neue", Arial, sans-serif';
+  var W = 1080, H = 1440, PAD = 60;
+  var C = { paper: "#f9f7f1", ink: "#101010", red: "#b3151b", muted: "#4a4740", rule: "#55524b", pink: "#e3bcc0" };
+  var PF = '"Playfair Display", Georgia, "Times New Roman", serif';
+  var IS = '"Instrument Serif", "Playfair Display", Georgia, serif';
+  var SANS = 'Inter, "Helvetica Neue", Arial, sans-serif';
 
   function el(tag, cls, text) {
     var n = document.createElement(tag);
@@ -17,10 +18,11 @@
   function fontsReady() {
     if (!document.fonts || !document.fonts.load) return Promise.resolve();
     return Promise.all([
-      document.fonts.load('600 80px "Bodoni Moda"'),
-      document.fonts.load('700 40px "Bodoni Moda"'),
-      document.fonts.load('600 30px Montserrat'),
-      document.fonts.load('700 30px Montserrat')
+      document.fonts.load('400 80px "Instrument Serif"'),
+      document.fonts.load('700 40px "Playfair Display"'),
+      document.fonts.load('400 40px "Playfair Display"'),
+      document.fonts.load('400 30px Inter'),
+      document.fonts.load('700 30px Inter')
     ]).catch(function () {});
   }
 
@@ -73,83 +75,131 @@
     ctx.fillText(t, x, y);
   }
 
-  /* --- Slide zeichnen --- */
+  /* --- Slide zeichnen (Stil: Canva-Vorlage "Nachrichten-Karussell", 1080 x 1440) --- */
+  function setLS(ctx, px) { if ("letterSpacing" in ctx) ctx.letterSpacing = px + "px"; }
+  function hlSet(t) {
+    var o = {};
+    wordsOf(t).forEach(function (w) { o[w.replace(/[.,:;!?„“"]/g, "").toLowerCase()] = 1; });
+    return o;
+  }
+  function drawLines2(ctx, f, x, y, lh, color, hl, hlColor, stroke) {
+    ctx.textBaseline = "top";
+    var sp = ctx.measureText(" ").width;
+    f.lines.forEach(function (ln, i) {
+      var cx = x;
+      ln.forEach(function (wd) {
+        var bare = wd.replace(/[.,:;!?„“"]/g, "").toLowerCase();
+        var col = hl && hl[bare] ? hlColor : color;
+        ctx.fillStyle = col;
+        ctx.fillText(wd, cx, y + i * f.size * lh);
+        if (stroke) { ctx.strokeStyle = col; ctx.lineWidth = stroke * f.size; ctx.lineJoin = "round"; ctx.strokeText(wd, cx, y + i * f.size * lh); }
+        cx += ctx.measureText(wd).width + sp;
+      });
+    });
+    return y + f.lines.length * f.size * lh;
+  }
+  function head(ctx, text, fam, weight, x, y, maxW, maxH, start, min, lh, color, hl, hlColor, stroke) {
+    var f = fit(ctx, text, fam, weight, maxW, maxH, start, min, lh);
+    return drawLines2(ctx, f, x, y, lh, color, hl, hlColor, stroke);
+  }
+  function lab(ctx, text, x, y, color, maxW) {
+    var sz = 34, t = String(text).toUpperCase();
+    ctx.fillStyle = color; ctx.textBaseline = "top";
+    for (; sz >= 22; sz -= 2) {
+      ctx.font = "700 " + sz + "px " + SANS; setLS(ctx, 1.5);
+      if (!maxW || ctx.measureText(t).width <= maxW) break;
+    }
+    ctx.fillText(t, x, y); setLS(ctx, 0);
+  }
+  function source(ctx, text, x, y, w, mu) {
+    ctx.font = "400 29px " + SANS; ctx.fillStyle = mu;
+    var f = fit(ctx, "Quelle: " + text, SANS, 400, w, 120, 29, 22, 1.35);
+    drawLines2(ctx, f, x, y, 1.35, mu, null, mu, 0);
+  }
   function draw(canvas, s, i, n) {
     canvas.width = W; canvas.height = H;
     var ctx = canvas.getContext("2d");
-    var dark = s.typ === "meinung";
-    var fg = dark ? C.paper : C.ink;
-    var mu = dark ? "#cfcbbf" : C.muted;
-    var ac = dark ? C.redL : C.red;
-    ctx.fillStyle = dark ? C.ink : C.paper;
-    ctx.fillRect(0, 0, W, H);
+    var fg = C.ink, mu = C.muted, ac = C.red;
+    ctx.fillStyle = C.paper; ctx.fillRect(0, 0, W, H);
+    ctx.textBaseline = "top"; setLS(ctx, 0);
 
-    /* Kopf: Wortmarke und Zähler */
-    ctx.textBaseline = "top";
-    ctx.font = "700 46px " + DISP;
-    ctx.fillStyle = fg;
-    ctx.fillText("Doytschland", PAD, 70);
+    /* Kopf: Wortmarke, Linie */
+    ctx.font = "700 52px " + PF; ctx.fillStyle = fg;
+    ctx.fillText("Doytschland", PAD, 52);
     var wd = ctx.measureText("Doytschland").width;
-    ctx.fillStyle = ac;
-    ctx.fillText("Tv", PAD + wd, 70);
-    ctx.font = "600 28px " + SANS;
-    ctx.fillStyle = mu;
-    var cnt = (i + 1) + " / " + n;
-    ctx.fillText(cnt, W - PAD - ctx.measureText(cnt).width, 80);
-    ctx.fillStyle = dark ? "#3a3833" : C.line;
-    ctx.fillRect(PAD, 150, W - 2 * PAD, 3);
+    ctx.fillStyle = ac; ctx.fillText("Tv", PAD + wd, 52);
+    ctx.fillStyle = C.rule; ctx.fillRect(40, 130, W - 80, 3);
 
-    var x = PAD, mw = W - 2 * PAD, y = 220;
+    /* Zähler unten rechts */
+    ctx.font = "700 66px " + PF; ctx.fillStyle = ac;
+    var cnt = (i + 1) + "/" + n;
+    ctx.fillText(cnt, W - PAD - ctx.measureText(cnt).width, H - 130);
+
+    var x = PAD, mw = W - 2 * PAD, y = 210;
 
     if (s.typ === "hook") {
-      label(ctx, s.kicker || "Das Thema", x, y, ac);
-      block(ctx, s.titel, DISP, 600, x, y + 70, mw, 760, 128, 70, 1.08, fg, (s.rot || "").toLowerCase(), ac);
-      ctx.font = "600 34px " + SANS; ctx.fillStyle = mu;
-      ctx.fillText("Wische für die Fakten  →", x, H - 150);
+      ctx.font = "400 40px " + SANS; /* Fußhinweis später */
+      head(ctx, s.titel, IS, 400, x, y, mw, 960, 190, 100, 1.08, fg, hlSet(s.rot), ac, 0.018);
+      ctx.font = "400 42px " + SANS; ctx.fillStyle = fg;
+      ctx.fillText("Wische für die Fakten →", x, H - 120);
     } else if (s.typ === "fakten") {
-      label(ctx, "Die Fakten", x, y, ac);
-      var y2 = block(ctx, s.titel, DISP, 700, x, y + 70, mw, 300, 80, 52, 1.1, fg, "", ac);
-      block(ctx, s.text, SANS, 500, x, y2 + 50, mw, H - y2 - 330, 46, 30, 1.45, fg, "", ac);
-      if (s.quelle) { ctx.font = "600 28px " + SANS; ctx.fillStyle = mu; ctx.fillText("Quelle: " + s.quelle, x, H - 110); }
+      lab(ctx, "Die Fakten", x, y, ac);
+      var y2 = head(ctx, s.titel, IS, 400, x, y + 70, mw, 330, 116, 64, 1.04, fg, null, ac, 0.004);
+      var by = y2 + 40, ry = 1010;
+      head(ctx, s.text, SANS, 400, x, by, mw, ry - by - 50, 42, 28, 1.4, fg, null, ac, 0);
+      ctx.fillStyle = C.pink; ctx.fillRect(x, ry, mw, 3);
+      if (s.quelle) source(ctx, s.quelle, x, ry + 36, mw, mu);
     } else if (s.typ === "zahl") {
-      label(ctx, "Die Zahl", x, y, ac);
-      var f = fit(ctx, s.zahl, DISP, 600, mw, 420, 300, 120, 1.0);
-      var y3 = drawLines(ctx, f, x, y + 90, 1.0, ac, "", ac);
-      block(ctx, s.text, SANS, 600, x, y3 + 50, mw, 360, 48, 32, 1.4, fg, "", ac);
-      if (s.quelle) { ctx.font = "600 28px " + SANS; ctx.fillStyle = mu; ctx.fillText("Quelle: " + s.quelle, x, H - 110); }
-    } else if (s.typ === "vergleich") {
-      var bh = 480, gap = 40;
-      ctx.fillStyle = C.panel;
-      rr(ctx, x, y, mw, bh, 36); ctx.fill();
-      label(ctx, s.labelA || "Behauptung", x + 50, y + 44, C.muted);
-      block(ctx, s.behauptung, SANS, 600, x + 50, y + 110, mw - 100, bh - 150, 46, 30, 1.35, C.ink, "", ac);
-      var y4 = y + bh + gap;
-      ctx.fillStyle = C.ink;
-      rr(ctx, x, y4, mw, bh, 36); ctx.fill();
-      label(ctx, s.labelB || "Fakt", x + 50, y4 + 44, C.redL);
-      block(ctx, s.fakt, SANS, 600, x + 50, y4 + 110, mw - 100, bh - 150, 46, 30, 1.35, C.paper, "", ac);
-      if (s.quelle) { ctx.font = "600 28px " + SANS; ctx.fillStyle = mu; ctx.fillText("Quelle: " + s.quelle, x, H - 100); }
-    } else if (s.typ === "meinung") {
-      label(ctx, "Unsere Einordnung · Meinung", x, y, ac);
-      var y5 = block(ctx, s.text, DISP, 600, x, y + 80, mw, 640, 76, 44, 1.2, fg, "", ac);
-      if (s.handlung) {
-        ctx.fillStyle = "#3a3833"; ctx.fillRect(x, y5 + 50, mw, 3);
-        label(ctx, "Was du tun kannst", x, y5 + 90, ac);
-        block(ctx, s.handlung, SANS, 600, x, y5 + 150, mw, H - y5 - 330, 40, 28, 1.4, fg, "", ac);
+      var m = String(s.zahl || "").match(/^(\S+)\s*(.*)$/) || [0, s.zahl, ""];
+      var num = m[1], unit = m[2];
+      var fs = 330;
+      ctx.font = "400 " + fs + "px " + PF;
+      while (ctx.measureText(num).width + (unit ? 40 + ctx.measureText(unit).width * 0.5 : 0) > mw && fs > 150) { fs -= 10; ctx.font = "400 " + fs + "px " + PF; }
+      var ny = y + 40, nw = ctx.measureText(num).width;
+      ctx.fillStyle = ac; ctx.fillText(num, x, ny);
+      if (unit) {
+        var us = Math.round(fs * 0.58);
+        ctx.font = "400 " + us + "px " + PF;
+        while (nw + 36 + ctx.measureText(unit).width > mw && us > 50) { us -= 6; ctx.font = "400 " + us + "px " + PF; }
+        ctx.fillText(unit, x + nw + 36, ny + fs * 0.26);
       }
+      var ty = ny + fs * 1.18 + 20;
+      head(ctx, s.text, SANS, 400, x + 20, ty, mw - 40, 1010 - ty - 40, 46, 30, 1.3, fg, null, ac, 0);
+      if (s.quelle) source(ctx, s.quelle, x + 20, 1030, mw - 40, mu);
+    } else if (s.typ === "vergleich") {
+      var cw = (mw - 70) / 2, cx2 = x + cw + 70;
+      lab(ctx, s.labelA || "Behauptung", x, y, fg, cw);
+      lab(ctx, s.labelB || "Fakt", cx2, y, fg, cw);
+      head(ctx, s.behauptung, PF, 400, x, y + 100, cw, 900, 48, 30, 1.25, fg, null, ac, 0);
+      head(ctx, s.fakt, PF, 400, cx2, y + 100, cw, 900, 48, 30, 1.25, fg, null, ac, 0);
+      ctx.fillStyle = ac; ctx.fillRect(x + cw + 33, y, 4, 1130);
+      if (s.quelle) source(ctx, s.quelle, x, H - 190, cw, mu);
+    } else if (s.typ === "meinung") {
+      lab(ctx, "Unsere Einordnung – Meinung", x, y - 30, ac);
+      var qb = s.handlung ? 700 : 850;
+      var y5 = head(ctx, "„" + String(s.text || "").replace(/^[„“"]|[“"]$/g, "") + "“", PF, 400, x + 30, y + 50, mw - 40, qb, 70, 40, 1.17, fg, null, ac, 0);
+      if (s.handlung) {
+        ctx.fillStyle = C.pink; ctx.fillRect(x, y5 + 40, mw, 3);
+        lab(ctx, "Was du tun kannst", x, y5 + 76, ac);
+        head(ctx, s.handlung, SANS, 400, x, y5 + 130, mw, H - y5 - 400, 38, 26, 1.4, fg, null, ac, 0);
+      }
+      ctx.font = "700 35px " + SANS; ctx.fillStyle = fg;
+      var h1 = "Hinweis: "; ctx.fillText(h1, x, H - 190);
+      var hw = ctx.measureText(h1).width;
+      ctx.font = "400 35px " + SANS; ctx.fillText("Dies ist eine Meinung und keine Nachricht.", x + hw, H - 190);
     } else if (s.typ === "cta") {
-      var y6 = block(ctx, "Teile das mit jemandem, der es wissen sollte.", DISP, 600, x, y + 20, mw, 520, 104, 60, 1.1, fg, "wissen", ac);
-      ctx.font = "700 36px " + SANS; ctx.fillStyle = ac;
-      ctx.fillText("SPEICHERN  ·  TEILEN  ·  KOMMENTIEREN", x, y6 + 60);
-      block(ctx, "Folge uns für täglich eine Einordnung.", SANS, 600, x, y6 + 130, mw, 120, 42, 30, 1.3, fg, "", ac);
-      if (s.frage) block(ctx, s.frage, SANS, 500, x, y6 + 260, mw, 160, 38, 28, 1.35, mu, "", ac);
-      ctx.font = "700 40px " + SANS; ctx.fillStyle = fg;
-      ctx.fillText("@doytschlandtv", x, H - 150);
-    }
-    /* Fuß */
-    if (s.typ !== "hook" && s.typ !== "cta") {
-      ctx.font = "600 26px " + SANS; ctx.fillStyle = mu;
-      ctx.fillText("@doytschlandtv", W - PAD - ctx.measureText("@doytschlandtv").width, H - 70);
+      var y6 = head(ctx, "Teile das mit jemandem, der es wissen sollte.", IS, 400, x, y + 30, mw, 560, 168, 100, 1.08, fg, null, ac, 0.045);
+      ctx.font = "400 46px " + SANS; ctx.fillStyle = fg;
+      ctx.fillText("Speichern · Teilen · Kommentieren", x + 6, y6 + 40);
+      ctx.font = "400 150px " + IS;
+      var lw = ctx.measureText("Doytschland").width;
+      ctx.fillStyle = fg; ctx.fillText("Doytschland", x, y6 + 150);
+      ctx.strokeStyle = fg; ctx.lineWidth = 6; ctx.strokeText("Doytschland", x, y6 + 150);
+      ctx.fillStyle = ac; ctx.fillText("Tv", x + lw, y6 + 150);
+      ctx.strokeStyle = ac; ctx.strokeText("Tv", x + lw, y6 + 150);
+      ctx.font = "400 46px " + SANS; ctx.fillStyle = fg;
+      ctx.fillText("Folge uns für täglich eine Einordnung", x + 6, y6 + 330);
+      if (s.frage) head(ctx, s.frage, SANS, 400, x + 6, y6 + 410, mw - 200, 170, 36, 26, 1.35, mu, null, ac, 0);
     }
   }
   function rr(ctx, x, y, w, h, r) {
