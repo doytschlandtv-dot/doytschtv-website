@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Nachrichten – DoytschlandTv</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500;6..96,600;6..96,700&family=Montserrat:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="briefing.css">
+<style>:root{color-scheme:light}body{margin:0}</style><link rel="icon" type="image/png" href="favicon.png"></head><body>
+<header class="nav"><div class="wrap"><a class="brand" href="index.html"><img class="lg-l" src="logo.png" alt="DoytschlandTv" width="136" height="25"><img class="lg-d" src="logo-dark.png" alt="DoytschlandTv" width="136" height="25"></a><ul><li><a href="briefing.html">Briefing</a></li><li><a href="nachrichten.html" class=on>Nachrichten</a></li><li><a href="meinungen.html">Meinungen</a></li><li><a href="erklaert.html">Erklärt</a></li><li><a href="ueber-uns.html">Über uns</a></li></ul><a class="pill sm" href="index.html#folgen">Folgen</a></div></header><main><div class="wrap">
+<div class="pagehead"><h1>Nachrichten</h1><p>Das Tagesthema und alle bisherigen Beiträge. Jeden Morgen neu.</p></div>
+<section id="heute" class="n-heute"><div class="feature"><p class="k">Das Tagesthema · Beispiel</p><h2>Hier erscheint der Beitrag des Tages.</h2><p>Ein tagesaktuelles Thema mit Deutschlandbezug, in wenigen Slides erklärt.</p></div></section>
+<div class="chips" role="group" aria-label="Themen filtern">
+<button class="chip" aria-pressed="true" data-f="Alle">Alle</button><button class="chip" aria-pressed="false" data-f="Politik">Politik</button><button class="chip" aria-pressed="false" data-f="Wirtschaft">Wirtschaft</button><button class="chip" aria-pressed="false" data-f="Gesellschaft">Gesellschaft</button></div>
+<div class="grid" id="grid"><article class="post" data-cat="Politik"><div><p class="k">Politik</p><h3>Wer entscheidet, wer profitiert: ein Gesetz in drei Slides</h3></div><span class="meta">Beispiel · Karussell</span></article><article class="post" data-cat="Wirtschaft"><div><p class="k">Wirtschaft</p><h3>Mieten und Löhne: Was die Zahlen zeigen</h3></div><span class="meta">Beispiel · Karussell</span></article><article class="post" data-cat="Gesellschaft"><div><p class="k">Gesellschaft</p><h3>Zusammenleben im Alltag: Was Teilhabe konkret heißt</h3></div><span class="meta">Beispiel · Karussell</span></article><article class="post" data-cat="Politik"><div><p class="k">Politik</p><h3>Wahlprogramme im Vergleich: Was steht wirklich drin?</h3></div><span class="meta">Beispiel · Karussell</span></article><article class="post" data-cat="Wirtschaft"><div><p class="k">Wirtschaft</p><h3>Rente erklärt: Wer zahlt, wer bekommt</h3></div><span class="meta">Beispiel · Karussell</span></article><article class="post" data-cat="Gesellschaft"><div><p class="k">Gesellschaft</p><h3>Muslime in Deutschland: Zahlen statt Vorurteile</h3></div><span class="meta">Beispiel · Karussell</span></article></div>
+<p class="note">Beispiele für das Format. Die echten Beiträge erscheinen täglich auf Instagram und TikTok.</p>
+</div></main><footer><div class="wrap"><span>© DoytschlandTv</span><span>Impressum und Datenschutz folgen vor Veröffentlichung.</span></div></footer><script>var chips=document.querySelectorAll('.chip'),cards=document.querySelectorAll('#grid .post');
+chips.forEach(function(c){c.addEventListener('click',function(){var f=c.getAttribute('data-f');chips.forEach(function(x){x.setAttribute('aria-pressed',x===c?'true':'false')});cards.forEach(function(p){p.hidden=!(f==='Alle'||p.getAttribute('data-cat')===f)})})});</script><script src="briefings.js"></script><script src="karussell.js"></script><script>(function(){
+var host=document.getElementById('heute');if(!host||!window.DTVK)return;
+var days=(window.BRIEFINGS||[]).slice().sort(function(a,b){return a.datum<b.datum?1:-1});
+var d=days.filter(function(x){return x.karussells&&x.karussells.length})[0];if(!d)return;
+host.textContent='';
+var dt=new Date(d.datum+'T12:00:00').toLocaleDateString('de-DE',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Berlin'});
+var h=document.createElement('h2');h.className='k-h';h.textContent='Heute in Karussells · '+dt;host.appendChild(h);
+host.appendChild(window.DTVK.view(d));
+var a=document.createElement('a');a.href='briefing.html#'+d.datum;a.className='k-btn k-btn-ghost';a.style.display='inline-block';a.style.marginTop='1rem';a.textContent='Zum ganzen Briefing mit Audio';host.appendChild(a);
+})();</script></body></html>
