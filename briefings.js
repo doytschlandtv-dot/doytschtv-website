@@ -3,50 +3,54 @@ window.BRIEFINGS = [
   "datum": "2026-10-08",
   "morgen": {
    "titel": "Morning Briefing",
-   "audio": "https://music.wixstatic.com/mp3/fb5203_5f386fe86497445f883991bd2a89b9ae.mp3",
-   "dauer": "3:06",
+   "audio": "https://music.wixstatic.com/mp3/fb5203_78211c1abbb34179b0bc52e019b95412.mp3",
+   "dauer": "4:46",
    "themen": [
-    "Koalition und Reformkurs",
-    "Wirtschaft",
-    "Krieg in der Ukraine",
-    "Gesellschaft"
+    "Koalition und Koalitionsausschuss",
+    "Konjunkturprognose",
+    "AfD-Landtagspräsident in Sachsen-Anhalt",
+    "Gedenken und Antisemitismus"
    ],
    "text": [
     "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv, Donnerstag, der achte Oktober. Vier Themen, fünf Minuten, damit du informiert in den Tag startest.",
-    "Erstens: Die Koalition und der Reformkurs.",
-    "Gestern Abend haben sich die Spitzen von Union und SPD im Koalitionsausschuss getroffen, zum ersten Mal seit gut drei Monaten. Es ging um den Reformkurs bei Rente, Steuern, Pflege und Arbeitsmarkt. Konkrete Beschlüsse wurden vorab nicht erwartet, möglicherweise aber ein Zeitplan. Das Ergebnis lag bei Redaktionsschluss noch nicht vor, dazu mehr heute Abend im Tagesrückblick.",
-    "Unsere Meinung: Drei Monate Pause bei den größten Fragen dieses Landes sind eine lange Zeit. Wer bei Rente und Pflege nur über Zeitpläne spricht, verwaltet Stillstand. Uns geht es nicht um Parteien, sondern um die Sache: Reformen müssen sagen, wer entlastet wird und wer zahlt. Dieses Land hat ein Recht auf eine ehrliche Antwort, bevor sie unbequem wird.",
-    "Zweitens: Die Wirtschaft.",
-    "Das Kieler Institut für Weltwirtschaft erwartet für dieses Jahr ein Wachstum von 1,3 Prozent. Im Sommer waren es noch 0,8. Die Inflation soll bei 2,7 Prozent liegen, die Arbeitslosenquote bei 6,3 Prozent. Die Forscher sprechen von einer Erholung, die aber zerbrechlich bleibt, wegen geopolitischer Risiken und auslaufender staatlicher Impulse. Heute stehen unter anderem die Herbstprojektion der Bundesregierung und die deutsche Handelsbilanz um acht Uhr im Kalender.",
-    "Unsere Meinung: Eine Erholung ist keine Entwarnung. Wer von Standortschwäche spricht, muss auch sagen, wer investiert und wer Verantwortung trägt. Und wer Wachstum feiert, sollte fragen, ob es bei den Menschen ankommt, die jeden Monat rechnen müssen. Zahlen sind kein Selbstzweck. Entscheidend ist, was am Ende im Portemonnaie bleibt.",
-    "Drittens: Der Krieg in der Ukraine.",
-    "Nach einer Warnung von Präsident Selenskyj wurde Kiew in der Nacht erneut angegriffen. Nach Angaben von Bürgermeister Klitschko traf es im Bezirk Obolonskyj Gebäude, die nicht zu Wohnzwecken genutzt werden. Die Lage ist weiter in Bewegung, und die Berichte lassen sich vor Ort nur schwer unabhängig prüfen.",
-    "Unsere Meinung: Angriffe auf Städte sind ein Verstoß gegen das Völkerrecht, ob Wohnhaus oder nicht. Der Schutz der Zivilbevölkerung ist keine Verhandlungsmasse. Wer das relativiert, relativiert die Regeln, die uns alle schützen sollen. Dabei geht es nicht um Sympathien, sondern um ein Prinzip, das für jeden Staat gelten muss.",
-    "Viertens: Gesellschaft, heute im Bundestag und vor Gericht.",
-    "Um 16 Uhr 15 berät der Bundestag den Bericht der Ostdeutschland-Beauftragten. Er heißt „In Bewegung bleiben“ und fragt 36 Jahre nach der Einheit, wie Ost- und Westdeutsche ihre Aufstiegschancen sehen, also die soziale Mobilität. Schon um neun Uhr prüft der Bundesgerichtshof, wie Drittanbieter haften, wenn Cookies auf deinem Gerät gespeichert werden.",
-    "Unsere Meinung: Aufstieg darf keine Frage der Postleitzahl oder der Herkunft sein. Das ist kein Randthema, das ist der Kern der Freiheit, die unser Grundgesetz verspricht. Und beim Datenschutz gilt: Freiheit endet dort, wo andere ohne ihr Wissen verfolgt werden.",
-    "Das war dein Morning Briefing. Heute Abend um 19 Uhr folgt der Tagesrückblick: Was wirklich passiert ist, was wir heute früh gesagt haben, und was nicht berichtet wurde. Alle Quellen findest du auf unserer Website. Diese Stimme ist KI-generiert. Einen guten Tag wünscht dir DoytschlandTv."
+    "Erstens: Die Koalition nach dem nächtlichen Koalitionsausschuss.",
+    "Die Spitzen von Union und SPD haben gestern Abend im Koalitionsausschuss zusammengesessen. Laut news.de war die Sitzung nach rund vier Stunden zu Ende. Die Ergebnisse sollen am Morgen mitgeteilt werden, voraussichtlich schriftlich. Bei Redaktionsschluss lagen sie uns noch nicht vor. Vorher hatte SPD-Fraktionschef Matthias Miersch gesagt, er erwarte keine Entscheidungen, sondern eine Aussprache. Kanzler Friedrich Merz will den Reformkurs fortsetzen, die SPD verlangt, Reformen stärker nach ihren sozialen Folgen zu prüfen. Offen sind laut Bundesregierung vor allem Rente, Pflege, Krankenversicherung und Haushalt. Die Mehrheit ist knapp: CDU und CSU haben 208 Sitze, die SPD 120, zusammen 328 von 630. Für die Mehrheit braucht es 316, die Reserve liegt bei zwölf Stimmen.",
+    "Unsere Meinung: Streit in einer Koalition ist normal. Das Problem beginnt, wenn er das Einzige ist, was bei den Menschen ankommt. Wer Rente, Pflege und Arbeitszeit anfasst, muss erklären, wem es nützt und wer zahlt. Wir bewerten die Sache, nicht die Personen: Entscheidend ist, ob Ergebnisse vorliegen, die man prüfen kann. Im Tagesrückblick um 19 Uhr schauen wir genau hin.",
+    "Zweitens: Die Konjunkturprognose der Bundesregierung.",
+    "Heute um 12 Uhr 15 stellt Wirtschaftsministerin Katherina Reiche die Herbstprojektion der Bundesregierung vor. Erwartet wird laut news.de ein Wachstum von 1,3 Prozent im laufenden Jahr. Die Ministerin hatte vorab gesagt, das Wachstum bleibe fragil, so berichtet es ZDFheute. Der Dax gab gestern um 1,35 Prozent nach. Um 8 Uhr stehen die deutsche Handelsbilanz für August und der Lkw-Maut-Fahrleistungsindex an. Im Bundestag geht es um die geplante Einkommensteuerreform von Finanzminister Lars Klingbeil. Sie soll ab 2028 jährlich zehn Milliarden Euro Entlastung bringen, vor allem für kleine und mittlere Einkommen und Familien mit Kindern.",
+    "Unsere Meinung: Eine Prognose ist eine begründete Annahme, keine Zahl auf Stein. Zehn Milliarden Euro klingen groß, verteilt auf viele Millionen Haushalte sind es aber überschaubare Beträge. Entscheidend ist, wie gerecht die Last verteilt wird. Wer wenig hat, spürt jeden Euro. Eine Steuerreform sollte denen helfen, die jeden Monat rechnen müssen.",
+    "Drittens: Ein AfD-Politiker wird Landtagspräsident in Sachsen-Anhalt.",
+    "Am Dienstag wurde in Magdeburg Tobias Rausch von der AfD zum Landtagspräsidenten gewählt, der erste AfD-Landtagspräsident in Deutschland. Die Wahl war geheim. Von 82 Stimmen gab es 48 Ja, 29 Nein und 5 Enthaltungen. Vorher hatte nur das BSW offen erklärt, den AfD-Kandidaten zu unterstützen. AfD und BSW zusammen wären auf 44 Stimmen gekommen, es waren also vier mehr als erwartet. Die CDU-Führung hatte ihren 15 Abgeordneten empfohlen, sich zu enthalten. Fraktionschef Sven Schulze sagte laut dpa, er könne nicht erklären, woher die zusätzlichen Stimmen kamen. Wer mit Ja gestimmt hat, ist wegen der geheimen Wahl nicht bekannt. Den AfD-Kandidaten für das Vizepräsidium lehnte die CDU-Fraktion geschlossen ab.",
+    "Unsere Meinung: Eine Partei mit genug Sitzen darf grundsätzlich Ämter beanspruchen, das gehört zur Demokratie. Aber ein Landtagspräsident vertritt das ganze Parlament und muss die freiheitliche Grundordnung glaubhaft leben. Daran messen wir die Amtsführung, an Handlungen, nicht an Ankündigungen. Das Wahlgeheimnis bleibt unangetastet. Doch Brandmauern halten nur, wenn Parteien klar sagen, wofür sie stehen. Doppelte Moral schadet dem Vertrauen mehr als jede klare Position.",
+    "Viertens: Gedenken und der Kampf gegen Antisemitismus.",
+    "Gestern war der dritte Jahrestag des Hamas-Angriffs auf Israel. Innenminister Alexander Dobrindt hat bei einer Gedenkveranstaltung laut ZDFheute eine klare Haltung gegen Antisemitismus gefordert. Heute um 13 Uhr gibt die Schwedische Akademie den Literaturnobelpreisträger 2026 bekannt, dotiert mit zwölf Millionen schwedischen Kronen.",
+    "Unsere Meinung: Antisemitismus hat in diesem Land keinen Platz. Der Schutz jüdischen Lebens folgt aus dem Grundgesetz und aus unserer Geschichte. Genauso klar wenden wir uns gegen jede pauschale Abwertung von Menschengruppen, auch gegen Muslime. Man kann die Politik einer Regierung kritisieren, ohne Menschen wegen ihrer Religion oder Herkunft verantwortlich zu machen.",
+    "Das war dein Morning Briefing. Heute Abend um 19 Uhr folgt der Tagesrückblick. Alle Quellen findest du auf unserer Website. Diese Stimme ist KI-generiert. Einen guten Tag wünscht dir DoytschlandTv."
    ],
    "quellen": [
     {
-     "titel": "ZDFheute-Newsticker, 7.10.2026",
+     "titel": "MS aktuell: Reformstreit belastet Koalition (Stand 6.10.)",
+     "url": "https://ms-aktuell.de/welt/koalitionsausschuss-regierungskrise-06-10-2026/"
+    },
+    {
+     "titel": "news.de: Themen des Tages am 8. Oktober 2026",
+     "url": "https://www.news.de/panorama/860067799/8-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-08-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+    },
+    {
+     "titel": "finanzen.net: Tagesvorschau Termine am 8. Oktober 2026 (dpa-AFX)",
+     "url": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-8-oktober-2026-15972108"
+    },
+    {
+     "titel": "ZDFheute: Newsticker Schlagzeilen",
      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
     },
     {
-     "titel": "news.de Tagesüberblick, 7.10.2026",
-     "url": "https://www.news.de/panorama/860064019/7-oktober-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-07-10-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+     "titel": "ORF: Erster AfD-Landtagspräsident Deutschlands",
+     "url": "https://orf.at/stories/3444265/"
     },
     {
-     "titel": "Bundestag: Bericht der Ostdeutschland-Beauftragten 2026",
-     "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-bericht-ostdeutschland-2026-1222200"
-    },
-    {
-     "titel": "Wirtschaftstermine am 8. Oktober 2026 (it-boltwise)",
-     "url": "https://www.it-boltwise.de/wirtschaftstermine-am-8-oktober-2026-von-unternehmenszahlen-bis-bgh-check.html"
-    },
-    {
-     "titel": "Kiel Institut: German Economy in Autumn 2026",
-     "url": "https://www.kielinstitut.de/publications/german-economy-in-autumn-2026-recovery-underway-deficiencies-remain-20139"
+     "titel": "Volksstimme (dpa): CDU rätselt, woher die Stimmen für AfD-Präsident kamen",
+     "url": "https://www.volksstimme.de/panorama/cdu-ratselt-woher-kamen-die-stimmen-fur-afd-prasident-4334212"
     }
    ]
   },
