@@ -267,10 +267,10 @@ window.DOSSIERS = [
     },
     "bild": {
      "src": "dossier-smotrich-ben-gvir.jpg",
-     "w": 1050,
-     "h": 816,
-     "alt": "KI-generierte Illustrationen von Itamar Ben-Gvir (links, Rasterzeichnung) und Bezalel Smotrich (rechts, Bleistiftzeichnung)",
-     "unter": "Links Itamar Ben-Gvir, rechts Bezalel Smotrich. Illustrationen, KI-generiert, keine Fotos."
+     "w": 1280,
+     "h": 1050,
+     "alt": "KI-generierte Illustration von Itamar Ben-Gvir (links) und Bezalel Smotrich (rechts) im Schwarz-Weiß-Comicstil, mit Namen, Ämtern und DoytschlandTv-Logo",
+     "unter": "Illustration, KI-generiert, keine Fotos."
     }
    }
   ],
