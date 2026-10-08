@@ -7,6 +7,7 @@
   function fmt(iso) { return new Date(iso + "T12:00:00").toLocaleDateString("de-DE", { day: "numeric", month: "long", year: "numeric", timeZone: "Europe/Berlin" }); }
   data.forEach(function (s) {
     var sec = el("section", "ds"); sec.id = s.id;
+    if (s.bild) { var fg = el("figure", "ds-img"), im = el("img"); im.src = s.bild.url; im.alt = s.bild.alt || ""; im.loading = "lazy"; fg.appendChild(im); fg.appendChild(el("figcaption", null, s.bild.hinweis || "")); sec.appendChild(fg); }
     sec.appendChild(el("h2", "ds-t", s.titel));
     sec.appendChild(el("p", "ds-lead", s.teaser));
     var m = el("div", "ds-m"); m.appendChild(el("h4", null, "So arbeiten wir"));
