@@ -304,7 +304,7 @@ footer { font-size: 0.75rem; letter-spacing: 0.08em; font-weight: 500; }
 @media (max-width: 40rem) { .ex-kern { grid-template-columns: minmax(0,1fr); } .ex-sum { grid-template-columns: minmax(0,1fr) auto; } .ex-sum .t { display: none; } }
 
 /* Dossiers */
-.ds { margin-bottom: 4rem; }
+.ds { margin-bottom: 0; padding-block: 1.5rem 1rem; }
 .ds-t { font-size: clamp(1.8rem, 5vw, 2.8rem); letter-spacing: -0.03em; line-height: 1.1; margin: 0 0 .6rem; font-weight: 700; }
 .ds-lead { font-size: 1.15rem; line-height: 1.5; color: var(--muted); max-width: 44rem; margin: 0 0 1.2rem; }
 .ds-m { background: var(--panel); border-radius: 1.25rem; padding: 1.1rem 1.4rem; margin-bottom: 1.5rem; max-width: 52rem; }
@@ -327,3 +327,27 @@ footer { font-size: 0.75rem; letter-spacing: 0.08em; font-weight: 500; }
 .ds-fig { margin: 0 0 1.5rem; }
 .ds-fig img { display: block; width: 100%; height: auto; border-radius: 1rem; }
 .ds-fig figcaption { font-size: .82rem; color: var(--muted); margin-top: .5rem; }
+
+/* Kacheln: Dossier-Übersicht, Kolumnen-Bild in der Liste */
+.dk-grid { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 1.1rem; margin: 0 0 2.5rem; }
+.dk-tile { display: flex; flex-direction: column; background: var(--panel); border-radius: 1.4rem; overflow: hidden; text-decoration: none; color: inherit; transition: transform .15s ease; }
+a.dk-tile:hover { transform: translateY(-2px); }
+a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
+.dk-img { aspect-ratio: 16 / 9; background: #101010; overflow: hidden; }
+.dk-img img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center 30%; }
+.dk-noimg { display: flex; align-items: flex-end; padding: 1.1rem 1.3rem; }
+.dk-noimg span { color: #f9f7f1; font-family: "Instrument Serif", "Playfair Display", Georgia, serif; font-size: 1.6rem; line-height: 1.05; }
+.dk-b { padding: 1.1rem 1.3rem 1.3rem; display: grid; gap: .35rem; align-content: start; flex: 1; }
+.dk-k { margin: 0; font-size: .75rem; letter-spacing: .12em; text-transform: uppercase; color: #b3151b; font-weight: 700; }
+.dk-b h3 { margin: 0; font-size: clamp(1.1rem, 2.4vw, 1.4rem); line-height: 1.2; letter-spacing: -0.015em; font-weight: 700; }
+.dk-d { margin: 0; color: var(--muted); font-size: .88rem; }
+.dk-go { margin-top: .4rem; color: #b3151b; font-weight: 700; font-size: .95rem; }
+.dk-wait { padding: 1.3rem; gap: .5rem; border: 1px dashed var(--line); background: transparent; }
+.dk-wait h3 { font-size: 1.05rem; font-weight: 600; color: var(--muted); margin: .3rem 0 0; }
+.ds-md summary, .ds-kd summary { cursor: pointer; font-weight: 700; font-size: .85rem; letter-spacing: .1em; text-transform: uppercase; color: #b3151b; }
+.ds-md ul { margin-top: .6rem; }
+.dk-art { max-width: 46rem; margin-inline: auto; }
+.mk-fig { display: block; margin: -1.6rem -1.5rem 1.3rem; }
+.mk-big .mk-fig { margin: -2.2rem -1.6rem 1.5rem; }
+.mk-fig img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 1.4rem 1.4rem 0 0; }
+@media (max-width: 40rem) { .dk-grid { grid-template-columns: minmax(0,1fr); } }
