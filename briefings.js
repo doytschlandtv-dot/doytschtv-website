@@ -132,7 +132,7 @@ window.BRIEFINGS = [
      {
       "typ": "fakten",
       "titel": "Was Julian Reichelt sagte.",
-      "text": "In „Achtung, Reichelt!“ am 5.10.2026: „Moscheen gehören nicht zur deutschen Tradition, schon gar nicht zu unserem Nationalfeiertag.“ Außerdem: Wo Minarette stünden und der Muezzin rufe, regiere irgendwann der Islam, und wo der Islamismus herrsche, würden in Moscheen Waffen gelagert und Terroristen rekrutiert.",
+      "text": "In „Achtung, Reichelt!“ am 5.10.2026: „Moscheen gehören nicht zur deutschen Tradition, schon gar nicht zu unserem Nationalfeiertag.“ Wo Minarette stünden und der Muezzin rufe, regiere irgendwann der Islam. Wo der Islamismus herrsche, würden in Moscheen Waffen gelagert, Pläne gegen „Ungläubige“ geschmiedet und Terroristen radikalisiert und rekrutiert.",
       "quelle": "Post von nius.de und achtung.reichelt, Video nicht gesichtet"
      },
      {
@@ -144,11 +144,25 @@ window.BRIEFINGS = [
       "quelle": "evangelisch.de, 14.10.2022"
      },
      {
+      "typ": "zahl",
+      "zahl": "2.500",
+      "label": "Moscheen in Deutschland",
+      "text": "Knapp 2.500 Moscheen schätzt eine Studie von 2022/23. Seit 2017 haben wir drei Verbote von Moscheevereinen gefunden: zwei 2017 (darunter Fussilet 33 in Berlin) und das Islamische Zentrum Hamburg 2024. Das ist etwa ein Promille (eigene Rechnung).",
+      "quelle": "ZfTI-Studie 2023 (Bundestag), bpb, lto.de"
+     },
+     {
       "typ": "fakten",
-      "label": "Der Beweis fehlt",
-      "titel": "Waffenlager in Moscheen?",
-      "text": "In den zitierten Sätzen nennt Reichelt keinen einzigen Fall. Wir haben in Deutschland keinen belegten Waffenfund in einer Moschee gefunden. Belegt sind einzelne Vereinsverbote, etwa Fussilet 33 in Berlin (2017) und das Islamische Zentrum Hamburg (2024). Einzelne Vereine sind nicht „die Moscheen“.",
-      "quelle": "vol.at, lto.de"
+      "label": "Radikalisierung in Moscheen?",
+      "titel": "Es gibt Fälle. Aber nicht „die Moscheen“.",
+      "text": "Von 572 nach Syrien oder in den Irak Ausgereisten nannten 48 Prozent salafistisch beeinflusste Moscheen als Grund ihrer Radikalisierung. Häufiger genannt wurde der Freundeskreis (54 Prozent), dann das Internet (44 Prozent). Gemeint sind salafistisch beeinflusste Moscheen, nicht die Moscheen insgesamt.",
+      "quelle": "Bundeszentrale für politische Bildung"
+     },
+     {
+      "typ": "fakten",
+      "label": "Waffen und Pläne?",
+      "titel": "Einzelfälle sind kein Beweis für alle.",
+      "text": "Bei den Verboten 2017 wurden laut bpb dort Anschläge oder Ausreisen zum IS vorbereitet. Einen belegten Waffenfund in einer deutschen Moschee haben wir nicht gefunden, in den zitierten Sätzen nennt Reichelt keinen einzigen Fall. Wer aus einzelnen Vereinen auf fast 2.500 Moscheen schließt, ersetzt Belege durch Verdacht.",
+      "quelle": "bpb, vol.at, lto.de"
      },
      {
       "typ": "fakten",
@@ -166,7 +180,7 @@ window.BRIEFINGS = [
      },
      {
       "typ": "meinung",
-      "text": "„Wer Millionen Muslime für die Taten von Islamisten haftbar macht, hetzt gegen Menschen. Moscheen sind Gebetshäuser, Orte der Begegnung, Heimat für Familien. Wer sie pauschal zu Waffenlagern erklärt, schürt Hass auf Nachbarn, Kollegen und Kinder.“",
+      "text": "„Wer Millionen Muslime für die Taten von Islamisten haftbar macht, hetzt gegen Menschen. Wer behauptet, in Moscheen würden Pläne gegen „Ungläubige“ geschmiedet, macht aus Gebetshäusern Verschwörungsorte. Einzelne Täter sind kein Grund, fast 2.500 Gemeinden zu verdächtigen.“",
       "handlung": "Kritik am Islamismus: ja, mit Beweisen. Pauschalverdacht: nein."
      },
      {
@@ -179,7 +193,7 @@ window.BRIEFINGS = [
       "frage": "Wo ziehst du die Grenze zwischen Kritik und Hetze?"
      }
     ],
-    "caption": "Julian Reichelt sagte laut einem Post von nius.de und achtung.reichelt am 5.10.2026, Moscheen gehörten nicht zur deutschen Tradition, und beschrieb Moscheen dort, wo Islamismus herrscht, als Orte für Waffen und Rekrutierung. Unsere Antwort: Der Muezzinruf in Köln folgt klaren Auflagen, regiert wird nach dem Grundgesetz. Einen belegten Waffenfund in einer deutschen Moschee haben wir nicht gefunden, einzelne Vereinsverbote machen nicht alle Moscheen zu Verdachtsorten. Der Tag der offenen Moschee findet seit 1997 statt. Dass Moscheen pauschal unter Verdacht gestellt werden, nennen wir Hetze und antimuslimischen Rassismus. Das ist unsere Meinung und so gekennzeichnet. Der Wortlaut stützt sich auf den Post, das Video haben wir nicht gesichtet. Wo ziehst du die Grenze zwischen Kritik und Hetze?",
+    "caption": "Julian Reichelt sagte laut einem Post von nius.de und achtung.reichelt am 5.10.2026, Moscheen gehörten nicht zur deutschen Tradition, wo Minarette stünden, regiere irgendwann der Islam, und in Moscheen würden Waffen gelagert, Pläne gegen „Ungläubige“ geschmiedet und Terroristen rekrutiert. Unsere Prüfung: Es gibt knapp 2.500 Moscheen in Deutschland, wir haben seit 2017 drei Verbote von Moscheevereinen gefunden. Salafistisch beeinflusste Moscheen spielen laut bpb bei der Radikalisierung einzelner eine Rolle, häufiger genannt werden aber Freundeskreis und Internet. Einen belegten Waffenfund haben wir nicht gefunden. Der Muezzinruf in Köln folgt klaren Auflagen. Der Tag der offenen Moschee findet seit 1997 statt. Dass Moscheen pauschal unter Verdacht gestellt werden, nennen wir Hetze und antimuslimischen Rassismus. Das ist unsere Meinung und so gekennzeichnet. Der Wortlaut stützt sich auf den Post, das Video haben wir nicht gesichtet. Wo ziehst du die Grenze zwischen Kritik und Hetze?",
     "hashtags": "#doytschlandtv #moscheen #muslime #antimuslimischerrassismus #religionsfreiheit #grundgesetz #politik #meinung"
    }
   ]
