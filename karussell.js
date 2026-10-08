@@ -254,7 +254,7 @@
 
   /* --- Storys (10 Sekunden): 1080 x 1920, optional mit frei lizenziertem Foto --- */
   var SW = 1080, SH = 1920;
-  function drawStory(canvas, s, img, i, n) {
+  function drawStory(canvas, s, img, i, n, live) {
     canvas.width = SW; canvas.height = SH;
     var ctx = canvas.getContext("2d");
     var photo = !!img;
@@ -278,7 +278,7 @@
     var wd = ctx.measureText("Doytschland").width;
     ctx.fillStyle = ac; ctx.fillText("Tv", x + 100 + wd, 274);
     var segW = (mw - (n - 1) * 10) / n;
-    for (var k = 0; k < n; k++) { ctx.fillStyle = k <= i ? ac : T.soft; ctx.fillRect(x + k * (segW + 10), 372, segW, 8); }
+    for (var k = 0; k < n; k++) { ctx.fillStyle = (k <= i && !live) ? ac : T.soft; ctx.fillRect(x + k * (segW + 10), 372, segW, 8); }
     var y = 560;
     lab(ctx, s.kicker || "Das Wichtigste", x, y, ac);
     var y2 = head(ctx, s.titel, IS, 400, x, y + 80, mw, 560, 170, 90, 1.04, fg, hlSet(s.rot), ac, 0.02);
@@ -418,5 +418,5 @@
     var tags = Array.isArray(k.hashtags) ? k.hashtags.join(" ") : (k.hashtags || "");
     return (k.caption || "") + (tags ? "\n\n" + tags : "");
   }
-  window.DTVK = { view: view, storyView: storyView, draw: draw, fontsReady: fontsReady, caption: caption, slug: slug };
+  window.DTVK = { view: view, storyView: storyView, drawStory: drawStory, loadImg: loadImg, draw: draw, fontsReady: fontsReady, caption: caption, slug: slug };
 })();
