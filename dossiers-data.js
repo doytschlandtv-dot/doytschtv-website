@@ -49,8 +49,8 @@ window.DOSSIERS = [
      "ort": "Parteiveranstaltung in Psagot, Westjordanland",
      "url": "https://www.timesofisrael.com/smotrich-next-government-should-encourage-migration-of-west-bank-palestinians/",
      "urteil": "Belegt, gerichtlich nicht bewertet"
-  },
-  "kern": [
+    },
+    "kern": [
      {
       "z": "Annexion",
       "l": "Smotrich fordert seit 2024 wiederholt Souveränität über das Westjordanland und nennt Gaza „Teil des Landes Israel“. Der Internationale Gerichtshof (IGH) hat die Präsenz im besetzten Gebiet 2024 als unrechtmäßig bezeichnet."
@@ -77,12 +77,12 @@ window.DOSSIERS = [
       ]
      },
      {
-   "h": "Zur Leitaussage",
-   "t": [
-    "Die Äußerung vom 17.2.2026 ist durch die Times of Israel belegt. Gefordert wird „Förderung“ von Migration, nicht ausdrücklich Zwang. Zwangsumsiedlung ist nach den Genfer Konventionen verboten. Ob „Förderung“ unter Besatzung freiwillig sein kann, ist umstritten. Kritiker nennen es eine Umschreibung für Vertreibung, so die Zeitung. Ein Gericht hat diese Aussage nicht bewertet."
-   ]
-  },
-  {
+      "h": "Zur Leitaussage",
+      "t": [
+       "Die Äußerung vom 17.2.2026 ist durch die Times of Israel belegt. Gefordert wird „Förderung“ von Migration, nicht ausdrücklich Zwang. Zwangsumsiedlung ist nach den Genfer Konventionen verboten. Ob „Förderung“ unter Besatzung freiwillig sein kann, ist umstritten. Kritiker nennen es eine Umschreibung für Vertreibung, so die Zeitung. Ein Gericht hat diese Aussage nicht bewertet."
+      ]
+     },
+     {
       "h": "Smotrich und Gaza",
       "t": [
        "Auswanderung: Am 14.11.2023 nannte er den Umsiedlungsvorschlag zweier Politiker die „richtige humanitäre Lösung“ (Al Jazeera). Am 3.1.2024 forderte er, „freiwillige Auswanderung“ zu fördern und Aufnahmeländer zu finden. Am 25.11.2024 sagte er, die Bevölkerung Gazas könne in zwei Jahren um die Hälfte sinken, und forderte, Gaza zu besetzen (Times of Israel). Am 9.3.2025 sagte er, eine „Migrationsverwaltung“ für die Ausreise aus Gaza nehme Gestalt an.",
@@ -206,7 +206,65 @@ window.DOSSIERS = [
       "url": "https://www.aljazeera.com/news/2026/6/15/eu-fails-to-agree-on-sanctions-for-far-right-israeli-minister-ben-gvir"
      }
     ],
-    "stand": "8.10.2026"
+    "stand": "8.10.2026",
+    "karussell": {
+     "thema": "Smotrich und Ben-Gvir: Aussagen seit dem 7. Oktober",
+     "slides": [
+      {
+       "typ": "hook",
+       "kicker": "Dossier",
+       "titel": "Annexion, „Auswanderung“, Hilfestopp: Was zwei israelische Minister seit dem 7. Oktober 2023 sagten.",
+       "rot": "Annexion"
+      },
+      {
+       "typ": "zahl",
+       "zahl": "1,86",
+       "label": "Millionen Ausreisen in sieben Jahren",
+       "text": "So sieht es Ben-Gvirs Plan „Disengagement 710“ vom 3.9.2026 für Gaza vor. Seine Partei nennt es freiwillig. Zusagen von Aufnahmeländern sind nicht bekannt.",
+       "quelle": "Times of Israel, 3.9.2026"
+      },
+      {
+       "typ": "fakten",
+       "label": "Westjordanland",
+       "titel": "Souveränität für 82 Prozent",
+       "text": "Smotrich stellte am 3.9.2025 einen Plan vor, Souveränität auf etwa 82 Prozent des Westjordanlands anzuwenden. Ein Regierungsbeschluss folgte nicht. Der Internationale Gerichtshof sagte 2024: Israel darf dort keine Souveränität beanspruchen.",
+       "quelle": "Times of Israel, 3.9.2025; IGH, 19.7.2024"
+      },
+      {
+       "typ": "vergleich",
+       "labelA": "Schlagzeile",
+       "behauptung": "„Smotrich: Aushungern von zwei Millionen Gazanern könnte gerechtfertigt sein.“",
+       "labelB": "Was er sagte",
+       "fakt": "Eine Blockade könne „gerechtfertigt“ sein, die Welt lasse es aber nicht zu.",
+       "quelle": "Times of Israel, 5.8.2024"
+      },
+      {
+       "typ": "einordnung",
+       "label": "Gaza",
+       "titel": "Was Ben-Gvir am 16.8.2026 sagte",
+       "text": "Die Armee solle jede Nacht 30 bis 40 Menschen in Gaza töten. Ein Regierungssprecher in Berlin nannte das „nicht hinnehmbar“, menschenverachtend und völkerrechtswidrig.",
+       "quelle": "ZDFheute, 19.8.2026"
+      },
+      {
+       "typ": "einordnung",
+       "label": "Die andere Seite",
+       "titel": "„Freiwillig“",
+       "text": "Beide Minister sagen, die Ausreise solle freiwillig sein. Ben-Gvir: Niemand werde gezwungen. Kritiker bezweifeln das unter Besatzung und Krieg. Ein Gericht hat das nicht entschieden.",
+       "quelle": "JTA, 6.9.2026"
+      },
+      {
+       "typ": "meinung",
+       "text": "Uns geht es um die Sache, nicht um Personen. Was gegen Völkerrecht und Menschenrechte geht, ist inakzeptabel. Ob eine Aussage dagegen verstößt, entscheiden Gerichte.",
+       "handlung": "Das ganze Dossier mit allen Quellen: doytschtv.de/dossiers"
+      },
+      {
+       "typ": "cta",
+       "frage": "Wo endet politische Rhetorik, und wo beginnt der Verstoß gegen Menschenrechte?"
+      }
+     ],
+     "caption": "Smotrich und Ben-Gvir haben seit dem 7. Oktober 2023 Annexion, „freiwillige Auswanderung“ und Hilfestopps gefordert. Wir haben die am besten belegten Aussagen gesammelt und mit den Einordnungen von Gericht, Regierung und Organisationen versehen. Zum Beispiel: Smotrich sagte nicht, man solle aushungern, sondern eine Blockade könne „gerechtfertigt“ sein. Ben-Gvirs Forderung, jede Nacht 30 bis 40 Menschen in Gaza zu töten, nannte die Bundesregierung völkerrechtswidrig. Uns geht es um die Sache, nicht um Personen. Alle Quellen im Dossier auf doytschtv.de. Wo endet für dich politische Rhetorik, und wo beginnt der Verstoß gegen Menschenrechte?",
+     "hashtags": "#doytschlandtv #politik #israel #gaza #westjordanland #völkerrecht #menschenrechte #faktencheck #dossier #einordnung"
+    }
    }
   ],
   "motiv": "paragraph"
