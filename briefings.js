@@ -57,158 +57,167 @@ window.BRIEFINGS = [
   "abend": null,
   "karussells": [
    {
-    "thema": "Koalition und Reformkurs",
+    "thema": "Koalition und Koalitionsausschuss",
     "slides": [
      {
       "typ": "hook",
       "kicker": "Politik",
-      "titel": "Drei Monate Pause bei den größten Reformfragen.",
-      "rot": "Pause"
+      "titel": "Koalition: Ergebnisse noch offen.",
+      "rot": "offen"
      },
      {
       "typ": "fakten",
-      "titel": "Das war der Koalitionsausschuss",
-      "text": "Union und SPD haben sich erstmals seit gut drei Monaten im Koalitionsausschuss getroffen. Es ging um den Reformkurs bei Rente, Steuern, Pflege und Arbeitsmarkt. Beschlüsse wurden nicht erwartet, möglicherweise aber ein Zeitplan.",
-      "quelle": "ZDFheute, 7.10.2026"
+      "titel": "Was bekannt ist",
+      "text": "Union und SPD haben gestern Abend im Koalitionsausschuss getagt, nach rund vier Stunden war Schluss. Die Ergebnisse sollen am Morgen kommen, voraussichtlich schriftlich. SPD-Fraktionschef Miersch hatte vorab keine Entscheidungen erwartet, sondern eine Aussprache.",
+      "quelle": "news.de, 8.10.2026"
      },
      {
       "typ": "zahl",
-      "zahl": "3 Monate",
-      "text": "So lange lag das letzte Treffen der Koalitionsspitzen zurück.",
-      "quelle": "ZDFheute, 7.10.2026"
+      "zahl": "12",
+      "label": "Stimmen Reserve",
+      "text": "CDU/CSU und SPD haben zusammen 328 von 630 Sitzen. Für die Mehrheit braucht es 316.",
+      "quelle": "MS aktuell, 6.10.2026"
      },
      {
-      "typ": "vergleich",
-      "labelA": "So wird es dargestellt",
-      "behauptung": "Die Koalition berät den Reformkurs.",
-      "labelB": "So ist es",
-      "fakt": "Beschlüsse wurden vorab nicht erwartet, höchstens ein Zeitplan. Ergebnis lag am Morgen noch nicht vor.",
-      "quelle": "ZDFheute, news.de"
+      "typ": "betrifft",
+      "titel": "Was offen ist",
+      "punkte": [
+       {
+        "kopf": "Rente und Pflege",
+        "text": "Laut Bundesregierung weiter ungeklärt."
+       },
+       {
+        "kopf": "Krankenversicherung",
+        "text": "Ebenfalls offen."
+       },
+       {
+        "kopf": "Haushalt",
+        "text": "Auch hier gibt es offene Fragen."
+       }
+      ],
+      "quelle": "MS aktuell, 6.10.2026"
      },
      {
       "typ": "meinung",
-      "text": "Wer bei Rente und Pflege nur über Zeitpläne spricht, verwaltet Stillstand. Reformen müssen sagen, wer entlastet wird und wer zahlt.",
-      "handlung": "Frag deine Abgeordneten, wer bei Rente und Pflege zahlen soll."
+      "text": "Streit ist normal. Er wird zum Problem, wenn bei den Menschen nur der Streit ankommt und keine Entscheidung.",
+      "handlung": "Schau um 19 Uhr in den Tagesrückblick, wenn die Ergebnisse da sind."
      },
      {
       "typ": "cta",
       "frage": "Was muss sich bei dir zuerst ändern?"
      }
     ],
-    "caption": "Drei Monate lang kein Treffen der Koalitionsspitzen, und jetzt geht es um Rente, Steuern, Pflege und Arbeitsmarkt. Beschlüsse sind nicht zu erwarten, vielleicht ein Zeitplan. Uns geht es nicht um Parteien, sondern um die Sache: Reformen müssen sagen, wer entlastet wird und wer zahlt. Das Ergebnis liefern wir heute Abend im Tagesrückblick nach. Die ganze Einordnung zum Hören und Lesen findest du auf unserer Website, Link in der Bio. Was muss bei dir zuerst anders werden?",
+    "caption": "Der Koalitionsausschuss ist beendet, die Ergebnisse stehen noch aus. Fest steht: Union und SPD haben nur zwölf Stimmen Reserve im Bundestag, und bei Rente, Pflege, Krankenversicherung und Haushalt gibt es offene Fragen. Uns geht es um die Sache, nicht um Personen: Entscheidend ist, was am Ende konkret beschlossen wird. Die Einordnung kommt um 19 Uhr im Tagesrückblick auf doytschtv.de. Was muss sich bei dir zuerst ändern?",
     "hashtags": "#doytschlandtv #politik #deutschland #nachrichten #einordnung #grundgesetz #demokratie #faktencheck #morningbriefing"
    },
    {
-    "thema": "Wirtschaft",
+    "thema": "Konjunkturprognose",
     "slides": [
      {
       "typ": "hook",
       "kicker": "Wirtschaft",
-      "titel": "Wachstum: Erholung ja, Entwarnung nein.",
-      "rot": "Entwarnung"
+      "titel": "Heute kommt die neue Prognose.",
+      "rot": "Prognose"
      },
      {
       "typ": "fakten",
-      "titel": "Was das Kieler Institut erwartet",
-      "text": "Für 2026 erwartet das Kiel Institut 1,3 Prozent Wachstum, im Sommer waren es noch 0,8. Die Inflation soll bei 2,7 Prozent liegen. Die Erholung bleibt zerbrechlich: geopolitische Risiken und auslaufende staatliche Impulse.",
-      "quelle": "Kiel Institut, Herbst 2026"
+      "titel": "Was ansteht",
+      "text": "Um 12.15 Uhr stellt Wirtschaftsministerin Katherina Reiche die Herbstprojektion der Bundesregierung vor. Sie hatte vorab gesagt, das Wachstum bleibe fragil. Der Dax gab gestern um 1,35 Prozent nach.",
+      "quelle": "news.de, ZDFheute, 8.10.2026"
      },
      {
       "typ": "zahl",
       "zahl": "1,3 %",
-      "text": "Erwartetes Wirtschaftswachstum 2026, nach 0,8 Prozent in der Sommerprognose.",
-      "quelle": "Kiel Institut, Herbst 2026"
-     },
-     {
-      "typ": "vergleich",
-      "labelA": "Vorschnell gesagt",
-      "behauptung": "Die Wirtschaft ist über den Berg.",
-      "labelB": "Belegt",
-      "fakt": "Die Forscher sprechen von Erholung, die zerbrechlich bleibt. Arbeitslosenquote erwartet: 6,3 Prozent.",
-      "quelle": "Kiel Institut, Herbst 2026"
-     },
-     {
-      "typ": "meinung",
-      "text": "Eine Erholung ist keine Entwarnung. Entscheidend ist, was am Ende bei den Menschen im Portemonnaie ankommt.",
-      "handlung": "Vergleiche, was bei dir an Löhnen und Preisen wirklich ankommt."
-     },
-     {
-      "typ": "cta",
-      "frage": "Kommt das Wachstum bei dir an?"
-     }
-    ],
-    "caption": "Das Kiel Institut erwartet für 2026 ein Wachstum von 1,3 Prozent, im Sommer waren es noch 0,8. Gut. Aber die Forscher sagen selbst: Die Erholung bleibt zerbrechlich. Eine Erholung ist keine Entwarnung. Zahlen sind kein Selbstzweck, entscheidend ist, was bei den Menschen ankommt. Alle Quellen und das ganze Briefing findest du auf unserer Website, Link in der Bio. Kommt das Wachstum bei dir an?",
-    "hashtags": "#doytschlandtv #wirtschaft #konjunktur #inflation #deutschland #nachrichten #einordnung #faktencheck #morningbriefing"
-   },
-   {
-    "thema": "Krieg in der Ukraine",
-    "slides": [
-     {
-      "typ": "hook",
-      "kicker": "International",
-      "titel": "Kiew in der Nacht erneut angegriffen.",
-      "rot": "Kiew"
-     },
-     {
-      "typ": "fakten",
-      "titel": "Was bekannt ist",
-      "text": "Nach einer Warnung von Präsident Selenskyj wurde Kiew erneut angegriffen. Laut Bürgermeister Klitschko traf es im Bezirk Obolonskyj Gebäude, die nicht zu Wohnzwecken genutzt werden. Unabhängig prüfen lassen sich die Angaben kaum.",
-      "quelle": "ZDFheute, 7.10.2026"
-     },
-     {
-      "typ": "vergleich",
-      "labelA": "Völkerrecht",
-      "behauptung": "Militärische Ziele dürfen angegriffen werden, zivile Objekte und Zivilpersonen nicht.",
-      "labelB": "Offen",
-      "fakt": "Ob die getroffenen Gebäude zivil oder militärisch genutzt wurden, ist unabhängig bisher nicht geklärt.",
-      "quelle": "ZDFheute, 7.10.2026"
-     },
-     {
-      "typ": "meinung",
-      "text": "Der Schutz der Zivilbevölkerung ist keine Verhandlungsmasse. Regeln, die uns alle schützen sollen, gelten für jeden Staat.",
-      "handlung": "Informiere dich bei mehreren unabhängigen Quellen, bevor du Meldungen teilst."
-     },
-     {
-      "typ": "cta",
-      "frage": "Wie prüfst du Meldungen aus Kriegsgebieten?"
-     }
-    ],
-    "caption": "Kiew wurde in der Nacht erneut angegriffen. Nach Angaben von Bürgermeister Klitschko traf es Gebäude, die nicht zu Wohnzwecken genutzt werden. Unabhängig prüfen lässt sich das vor Ort kaum. Unser Prinzip: Der Schutz der Zivilbevölkerung ist keine Verhandlungsmasse, und Regeln gelten für jeden Staat. Quellen und das ganze Briefing auf unserer Website, Link in der Bio. Wie prüfst du Meldungen aus Kriegsgebieten?",
-    "hashtags": "#doytschlandtv #ukraine #voelkerrecht #menschenrechte #nachrichten #deutschland #einordnung #faktencheck #morningbriefing"
-   },
-   {
-    "thema": "Gesellschaft",
-    "slides": [
-     {
-      "typ": "hook",
-      "kicker": "Gesellschaft",
-      "titel": "36 Jahre Einheit: Wer kommt eigentlich nach oben?",
-      "rot": "oben"
-     },
-     {
-      "typ": "fakten",
-      "titel": "Heute im Bundestag",
-      "text": "Um 16 Uhr 15 berät der Bundestag den Bericht der Ostdeutschland-Beauftragten „In Bewegung bleiben“. Er fragt, wie Ost- und Westdeutsche ihre Aufstiegschancen sehen, also die soziale Mobilität.",
-      "quelle": "Bundestag"
+      "label": "Erwartetes Wachstum",
+      "text": "So viel Plus beim Bruttoinlandsprodukt wird laut news.de für das laufende Jahr erwartet.",
+      "quelle": "news.de, 8.10.2026"
      },
      {
       "typ": "zahl",
-      "zahl": "36 Jahre",
-      "text": "nach der Deutschen Einheit. Wie gerecht sind die Aufstiegschancen heute?",
-      "quelle": "Bundestag"
+      "zahl": "10 Mrd. €",
+      "label": "Steuerentlastung ab 2028",
+      "text": "So viel soll die geplante Einkommensteuerreform von Finanzminister Klingbeil jährlich bringen, vor allem für kleine und mittlere Einkommen und Familien mit Kindern.",
+      "quelle": "news.de, 8.10.2026"
      },
      {
       "typ": "meinung",
-      "text": "Aufstieg darf keine Frage der Postleitzahl oder der Herkunft sein. Das ist der Kern der Freiheit, die das Grundgesetz verspricht.",
-      "handlung": "Verfolge die Debatte heute ab 16 Uhr 15 in der Liveübertragung des Bundestags."
+      "text": "Zehn Milliarden klingen groß. Verteilt auf viele Millionen Haushalte sind es überschaubare Beträge. Entscheidend ist, wer wirklich entlastet wird.",
+      "handlung": "Prüfe nach der Reform, was bei dir netto ankommt."
      },
      {
       "typ": "cta",
-      "frage": "Wie erlebst du Aufstiegschancen?"
+      "frage": "Was würde dich finanziell am meisten entlasten?"
      }
     ],
-    "caption": "36 Jahre nach der Einheit: Wie sehen Menschen in Ost und West ihre Aufstiegschancen? Heute um 16 Uhr 15 berät der Bundestag den Bericht der Ostdeutschland-Beauftragten. Aufstieg darf keine Frage der Postleitzahl oder der Herkunft sein. Das ganze Briefing mit Quellen findest du auf unserer Website, Link in der Bio. Wie erlebst du Aufstiegschancen?",
-    "hashtags": "#doytschlandtv #gesellschaft #ostdeutschland #einheit #chancengleichheit #grundgesetz #nachrichten #einordnung #morningbriefing"
+    "caption": "Heute um 12.15 Uhr gibt es die Herbstprojektion der Bundesregierung, erwartet werden 1,3 Prozent Wachstum. Parallel geht es im Bundestag um die Einkommensteuerreform mit zehn Milliarden Euro Entlastung ab 2028. Uns geht es um die Sache: Eine Reform sollte denen helfen, die jeden Monat rechnen müssen. Quellen: news.de, ZDFheute. Mehr im Morning Briefing auf doytschtv.de. Was würde dich am meisten entlasten?",
+    "hashtags": "#doytschlandtv #politik #deutschland #nachrichten #einordnung #grundgesetz #demokratie #faktencheck #morningbriefing"
+   },
+   {
+    "thema": "AfD-Landtagspräsident in Sachsen-Anhalt",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Politik",
+      "titel": "Vier Stimmen mehr als erwartet.",
+      "rot": "Vier"
+     },
+     {
+      "typ": "fakten",
+      "titel": "Was passiert ist",
+      "text": "Im Landtag von Sachsen-Anhalt wurde am Dienstag Tobias Rausch (AfD) zum Landtagspräsidenten gewählt. Es ist der erste AfD-Landtagspräsident in Deutschland. Die Wahl war geheim.",
+      "quelle": "ORF, dpa, 6.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "zahl": "48",
+      "label": "Ja-Stimmen von 82",
+      "text": "Dazu 29 Nein-Stimmen und 5 Enthaltungen. AfD und BSW zusammen wären auf 44 Stimmen gekommen.",
+      "quelle": "Volksstimme (dpa), 6.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "titel": "Wer hat mit Ja gestimmt?",
+      "text": "Das weiß man nicht, die Wahl war geheim. CDU-Fraktionschef Sven Schulze sagte laut dpa, er könne nicht erklären, woher die zusätzlichen Stimmen kamen. Die CDU-Führung hatte ihren 15 Abgeordneten Enthaltung empfohlen.",
+      "quelle": "Volksstimme (dpa), 6.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Eine Partei mit genug Sitzen darf Ämter beanspruchen. Aber wer das ganze Parlament vertritt, muss die freiheitliche Grundordnung glaubhaft leben. Wir messen an Taten.",
+      "handlung": "Verfolge, wie das Amt geführt wird, und urteile nach Handlungen."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie hältst du es mit Brandmauern?"
+     }
+    ],
+    "caption": "Zum ersten Mal ist ein AfD-Politiker Landtagspräsident: Tobias Rausch in Sachsen-Anhalt, mit 48 von 82 Stimmen. Erwartet waren 44. Woher die vier zusätzlichen Stimmen kamen, ist wegen der geheimen Wahl unbekannt. Uns geht es nicht um die Person, sondern um die Sache: Ein Landtagspräsident muss das ganze Parlament vertreten und die freiheitliche Grundordnung glaubhaft leben. Quellen: ORF, Volksstimme/dpa. Wie hältst du es mit Brandmauern?",
+    "hashtags": "#doytschlandtv #politik #deutschland #nachrichten #einordnung #grundgesetz #demokratie #faktencheck #morningbriefing"
+   }
+  ],
+  "storys": [
+   {
+    "kicker": "Heute 19 Uhr",
+    "titel": "Koalitionsausschuss: Ergebnisse offen.",
+    "rot": "offen",
+    "text": "Nach rund vier Stunden war Schluss, die Ergebnisse sollen am Morgen kommen. Wir ordnen sie im Tagesrückblick um 19 Uhr ein.",
+    "quelle": "news.de, 8.10.2026",
+    "bild": null
+   },
+   {
+    "kicker": "Wirtschaft",
+    "titel": "12.15 Uhr: Konjunkturprognose.",
+    "rot": "Konjunkturprognose",
+    "text": "Erwartet werden 1,3 Prozent Wachstum. Wirtschaftsministerin Reiche stellt die Herbstprojektion vor.",
+    "quelle": "news.de, 8.10.2026",
+    "bild": null
+   },
+   {
+    "kicker": "Politik",
+    "titel": "48 statt 44: Wer stimmte für den AfD-Präsidenten?",
+    "rot": "48 statt 44",
+    "text": "Sachsen-Anhalt hat den ersten AfD-Landtagspräsidenten Deutschlands. Die Wahl war geheim, vier Stimmen sind ungeklärt.",
+    "quelle": "ORF, Volksstimme (dpa), 6.10.2026",
+    "bild": null
    }
   ]
  }
