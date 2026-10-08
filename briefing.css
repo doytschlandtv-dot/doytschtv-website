@@ -66,3 +66,38 @@
 .kol { max-width: 42rem; margin: 0 auto 3.5rem; }
 .kol h2 { font-family: var(--display, Georgia, serif); font-size: clamp(1.8rem, 5vw, 2.6rem); line-height: 1.1; margin: .2rem 0 1.2rem; }
 .kol p { line-height: 1.65; }
+
+/* ---- Nachrichten als Feed (Vollbild, hoch/runter wischen, seitlich blättern) ---- */
+.feed-page { background: #0a0a0a; color-scheme: dark; overflow: hidden; }
+.feed-page .nav { position: static; }
+.feed { height: var(--fh, 80vh); overflow-y: scroll; scroll-snap-type: y mandatory; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; background: #0a0a0a; color: #f9f7f1; scrollbar-width: none; }
+.feed::-webkit-scrollbar { display: none; }
+.f-item { position: relative; height: var(--fh, 80vh); scroll-snap-align: start; scroll-snap-stop: always; display: flex; flex-direction: column; align-items: center; justify-content: center; box-sizing: border-box; padding: .4rem .5rem; }
+.f-meta { width: var(--sw, 20rem); display: flex; align-items: center; gap: .6rem; margin-bottom: .55rem; min-height: 1.7rem; }
+.f-date { font: 700 .72rem/1 Inter, system-ui, sans-serif; letter-spacing: .08em; text-transform: uppercase; background: #b3151b; color: #fff; padding: .45rem .7rem; border-radius: 980px; white-space: nowrap; }
+.f-date.alt { background: #2a2926; color: #f9f7f1; }
+.f-topic { font: 600 .85rem/1.2 Inter, system-ui, sans-serif; color: #d9d5ca; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.f-stage { display: flex; align-items: flex-end; gap: .55rem; }
+.f-row { width: var(--sw, 20rem); height: calc(var(--sw, 20rem) * 4 / 3); display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; border-radius: 1rem; background: #101010; -webkit-overflow-scrolling: touch; overscroll-behavior-x: contain; }
+.f-row::-webkit-scrollbar { display: none; }
+.f-row canvas { flex: 0 0 100%; width: 100%; height: 100%; scroll-snap-align: start; scroll-snap-stop: always; display: block; }
+.f-rail { display: flex; flex-direction: column; gap: 1rem; align-items: center; padding-bottom: .4rem; width: 3.2rem; }
+.f-act { display: flex; flex-direction: column; align-items: center; gap: .25rem; background: none; border: 0; color: #f9f7f1; font: 600 .68rem/1 Inter, system-ui, sans-serif; cursor: pointer; padding: 0; }
+.f-act i { width: 3rem; height: 3rem; border-radius: 50%; background: #1d1c1a; display: grid; place-items: center; border: 1px solid #34322e; }
+.f-act.main i { background: #b3151b; border-color: #b3151b; }
+.f-act:active i { transform: scale(.94); }
+.f-act:focus-visible { outline: 3px solid #ff5a52; outline-offset: 3px; border-radius: 1rem; }
+.f-act svg { width: 1.45rem; height: 1.45rem; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.f-dots { display: flex; gap: .35rem; justify-content: center; margin-top: .6rem; width: var(--sw, 20rem); }
+.f-dots b { width: .38rem; height: .38rem; border-radius: 50%; background: #4a4740; transition: background .15s; }
+.f-dots b.on { background: #ff5a52; }
+.f-hint { position: absolute; left: 0; right: 0; bottom: .35rem; text-align: center; font: 500 .72rem/1 Inter, system-ui, sans-serif; color: #8d897f; pointer-events: none; }
+.f-nav { position: absolute; right: 1rem; top: 50%; transform: translateY(-50%); display: none; flex-direction: column; gap: .5rem; }
+.f-nav button { width: 2.6rem; height: 2.6rem; border-radius: 50%; border: 1px solid #34322e; background: #1d1c1a; color: #f9f7f1; cursor: pointer; font-size: 1.1rem; }
+@media (hover: hover) and (min-width: 760px) { .f-nav { display: flex; } }
+.f-end { text-align: center; padding: 1rem; max-width: 24rem; }
+.f-end h2 { font: 400 2rem/1.1 "Instrument Serif", serif; margin: 0 0 .6rem; }
+.f-end p { color: #b9b5aa; font: 400 .95rem/1.5 Inter, system-ui, sans-serif; }
+.f-end a { color: #ff5a52; }
+.f-toast { position: fixed; left: 50%; bottom: 1.2rem; transform: translateX(-50%); background: #f9f7f1; color: #0a0a0a; font: 600 .85rem Inter, system-ui, sans-serif; padding: .7rem 1.1rem; border-radius: 980px; opacity: 0; transition: opacity .2s; pointer-events: none; z-index: 20; }
+.f-toast.on { opacity: 1; }

@@ -3,23 +3,8 @@
 <title>Nachrichten – DoytschlandTv</title>
 <link rel="stylesheet" href="fonts.css">
 <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="briefing.css">
-<style>:root{color-scheme:light}body{margin:0}</style><link rel="icon" type="image/png" href="favicon.png"></head><body>
-<header class="nav"><div class="wrap"><a class="brand" href="index.html"><span class="mk" aria-hidden="true">D</span><img class="lg-l" src="logo.png" alt="DoytschlandTv" width="136" height="25"><img class="lg-d" src="logo-dark.png" alt="DoytschlandTv" width="136" height="25"></a><ul><li><a href="briefing.html">Briefing</a></li><li><a href="nachrichten.html" class=on>Nachrichten</a></li><li><a href="dossiers.html">Dossiers</a></li><li><a href="meinungen.html">Meinungen</a></li><li><a href="erklaert.html">Erklärt</a></li><li><a href="ueber-uns.html">Über uns</a></li></ul><a class="pill sm" href="index.html#folgen">Folgen</a></div></header><main><div class="wrap">
-<div class="pagehead"><h1>Nachrichten</h1><p>Das Tagesthema und alle bisherigen Beiträge. Jeden Morgen neu.</p></div>
-<section id="heute" class="n-heute"><div class="feature"><p class="k">Das Tagesthema · Beispiel</p><h2>Hier erscheint der Beitrag des Tages.</h2><p>Ein tagesaktuelles Thema mit Deutschlandbezug, in wenigen Slides erklärt.</p></div></section>
-<div class="chips" role="group" aria-label="Themen filtern">
-<button class="chip" aria-pressed="true" data-f="Alle">Alle</button><button class="chip" aria-pressed="false" data-f="Politik">Politik</button><button class="chip" aria-pressed="false" data-f="Wirtschaft">Wirtschaft</button><button class="chip" aria-pressed="false" data-f="Gesellschaft">Gesellschaft</button></div>
-<h2 class="k-h" style="margin-top:2.5rem">Hintergrund zum Mitnehmen</h2>
-<div class="grid" id="grid"></div>
-<div id="vorrat-view" hidden style="margin-top:2rem"></div>
-<p class="note">Zeitlose Karussells mit Quellen. Zum Posten: Slides speichern oder direkt teilen, die Caption steht darunter.</p>
-</div></main><footer><div class="wrap"><span>© DoytschlandTv</span><span><a href="impressum.html">Impressum</a> · <a href="datenschutz.html">Datenschutz</a></span></div></footer><script src="briefings.js"></script><script src="karussell.js"></script><script src="vorrat.js"></script><script src="vorrat-app.js"></script><script>(function(){
-var host=document.getElementById('heute');if(!host||!window.DTVK)return;
-var days=(window.BRIEFINGS||[]).slice().sort(function(a,b){return a.datum<b.datum?1:-1});
-var d=days.filter(function(x){return x.karussells&&x.karussells.length})[0];if(!d)return;
-host.textContent='';
-var dt=new Date(d.datum+'T12:00:00').toLocaleDateString('de-DE',{weekday:'long',day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Berlin'});
-var h=document.createElement('h2');h.className='k-h';h.textContent='Heute in Karussells · '+dt;host.appendChild(h);
-host.appendChild(window.DTVK.view(d));
-var a=document.createElement('a');a.href='briefing.html#'+d.datum;a.className='k-btn k-btn-ghost';a.style.display='inline-block';a.style.marginTop='1rem';a.textContent='Zum ganzen Briefing mit Audio';host.appendChild(a);
-})();</script></body></html>
+<style>:root{color-scheme:light}body{margin:0}</style><link rel="icon" type="image/png" href="favicon.png"></head><body class="feed-page">
+<header class="nav"><div class="wrap"><a class="brand" href="index.html"><span class="mk" aria-hidden="true">D</span><img class="lg-l" src="logo.png" alt="DoytschlandTv" width="136" height="25"><img class="lg-d" src="logo-dark.png" alt="DoytschlandTv" width="136" height="25"></a><ul><li><a href="briefing.html">Briefing</a></li><li><a href="nachrichten.html" class=on>Nachrichten</a></li><li><a href="dossiers.html">Dossiers</a></li><li><a href="meinungen.html">Meinungen</a></li><li><a href="erklaert.html">Erklärt</a></li><li><a href="ueber-uns.html">Über uns</a></li></ul><a class="pill sm" href="index.html#folgen">Folgen</a></div></header>
+<main><h1 class="sr-only" style="position:absolute;left:-9999px">Nachrichten</h1><div id="feed" class="feed" tabindex="0" aria-label="Nachrichten-Feed. Nach oben und unten wischen für das nächste Karussell, nach links und rechts für die Slides."><noscript><p style="padding:2rem">Für den Feed wird JavaScript benötigt.</p></noscript></div></main>
+<div class="f-toast" id="toast" role="status" aria-live="polite"></div>
+<script src="briefings.js"></script><script src="karussell.js"></script><script src="vorrat.js"></script><script src="nachrichten-app.js"></script></body></html>

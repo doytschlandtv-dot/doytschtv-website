@@ -418,5 +418,5 @@
     var tags = Array.isArray(k.hashtags) ? k.hashtags.join(" ") : (k.hashtags || "");
     return (k.caption || "") + (tags ? "\n\n" + tags : "");
   }
-  window.DTVK = { view: view, storyView: storyView };
+  window.DTVK = { view: view, storyView: storyView, draw: draw, fontsReady: fontsReady, caption: caption, slug: slug };
 })();
