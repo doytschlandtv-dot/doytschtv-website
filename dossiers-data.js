@@ -22,5 +22,17 @@ window.DOSSIERS = [
    "Wertungen wie „Propaganda“ oder „Populismus“ stehen nur dort, wo wir das Muster belegen können, und sind als unsere Einordnung gekennzeichnet."
   ],
   "folgen": []
+ },
+ {
+  "id": "israel-regierung",
+  "titel": "Israels Regierung und das Völkerrecht",
+  "teaser": "Wir sammeln Aussagen israelischer Regierungsmitglieder, die auf Vertreibung oder Gewalt gegen Palästinenser zielen, und prüfen sie an Völkerrecht, Rechtsprechung und Expertenpositionen.",
+  "methode": [
+   "Wir zitieren wörtlich, mit Datum, Anlass und Quelle, und nur im Zusammenhang. Bei Übersetzungen aus dem Hebräischen sagen wir, wessen Übersetzung wir verwenden.",
+   "Wir prüfen die Aussage an den einschlägigen Normen und Entscheidungen: Genfer Konventionen, Römisches Statut, Urteile und Gutachten des Internationalen Gerichtshofs und die Entscheidungen des Internationalen Strafgerichtshofs. Dazu kommen Positionen von Völkerrechtlern, Menschenrechtsorganisationen und Regierungen, jeweils mit Quelle.",
+   "Wir unterscheiden klar: Was ist belegt, was ist nur berichtet, was ist offen? Berichte über Haftbefehle, die kein Gericht bestätigt hat, nennen wir unbestätigt. Wir stellen keine Strafbarkeit fest, das tun Gerichte.",
+   "Es geht um die Aussage und die Idee dahinter, nicht um die Person und nie um ein Volk oder eine Religion. Kritik an Regierungsmitgliedern ist keine Kritik an Jüdinnen und Juden oder an Israelis. Wir benennen auch Gewalt und Rechtsbrüche der Hamas und anderer Seiten, wo sie für den Fall wichtig sind."
+  ],
+  "folgen": []
  }
 ];
