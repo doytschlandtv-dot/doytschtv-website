@@ -8,21 +8,21 @@
 <main id="top">
   <div class="hero">
     <div class="wrap">
-      <p class="eyebrow">Nachrichten &middot; Einordnung &middot; Haltung</p>
+      <p class="eyebrow">Was passiert. Was dahintersteckt. Was es bedeutet.</p>
       <h1>Deutschland. <span class="grad">Auf den Punkt.</span></h1>
-      <p class="sub">Jeden Morgen ein Thema aus Politik, Wirtschaft und Gesellschaft. Klar erklärt, mit Haltung.</p>
+      <p class="sub">DoytschlandTv erklärt Deutschland: verständlich, faktenbasiert und mit Haltung. Jeden Tag neu aus Politik, Wirtschaft und Gesellschaft.</p>
       <div class="actions">
-        <a class="pill" href="#folgen">Kanal folgen</a>
-        <a class="link" href="nachrichten.html">Nachrichten ansehen &rsaquo;</a>
+        <a class="pill" href="nachrichten.html">Aktuelle Beiträge</a>
+        <a class="link" href="#folgen">Kanal folgen &rsaquo;</a>
       </div>
       <div class="stage">
-        <div class="phone" aria-label="Beispiel eines Beitrags auf Instagram">
+        <div class="phone" aria-label="So ist ein Beitrag aufgebaut">
           <div class="screen">
             <div class="ig-top"><span class="ig-dot" aria-hidden="true">D</span>doytschlandtv</div>
             <div class="snap" tabindex="0" aria-label="Beispiel-Karussell, nach links wischen">
-              <div class="card c1"><span class="n">Beispiel · 1 von 4</span><div><h3>Die eine Frage, die sich alle stellen.</h3><p>Der Aufhänger des Tages.</p></div><span class="n">Wischen &rsaquo;</span></div>
-              <div class="card c2"><span class="n">2 von 4</span><div><h3>Was wirklich dahintersteckt.</h3><p>Zahlen, Quellen, Zusammenhang.</p></div><span class="n">&nbsp;</span></div>
-              <div class="card c3"><span class="n">3 von 4</span><div><h3>Was daraus folgt.</h3><p>Die Haltung zum Thema.</p></div><span class="n">&nbsp;</span></div>
+              <div class="card c1"><span class="n">Aufbau · 1 von 4</span><div><h3>Was ist passiert?</h3><p>Der Aufhänger des Tages, kurz und belegt.</p></div><span class="n">Wischen &rsaquo;</span></div>
+              <div class="card c2"><span class="n">2 von 4</span><div><h3>Was steckt dahinter?</h3><p>Zahlen, Quellen, Zusammenhang.</p></div><span class="n">&nbsp;</span></div>
+              <div class="card c3"><span class="n">3 von 4</span><div><h3>Was bedeutet das?</h3><p>Einordnung und Haltung, klar getrennt vom Fakt.</p></div><span class="n">&nbsp;</span></div>
               <div class="card c4"><span class="n">4 von 4</span><div><h3>Speichern. Teilen. Folgen.</h3><p>Morgen kommt das nächste Thema.</p></div><span class="n">&nbsp;</span></div>
             </div>
           </div>
@@ -30,6 +30,16 @@
       </div>
     </div>
   </div>
+
+  <section id="aktuell" style="padding-block-end:0">
+    <div class="wrap">
+      <div class="head">
+        <h2>Aktuell.</h2>
+        <p id="akt-sub">Die neuesten Themen aus dem Briefing.</p>
+      </div>
+      <div class="chan" id="akt-list"></div>
+    </div>
+  </section>
 
   <section id="themen">
     <div class="wrap">
@@ -48,11 +58,11 @@
   <section id="haltung" style="padding-block-start:0">
     <div class="wrap">
       <div class="dark">
-        <h2>Meinungsstark. Sauber belegt.</h2>
+        <h2>Klar getrennt. Sauber belegt.</h2>
         <div class="vals">
-          <div><h3>Minderheiten schützen</h3><p>Wir stellen uns vor Muslime und alle, die ausgegrenzt werden. Sie gehören zu Deutschland.</p></div>
-          <div><h3>Klare Kante gegen die AfD</h3><p>Wir benennen, wofür die Partei steht, und zeigen, was ihre Politik für Menschen bedeutet.</p></div>
-          <div><h3>Eigene Texte, eigene Bilder</h3><p>Jeder Beitrag ist selbst formuliert und gestaltet. Quellen werden genannt.</p></div>
+          <div><h3>Fakt, Einordnung, Haltung</h3><p>Wir sagen, was passiert ist, was dahintersteckt und wie wir es bewerten. Das eine wird nie als das andere verkauft.</p></div>
+          <div><h3>Quellen genannt</h3><p>Jede Aussage ist belegt, strittige Punkte kennzeichnen wir. Die Quellen stehen bei jedem Beitrag.</p></div>
+          <div><h3>Ein Kompass</h3><p>Grundgesetz, Menschenrechte und Völkerrecht sind unser Maßstab. Es geht um die Sache, nicht um die Person.</p></div>
         </div>
       </div>
     </div>
@@ -79,4 +89,11 @@
   </div>
 </footer>
 
+<script src="briefings.js"></script>
+<script>
+(function(){try{var B=window.BRIEFINGS||[];var e=B.filter(function(x){return x.morgen&&x.morgen.themen})[0];if(!e)return;
+var L=document.getElementById('akt-list');var d=new Date(e.datum+'T12:00:00');
+document.getElementById('akt-sub').textContent='Briefing vom '+d.toLocaleDateString('de-DE',{weekday:'long',day:'numeric',month:'long'})+'.';
+e.morgen.themen.slice(0,4).forEach(function(t){var a=document.createElement('a');a.href='nachrichten.html';var s=document.createElement('strong');s.textContent=t;var p=document.createElement('span');p.textContent='Karussell und Einordnung ansehen';a.appendChild(s);a.appendChild(p);L.appendChild(a)})}catch(x){}})();
+</script>
 </body></html>
