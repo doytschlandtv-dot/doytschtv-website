@@ -466,7 +466,14 @@ window.KOLUMNEN = [
   ],
   "text": [
    "Die PKK erklärt den vollständigen Abzug aus der Türkei. Ein Ende der Gewalt wäre ein Gewinn für Türken und Kurden, doch ob es ein Sieg der Menschen wird, entscheidet sich jetzt."
-  ]
+  ],
+  "bild": {
+   "src": "kolumne-pkk.jpg",
+   "w": 1536,
+   "h": 924,
+   "alt": "KI-generierte Bleistiftporträts zweier Männer, links im Hemd, rechts im Anzug mit Krawatte",
+   "unter": "Illustration, KI-generiert, keine Fotos."
+  }
  },
  {
   "datum": "2026-10-08",

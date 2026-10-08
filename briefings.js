@@ -3,6 +3,20 @@ window.BRIEFINGS = [
   "datum": "2026-10-09",
   "storys": [
    {
+    "band": "300 Sekunden",
+    "kicker": "Neue Kolumne",
+    "titel": "Ende einer Ära: Die PKK erklärt den Abzug und bekräftigt die Waffenniederlegung",
+    "rot": "Ende einer Ära",
+    "kolumne": true,
+    "theme": "dark",
+    "text": "",
+    "bild": {
+     "url": "kolumne-pkk.jpg",
+     "karte": true,
+     "unter": "Illustration, KI-generiert, keine Fotos · Kolumne: doytschtv.de"
+    }
+   },
+   {
     "zusatz": true,
     "art": "dossier",
     "band": "Dossier",
@@ -30,6 +44,81 @@ window.BRIEFINGS = [
      "karte": true,
      "unter": "Illustration, KI-generiert, kein Foto · Kolumne: doytschtv.de"
     }
+   }
+  ],
+  "karussells": [
+   {
+    "thema": "PKK erklärt den Abzug aus der Türkei",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Politik",
+      "titel": "Ende einer Ära: Die PKK erklärt den Abzug und bekräftigt die Waffenniederlegung",
+      "rot": "Ende einer Ära",
+      "bild": {
+       "url": "kolumne-pkk.jpg",
+       "unter": "Illustration, KI-generiert, keine Fotos."
+      }
+     },
+     {
+      "typ": "fakten",
+      "titel": "Was die PKK erklärt",
+      "text": "Die PKK erklärt, ihre bewaffneten Kräfte vollständig aus der Türkei abgezogen zu haben, und bekräftigt die Waffenniederlegung. Das sind Eigenangaben, von außen nicht geprüft. Eine Reaktion der Regierung in Ankara lag am Donnerstagabend nicht vor.",
+      "quelle": "ORF, watson, 8.10.2026 (laut PKK)"
+     },
+     {
+      "typ": "zahl",
+      "zahl": "40 Jahre",
+      "label": "Bewaffneter Konflikt",
+      "text": "Die International Crisis Group nennt etwa 40.000 Tote, t-online rund 45.000. In den 1990ern verloren laut TESEV zwischen 950.000 und 1,2 Millionen Menschen ihre Heimat. Das sind Schätzungen.",
+      "quelle": "ICG (ZDFheute), t-online, TESEV"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Wie es anfing",
+      "titel": "Gründung 1978, Waffen ab 1984.",
+      "text": "Die PKK wurde am 27. November 1978 gegründet, am 15. August 1984 begann der bewaffnete Kampf. Dahinter steht eine ältere Wunde: Kurden wurde in der Türkei jahrzehntelang ihre Sprache verweigert. Das erklärt keine Gewalt, aber warum der Konflikt so lange Anhänger fand.",
+      "quelle": "t-online, Wikipedia"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Anlauf, der scheiterte",
+      "titel": "2013 gab es schon einmal Hoffnung.",
+      "text": "Im März 2013 rief Öcalan zur Waffenruhe auf, die PKK zog erste Kämpfer ab. Im Sommer 2015 erklärte Erdoğan den Prozess für gescheitert. Im Mai 2025 erklärte die PKK ihren Kampf für beendet, im August 2026 beschloss das türkische Parlament ein Gesetz.",
+      "quelle": "ZDFheute, bpb, Wikipedia"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wie es weitergeht",
+      "titel": "Das Gesetz greift erst nach drei Schritten.",
+      "punkte": [
+       {
+        "kopf": "Sicherheitsbehörden",
+        "text": "Sie müssen Auflösung und Waffenabgabe bestätigen."
+       },
+       {
+        "kopf": "Sicherheitsrat",
+        "text": "Der Nationale Sicherheitsrat muss zustimmen."
+       },
+       {
+        "kopf": "Amtsblatt",
+        "text": "Danach könnten Freilassungen folgen."
+       }
+      ],
+      "quelle": "watson, ORF, ZDFheute"
+     },
+     {
+      "typ": "meinung",
+      "text": "„Endlich. Das Ende des bewaffneten Kampfes ist ein Meilenstein, und er gehört den Menschen, nicht den Männern an der Spitze. Zum Sieg wird er, wenn alle Bürger der Türkei gleiche Rechte erleben, unter einer Verfassung und ohne Autonomie.“",
+      "handlung": "Die ganze Kolumne mit allen Quellen auf doytschtv.de, Link in der Bio."
+     },
+     {
+      "typ": "cta",
+      "frage": "Was braucht es für echten Frieden?"
+     }
+    ],
+    "caption": "Die PKK erklärt laut eigenen Angaben den vollständigen Abzug aus der Türkei und bekräftigt die Waffenniederlegung. Von außen ist das nicht geprüft, eine Reaktion Ankaras lag am Donnerstagabend nicht vor. Fest steht: Ein Konflikt mit etwa 40.000 Toten würde enden. Ob daraus Frieden wird, entscheidet sich an gleichen Rechten im Alltag. Unsere Einordnung ist als Meinung gekennzeichnet. Die ganze Kolumne mit allen Quellen: Link in der Bio. Was braucht es für echten Frieden?",
+    "hashtags": "#doytschlandtv #pkk #türkei #kurden #frieden #politik #einordnung #kolumne"
    }
   ]
  },
