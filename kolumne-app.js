@@ -18,6 +18,11 @@
 
   function card(k, big) {
     var a = el("article", big ? "mk-card mk-big" : "mk-card");
+    if (k.bild) {
+      var lf = el("a", "mk-fig"); lf.href = "#" + k.datum; lf.tabIndex = -1; lf.setAttribute("aria-hidden", "true");
+      var li = el("img"); li.src = k.bild.src; li.alt = ""; li.loading = "lazy"; li.width = k.bild.w || 1248; li.height = k.bild.h || 714;
+      lf.appendChild(li); a.appendChild(lf);
+    }
     a.appendChild(el("p", "mk-k", thema(k) + " · Redaktion"));
     var h = el("h2"); var l = el("a", null, k.titel); l.href = "#" + k.datum; h.appendChild(l); a.appendChild(h);
     a.appendChild(el("p", "mk-teaser", k.teaser || ""));
