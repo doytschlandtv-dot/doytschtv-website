@@ -2,7 +2,7 @@
 """Setzt SEO-Tags (Title, Description, Open Graph, Twitter, JSON-LD) idempotent in alle Seiten.
 Aufruf: python3 tools/seo.py   (BASE unten auf die endgueltige Domain stellen, sobald verbunden)"""
 import re, json, pathlib
-BASE = "https://doytschtv-website.ce-boz27.workers.dev"   # spaeter: https://doytschtv.de
+BASE = "https://doytschtv.de"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 NAME = "DoytschlandTv"
 PAGES = {
@@ -27,6 +27,7 @@ for slug,(title,desc) in PAGES.items():
         ld.append({"@context":"https://schema.org","@type":"WebSite","name":NAME,"url":BASE+"/","inLanguage":"de"})
     block = ("<!--seo-->\n"
       f'<meta name="description" content="{esc(desc)}">\n'
+      f'<link rel="canonical" href="{url}">\n'
       '<meta name="robots" content="index,follow,max-image-preview:large">\n'
       f'<meta property="og:type" content="website"><meta property="og:site_name" content="{NAME}"><meta property="og:locale" content="de_DE">\n'
       f'<meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}"><meta property="og:url" content="{url}">\n'
