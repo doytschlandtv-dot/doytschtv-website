@@ -8,12 +8,12 @@
 <main id="top">
   <div class="hero">
     <div class="wrap">
-      <p class="eyebrow">Was passiert. Was dahintersteckt. Was es bedeutet.</p>
+      <p class="eyebrow">Nachrichten &middot; Einordnung &middot; Haltung</p>
       <h1>Deutschland. <span class="grad">Auf den Punkt.</span></h1>
-      <p class="sub">DoytschlandTv erklärt Deutschland: verständlich, faktenbasiert und mit Haltung. Jeden Tag neu aus Politik, Wirtschaft und Gesellschaft.</p>
+      <p class="sub">Jeden Morgen ein Thema aus Politik, Wirtschaft und Gesellschaft. Klar erklärt, mit Haltung.</p>
       <div class="actions">
-        <a class="pill" href="nachrichten.html">Aktuelle Beiträge</a>
-        <a class="link" href="#folgen">Kanal folgen &rsaquo;</a>
+        <a class="pill" href="#folgen">Kanal folgen</a>
+        <a class="link" href="nachrichten.html">Aktuelle Beiträge &rsaquo;</a>
       </div>
       <div class="stage">
         <div class="phone" aria-label="So ist ein Beitrag aufgebaut">
@@ -30,16 +30,6 @@
       </div>
     </div>
   </div>
-
-  <section id="aktuell" style="padding-block-end:0">
-    <div class="wrap">
-      <div class="head">
-        <h2>Aktuell.</h2>
-        <p id="akt-sub">Die neuesten Themen aus dem Briefing.</p>
-      </div>
-      <div class="chan" id="akt-list"></div>
-    </div>
-  </section>
 
   <section id="themen">
     <div class="wrap">
@@ -89,11 +79,4 @@
   </div>
 </footer>
 
-<script src="briefings.js"></script>
-<script>
-(function(){try{var B=window.BRIEFINGS||[];var e=B.filter(function(x){return x.morgen&&x.morgen.themen})[0];if(!e)return;
-var L=document.getElementById('akt-list');var d=new Date(e.datum+'T12:00:00');
-document.getElementById('akt-sub').textContent='Briefing vom '+d.toLocaleDateString('de-DE',{weekday:'long',day:'numeric',month:'long'})+'.';
-e.morgen.themen.slice(0,4).forEach(function(t){var a=document.createElement('a');a.href='nachrichten.html';var s=document.createElement('strong');s.textContent=t;var p=document.createElement('span');p.textContent='Karussell und Einordnung ansehen';a.appendChild(s);a.appendChild(p);L.appendChild(a)})}catch(x){}})();
-</script>
 </body></html>
