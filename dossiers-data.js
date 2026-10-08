@@ -48,9 +48,9 @@ window.DOSSIERS = [
      "datum": "17.2.2026",
      "ort": "Parteiveranstaltung in Psagot, Westjordanland",
      "url": "https://www.timesofisrael.com/smotrich-next-government-should-encourage-migration-of-west-bank-palestinians/",
-     "urteil": "Als Äußerung belegt (Times of Israel). Gefordert wird „Förderung“, nicht ausdrücklich Zwang. Zwangsumsiedlung ist nach den Genfer Konventionen verboten. Ob „Förderung“ unter Besatzung freiwillig sein kann, ist umstritten. Kritiker nennen es eine Umschreibung für Vertreibung, so die Zeitung. Ein Gericht hat diese Aussage nicht bewertet."
-    },
-    "kern": [
+     "urteil": "Belegt, gerichtlich nicht bewertet"
+  },
+  "kern": [
      {
       "z": "Annexion",
       "l": "Smotrich fordert seit 2024 wiederholt Souveränität über das Westjordanland und nennt Gaza „Teil des Landes Israel“. Der Internationale Gerichtshof (IGH) hat die Präsenz im besetzten Gebiet 2024 als unrechtmäßig bezeichnet."
@@ -77,6 +77,12 @@ window.DOSSIERS = [
       ]
      },
      {
+   "h": "Zur Leitaussage",
+   "t": [
+    "Die Äußerung vom 17.2.2026 ist durch die Times of Israel belegt. Gefordert wird „Förderung“ von Migration, nicht ausdrücklich Zwang. Zwangsumsiedlung ist nach den Genfer Konventionen verboten. Ob „Förderung“ unter Besatzung freiwillig sein kann, ist umstritten. Kritiker nennen es eine Umschreibung für Vertreibung, so die Zeitung. Ein Gericht hat diese Aussage nicht bewertet."
+   ]
+  },
+  {
       "h": "Smotrich und Gaza",
       "t": [
        "Auswanderung: Am 14.11.2023 nannte er den Umsiedlungsvorschlag zweier Politiker die „richtige humanitäre Lösung“ (Al Jazeera). Am 3.1.2024 forderte er, „freiwillige Auswanderung“ zu fördern und Aufnahmeländer zu finden. Am 25.11.2024 sagte er, die Bevölkerung Gazas könne in zwei Jahren um die Hälfte sinken, und forderte, Gaza zu besetzen (Times of Israel). Am 9.3.2025 sagte er, eine „Migrationsverwaltung“ für die Ausreise aus Gaza nehme Gestalt an.",
