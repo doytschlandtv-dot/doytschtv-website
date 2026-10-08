@@ -144,7 +144,14 @@ window.KOLUMNEN = [
     "titel": "Times of Israel: Smotrich, Migration fördern (18.2.2026)",
     "url": "https://www.timesofisrael.com/smotrich-next-government-should-encourage-migration-of-west-bank-palestinians/"
    }
-  ]
+  ],
+  "bild": {
+   "src": "kolumne-augsberg.jpg",
+   "w": 1248,
+   "h": 714,
+   "alt": "KI-generierte Comic-Illustration von Steffen Augsberg im Schwarz-Weiß-Stil, am Tisch sprechend",
+   "unter": "Illustration, KI-generiert, kein Foto."
+  }
  },
  {
   "datum": "2026-10-09",
