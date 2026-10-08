@@ -493,9 +493,13 @@ window.BRIEFINGS = [
     "kicker": "Neues Dossier",
     "titel": "Annexion, „Auswanderung“, Hilfestopp: Was zwei Minister sagten.",
     "rot": "Annexion",
-    "text": "Belegte Aussagen von Smotrich und Ben-Gvir seit dem 7. Oktober 2023, mit den Einordnungen von Gericht, Regierung und Organisationen. Das ganze Dossier mit allen Quellen auf unserer Website, Link in der Bio.",
+    "text": "",
     "quelle": "Times of Israel, ZDFheute, IGH, 2023 bis 2026",
-    "bild": null
+    "bild": {
+     "url": "dossier-portraet.jpg",
+     "karte": true,
+     "unter": "Illustrationen, KI-generiert, keine Fotos · Dossier: doytschtv.de"
+    }
    },
    {
     "kolumne": true,

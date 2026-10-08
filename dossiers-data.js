@@ -214,7 +214,12 @@ window.DOSSIERS = [
        "typ": "hook",
        "kicker": "Dossier",
        "titel": "Annexion, „Auswanderung“, Hilfestopp: Was zwei israelische Minister seit dem 7. Oktober 2023 sagten.",
-       "rot": "Annexion"
+       "rot": "Annexion",
+       "bild": {
+        "url": "dossier-portraet.jpg",
+        "karte": true,
+        "unter": "Illustrationen, KI-generiert, keine Fotos"
+       }
       },
       {
        "typ": "zahl",
