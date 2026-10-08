@@ -119,6 +119,75 @@ window.BRIEFINGS = [
     ],
     "caption": "Die PKK erklärt laut eigenen Angaben den vollständigen Abzug aus der Türkei und bekräftigt die Waffenniederlegung. Von außen ist das nicht geprüft, eine Reaktion Ankaras lag am Donnerstagabend nicht vor. Fest steht: Ein Konflikt mit etwa 40.000 Toten würde enden. Ob daraus Frieden wird, entscheidet sich an gleichen Rechten im Alltag. Unsere Einordnung ist als Meinung gekennzeichnet. Die ganze Kolumne mit allen Quellen: Link in der Bio. Was braucht es für echten Frieden?",
     "hashtags": "#doytschlandtv #pkk #türkei #kurden #frieden #politik #einordnung #kolumne"
+   },
+   {
+    "thema": "Reichelt über Moscheen: Faktencheck und Meinung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Faktencheck und Meinung",
+      "titel": "„Moscheen gehören nicht zur deutschen Tradition“: Was sich prüfen lässt.",
+      "rot": "prüfen"
+     },
+     {
+      "typ": "fakten",
+      "titel": "Was Julian Reichelt sagte.",
+      "text": "In „Achtung, Reichelt!“ am 5.10.2026: „Moscheen gehören nicht zur deutschen Tradition, schon gar nicht zu unserem Nationalfeiertag.“ Außerdem: Wo Minarette stünden und der Muezzin rufe, regiere irgendwann der Islam, und wo der Islamismus herrsche, würden in Moscheen Waffen gelagert und Terroristen rekrutiert.",
+      "quelle": "Post von nius.de und achtung.reichelt, Video nicht gesichtet"
+     },
+     {
+      "typ": "fakten",
+      "label": "Prüfung 1: Nationalfeiertag",
+      "titel": "Der Tag der offenen Moschee ist 29 Jahre alt.",
+      "text": "Seit 1997 findet er jedes Jahr am 3. Oktober statt, 2026 zum 30. Mal, mit mehr als 700 Moscheen. „Traditionell“ stimmt also im Sinne von „seit Jahrzehnten jährlich“. Ob etwas zur deutschen Tradition gehört, ist dagegen eine Wertung, keine Tatsache.",
+      "quelle": "evangelisch.de, 3.10.2026, Wikipedia"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Prüfung 2: Tradition",
+      "titel": "Moscheen in Deutschland: seit hundert Jahren.",
+      "text": "Die Moschee der Ahmadiyya in Berlin-Wilmersdorf wurde 1924 begonnen und 1928 eingeweiht. Heute leben laut Bundesamt für Migration 5,3 bis 5,6 Millionen muslimische Religionsangehörige mit Migrationshintergrund in Deutschland (Stand 2019).",
+      "quelle": "taz, BAMF-Studie Muslimisches Leben 2020"
+     },
+     {
+      "typ": "fakten",
+      "label": "Prüfung 3: Islamismus",
+      "titel": "Verbotene Moscheevereine gibt es.",
+      "text": "2017 wurde der Berliner Verein Fussilet 33 verboten, Treffpunkt gewaltbereiter Islamisten, Anis Amri verkehrte dort. 2024 folgte das Islamische Zentrum Hamburg, laut Verfassungsschutz islamistisch. Einen belegten Waffenfund in einer deutschen Moschee haben wir nicht gefunden.",
+      "quelle": "vol.at, lto.de"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Die Größenordnung",
+      "titel": "Islamismus ist real, aber klein.",
+      "punkte": [
+       {
+        "kopf": "28.645",
+        "text": "Islamisten laut Verfassungsschutzbericht 2025, davon 9.110 gewaltorientiert."
+       },
+       {
+        "kopf": "5,3 bis 5,6 Mio.",
+        "text": "Muslime in Deutschland laut BAMF."
+       },
+       {
+        "kopf": "Etwa 0,5 Prozent",
+        "text": "Eigene Rechnung, grob, die Zahlen sind unterschiedlich abgegrenzt."
+       }
+      ],
+      "quelle": "Verfassungsschutzbericht 2025, BAMF"
+     },
+     {
+      "typ": "meinung",
+      "text": "„Islamismus muss man mit Verfassungsschutz, Vereinsverbot und Strafrecht bekämpfen. Ein Generalverdacht gegen alle Moscheen trifft Millionen Menschen, die sich ans Grundgesetz halten. Religionsfreiheit gilt für alle.“",
+      "handlung": "Kritik am Islamismus: ja. Pauschalverdacht gegen eine Religion: nein."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wo endet Kritik und wo beginnt Pauschalverdacht?"
+     }
+    ],
+    "caption": "Julian Reichelt sagte laut einem Post von nius.de und achtung.reichelt am 5.10.2026, Moscheen gehörten nicht zur deutschen Tradition, und beschrieb Moscheen dort, wo Islamismus herrscht, als Orte für Waffen und Rekrutierung. Wir haben geprüft, was sich prüfen lässt: Der Tag der offenen Moschee findet seit 1997 am 3. Oktober statt, die erste Moschee in Berlin-Wilmersdorf wurde 1928 eingeweiht, einzelne islamistische Moscheevereine wurden verboten. Einen belegten Waffenfund in einer deutschen Moschee haben wir nicht gefunden. Der Wortlaut stützt sich auf den Post, das Video haben wir nicht gesichtet. Die letzte Einordnung ist Meinung und so gekennzeichnet. Wo endet für dich Kritik und wo beginnt Pauschalverdacht?",
+    "hashtags": "#doytschlandtv #faktencheck #moscheen #islamismus #religionsfreiheit #grundgesetz #politik #einordnung"
    }
   ]
  },
