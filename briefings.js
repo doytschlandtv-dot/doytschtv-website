@@ -1,5 +1,39 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-09",
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "dossier",
+    "band": "Dossier",
+    "kicker": "Neues Dossier",
+    "titel": "Annexion, „Auswanderung“, Hilfestopp: Was zwei Minister sagten.",
+    "rot": "Annexion",
+    "text": "",
+    "quelle": "Times of Israel, ZDFheute, IGH, 2023 bis 2026",
+    "bild": {
+     "url": "dossier-portraet.jpg",
+     "karte": true,
+     "unter": "Illustrationen, KI-generiert, keine Fotos · Dossier: doytschtv.de"
+    }
+   },
+   {
+    "kolumne": true,
+    "theme": "dark",
+    "band": "300 Sekunden",
+    "kicker": "Neue Kolumne",
+    "titel": "Wörter sind Politik.",
+    "rot": "Politik",
+    "text": "",
+    "bild": {
+     "url": "kolumne-augsberg.jpg",
+     "karte": true,
+     "unter": "Illustration, KI-generiert, kein Foto · Kolumne: doytschtv.de"
+    }
+   }
+  ]
+ },
+ {
   "datum": "2026-10-08",
   "morgen": {
    "titel": "Morning Briefing",
@@ -440,90 +474,6 @@ window.BRIEFINGS = [
     ],
     "caption": "Neue Kolumne in 300 Sekunden: Die AfD stellt in Sachsen-Anhalt erstmals einen Landtagspräsidenten. Hat die stärkste Fraktion Anspruch auf das Amt? Unsere Antwort: Nein, Brauch ist kein Recht. Aber wer die meisten Stimmen hat, trägt Gesamtverantwortung, und das Amt muss für alle neutral geführt werden. Uns geht es um die Sache, nicht um Personen: gleiche Regeln für alle, klare Kriterien vorab, kein Parteiamt neben der Parlamentsleitung. Die ganze Kolumne mit Quellen und Grafiken auf unserer Website, Link in der Bio. Muss ein Parlamentspräsident über der Partei stehen?",
     "hashtags": "#doytschlandtv #300sekunden #kolumne #meinung #demokratie #sachsenanhalt #landtag #neutralitaet #grundgesetz #einordnung"
-   }
-  ],
-  "storys": [
-   {
-    "kicker": "Heute 19 Uhr",
-    "titel": "Koalitionsausschuss: Ergebnisse offen.",
-    "rot": "offen",
-    "text": "Nach rund vier Stunden war Schluss, die Ergebnisse sollen am Morgen kommen. Wir ordnen sie im Tagesrückblick um 19 Uhr ein.",
-    "quelle": "news.de, 8.10.2026",
-    "bild": null
-   },
-   {
-    "kicker": "Wirtschaft",
-    "titel": "12.15 Uhr: Konjunkturprognose.",
-    "rot": "Konjunkturprognose",
-    "text": "Erwartet werden 1,3 Prozent Wachstum. Wirtschaftsministerin Reiche stellt die Herbstprojektion vor.",
-    "quelle": "news.de, 8.10.2026",
-    "bild": null
-   },
-   {
-    "kicker": "Politik",
-    "titel": "48 statt 44: Wer stimmte für den AfD-Präsidenten?",
-    "rot": "48 statt 44",
-    "text": "Sachsen-Anhalt hat den ersten AfD-Landtagspräsidenten Deutschlands. Die Wahl war geheim, vier Stimmen sind ungeklärt.",
-    "quelle": "ORF, Volksstimme (dpa), 6.10.2026",
-    "bild": null
-   },
-   {
-    "kicker": "Gesellschaft",
-    "titel": "Gedenken in Berlin: 1.700 erinnern an den 7. Oktober.",
-    "rot": "1.700",
-    "text": "Dobrindt nannte Antisemitismus auf dem Bebelplatz ein „abscheuliches Gift“. Israels Botschafter Prosor forderte, Antisemiten in Parlamenten entgegenzutreten, egal ob links oder rechts.",
-    "quelle": "ZDFheute, Tagesspiegel, 7.10.2026",
-    "bild": null
-   },
-   {
-    "zusatz": true,
-    "art": "nachricht",
-    "band": "Aktuell",
-    "kicker": "Wirtschaft",
-    "titel": "Steuerreform im Bundestag: Was bleibt netto?",
-    "rot": "netto",
-    "text": "Heute erste Lesung: 10 Milliarden Euro Entlastung ab 2028. Offen ist, was Sozialabgaben und Streichungen davon wieder aufzehren.",
-    "quelle": "Bundestag, Bundesregierung, Krankenkassen, 8.10.2026",
-    "bild": null
-   },
-   {
-    "zusatz": true,
-    "art": "dossier",
-    "band": "Dossier",
-    "kicker": "Neues Dossier",
-    "titel": "Annexion, „Auswanderung“, Hilfestopp: Was zwei Minister sagten.",
-    "rot": "Annexion",
-    "text": "",
-    "quelle": "Times of Israel, ZDFheute, IGH, 2023 bis 2026",
-    "bild": {
-     "url": "dossier-portraet.jpg",
-     "karte": true,
-     "unter": "Illustrationen, KI-generiert, keine Fotos · Dossier: doytschtv.de"
-    }
-   },
-   {
-    "kolumne": true,
-    "theme": "dark",
-    "band": "300 Sekunden",
-    "kicker": "Neue Kolumne",
-    "titel": "Kein Anspruch aufs Präsidentenamt, aber ein Anspruch auf Neutralität.",
-    "rot": "Neutralität",
-    "text": "Warum ein Parlament niemandem das Präsidentenamt schuldet, aber allen ein neutrales Amt. Die ganze Kolumne auf unserer Website, Link in der Bio.",
-    "bild": null
-   },
-   {
-    "kolumne": true,
-    "theme": "dark",
-    "band": "300 Sekunden",
-    "kicker": "Neue Kolumne",
-    "titel": "Wörter sind Politik.",
-    "rot": "Politik",
-    "text": "",
-    "bild": {
-     "url": "kolumne-augsberg.jpg",
-     "karte": true,
-     "unter": "Illustration, KI-generiert, kein Foto · Kolumne: doytschtv.de"
-    }
    }
   ]
  }
