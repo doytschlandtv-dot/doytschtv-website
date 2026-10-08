@@ -2,6 +2,151 @@
    Eintrag: {datum:"JJJJ-MM-TT", kurz:[{k,t}x3], abschnitte:[{id,titel,typ:fakten|meinung|folgen,offen,text:[Absätze],grafiken:[balken|sitze|rechnung]}], schluss, thema (Demokratie, Migration, Wirtschaft, Völkerrecht, Gesellschaft ...), titel, teaser, text:[Absätze], quellen:[{titel,url}], audio:null|"https://...", dauer:"M:SS"} */
 window.KOLUMNEN = [
  {
+  "datum": "2026-10-10",
+  "thema": "Völkerrecht",
+  "titel": "Wörter sind Politik: Warum „Judäa und Samaria“ in einer Rechtsdebatte auffällt",
+  "teaser": "Bei der Vorstellung eines Gutachtens zur Strafbarkeit der Israel-Leugnung fiel mir eine Wortwahl auf. Eine Kolumne über Sprache, Völkerrecht und die Frage, was Antisemitismusbekämpfung nicht sein sollte.",
+  "audio": null,
+  "dauer": null,
+  "kurz": [
+   {
+    "k": "Was passiert ist",
+    "t": "Hessen will die Leugnung des Existenzrechts Israels mit bis zu fünf Jahren Haft bestrafen. Ein Gutachten von Steffen Augsberg soll die Verfassungsmäßigkeit belegen. Nach meiner Beobachtung sprach er bei der Pressekonferenz am 5.10.2026 von „Judäa und Samaria“. Der Wortlaut ist noch nicht an einem Transkript geprüft."
+   },
+   {
+    "k": "Unsere Meinung",
+    "t": "Biblische Ortsnamen legen Gebietsansprüche nahe und entsprechen dem Sprachgebrauch von Smotrich und Ben-Gvir. Das ist Ideologie in der Sprache und kein Beitrag zur Bekämpfung von Antisemitismus."
+   },
+   {
+    "k": "Was folgen sollte",
+    "t": "Die Begriffe des Völkerrechts und der Bundesregierung verwenden, Abweichungen begründen und Strafnormen klar fassen."
+   }
+  ],
+  "abschnitte": [
+   {
+    "id": "worum",
+    "titel": "Worum es geht",
+    "typ": "fakten",
+    "offen": true,
+    "text": [
+     "Am 5. Oktober 2026 stellte Hessens Justizminister Christian Heinz (CDU) in Berlin ein Gutachten vor. Es soll belegen, dass ein neuer Straftatbestand verfassungsgemäß wäre: Wer öffentlich das Existenzrecht Israels leugnet oder zu seiner Beseitigung aufruft, soll mit bis zu fünf Jahren Haft bestraft werden können. Autor des Gutachtens ist der Gießener Staatsrechtler Steffen Augsberg. Auf dem Podium saßen außerdem Josef Schuster vom Zentralrat der Juden und Hessens Antisemitismusbeauftragter Uwe Becker.",
+     "Ich habe mir die Aufzeichnung der Pressekonferenz bei Jung & Naiv angehört. Als es um die Gebiete der Palästinenser ging, sprach Augsberg nach meiner Wahrnehmung von „Judäa und Samaria“. Den genauen Wortlaut und die Stelle haben wir noch nicht an einem Transkript gegengeprüft. Das ist meine Beobachtung, kein von uns belegtes Zitat. Um diese Wortwahl geht es in dieser Kolumne, nicht um die Person."
+    ]
+   },
+   {
+    "id": "gesetz",
+    "titel": "Der Gesetzentwurf",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "Der Entwurf soll § 130 des Strafgesetzbuchs (Volksverhetzung) um einen neuen Absatz ergänzen. Strafbar wäre die Äußerung nach der Berichterstattung nur, wenn sie geeignet ist, die Bereitschaft zu antisemitischen Gewalt- oder Willkürmaßnahmen zu fördern. Kritik an der israelischen Regierung und Überlegungen zur Befriedung des Nahostkonflikts sollen ausdrücklich nicht erfasst sein (beck-aktuell). Der Bundesrat stimmte dem Entwurf im Juli 2026 zu. Ob der Bundestag ihn aufgreift, ist offen.",
+     "Die Kritik ist deutlich. Die Bundesregierung sah ein „erhebliches verfassungsrechtliches Risiko“, der Wissenschaftliche Dienst des Bundestags hält die Begründung für „schwer begründbar“, und 33 Rechtswissenschaftler äußerten Bedenken (ZDFheute, MiGAZIN). Schuster unterstützt das Anliegen, hält aber § 130 für den falschen Ort. Nach ZDFheute nennen die Erläuterungen des Entwurfs auch Landkarten als Beispiel, die einen Palästinenserstaat innerhalb der Grenzen Israels, Gazas und des Westjordanlands zeigen.",
+     "Der Hintergrund ist real: Der beigefügte RIAS-Bericht zählt für 2025 8.725 antisemitische Vorfälle, nach 2.610 im Jahr 2022. Der Anteil israelbezogener Vorfälle stieg von 24 auf 68 Prozent (ZDFheute). Wer Antisemitismus bekämpfen will, hat dafür gute Gründe."
+    ]
+   },
+   {
+    "id": "begriff",
+    "titel": "Der Begriff „Judäa und Samaria“",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "„Judäa und Samaria“ (hebräisch Yehuda ve-Shomron) sind die biblischen Namen für die Gebiete, die international als Westjordanland bezeichnet werden. In Israel ist es ein gebräuchlicher, auch amtlicher Begriff, den Politiker verschiedener Lager benutzen. Das Wort allein beweist deshalb keine Absicht.",
+     "Auffällig wird es im Zusammenhang. Finanzminister Smotrich schrieb am 11.11.2024 auf X: „2025: das Jahr der Souveränität in Judäa und Samaria“, und wies seine Behörden an, die Infrastruktur dafür vorzubereiten (Al Jazeera). Minister Ben-Gvir kündigte am 21.9.2025 an, im Kabinett die „sofortige Anwendung der Souveränität in Judäa und Samaria“ zu beantragen (Times of Israel). Am 17.2.2026 forderte Smotrich, die Migration aus Gaza und aus „Judäa und Samaria“ zu fördern (Times of Israel). In diesen Aussagen steht der biblische Name neben Souveränitäts- und Auswanderungsforderungen.",
+     "Der Internationale Gerichtshof stellte am 19.7.2024 fest, dass Israels Präsenz im besetzten palästinensischen Gebiet unrechtmäßig ist und Israel dort keine Souveränität beanspruchen darf. Die Bundesregierung spricht vom Westjordanland, zuletzt am 19.8.2026, als sie vor weiteren Annexionsschritten warnte (ZDFheute)."
+    ]
+   },
+   {
+    "id": "gegen",
+    "titel": "Die Gegenseite",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "Man kann einwenden: Der Begriff ist ein gängiger Name, und ein Jurist verwendet ihn vielleicht, weil er die völkerrechtliche Einordnung des Gebiets für umstritten hält. Welche Begründung Augsberg dafür gab, wenn überhaupt, haben wir nicht geprüft.",
+     "Auch der Entwurf selbst sagt nichts Eindeutiges gegen einen Palästinenserstaat. Schuster sagte laut MiGAZIN auf Nachfrage, ein Staat Palästina wäre nach seiner Vorstellung von der Regelung umfasst. Ein Mensch, der „Judäa und Samaria“ sagt, ist nicht automatisch ein Anhänger der Siedlerbewegung."
+    ]
+   },
+   {
+    "id": "meinung",
+    "titel": "Unsere Meinung",
+    "typ": "meinung",
+    "offen": true,
+    "text": [
+     "Wörter sind Politik. Wer in einer Rechtsdebatte über das Existenzrecht Israels biblische Ortsnamen statt „Westjordanland“ benutzt, trifft eine Wahl, und von einem Verfassungsrechtler erwarte ich, dass er sie bewusst trifft. In Deutschland, bei Gericht und in der Bundesregierung heißt das Gebiet Westjordanland, und das aus gutem Grund: Es ist besetztes Gebiet, so hat es der Internationale Gerichtshof festgestellt.",
+     "Biblische Ortsnamen legen Gebietsansprüche nahe. Das ist die Sprache, in der Smotrich und Ben-Gvir von Souveränität sprechen. Ich sage nicht, dass Augsberg dasselbe will. Ich sage, dass er eine Sprache benutzt, die in der Politik für Annexion steht, und dass sie in einem Gutachten über die Rechte eines Staates nicht unbemerkt bleiben darf.",
+     "Das hat mit dem Kampf gegen Antisemitismus nichts zu tun. Antisemitismus gehört bekämpft, mit klaren Regeln und mit Respekt vor der Meinungsfreiheit. Eine Wortwahl, die eine politische Landkarte vorwegnimmt, ist Ideologie. Mir geht es nie um die Person, sondern um die Sache: Wer Antisemitismus bekämpfen will, braucht eine Sprache, der man nicht vorwerfen kann, Politik zu machen. Sonst nützt es dem Anliegen nicht, sondern schadet ihm."
+    ]
+   },
+   {
+    "id": "folgen",
+    "titel": "Was folgen sollte",
+    "typ": "folgen",
+    "offen": false,
+    "text": [
+     "Gutachten und Gesetze zu diesem Thema sollten die Begriffe des Völkerrechts und der Bundesregierung verwenden. Wer davon abweicht, sollte es begründen. Und bei jeder Strafnorm gilt: Meinungsfreiheit ist das oberste Gebot und endet dort, wo die Freiheit anderer eingeschränkt wird. Das muss sich in einem klar gefassten Gesetz wiederfinden."
+    ]
+   }
+  ],
+  "schluss": "Wer Antisemitismus bekämpft, darf sich nicht vorwerfen lassen, nebenbei Landkarten zu zeichnen. Sprache entscheidet, ob ein Anliegen überzeugt oder verdächtig wird.",
+  "text": [
+   "Am 5. Oktober 2026 stellte Hessens Justizminister Christian Heinz (CDU) in Berlin ein Gutachten vor. Es soll belegen, dass ein neuer Straftatbestand verfassungsgemäß wäre: Wer öffentlich das Existenzrecht Israels leugnet oder zu seiner Beseitigung aufruft, soll mit bis zu fünf Jahren Haft bestraft werden können. Autor des Gutachtens ist der Gießener Staatsrechtler Steffen Augsberg. Auf dem Podium saßen außerdem Josef Schuster vom Zentralrat der Juden und Hessens Antisemitismusbeauftragter Uwe Becker.",
+   "Ich habe mir die Aufzeichnung der Pressekonferenz bei Jung & Naiv angehört. Als es um die Gebiete der Palästinenser ging, sprach Augsberg nach meiner Wahrnehmung von „Judäa und Samaria“. Den genauen Wortlaut und die Stelle haben wir noch nicht an einem Transkript gegengeprüft. Das ist meine Beobachtung, kein von uns belegtes Zitat. Um diese Wortwahl geht es in dieser Kolumne, nicht um die Person.",
+   "Der Entwurf soll § 130 des Strafgesetzbuchs (Volksverhetzung) um einen neuen Absatz ergänzen. Strafbar wäre die Äußerung nach der Berichterstattung nur, wenn sie geeignet ist, die Bereitschaft zu antisemitischen Gewalt- oder Willkürmaßnahmen zu fördern. Kritik an der israelischen Regierung und Überlegungen zur Befriedung des Nahostkonflikts sollen ausdrücklich nicht erfasst sein (beck-aktuell). Der Bundesrat stimmte dem Entwurf im Juli 2026 zu. Ob der Bundestag ihn aufgreift, ist offen.",
+   "Die Kritik ist deutlich. Die Bundesregierung sah ein „erhebliches verfassungsrechtliches Risiko“, der Wissenschaftliche Dienst des Bundestags hält die Begründung für „schwer begründbar“, und 33 Rechtswissenschaftler äußerten Bedenken (ZDFheute, MiGAZIN). Schuster unterstützt das Anliegen, hält aber § 130 für den falschen Ort. Nach ZDFheute nennen die Erläuterungen des Entwurfs auch Landkarten als Beispiel, die einen Palästinenserstaat innerhalb der Grenzen Israels, Gazas und des Westjordanlands zeigen.",
+   "Der Hintergrund ist real: Der beigefügte RIAS-Bericht zählt für 2025 8.725 antisemitische Vorfälle, nach 2.610 im Jahr 2022. Der Anteil israelbezogener Vorfälle stieg von 24 auf 68 Prozent (ZDFheute). Wer Antisemitismus bekämpfen will, hat dafür gute Gründe.",
+   "„Judäa und Samaria“ (hebräisch Yehuda ve-Shomron) sind die biblischen Namen für die Gebiete, die international als Westjordanland bezeichnet werden. In Israel ist es ein gebräuchlicher, auch amtlicher Begriff, den Politiker verschiedener Lager benutzen. Das Wort allein beweist deshalb keine Absicht.",
+   "Auffällig wird es im Zusammenhang. Finanzminister Smotrich schrieb am 11.11.2024 auf X: „2025: das Jahr der Souveränität in Judäa und Samaria“, und wies seine Behörden an, die Infrastruktur dafür vorzubereiten (Al Jazeera). Minister Ben-Gvir kündigte am 21.9.2025 an, im Kabinett die „sofortige Anwendung der Souveränität in Judäa und Samaria“ zu beantragen (Times of Israel). Am 17.2.2026 forderte Smotrich, die Migration aus Gaza und aus „Judäa und Samaria“ zu fördern (Times of Israel). In diesen Aussagen steht der biblische Name neben Souveränitäts- und Auswanderungsforderungen.",
+   "Der Internationale Gerichtshof stellte am 19.7.2024 fest, dass Israels Präsenz im besetzten palästinensischen Gebiet unrechtmäßig ist und Israel dort keine Souveränität beanspruchen darf. Die Bundesregierung spricht vom Westjordanland, zuletzt am 19.8.2026, als sie vor weiteren Annexionsschritten warnte (ZDFheute).",
+   "Man kann einwenden: Der Begriff ist ein gängiger Name, und ein Jurist verwendet ihn vielleicht, weil er die völkerrechtliche Einordnung des Gebiets für umstritten hält. Welche Begründung Augsberg dafür gab, wenn überhaupt, haben wir nicht geprüft.",
+   "Auch der Entwurf selbst sagt nichts Eindeutiges gegen einen Palästinenserstaat. Schuster sagte laut MiGAZIN auf Nachfrage, ein Staat Palästina wäre nach seiner Vorstellung von der Regelung umfasst. Ein Mensch, der „Judäa und Samaria“ sagt, ist nicht automatisch ein Anhänger der Siedlerbewegung.",
+   "Wörter sind Politik. Wer in einer Rechtsdebatte über das Existenzrecht Israels biblische Ortsnamen statt „Westjordanland“ benutzt, trifft eine Wahl, und von einem Verfassungsrechtler erwarte ich, dass er sie bewusst trifft. In Deutschland, bei Gericht und in der Bundesregierung heißt das Gebiet Westjordanland, und das aus gutem Grund: Es ist besetztes Gebiet, so hat es der Internationale Gerichtshof festgestellt.",
+   "Biblische Ortsnamen legen Gebietsansprüche nahe. Das ist die Sprache, in der Smotrich und Ben-Gvir von Souveränität sprechen. Ich sage nicht, dass Augsberg dasselbe will. Ich sage, dass er eine Sprache benutzt, die in der Politik für Annexion steht, und dass sie in einem Gutachten über die Rechte eines Staates nicht unbemerkt bleiben darf.",
+   "Das hat mit dem Kampf gegen Antisemitismus nichts zu tun. Antisemitismus gehört bekämpft, mit klaren Regeln und mit Respekt vor der Meinungsfreiheit. Eine Wortwahl, die eine politische Landkarte vorwegnimmt, ist Ideologie. Mir geht es nie um die Person, sondern um die Sache: Wer Antisemitismus bekämpfen will, braucht eine Sprache, der man nicht vorwerfen kann, Politik zu machen. Sonst nützt es dem Anliegen nicht, sondern schadet ihm.",
+   "Gutachten und Gesetze zu diesem Thema sollten die Begriffe des Völkerrechts und der Bundesregierung verwenden. Wer davon abweicht, sollte es begründen. Und bei jeder Strafnorm gilt: Meinungsfreiheit ist das oberste Gebot und endet dort, wo die Freiheit anderer eingeschränkt wird. Das muss sich in einem klar gefassten Gesetz wiederfinden."
+  ],
+  "quellen": [
+   {
+    "titel": "Jung & Naiv: Pressekonferenz zum Gutachten (5.10.2026, Video)",
+    "url": "https://www.youtube.com/live/767p-0iQ16M"
+   },
+   {
+    "titel": "Hessen: Gutachten bestätigt Gesetzentwurf als verfassungskonform",
+    "url": "https://hessen.de/presse/gutachten-bestaetigt-gesetzentwurf-als-verfassungskonform"
+   },
+   {
+    "titel": "ZDFheute: Existenzrecht Israels, wird die Leugnung bald strafbar?",
+    "url": "https://www.zdfheute.de/politik/deutschland/israel-existenzrecht-leugnung-strafe-gutachten-100.html"
+   },
+   {
+    "titel": "beck-aktuell: Gutachten zur Strafbarkeit der Leugnung des Existenzrechts Israels (5.10.2026)",
+    "url": "https://www.beck-aktuell.de/heute-im-recht/rechtspolitik-gesetzgebung/gutachten-strafbarkeit-leugnung-existenzrecht-israel-2026-10-05"
+   },
+   {
+    "titel": "hessenschau: Hessen bekräftigt Israel-Vorstoß",
+    "url": "https://www.hessenschau.de/politik/hessen-bekraeftigt-israel-vorstoss---leugnung-des-existenzrechts-unter-strafe-v1,israel-gesetzentwurf-100.html"
+   },
+   {
+    "titel": "MiGAZIN: Existenzrecht Israels, Streit um Hessens Gesetz (5.10.2026)",
+    "url": "https://www.migazin.de/2026/10/05/existenzrecht-israels-streit-hessens-gesetz/"
+   },
+   {
+    "titel": "IGH-Gutachten vom 19.7.2024, Pressemitteilung (UN-Archiv)",
+    "url": "https://www.un.org/unispal/document/icj-pressrelease-19jul24/"
+   },
+   {
+    "titel": "Al Jazeera: Smotrich ordnet Vorbereitungen für Annexion an (11.11.2024)",
+    "url": "https://www.aljazeera.com/news/2024/11/11/far-right-israeli-minister-orders-preparations-for-west-bank-annexation"
+   },
+   {
+    "titel": "Times of Israel: Ben-Gvir will Souveränität beantragen (21.9.2025)",
+    "url": "https://www.timesofisrael.com/liveblog_entry/ben-gvir-says-he-will-propose-immediate-west-bank-annexation-in-response-to-western-recognition-of-palestine/"
+   },
+   {
+    "titel": "Times of Israel: Smotrich, Migration fördern (18.2.2026)",
+    "url": "https://www.timesofisrael.com/smotrich-next-government-should-encourage-migration-of-west-bank-palestinians/"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-09",
   "thema": "Völkerrecht",
   "titel": "Vierzig Jahre Krieg, und jetzt? Der Frieden muss bei den Menschen ankommen",
