@@ -62,7 +62,63 @@ window.BRIEFINGS = [
     }
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": "https://music.wixstatic.com/mp3/fb5203_d1576e93aea147d5a168dfd3b54d89a6.mp3",
+   "dauer": "4:11",
+   "themen": [
+    "Koalitionsausschuss und Zeitplan",
+    "Herbstprojektion der Bundesregierung",
+    "Berlin: Einigung gegen Antisemitismus",
+    "Was heute zu kurz kam"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Donnerstag, der achte Oktober. Was wirklich passiert ist, und was wir heute früh gesagt haben.",
+    "Erstens: Der Koalitionsausschuss und seine Ergebnisse.",
+    "Heute früh haben wir gesagt, die Ergebnisse sollten voraussichtlich schriftlich kommen und Entscheidungen seien nicht zu erwarten. Das war richtig, aber unvollständig. Nach mehr als vier Stunden traten die Fraktionsspitzen Thorsten Frei, Matthias Miersch und Alexander Hoffmann mit einer gemeinsamen Botschaft auf. Sie wollen Reformen zügig umsetzen und das Land, so wörtlich, nicht den Extremisten überlassen. Kanzler Merz sagte laut ZDFheute, Koalitionsvertrag und Reformpaket blieben unverändert die Geschäftsgrundlage. Eine vollständige Umsetzung bis Weihnachten erwartet er nicht. Er hofft auf eine Einigung im Frühjahr. Ende August hieß es noch, bis Jahresende. Die SPD will unter anderem bei der abschlagsfreien Rente nach fünfundvierzig Beitragsjahren Änderungen. Konkrete inhaltliche Beschlüsse nennen die Berichte nicht.",
+    "Unsere Meinung: Ein Bekenntnis zur Zusammenarbeit ist kein Ergebnis. Wer Rente, Pflege und Steuern verspricht, muss liefern, und zwar mit einem Zeitplan, den man überprüfen kann. Der Abstand zwischen Jahresende und Frühjahr ist genau so ein Punkt. Die Menschen haben ein Recht zu erfahren, wer am Ende zahlt.",
+    "Zweitens: Die Konjunkturprognose.",
+    "Heute früh haben wir mit einem Wachstum von einskommadrei Prozent gerechnet und die Lage als fragil beschrieben. Die Zahl stimmt, die Tonlage war zu vorsichtig. Wirtschaftsministerin Katherina Reiche hat die Herbstprojektion vorgestellt. Für dieses Jahr erwartet die Bundesregierung einskommadrei Prozent, im Frühjahr waren es nur null Komma fünf. Für nächstes Jahr sind es einskommaeins Prozent, vorher null Komma neun. Das Ministerium nennt vor allem Exporte und hohe Staatsausgaben als Gründe. Zugleich warnt es, dauerhaft hohe Preise belasteten Firmen und Haushalte. Die Exporte sanken im August zum Vormonat um null Komma acht Prozent, lagen aber sechskommazwei Prozent über dem Vorjahr.",
+    "Unsere Meinung: Gute Zahlen sind eine gute Nachricht, aber sie sind kein Beweis, dass es bei den Menschen ankommt. Wer jeden Euro umdrehen muss, spürt Preise stärker als Prozentwerte. Entscheidend ist, ob Entlastung und Investitionen gerecht verteilt werden.",
+    "Drittens: Berlin und der Umgang mit Antisemitismus.",
+    "Das Thema stand heute früh nicht in unserem Briefing. Linke, Grüne und SPD in Berlin haben sich laut dpa auf ein gemeinsames Handlungspaket gegen antisemitische Vorfälle geeinigt. Es sieht Verfahren in den Fraktionen vor, bis hin zum Ausschluss von Mitgliedern. Damit können Sondierungsgespräche über ein mögliches Bündnis beginnen. SPD und Grüne hatten diese Verständigung zur Bedingung gemacht. Der Berliner CDU-Politiker Kai Wegner nannte die Einigung beschämend. SPD-Spitzenkandidat Steffen Krach hätte laut Berliner Zeitung auf das Papier verzichtet.",
+    "Unsere Meinung: Der Schutz jüdischen Lebens ist nicht verhandelbar. Er folgt aus dem Grundgesetz und aus unserer Geschichte. Entscheidend sind Konsequenzen bei konkreten Fällen, nicht nur Papiere. Genauso klar gilt: Wer Antisemitismus bekämpft, darf keine Menschengruppen unter Generalverdacht stellen, auch nicht Muslime. Wir beurteilen Beschlüsse und Taten, nicht Herkunft oder Religion.",
+    "Viertens: Was heute zu kurz kam.",
+    "Vieles ging im politischen Lärm unter. Laut ZDF-Newsticker zeigt eine Erhebung des WWF, dass die erfassten Wirbeltierbestände seit neunzehnhundertsiebzig im Schnitt um dreiundsiebzig Prozent geschrumpft sind. In Süßwasserlebensräumen sind es fünfundachtzig Prozent. Zudem meldet der Ticker, die Meeresoberfläche in der El-Niño-Region sei so warm wie nie seit Beginn der Aufzeichnungen. Im ZDF-Politbarometer erwarten achtundfünfzig Prozent negative Folgen, falls die AfD in Sachsen-Anhalt die Regierung führt. Und der Literaturnobelpreis geht an die Kanadierin Anne Carson.",
+    "Unsere Meinung: Artensterben und Klimaextreme betreffen alle, auch wenn sie selten Schlagzeilen machen. Zur AfD: Wir kritisieren ihre Politik, ihre Positionen und ihr Abstimmungsverhalten, nie die Menschen, die sie wählen. Und wir gratulieren Anne Carson zu dieser Auszeichnung für ihr Werk.",
+    "Zum Schluss der Ausblick. Morgen bleiben drei Fragen offen: ob Union und SPD ihren Zeitplan für Rente, Pflege und Steuern konkretisieren, wie die Sondierungen in Berlin beginnen, und wie es nach der Wahl in Sachsen-Anhalt weitergeht. Alle Quellen findest du auf unserer Website. Diese Stimme ist KI-generiert. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute: Koalition nach Gipfel: Einigkeit trotz wachsender Spannungen",
+     "url": "https://www.zdfheute.de/politik/deutschland/koalitionsausschuss-reformen-haushalt-cdu-csu-spd-100.html"
+    },
+    {
+     "titel": "ad-hoc-news (dpa): Koalition für zügige Reformen und gegen Extremismus",
+     "url": "https://www.ad-hoc-news.de/wirtschaft/korrektur-roundup-2-koalition-fuer-zuegige-reformen-und-gegen-extremismus/70263276"
+    },
+    {
+     "titel": "ZDFheute: Bundesregierung hebt Wachstumsprognose an",
+     "url": "https://www.zdfheute.de/politik/deutschland/wirtschaft-prognose-bundesregierung-wachstum-100.html"
+    },
+    {
+     "titel": "t-online (dpa): Berlin: Linke, Grüne und SPD einigen sich bei Antisemitismus",
+     "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101471584/berlin-linke-gruene-und-spd-einigen-sich-bei-antisemitismus.html"
+    },
+    {
+     "titel": "Berliner Zeitung: Rot-Grün-Rot räumt Hindernis für Sondierungen aus dem Weg",
+     "url": "https://berliner-zeitung.de/article/rot-gruen-rot-raeumt-hindernis-fuer-sondierungen-aus-dem-weg-10471515"
+    },
+    {
+     "titel": "ZDFheute: Newsticker Schlagzeilen (WWF, El Niño, Exporte, Politbarometer)",
+     "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+    },
+    {
+     "titel": "ZDFheute: Anne Carson gewinnt Literaturnobelpreis",
+     "url": "https://www.zdfheute.de/panorama/nobelpreis-literatur-anne-carson-100.html"
+    }
+   ]
+  },
   "karussells": [
    {
     "thema": "Koalition und Koalitionsausschuss",
