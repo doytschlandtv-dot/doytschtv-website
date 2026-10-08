@@ -26,6 +26,7 @@
     head.appendChild(el("h1", null, "Briefing"));
     head.appendChild(el("p", null, "Morgens: Was heute ansteht. Abends: Was wirklich passiert ist. Zum Lesen und Hören."));
     root.appendChild(head);
+    if (data.length) { var cur = el("a", "b-back", "‹ Zum aktuellen Briefing"); cur.href = "#"; root.appendChild(cur); }
 
     if (!data.length) {
       root.appendChild(el("p", "b-empty", "Das erste Briefing erscheint in Kürze."));
@@ -111,54 +112,65 @@
     return box;
   }
 
+  function todayIso() {
+    var p = new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
+    return p;
+  }
+
   function detail(day, tab) {
     clear();
     var label = fmt(day.datum, { weekday: "long", day: "numeric", month: "long", year: "numeric" });
     document.title = label + " – Briefing – DoytschlandTv";
 
-    var back = el("a", "b-back", "‹ Alle Tage");
-    back.href = "#";
+    var back = el("a", "b-back", "‹ Frühere Tage");
+    back.href = "#alle";
     root.appendChild(back);
+    var eyebrow = el("p", "b-eyebrow", day.datum === todayIso() ? "Heute" : "Briefing vom");
+    root.appendChild(eyebrow);
     root.appendChild(el("h1", "b-title", label));
 
-    var tabs = el("div", "b-tabs");
-    tabs.setAttribute("role", "tablist");
-    var panel = el("div", "b-panel");
-    panel.setAttribute("role", "tabpanel");
-    var defs = [
-      { key: "morgen", name: "Morning Briefing" },
-      { key: "abend", name: "Tagesrückblick" },
-      { key: "storys", name: "Storys" },
-      { key: "karussell", name: "Karussells" }
-    ];
-    function show(key) {
-      Array.prototype.forEach.call(tabs.children, function (b) {
-        b.setAttribute("aria-selected", b.getAttribute("data-k") === key ? "true" : "false");
+    /* Morning Briefing */
+    var m = day.morgen;
+    var sec1 = el("section", "b-sec"); sec1.id = "morgen";
+    sec1.appendChild(el("h2", "b-sec-h", "Morning Briefing" + (m && m.dauer ? " · " + m.dauer : "")));
+    if (m && m.themen && m.themen.length) {
+      var chips = el("div", "b-chips");
+      m.themen.forEach(function (t, k) {
+        var c = el("a", "b-chip", t); c.href = "#" + day.datum + "/t" + (k + 1);
+        c.addEventListener("click", function (ev) { ev.preventDefault(); var n = document.getElementById("t" + (k + 1)); if (n) n.scrollIntoView({ behavior: "smooth", block: "start" }); });
+        chips.appendChild(c);
       });
-      panel.textContent = "";
-      var d = defs.filter(function (x) { return x.key === key; })[0];
-      panel.appendChild(key === "karussell" ? (window.DTVK ? window.DTVK.view(day) : el("p", "b-empty", "")) : key === "storys" ? (window.DTVK ? window.DTVK.storyView(day) : el("p", "b-empty", "")) : edition(day[key], d.name, key, day));
-      try { history.replaceState(null, "", "#" + day.datum + (key === "abend" ? "/abend" : key === "karussell" ? "/karussell" : key === "storys" ? "/storys" : "")); } catch (e) {}
+      sec1.appendChild(chips);
     }
-    defs.forEach(function (d) {
-      var b = el("button", "b-tab", d.name);
-      b.type = "button";
-      b.setAttribute("role", "tab");
-      b.setAttribute("data-k", d.key);
-      b.addEventListener("click", function () { show(d.key); });
-      tabs.appendChild(b);
-    });
-    root.appendChild(tabs);
-    root.appendChild(panel);
-    show(tab === "abend" || tab === "karussell" || tab === "storys" ? tab : "morgen");
+    var p1 = el("div", "b-panel"); p1.appendChild(edition(m, "Morning Briefing", "morgen", day));
+    var hs = p1.querySelectorAll(".b-h"); Array.prototype.forEach.call(hs, function (h, k) { h.id = "t" + (k + 1); h.style.scrollMarginTop = "5rem"; });
+    sec1.appendChild(p1);
+    root.appendChild(sec1);
+
+    /* Tagesrückblick darunter */
+    var sec2 = el("section", "b-sec"); sec2.id = "abend";
+    sec2.appendChild(el("h2", "b-sec-h", "Tagesrückblick" + (day.abend && day.abend.dauer ? " · " + day.abend.dauer : "")));
+    var p2 = el("div", "b-panel"); p2.appendChild(edition(day.abend, "Tagesrückblick", "abend", day));
+    sec2.appendChild(p2);
+    root.appendChild(sec2);
+
+    /* Verweis auf die Nachrichtenseite */
+    if ((day.karussells && day.karussells.length) || (day.storys && day.storys.length)) {
+      var more = el("p", "b-more");
+      var ml = el("a", null, "Karussells und Storys zu diesem Tag ansehen ›"); ml.href = "nachrichten.html";
+      more.appendChild(ml); root.appendChild(more);
+    }
+    if (tab === "abend") { var n2 = document.getElementById("abend"); if (n2) setTimeout(function () { n2.scrollIntoView(); }, 0); }
   }
 
   function route() {
     var h = location.hash.replace(/^#/, "");
     var parts = h.split("/");
     var day = data.filter(function (d) { return d.datum === parts[0]; })[0];
-    if (day) detail(day, parts[1]); else list();
-    window.scrollTo(0, 0);
+    if (h === "alle" || !data.length) list();
+    else if (day) detail(day, parts[1]);
+    else detail(data[0], "");
+    if (!(day && parts[1] === "abend")) window.scrollTo(0, 0);
   }
   window.addEventListener("hashchange", route);
   route();

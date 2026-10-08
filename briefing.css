@@ -101,3 +101,13 @@
 .f-end a { color: #ff5a52; }
 .f-toast { position: fixed; left: 50%; bottom: 1.2rem; transform: translateX(-50%); background: #f9f7f1; color: #0a0a0a; font: 600 .85rem Inter, system-ui, sans-serif; padding: .7rem 1.1rem; border-radius: 980px; opacity: 0; transition: opacity .2s; pointer-events: none; z-index: 20; }
 .f-toast.on { opacity: 1; }
+
+.b-eyebrow { margin: 1.5rem 0 0; font-size: .78rem; letter-spacing: .12em; text-transform: uppercase; font-weight: 600; color: var(--accent, #b2231c); }
+.b-eyebrow + .b-title { margin-top: .3rem; }
+.b-sec { margin-top: 2.5rem; }
+.b-sec-h { font-family: var(--display, Georgia, serif); font-weight: 700; font-size: clamp(1.4rem, 3.5vw, 1.9rem); letter-spacing: -.02em; margin: 0 0 1rem; }
+.b-chips { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 1rem; }
+.b-chip { font-size: .85rem; font-weight: 600; padding: .5rem 1rem; border-radius: 980px; border: 1px solid var(--line, #d8d4c8); color: var(--fg, #0a0a0a); text-decoration: none; }
+.b-chip:hover, .b-chip:focus-visible { border-color: var(--accent, #b2231c); outline: none; }
+.b-more { margin: 2rem 0 0; font-weight: 600; }
+.b-more a { color: var(--accent, #b2231c); text-underline-offset: 3px; }
