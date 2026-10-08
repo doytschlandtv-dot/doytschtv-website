@@ -5,9 +5,38 @@
   if (!host) return;
   function el(t, c, x) { var n = document.createElement(t); if (c) n.className = c; if (x != null) n.textContent = x; return n; }
   function fmt(iso) { return new Date(iso + "T12:00:00").toLocaleDateString("de-DE", { day: "numeric", month: "long", year: "numeric", timeZone: "Europe/Berlin" }); }
+  var NS = "http://www.w3.org/2000/svg";
+  function sv(t, at, p) { var n = document.createElementNS(NS, t); for (var k in at) n.setAttribute(k, at[k]); if (p) p.appendChild(n); return n; }
+  /* Titelgrafik pro Reihe: reine Grafik aus Seitenfarben, kein Foto */
+  function cover(kind) {
+    var fg = el("figure", "ds-img"), W = 1600, H = 640;
+    var svg = sv("svg", { viewBox: "0 0 " + W + " " + H, role: "img", preserveAspectRatio: "xMidYMid slice" }); fg.appendChild(svg);
+    if (kind === "hemicycle") {
+      svg.setAttribute("aria-label", "Sitzreihen eines Parlaments als Punkte");
+      var cx = W / 2, cy = H - 70, rows = 7, n0 = 14, red = { "3-9": 1 };
+      for (var r = 0; r < rows; r++) {
+        var rad = 170 + r * 60, cnt = Math.round(n0 + r * 8);
+        for (var i = 0; i < cnt; i++) {
+          var a = Math.PI * (1 - i / (cnt - 1));
+          sv("circle", { cx: (cx + rad * Math.cos(a)).toFixed(1), cy: (cy - rad * Math.sin(a)).toFixed(1), r: 11, "class": red[r + "-" + i] ? "ds-hot" : "ds-dot" }, svg);
+        }
+      }
+    } else if (kind === "pruefung") {
+      svg.setAttribute("aria-label", "Aussagen als Zeilen, eine davon wird geprüft");
+      var lens = [820, 1040, 680, 940, 760, 1100, 600];
+      lens.forEach(function (w, i) { sv("rect", { x: 210, y: 95 + i * 70, width: w, height: 22, rx: 11, "class": i === 3 ? "ds-hot" : "ds-dot" }, svg); });
+      sv("circle", { cx: 1060, cy: 316, r: 150, fill: "none", "stroke-width": 14, "class": "ds-ring" }, svg);
+      sv("line", { x1: 1166, y1: 422, x2: 1300, y2: 556, "stroke-width": 26, "stroke-linecap": "round", "class": "ds-ring" }, svg);
+    } else {
+      svg.setAttribute("aria-label", "Paragraphenzeichen");
+      [330, 250, 170].forEach(function (r) { sv("circle", { cx: W / 2, cy: H / 2, r: r, fill: "none", "stroke-width": 3, "class": "ds-line" }, svg); });
+      var t = sv("text", { x: W / 2, y: H / 2 + 150, "text-anchor": "middle", "class": "ds-glyph" }, svg); t.textContent = "§";
+    }
+    return fg;
+  }
   data.forEach(function (s) {
     var sec = el("section", "ds"); sec.id = s.id;
-    if (s.bild) { var fg = el("figure", "ds-img"), im = el("img"); im.src = s.bild.url; im.alt = s.bild.alt || ""; im.loading = "lazy"; fg.appendChild(im); fg.appendChild(el("figcaption", null, s.bild.hinweis || "")); sec.appendChild(fg); }
+    if (s.motiv) sec.appendChild(cover(s.motiv));
     sec.appendChild(el("h2", "ds-t", s.titel));
     sec.appendChild(el("p", "ds-lead", s.teaser));
     var m = el("div", "ds-m"); m.appendChild(el("h4", null, "So arbeiten wir"));
