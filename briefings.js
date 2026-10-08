@@ -121,13 +121,13 @@ window.BRIEFINGS = [
     "hashtags": "#doytschlandtv #pkk #türkei #kurden #frieden #politik #einordnung #kolumne"
    },
    {
-    "thema": "Reichelt über Moscheen: Faktencheck und Meinung",
+    "thema": "Moscheen unter Generalverdacht: Unsere Antwort an Julian Reichelt",
     "slides": [
      {
       "typ": "hook",
-      "kicker": "Faktencheck und Meinung",
-      "titel": "„Moscheen gehören nicht zur deutschen Tradition“: Was sich prüfen lässt.",
-      "rot": "prüfen"
+      "kicker": "Unsere Meinung",
+      "titel": "Moscheen als Waffenlager? Wir nennen das Hetze.",
+      "rot": "Hetze"
      },
      {
       "typ": "fakten",
@@ -136,58 +136,51 @@ window.BRIEFINGS = [
       "quelle": "Post von nius.de und achtung.reichelt, Video nicht gesichtet"
      },
      {
-      "typ": "fakten",
-      "label": "Prüfung 1: Nationalfeiertag",
-      "titel": "Der Tag der offenen Moschee ist 29 Jahre alt.",
-      "text": "Seit 1997 findet er jedes Jahr am 3. Oktober statt, 2026 zum 30. Mal, mit mehr als 700 Moscheen. „Traditionell“ stimmt also im Sinne von „seit Jahrzehnten jährlich“. Ob etwas zur deutschen Tradition gehört, ist dagegen eine Wertung, keine Tatsache.",
-      "quelle": "evangelisch.de, 3.10.2026, Wikipedia"
-     },
-     {
-      "typ": "einordnung",
-      "label": "Prüfung 2: Tradition",
-      "titel": "Moscheen in Deutschland: seit hundert Jahren.",
-      "text": "Die Moschee der Ahmadiyya in Berlin-Wilmersdorf wurde 1924 begonnen und 1928 eingeweiht. Heute leben laut Bundesamt für Migration 5,3 bis 5,6 Millionen muslimische Religionsangehörige mit Migrationshintergrund in Deutschland (Stand 2019).",
-      "quelle": "taz, BAMF-Studie Muslimisches Leben 2020"
+      "typ": "vergleich",
+      "labelA": "Die Behauptung",
+      "behauptung": "Wo Minarette stehen und der Muezzin ruft, da regiert irgendwann der Islam.",
+      "labelB": "Der Fakt",
+      "fakt": "In Köln rief im Oktober 2022 erstmals ein Muezzin öffentlich: freitags, höchstens fünf Minuten, mit Lautstärkegrenze. Regiert wird dort nach dem Grundgesetz.",
+      "quelle": "evangelisch.de, 14.10.2022"
      },
      {
       "typ": "fakten",
-      "label": "Prüfung 3: Islamismus",
-      "titel": "Verbotene Moscheevereine gibt es.",
-      "text": "2017 wurde der Berliner Verein Fussilet 33 verboten, Treffpunkt gewaltbereiter Islamisten, Anis Amri verkehrte dort. 2024 folgte das Islamische Zentrum Hamburg, laut Verfassungsschutz islamistisch. Einen belegten Waffenfund in einer deutschen Moschee haben wir nicht gefunden.",
+      "label": "Der Beweis fehlt",
+      "titel": "Waffenlager in Moscheen?",
+      "text": "In den zitierten Sätzen nennt Reichelt keinen einzigen Fall. Wir haben in Deutschland keinen belegten Waffenfund in einer Moschee gefunden. Belegt sind einzelne Vereinsverbote, etwa Fussilet 33 in Berlin (2017) und das Islamische Zentrum Hamburg (2024). Einzelne Vereine sind nicht „die Moscheen“.",
       "quelle": "vol.at, lto.de"
      },
      {
-      "typ": "betrifft",
-      "label": "Die Größenordnung",
-      "titel": "Islamismus ist real, aber klein.",
-      "punkte": [
-       {
-        "kopf": "28.645",
-        "text": "Islamisten laut Verfassungsschutzbericht 2025, davon 9.110 gewaltorientiert."
-       },
-       {
-        "kopf": "5,3 bis 5,6 Mio.",
-        "text": "Muslime in Deutschland laut BAMF."
-       },
-       {
-        "kopf": "Etwa 0,5 Prozent",
-        "text": "Eigene Rechnung, grob, die Zahlen sind unterschiedlich abgegrenzt."
-       }
-      ],
-      "quelle": "Verfassungsschutzbericht 2025, BAMF"
+      "typ": "fakten",
+      "label": "Die Tradition",
+      "titel": "29 Jahre Tag der offenen Moschee.",
+      "text": "Seit 1997 laden Moscheen jedes Jahr am 3. Oktober ein, 2026 zum 30. Mal, mehr als 700 Moscheen. Die erste Moschee Berlins wurde 1928 eingeweiht. 5,3 bis 5,6 Millionen Muslime leben hier. „Nicht zur Tradition“ ist eine Wertung, und sie schließt Millionen Menschen aus.",
+      "quelle": "evangelisch.de, taz, BAMF"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Der Fachbegriff",
+      "titel": "Pauschal verdächtigen hat einen Namen.",
+      "text": "Der Unabhängige Expertenkreis Muslimfeindlichkeit nennt als Merkmal die pauschale Verknüpfung des Islams mit Extremismus und Gewalt. Laut Bericht (2023) stimmt etwa die Hälfte der Menschen in Deutschland muslimfeindlichen Aussagen zu. Die Methodik des Berichts ist umstritten.",
+      "quelle": "Berliner Zeitung, Bericht des Expertenkreises 2023"
      },
      {
       "typ": "meinung",
-      "text": "„Islamismus muss man mit Verfassungsschutz, Vereinsverbot und Strafrecht bekämpfen. Ein Generalverdacht gegen alle Moscheen trifft Millionen Menschen, die sich ans Grundgesetz halten. Religionsfreiheit gilt für alle.“",
-      "handlung": "Kritik am Islamismus: ja. Pauschalverdacht gegen eine Religion: nein."
+      "text": "„Wer Millionen Muslime für die Taten von Islamisten haftbar macht, hetzt gegen Menschen. Moscheen sind Gebetshäuser, Orte der Begegnung, Heimat für Familien. Wer sie pauschal zu Waffenlagern erklärt, schürt Hass auf Nachbarn, Kollegen und Kinder.“",
+      "handlung": "Kritik am Islamismus: ja, mit Beweisen. Pauschalverdacht: nein."
+     },
+     {
+      "typ": "meinung",
+      "text": "„Muslime pauschal zu verdächtigen, nur weil sie Muslime sind, ist antimuslimischer Rassismus. Er macht aus einer Religion eine Herkunft und aus Nachbarn Feinde. Das Grundgesetz kennt keine Bürger zweiter Klasse.“",
+      "handlung": "Das gilt für jede Religion und jede Herkunft."
      },
      {
       "typ": "cta",
-      "frage": "Wo endet Kritik und wo beginnt Pauschalverdacht?"
+      "frage": "Wo ziehst du die Grenze zwischen Kritik und Hetze?"
      }
     ],
-    "caption": "Julian Reichelt sagte laut einem Post von nius.de und achtung.reichelt am 5.10.2026, Moscheen gehörten nicht zur deutschen Tradition, und beschrieb Moscheen dort, wo Islamismus herrscht, als Orte für Waffen und Rekrutierung. Wir haben geprüft, was sich prüfen lässt: Der Tag der offenen Moschee findet seit 1997 am 3. Oktober statt, die erste Moschee in Berlin-Wilmersdorf wurde 1928 eingeweiht, einzelne islamistische Moscheevereine wurden verboten. Einen belegten Waffenfund in einer deutschen Moschee haben wir nicht gefunden. Der Wortlaut stützt sich auf den Post, das Video haben wir nicht gesichtet. Die letzte Einordnung ist Meinung und so gekennzeichnet. Wo endet für dich Kritik und wo beginnt Pauschalverdacht?",
-    "hashtags": "#doytschlandtv #faktencheck #moscheen #islamismus #religionsfreiheit #grundgesetz #politik #einordnung"
+    "caption": "Julian Reichelt sagte laut einem Post von nius.de und achtung.reichelt am 5.10.2026, Moscheen gehörten nicht zur deutschen Tradition, und beschrieb Moscheen dort, wo Islamismus herrscht, als Orte für Waffen und Rekrutierung. Unsere Antwort: Der Muezzinruf in Köln folgt klaren Auflagen, regiert wird nach dem Grundgesetz. Einen belegten Waffenfund in einer deutschen Moschee haben wir nicht gefunden, einzelne Vereinsverbote machen nicht alle Moscheen zu Verdachtsorten. Der Tag der offenen Moschee findet seit 1997 statt. Dass Moscheen pauschal unter Verdacht gestellt werden, nennen wir Hetze und antimuslimischen Rassismus. Das ist unsere Meinung und so gekennzeichnet. Der Wortlaut stützt sich auf den Post, das Video haben wir nicht gesichtet. Wo ziehst du die Grenze zwischen Kritik und Hetze?",
+    "hashtags": "#doytschlandtv #moscheen #muslime #antimuslimischerrassismus #religionsfreiheit #grundgesetz #politik #meinung"
    }
   ]
  },
