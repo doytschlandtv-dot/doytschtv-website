@@ -101,6 +101,10 @@
     a.appendChild(el("h1", "mk-h1", k.titel));
     if (k.teaser) a.appendChild(el("p", "mk-lead", k.teaser));
     a.appendChild(el("p", "mk-meta", meta(k)));
+    if (k.bild) {
+      var fg = el("figure", "ds-fig"), im = el("img"); im.src = k.bild.src; im.alt = k.bild.alt || ""; im.width = k.bild.w || 1248; im.height = k.bild.h || 714;
+      fg.appendChild(im); fg.appendChild(el("figcaption", null, k.bild.unter || "")); a.appendChild(fg);
+    }
     if (k.audio) {
       var w = el("div", "b-audio"), au = document.createElement("audio");
       au.controls = true; au.preload = "none"; au.src = k.audio; au.setAttribute("aria-label", "Kolumne anhören");

@@ -518,8 +518,12 @@ window.BRIEFINGS = [
     "kicker": "Neue Kolumne",
     "titel": "Wörter sind Politik.",
     "rot": "Politik",
-    "text": "Warum „Judäa und Samaria“ in einer Rechtsdebatte auffällt, und was Antisemitismusbekämpfung nicht sein sollte. Die ganze Kolumne auf unserer Website, Link in der Bio.",
-    "bild": null
+    "text": "",
+    "bild": {
+     "url": "kolumne-augsberg.jpg",
+     "karte": true,
+     "unter": "Illustration, KI-generiert, kein Foto · Kolumne: doytschtv.de"
+    }
    }
   ]
  }
