@@ -487,6 +487,17 @@ window.BRIEFINGS = [
     "bild": null
    },
    {
+    "zusatz": true,
+    "art": "dossier",
+    "band": "Dossier",
+    "kicker": "Neues Dossier",
+    "titel": "Annexion, „Auswanderung“, Hilfestopp: Was zwei Minister sagten.",
+    "rot": "Annexion",
+    "text": "Belegte Aussagen von Smotrich und Ben-Gvir seit dem 7. Oktober 2023, mit den Einordnungen von Gericht, Regierung und Organisationen. Das ganze Dossier mit allen Quellen auf unserer Website, Link in der Bio.",
+    "quelle": "Times of Israel, ZDFheute, IGH, 2023 bis 2026",
+    "bild": null
+   },
+   {
     "kolumne": true,
     "theme": "dark",
     "band": "300 Sekunden",
@@ -494,6 +505,16 @@ window.BRIEFINGS = [
     "titel": "Kein Anspruch aufs Präsidentenamt, aber ein Anspruch auf Neutralität.",
     "rot": "Neutralität",
     "text": "Warum ein Parlament niemandem das Präsidentenamt schuldet, aber allen ein neutrales Amt. Die ganze Kolumne auf unserer Website, Link in der Bio.",
+    "bild": null
+   },
+   {
+    "kolumne": true,
+    "theme": "dark",
+    "band": "300 Sekunden",
+    "kicker": "Neue Kolumne",
+    "titel": "Wörter sind Politik.",
+    "rot": "Politik",
+    "text": "Warum „Judäa und Samaria“ in einer Rechtsdebatte auffällt, und was Antisemitismusbekämpfung nicht sein sollte. Die ganze Kolumne auf unserer Website, Link in der Bio.",
     "bild": null
    }
   ]
