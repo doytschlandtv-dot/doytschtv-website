@@ -15,11 +15,11 @@ window.KOLUMNEN = [
    },
    {
     "k": "Unsere Meinung",
-    "t": "Das Ende der Gewalt ist ein Gewinn für alle, die vierzig Jahre dafür bezahlt haben. Zum Sieg wird es erst, wenn aus dem Abzug gleiche Rechte werden."
+    "t": "Das Ende der Gewalt ist ein Gewinn für alle, die vierzig Jahre dafür bezahlt haben. Zum Sieg wird es, wenn alle Bürger der Türkei gleiche Rechte erleben, unter einer Verfassung und ohne Autonomie."
    },
    {
     "k": "Was folgen sollte",
-    "t": "Das Gesetz in Kraft setzen, die Isolationshaft Öcalans beenden, Sprache und Selbstverwaltung absichern, alle Opfer aufarbeiten, in Deutschland das Verbot überprüfen."
+    "t": "Das Gesetz rechtsstaatlich umsetzen, gleiche Rechte für alle Bürger im Alltag, Kurdisch frei sprechen ohne Ausgrenzung, alle Opfer aufarbeiten."
    }
   ],
   "abschnitte": [
@@ -228,6 +228,7 @@ window.KOLUMNEN = [
     "offen": false,
     "text": [
      "Die Skepsis hat Gründe. Die Regierung spricht von einer terrorfreien Türkei und meidet Begriffe wie Dialog oder Verhandlung. Gleichzeitig wurden gewählte Bürgermeister der DEM-Partei abgesetzt, wie die bpb schreibt. Erdoğan lehnte nach Angaben des ZDF im Frühjahr 2025 eine Freilassung Öcalans und Amnestien für verurteilte Terroristen ab. Ob alle Teile der PKK dem Aufruf folgen und wie es mit der YPG in Nordsyrien weitergeht, ist offen.",
+     "Aus kurdischer Sicht werden laut ZDFheute mögliche Verhandlungspunkte genannt: die Anerkennung des Kurdischen als Nationalsprache, eine Änderung des Verfassungsartikels zur Staatsbürgerschaft, ein Ende der Zwangsverwaltungen und ein Ende der Isolationshaft Öcalans. Wir teilen nicht alle dieser Forderungen, unsere Haltung steht im Abschnitt „Unsere Meinung“.",
      "Wer das Ganze für ein taktisches Manöver hält, kann sich also auf Fakten berufen. Wer es für einen echten Neuanfang hält, ebenfalls, denn der Abzug ist erklärt und das Gesetz ist beschlossen. Beides stimmt gleichzeitig. Welche Lesart sich durchsetzt, entscheiden die nächsten Monate."
     ]
    },
@@ -248,10 +249,10 @@ window.KOLUMNEN = [
     "offen": true,
     "text": [
      "Endlich. Ein Krieg, der über vierzig Jahre Zehntausende Menschen das Leben kostete und rund eine Million aus ihrer Heimat vertrieb, geht zu Ende. Wenn sich das bestätigt, ist es ein Meilenstein. Er gehört nicht den Männern an der Spitze, sondern den Menschen, die vierzig Jahre für diesen Krieg bezahlt haben: Türken und Kurden, Mütter, Soldaten, Dorfbewohner, Zivilisten. Sie sind die Sieger, wenn der Frieden bleibt.",
-     "Aber ein Sieg wird es erst, wenn er im Alltag ankommt. Das Gesetz muss tatsächlich in Kraft treten und darf nicht an Bedingungen hängen bleiben. Die Isolationshaft Öcalans muss enden, denn der Prozess braucht jemanden, der ihn führen kann. Kurdisch darf kein Sicherheitsproblem mehr sein, und gewählte Bürgermeister müssen im Amt bleiben dürfen. Ein Frieden, in dem Menschen wegen ihrer Sprache oder ihrer Partei misstrauisch behandelt werden, ist nur eine Waffenruhe.",
+     "Wie es jetzt weitergehen soll, ist für uns klar. Die Türkei soll eine Demokratie sein, in der alle Bürgerinnen und Bürger die gleichen Rechte haben, ob sie sich als Türken, Kurden oder anders verstehen. Die Verfassung der Republik schützt die Grundrechte und die Minderheiten, und daran muss sich der Staat messen lassen. Kurdisch muss frei gesprochen werden können, ohne dass jemand ausgegrenzt wird. Autonomie oder Selbstverwaltung teilen wir nicht als Ziel. Wir sehen alle Bürgerinnen und Bürger unter dem Dach der Türkischen Republik, mit gleichen Rechten für alle.",
+     "Eine Beobachtung dazu: Kurdisch wird im Alltag der Türkei heute gesprochen und gesungen. In den Straßen Istanbuls spielen viele Straßenmusiker kurdische Lieder. Das ist eine persönliche Beobachtung und keine Statistik. Sie ersetzt nicht die Frage, ob jeder Mensch überall dieselben Rechte erlebt, aber sie zeigt, dass kurdische Sprache und Kultur im Alltag ihren Platz hat.",
      "Wir bewerten das nach der Sache. Gewalt gegen Zivilisten ist nie zu rechtfertigen, auch nicht für ein berechtigtes Anliegen, und es gilt auf jeder Seite. Gleiche Rechte für alle Menschen sind keine Gnade, sondern ein Grundrecht. Den Beteiligten gebührt Anerkennung dafür, dass sie diesen Schritt möglich gemacht haben. Gemessen werden sie an dem, was jetzt kommt.",
-     "Eine persönliche Anmerkung von Cengiz Bozkurt: Ich bin väterlicherseits kurdisch und mütterlicherseits türkisch. Ich habe mein ganzes Leben unter diesem Konflikt gelitten. Deshalb sehe ich beide Seiten: die Opfer der Vertreibung und die Opfer der Anschläge, die Familien der gefallenen Soldaten und die Familien der getöteten Kämpfer und Zivilisten. Für mich ist dieser Tag kein Triumph einer Seite. Er ist die Chance, dass niemand mehr zwischen seiner Herkunft wählen muss.",
-     "Zum Verbot in Deutschland: Wenn die PKK sich auflöst, muss auch hier jemand sagen, was das Verbot dann noch schützen soll. Das Verbot wurde mit Gewalt begründet. Hört die Gewalt auf, gehört die Frage auf den Tisch, ob es noch verhältnismäßig ist. Wir fordern keine Aufhebung über Nacht, aber eine ehrliche Prüfung."
+     "Eine persönliche Anmerkung von Cengiz Bozkurt: Ich bin väterlicherseits kurdisch und mütterlicherseits türkisch. Ich habe mein ganzes Leben unter diesem Konflikt gelitten. Deshalb sehe ich beide Seiten: die Opfer der Vertreibung und die Opfer der Anschläge, die Familien der gefallenen Soldaten und die Familien der getöteten Kämpfer und Zivilisten. Für mich ist dieser Tag kein Triumph einer Seite. Er ist die Chance, dass niemand mehr zwischen seiner Herkunft wählen muss."
     ]
    },
    {
@@ -260,7 +261,7 @@ window.KOLUMNEN = [
     "typ": "folgen",
     "offen": false,
     "text": [
-     "Erstens: das Gesetz in Kraft setzen, ohne weitere Vorwände. Zweitens: ein Ende der Isolationshaft und eine rechtlich saubere Rolle für Öcalan im Prozess. Drittens: sichtbare Schritte bei der kurdischen Sprache und der kommunalen Selbstverwaltung, einschließlich der Rücknahme von Zwangsverwaltungen. Viertens: eine Aufarbeitung, die allen Opfern gerecht wird, den zivilen Toten, den Vertriebenen und den Familien der Soldaten. Fünftens: eine Prüfung des PKK-Verbots in Deutschland, sobald die Auflösung bestätigt ist."
+     "Erstens: das Gesetz rechtsstaatlich und ohne Vorwände umsetzen, sobald die Bedingungen erfüllt sind. Zweitens: gleiche Rechte für alle Bürgerinnen und Bürger im Alltag, nicht nur auf dem Papier, auf Grundlage der geltenden Verfassung, die Grundrechte und Minderheiten schützt. Drittens: Kurdisch frei sprechen können, ohne Ausgrenzung. Viertens: eine Aufarbeitung, die allen Opfern gerecht wird, den zivilen Toten, den Vertriebenen und den Familien der Soldaten."
     ]
    }
   ],
