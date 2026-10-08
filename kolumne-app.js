@@ -22,12 +22,7 @@
     var h = el("h2"); var l = el("a", null, k.titel); l.href = "#" + k.datum; h.appendChild(l); a.appendChild(h);
     a.appendChild(el("p", "mk-teaser", k.teaser || ""));
     a.appendChild(el("p", "mk-meta", meta(k)));
-    var first = (k.text || [])[0];
     var row = el("div", "mk-row");
-    if (first) {
-      var det = el("details", "mk-aus"); det.appendChild(el("summary", null, "Auszug"));
-      det.appendChild(el("p", null, first)); a.appendChild(det);
-    }
     var go = el("a", "mk-go", "Kolumne lesen ›"); go.href = "#" + k.datum; row.appendChild(go);
     a.appendChild(row);
     return a;
@@ -60,10 +55,40 @@
     host.appendChild(ki());
   }
 
+  function graf(g) {
+    var box = el("figure", "mk-fig mk-" + g.art);
+    box.appendChild(el("figcaption", "mk-ft", g.titel));
+    var tot = 0, i;
+    if (g.art === "rechnung") {
+      var r = el("div", "mk-calc");
+      g.teile.forEach(function (t, n) {
+        var c = el("div", "mk-cell" + (n === 1 ? " mk-gap" : "")); c.appendChild(el("b", null, t.w)); c.appendChild(el("span", null, t.l)); r.appendChild(c);
+      });
+      box.appendChild(r);
+    } else if (g.art === "balken") {
+      var mx = Math.max.apply(null, g.werte.map(function (x) { return x.w; }));
+      g.werte.forEach(function (x) {
+        var row = el("div", "mk-bar"); row.appendChild(el("span", "mk-bl", x.l));
+        var tr = el("div", "mk-tr"), f = el("div", "mk-fill" + (x.hl ? " hl" : "")); f.style.width = Math.round(x.w / mx * 100) + "%"; tr.appendChild(f); row.appendChild(tr);
+        row.appendChild(el("span", "mk-bv", String(x.w))); box.appendChild(row);
+      });
+    } else if (g.art === "sitze") {
+      g.werte.forEach(function (x) { tot += x.w; });
+      var st = el("div", "mk-stack"), lg = el("ul", "mk-leg");
+      g.werte.forEach(function (x, n) {
+        var sg = el("div", "mk-seg s" + (n % 6) + (x.hl ? " hl" : "")); sg.style.flexGrow = x.w; sg.title = x.l + ": " + x.w; sg.appendChild(el("span", null, String(x.w))); st.appendChild(sg);
+        var li = el("li"); li.appendChild(el("i", "s" + (n % 6) + (x.hl ? " hl" : ""))); li.appendChild(document.createTextNode(x.l + " " + x.w)); lg.appendChild(li);
+      });
+      box.appendChild(st); box.appendChild(lg);
+    }
+    if (g.note) box.appendChild(el("p", "mk-note", g.note));
+    return box;
+  }
+
   function detail(k) {
     if (head) head.hidden = true;
     host.textContent = "";
-    var a = el("article", "kol");
+    var a = el("article", "kol mk-art");
     var back = el("a", "b-more mk-back", "‹ Alle Meinungen"); back.href = "#"; a.appendChild(back);
     a.appendChild(el("p", "b-eyebrow", thema(k) + " · Kolumne der Redaktion"));
     a.appendChild(el("h1", "mk-h1", k.titel));
@@ -76,11 +101,28 @@
       w.appendChild(el("p", "b-ki", "Hinweis: Diese Stimme ist KI-generiert (nach der Stimme von Cengiz Bozkurt)."));
       a.appendChild(w);
     }
-    (k.text || []).forEach(function (t) {
-      var m = /^(Unsere Meinung:)\s*([\s\S]*)$/.exec(t);
-      if (m) { var p = el("p", "mk-op"); p.appendChild(el("strong", null, m[1] + " ")); p.appendChild(document.createTextNode(m[2])); a.appendChild(p); }
-      else a.appendChild(el("p", null, t));
-    });
+    var secs = k.abschnitte;
+    if (k.kurz && k.kurz.length) {
+      var kb = el("div", "mk-kurz"); kb.appendChild(el("p", "mk-kt", "Kurz gesagt"));
+      k.kurz.forEach(function (x) { var r = el("div", "mk-kr"); r.appendChild(el("b", null, x.k)); r.appendChild(el("span", null, x.t)); kb.appendChild(r); });
+      a.appendChild(kb);
+    }
+    if (secs && secs.length) {
+      var nav = el("nav", "b-chips mk-jump"); nav.setAttribute("aria-label", "Springe zu");
+      secs.forEach(function (s) { var c = el("a", "b-chip", s.titel); c.href = "#" + k.datum; c.onclick = function (e) { e.preventDefault(); var d = document.getElementById("s-" + s.id); d.open = true; d.scrollIntoView({ behavior: "smooth", block: "start" }); }; nav.appendChild(c); });
+      a.appendChild(nav);
+      secs.forEach(function (s) {
+        var d = el("details", "mk-sec mk-" + (s.typ || "fakten")); d.id = "s-" + s.id; if (s.offen) d.open = true;
+        d.appendChild(el("summary", null, s.titel));
+        var body = el("div", "mk-body");
+        (s.text || []).forEach(function (t) { body.appendChild(el("p", null, t)); });
+        (s.grafiken || []).forEach(function (g) { body.appendChild(graf(g)); });
+        d.appendChild(body); a.appendChild(d);
+      });
+      if (k.schluss) a.appendChild(el("blockquote", "mk-quote", k.schluss));
+    } else {
+      (k.text || []).forEach(function (t) { a.appendChild(el("p", null, t)); });
+    }
     a.appendChild(ki());
     var q = k.quellen || [];
     if (q.length) {
