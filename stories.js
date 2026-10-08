@@ -14,6 +14,7 @@
 
   function open(day, btn) {
     var K = window.DTVK; if (!K) return;
+    if (document.querySelector(".st-ov")) return;
     var list = day.storys, n = list.length, cur = 0, timer = null, ready = [], imgs = [], opener = document.activeElement;
     var ov = el("div", "st-ov"); ov.setAttribute("role", "dialog"); ov.setAttribute("aria-modal", "true"); ov.setAttribute("aria-label", "Storys von heute");
     var stage = el("div", "st-stage"); ov.appendChild(stage);
@@ -34,14 +35,16 @@
       if (ready[i]) return Promise.resolve();
       return K.loadImg(list[i].bild && list[i].bild.url).then(function (im) { K.drawStory(cvs[i], list[i], im, i, n, true); ready[i] = true; });
     }
+    var seq = 0;
+    /* Bild, Balken und Zähler wechseln gemeinsam und erst, wenn das Bild fertig gezeichnet ist */
     function set(i) {
-      clearTimeout(timer); cur = i;
-      cvs.forEach(function (c, k) { c.hidden = k !== i; });
-      bars.forEach(function (b, k) { b.className = k < i ? "done" : ""; });
+      clearTimeout(timer); cur = i; var tok = ++seq;
       draw(i).then(function () {
-        if (cur !== i) return;
+        if (tok !== seq) return;
+        cvs.forEach(function (c, k) { c.hidden = k !== i; });
+        bars.forEach(function (b, k) { b.className = k < i ? "done" : ""; });
         var b = bars[i]; void b.offsetWidth; b.className = "run"; b.style.setProperty("--st-dur", DUR + "ms");
-        function adv() { if (cur === i) next(); }
+        function adv() { if (cur === i && tok === seq) next(); }
         b.firstChild.addEventListener("animationend", adv, { once: true });
         timer = setTimeout(adv, DUR);
         if (i + 1 < n) draw(i + 1);
