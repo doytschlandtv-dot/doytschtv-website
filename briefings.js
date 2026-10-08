@@ -241,6 +241,66 @@ window.BRIEFINGS = [
     ],
     "caption": "Drei Jahre nach dem Hamas-Angriff vom 7. Oktober gedachten in Berlin laut Polizei rund 1.700 Menschen der Opfer. Innenminister Dobrindt nannte Antisemitismus ein „abscheuliches Gift“ und forderte, offensiv für Jüdinnen und Juden einzustehen. Uns geht es um die Sache: Der Schutz jüdischen Lebens folgt aus dem Grundgesetz und aus unserer Geschichte. Genauso klar wenden wir uns gegen die pauschale Abwertung von Menschengruppen, auch gegen Muslime. Quellen und das ganze Briefing auf unserer Website, Link in der Bio. Wie schützen wir jüdisches Leben, ohne andere auszugrenzen?",
     "hashtags": "#doytschlandtv #gesellschaft #antisemitismus #gedenken #deutschland #grundgesetz #menschenrechte #einordnung #morningbriefing"
+   },
+   {
+    "kolumne": true,
+    "thema": "300 Sekunden: Kein Anspruch aufs Präsidentenamt",
+    "slides": [
+     {
+      "typ": "hook",
+      "theme": "dark",
+      "band": "300 Sekunden",
+      "kicker": "Neue Kolumne",
+      "titel": "Kein Anspruch aufs Präsidentenamt, aber ein Anspruch auf Neutralität.",
+      "rot": "Neutralität"
+     },
+     {
+      "typ": "zahl",
+      "theme": "red",
+      "band": "300 Sekunden",
+      "zahl": "48",
+      "label": "Stimmen für Rausch bei 82 abgegebenen",
+      "text": "AfD und BSW haben zusammen nur 44 Sitze. Mindestens vier Stimmen kamen also von anderswo. Die Wahl war geheim, niemand wird beschuldigt.",
+      "quelle": "taz, MiGAZIN"
+     },
+     {
+      "typ": "fakten",
+      "theme": "dark",
+      "band": "300 Sekunden",
+      "label": "Was gilt",
+      "titel": "Ein Vorschlag ist kein Anspruch",
+      "text": "Die stärkste Fraktion darf das Amt vorschlagen, gewählt wird vom ganzen Landtag. Das Bundesverfassungsgericht stellte 2022 zum Bundestag fest: kein Anspruch auf einen Vizepräsidenten.",
+      "quelle": "Verfassungsblog, Bundestag.de"
+     },
+     {
+      "typ": "einordnung",
+      "theme": "dark",
+      "band": "300 Sekunden",
+      "label": "Die andere Seite",
+      "titel": "Wählerauftrag",
+      "text": "Die Gegenposition: 43,8 Prozent seien ein klarer Auftrag, und wer das Amt dauerhaft verweigere, brauche gute Gründe. Auch das gehört zur Debatte.",
+      "quelle": "LTO, Apollo News (Kommentare)"
+     },
+     {
+      "typ": "meinung",
+      "theme": "dark",
+      "band": "300 Sekunden",
+      "text": "Kein Anspruch aufs Amt, aber eine Gesamtverantwortung für alle. Maßstab sind gleiche Regeln. Die rote Linie: wenn das Amt parteipolitisch handelt.",
+      "handlung": "Frag bei jeder Wahl nach den Kriterien, nicht nur nach dem Parteinamen."
+     },
+     {
+      "typ": "cta",
+      "theme": "dark",
+      "band": "300 Sekunden",
+      "frage": "Muss ein Parlamentspräsident über der Partei stehen?",
+      "zeilen": [
+       "Ganze Kolumne und Quellen online.",
+       "Link in der Bio."
+      ]
+     }
+    ],
+    "caption": "Neue Kolumne in 300 Sekunden: Die AfD stellt in Sachsen-Anhalt erstmals einen Landtagspräsidenten. Hat die stärkste Fraktion Anspruch auf das Amt? Unsere Antwort: Nein, Brauch ist kein Recht. Aber wer die meisten Stimmen hat, trägt Gesamtverantwortung, und das Amt muss für alle neutral geführt werden. Uns geht es um die Sache, nicht um Personen: gleiche Regeln für alle, klare Kriterien vorab, kein Parteiamt neben der Parlamentsleitung. Die ganze Kolumne mit Quellen und Grafiken auf unserer Website, Link in der Bio. Muss ein Parlamentspräsident über der Partei stehen?",
+    "hashtags": "#doytschlandtv #300sekunden #kolumne #meinung #demokratie #sachsenanhalt #landtag #neutralitaet #grundgesetz #einordnung"
    }
   ],
   "storys": [
@@ -274,6 +334,16 @@ window.BRIEFINGS = [
     "rot": "1.700",
     "text": "Dobrindt nannte Antisemitismus auf dem Bebelplatz ein „abscheuliches Gift“. Israels Botschafter Prosor forderte, Antisemiten in Parlamenten entgegenzutreten, egal ob links oder rechts.",
     "quelle": "ZDFheute, Tagesspiegel, 7.10.2026",
+    "bild": null
+   },
+   {
+    "kolumne": true,
+    "theme": "dark",
+    "band": "300 Sekunden",
+    "kicker": "Neue Kolumne",
+    "titel": "Kein Anspruch aufs Präsidentenamt, aber ein Anspruch auf Neutralität.",
+    "rot": "Neutralität",
+    "text": "Warum ein Parlament niemandem das Präsidentenamt schuldet, aber allen ein neutrales Amt. Die ganze Kolumne auf unserer Website, Link in der Bio.",
     "bild": null
    }
   ]

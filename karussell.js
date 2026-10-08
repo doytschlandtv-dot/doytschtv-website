@@ -140,6 +140,14 @@
     ctx.fillText("D", cx, cy + r * 0.44);
     ctx.restore(); ctx.textAlign = "left"; ctx.textBaseline = "top";
   }
+  /* Kennzeichnung "300 Sekunden" (Kolumne): roter Balken rechts im Kopf */
+  function band(ctx, text, xr, y) {
+    ctx.save(); ctx.font = "700 26px " + SANS; setLS(ctx, 2);
+    var t = String(text).toUpperCase(), w = ctx.measureText(t).width + 44;
+    ctx.fillStyle = C.red; rr(ctx, xr - w, y, w, 56, 28); ctx.fill();
+    ctx.fillStyle = "#ffffff"; ctx.textBaseline = "middle"; ctx.fillText(t, xr - w + 22, y + 29);
+    ctx.restore(); setLS(ctx, 0); ctx.textBaseline = "top";
+  }
   function draw(canvas, s, i, n) {
     canvas.width = W; canvas.height = H;
     var ctx = canvas.getContext("2d");
@@ -156,6 +164,7 @@
     var wd = ctx.measureText("Doytschland").width;
     ctx.fillStyle = (T === TH.red) ? "#ffffff" : (T === TH.dark ? "#ff5a52" : C.red);
     ctx.fillText("Tv", hx + wd, 58);
+    if (s.band) band(ctx, s.band, W - PAD, 56);
     /* Fortschrittsbalken */
     var segW = (W - 2 * PAD - (n - 1) * 10) / n;
     for (var k = 0; k < n; k++) {
@@ -241,8 +250,9 @@
       var yq = head(ctx, s.frage || "Was denkst du?", IS, 400, x, y + 80, mw, 520, 180, 90, 1.05, fg, null, ac, 0.025);
       ctx.fillStyle = ac; ctx.fillRect(x, yq + 50, 120, 8);
       ctx.font = "400 46px " + SANS; ctx.fillStyle = fg;
-      ctx.fillText("Kommentieren · Speichern · Teilen", x, yq + 110);
-      ctx.fillText("Folge uns für täglich eine Einordnung.", x, yq + 175);
+      var zl = s.zeilen || ["Kommentieren · Speichern · Teilen", "Folge uns für täglich eine Einordnung."];
+      ctx.fillText(zl[0], x, yq + 110);
+      ctx.fillText(zl[1], x, yq + 175);
       mark(ctx, x + 80, H - 290, 80, null);
       ctx.font = "400 120px " + IS;
       var lw = ctx.measureText("Doytschland").width, lx = x + 200;
@@ -277,6 +287,7 @@
     ctx.fillText("Doytschland", x + 100, 274);
     var wd = ctx.measureText("Doytschland").width;
     ctx.fillStyle = ac; ctx.fillText("Tv", x + 100 + wd, 274);
+    if (s.band) band(ctx, s.band, x + mw, 272);
     var segW = (mw - (n - 1) * 10) / n;
     for (var k = 0; k < n; k++) { ctx.fillStyle = (k <= i && !live) ? ac : T.soft; ctx.fillRect(x + k * (segW + 10), 372, segW, 8); }
     var y = 560;
