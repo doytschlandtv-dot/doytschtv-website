@@ -41,7 +41,9 @@
       draw(i).then(function () {
         if (cur !== i) return;
         var b = bars[i]; void b.offsetWidth; b.className = "run"; b.style.setProperty("--st-dur", DUR + "ms");
-        timer = setTimeout(next, DUR);
+        function adv() { if (cur === i) next(); }
+        b.firstChild.addEventListener("animationend", adv, { once: true });
+        timer = setTimeout(adv, DUR);
         if (i + 1 < n) draw(i + 1);
       });
     }
@@ -49,7 +51,7 @@
     function prev() { set(Math.max(0, cur - 1)); }
     function close() {
       clearTimeout(timer); markSeen(day); if (btn) btn.classList.add("seen");
-      document.removeEventListener("keydown", key); ov.remove(); document.body.style.overflow = prevOverflow;
+      document.removeEventListener("keydown", key); document.removeEventListener("pointerup", resume); document.removeEventListener("pointercancel", resume); window.removeEventListener("blur", resume); ov.remove(); document.body.style.overflow = prevOverflow;
       if (opener && opener.focus) opener.focus();
     }
     function key(e) { if (e.key === "Escape") close(); else if (e.key === "ArrowRight") next(); else if (e.key === "ArrowLeft") prev(); }
@@ -61,9 +63,12 @@
       if (!stage.classList.contains("st-paused")) return; stage.classList.remove("st-paused");
       var b = bars[cur], cs = getComputedStyle(b.firstChild).transform, p = 0;
       try { var m = new DOMMatrix(cs); p = m.a; } catch (e) {}
-      clearTimeout(timer); timer = setTimeout(next, Math.max(300, DUR * (1 - p)));
+      var idx = cur;
+      clearTimeout(timer); timer = setTimeout(function () { if (cur === idx) next(); }, Math.max(300, DUR * (1 - p)));
     }
-    stage.addEventListener("pointerup", resume); stage.addEventListener("pointercancel", resume);
+    /* Loslassen irgendwo (auch außerhalb der Story) setzt fort, sonst bliebe die Story hängen */
+    document.addEventListener("pointerup", resume); document.addEventListener("pointercancel", resume);
+    window.addEventListener("blur", resume);
     var y0 = null;
     stage.addEventListener("touchstart", function (e) { y0 = e.touches[0].clientY; }, { passive: true });
     stage.addEventListener("touchend", function (e) { if (y0 != null && e.changedTouches[0].clientY - y0 > 90) close(); y0 = null; }, { passive: true });
