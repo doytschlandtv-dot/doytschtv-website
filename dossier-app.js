@@ -49,6 +49,10 @@
       l.appendChild(el("h3", null, a.titel)); l.appendChild(el("p", null, a.teaser));
       sm.appendChild(l); sm.appendChild(el("span", "t", fmt(a.datum))); d.appendChild(sm);
       var body = el("div", "ex-body");
+      if (a.bild) {
+        var fg2 = el("figure", "ds-fig"), im = el("img"); im.src = a.bild.src; im.alt = a.bild.alt || ""; im.loading = "lazy"; im.width = a.bild.w || 1050; im.height = a.bild.h || 816;
+        fg2.appendChild(im); fg2.appendChild(el("figcaption", null, a.bild.unter || "")); body.appendChild(fg2);
+      }
       if (a.aussage) {
         var q = el("blockquote", "ds-q");
         q.appendChild(el("p", "ds-qt", "„" + a.aussage.zitat + "“"));

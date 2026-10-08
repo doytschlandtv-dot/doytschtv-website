@@ -323,3 +323,7 @@ footer { font-size: 0.75rem; letter-spacing: 0.08em; font-weight: 500; }
 .ds-ring { stroke: var(--fg); } .ds-line { stroke: var(--line); }
 .ds-glyph { fill: var(--fg); font-family: "Bodoni Moda", "Didot", Georgia, serif; font-size: 460px; font-weight: 700; }
 @media (max-width: 40rem) { .ds-img svg { aspect-ratio: 16 / 9; } }
+
+.ds-fig { margin: 0 0 1.5rem; }
+.ds-fig img { display: block; width: 100%; height: auto; border-radius: 1rem; }
+.ds-fig figcaption { font-size: .82rem; color: var(--muted); margin-top: .5rem; }
