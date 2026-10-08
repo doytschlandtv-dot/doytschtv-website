@@ -243,6 +243,81 @@ window.BRIEFINGS = [
     "hashtags": "#doytschlandtv #gesellschaft #antisemitismus #gedenken #deutschland #grundgesetz #menschenrechte #einordnung #morningbriefing"
    },
    {
+    "zusatz": true,
+    "thema": "Steuerreform: Was bleibt am Ende bei dir?",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Aktuell",
+      "kicker": "Wirtschaft",
+      "titel": "Steuerreform im Bundestag: Was bleibt netto bei dir?",
+      "rot": "netto"
+     },
+     {
+      "typ": "fakten",
+      "band": "Aktuell",
+      "label": "Was passiert ist",
+      "titel": "Erste Lesung im Bundestag",
+      "text": "Der Bundestag berät am 8. Oktober erstmals über die Einkommensteuerreform 2027. Nach einer Stunde Aussprache geht der Entwurf an die Ausschüsse. Die Entlastung beginnt 2027 und wirkt ab 2028 voll.",
+      "quelle": "Bundestag, 7.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Aktuell",
+      "label": "Die Zahl",
+      "zahl": "10 Milliarden Euro",
+      "text": "Entlastung pro Jahr ab 2028. Beispiel der Bundesregierung: Eine Familie mit zwei Kindern und 60.000 Euro zu versteuerndem Einkommen hat dann mehr als 600 Euro im Jahr mehr.",
+      "quelle": "Bundesregierung, 2.9.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Aktuell",
+      "label": "Warum dich das betrifft",
+      "titel": "Was sich konkret ändert",
+      "punkte": [
+       {
+        "kopf": "Grundfreibetrag",
+        "text": "12.564 Euro ab 2027, 12.900 Euro ab 2028"
+       },
+       {
+        "kopf": "Kindergeld",
+        "text": "259 auf 267 Euro, ab 2028 dann 272 Euro"
+       },
+       {
+        "kopf": "Handwerker",
+        "text": "Steuerermäßigung sinkt von 20 auf 15 Prozent"
+       },
+       {
+        "kopf": "Minijobs",
+        "text": "Pauschsteuer steigt von 2 auf 5 Prozent"
+       }
+      ],
+      "quelle": "Bundesregierung, Bundestag"
+     },
+     {
+      "typ": "einordnung",
+      "band": "Aktuell",
+      "label": "Einordnung",
+      "titel": "Lob und Kritik",
+      "text": "Finanzminister Klingbeil verteidigt das Paket. Der DGB sagt, die Inflation werde kaum ausgeglichen. Der DIHK warnt, höhere Sätze für Spitzenverdiener träfen auch den Mittelstand. Was der Bundestag ändert, ist offen.",
+      "quelle": "dpa, 2.9.2026; NWB"
+     },
+     {
+      "typ": "meinung",
+      "band": "Aktuell",
+      "text": "Entlastung für Familien und mittlere Einkommen ist richtig. Entscheidend ist, was netto bleibt, wenn Abgaben und Streichungen gegengerechnet sind. Wir wollen gleiche Regeln für alle und ehrliche Zahlen.",
+      "handlung": "Rechne mit einem Steuerrechner nach, was sich für deinen Haushalt ändert."
+     },
+     {
+      "typ": "cta",
+      "band": "Aktuell",
+      "frage": "Reicht diese Entlastung für deinen Alltag?"
+     }
+    ],
+    "caption": "Die Bundesregierung will Familien und mittlere Einkommen entlasten: Ab 2028 sollen es rund zehn Milliarden Euro im Jahr sein. Heute berät der Bundestag in erster Lesung. Der Grundfreibetrag und das Kindergeld steigen, die Handwerker-Ermäßigung sinkt, der Pauschsteuersatz für Minijobs steigt. Gewerkschaften und Wirtschaft kritisieren Teile des Pakets. Uns geht es um die Sache: Entlastung ist richtig, wenn sie netto ankommt. Wir wollen gleiche Regeln für alle und ehrliche Zahlen. Quellen und mehr auf unserer Website, Link in der Bio. Reicht diese Entlastung für deinen Alltag?",
+    "hashtags": "#doytschlandtv #steuerreform #einkommensteuer #bundestag #entlastung #kindergeld #familien #wirtschaft #einordnung"
+   },
+   {
     "kolumne": true,
     "thema": "300 Sekunden: Kein Anspruch aufs Präsidentenamt",
     "slides": [
@@ -334,6 +409,17 @@ window.BRIEFINGS = [
     "rot": "1.700",
     "text": "Dobrindt nannte Antisemitismus auf dem Bebelplatz ein „abscheuliches Gift“. Israels Botschafter Prosor forderte, Antisemiten in Parlamenten entgegenzutreten, egal ob links oder rechts.",
     "quelle": "ZDFheute, Tagesspiegel, 7.10.2026",
+    "bild": null
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Wirtschaft",
+    "titel": "Steuerreform im Bundestag: Was bleibt netto?",
+    "rot": "netto",
+    "text": "Heute erste Lesung: 10 Milliarden Euro Entlastung ab 2028, mehr Kindergeld, höherer Grundfreibetrag. Offen ist, was Gegenfinanzierung und Streichungen kosten.",
+    "quelle": "Bundestag, Bundesregierung, 8.10.2026",
     "bild": null
    },
    {
