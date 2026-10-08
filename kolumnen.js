@@ -1,8 +1,9 @@
 /* Kolumnen der Redaktion (300 Sekunden). Neueste zuerst nicht nötig, die Seite sortiert.
-   Eintrag: {datum:"JJJJ-MM-TT", titel, teaser, text:[Absätze], quellen:[{titel,url}], audio:null|"https://...", dauer:"M:SS"} */
+   Eintrag: {datum:"JJJJ-MM-TT", thema (Demokratie, Migration, Wirtschaft, Völkerrecht, Gesellschaft ...), titel, teaser, text:[Absätze], quellen:[{titel,url}], audio:null|"https://...", dauer:"M:SS"} */
 window.KOLUMNEN = [
  {
   "datum": "2026-10-08",
+  "thema": "Demokratie",
   "titel": "Kein Anspruch aufs Präsidentenamt, aber ein Anspruch auf Neutralität",
   "teaser": "Die stärkste Fraktion darf das Amt vorschlagen, doch ein Recht auf die Wahl hat sie nicht, und genau deshalb zählt, wie sie es ausfüllen will.",
   "text": [
