@@ -42,13 +42,19 @@
   /* passt die Schrift an, bis der Text in die Box passt; gibt {size, lines} */
   function fit(ctx, text, fam, weight, maxW, maxH, start, min, lh) {
     var words = wordsOf(text);
+    function wordsFit() {
+      for (var k = 0; k < words.length; k++) if (ctx.measureText(words[k]).width > maxW) return false;
+      return true;
+    }
     for (var s = start; s >= min; s -= 2) {
       ctx.font = weight + " " + s + "px " + fam;
       var lines = layout(ctx, words, maxW);
-      if (lines.length * s * lh <= maxH) return { size: s, lines: lines };
+      if (lines.length * s * lh <= maxH && wordsFit()) return { size: s, lines: lines };
     }
-    ctx.font = weight + " " + min + "px " + fam;
-    return { size: min, lines: layout(ctx, words, maxW) };
+    var m = min;
+    ctx.font = weight + " " + m + "px " + fam;
+    while (!wordsFit() && m > 30) { m -= 2; ctx.font = weight + " " + m + "px " + fam; }
+    return { size: m, lines: layout(ctx, words, maxW) };
   }
   function drawLines(ctx, f, x, y, lh, color, hl, hlColor) {
     ctx.textBaseline = "top";
@@ -252,34 +258,40 @@
     canvas.width = SW; canvas.height = SH;
     var ctx = canvas.getContext("2d");
     var photo = !!img;
-    var fg = photo ? "#ffffff" : C.ink, ac = photo ? "#ff8b84" : C.red, mu = photo ? "#e8e4da" : C.muted;
-    ctx.fillStyle = C.paper; ctx.fillRect(0, 0, SW, SH);
+    var T = TH[s.theme || (i === 0 ? "dark" : "dark")];
+    var fg = T.fg, ac = T.ac, mu = T.mu;
+    ctx.fillStyle = T.bg; ctx.fillRect(0, 0, SW, SH);
     if (photo) {
       var r = Math.max(SW / img.width, SH / img.height), w = img.width * r, h = img.height * r;
       ctx.drawImage(img, (SW - w) / 2, (SH - h) / 2, w, h);
       var g = ctx.createLinearGradient(0, 0, 0, SH);
-      g.addColorStop(0, "rgba(10,10,10,.55)"); g.addColorStop(.28, "rgba(10,10,10,.25)");
-      g.addColorStop(.5, "rgba(10,10,10,.55)"); g.addColorStop(1, "rgba(10,10,10,.92)");
+      g.addColorStop(0, "rgba(10,10,10,.65)"); g.addColorStop(.3, "rgba(10,10,10,.35)");
+      g.addColorStop(.55, "rgba(10,10,10,.7)"); g.addColorStop(1, "rgba(10,10,10,.95)");
       ctx.fillStyle = g; ctx.fillRect(0, 0, SW, SH);
     }
     ctx.textBaseline = "top"; setLS(ctx, 0);
-    var x = 80, mw = SW - 160;
-    ctx.font = "700 56px " + PF; ctx.fillStyle = fg; ctx.fillText("Doytschland", x, 250);
+    /* Sicherer Bereich: oben 250 px und unten 340 px bleiben frei (Instagram-Oberfläche) */
+    var x = 90, mw = SW - 180;
+    mark(ctx, x + 38, 300, 38, null);
+    ctx.font = "700 48px " + PF; ctx.fillStyle = fg;
+    ctx.fillText("Doytschland", x + 100, 274);
     var wd = ctx.measureText("Doytschland").width;
-    ctx.fillStyle = ac; ctx.fillText("Tv", x + wd, 250);
-    ctx.fillStyle = photo ? "rgba(255,255,255,.7)" : C.rule; ctx.fillRect(x, 330, mw, 3);
-    var y = 700;
+    ctx.fillStyle = ac; ctx.fillText("Tv", x + 100 + wd, 274);
+    var segW = (mw - (n - 1) * 10) / n;
+    for (var k = 0; k < n; k++) { ctx.fillStyle = k <= i ? ac : T.soft; ctx.fillRect(x + k * (segW + 10), 372, segW, 8); }
+    var y = 560;
     lab(ctx, s.kicker || "Das Wichtigste", x, y, ac);
-    var y2 = head(ctx, s.titel, IS, 400, x, y + 70, mw, 520, 150, 80, 1.06, fg, hlSet(s.rot), ac, 0.012);
-    head(ctx, s.text, SANS, 400, x, y2 + 40, mw, 1500 - y2 - 40, 46, 30, 1.38, fg, null, ac, 0);
-    if (s.quelle) { ctx.font = "400 28px " + SANS; ctx.fillStyle = mu; ctx.fillText("Quelle: " + s.quelle, x, 1560); }
+    var y2 = head(ctx, s.titel, IS, 400, x, y + 80, mw, 560, 170, 90, 1.04, fg, hlSet(s.rot), ac, 0.02);
+    ctx.fillStyle = ac; ctx.fillRect(x, y2 + 30, 120, 8);
+    head(ctx, s.text, SANS, 400, x, y2 + 90, mw, 1500 - y2 - 90, 54, 30, 1.4, fg, null, ac, 0);
+    if (s.quelle) { ctx.font = "400 28px " + SANS; ctx.fillStyle = mu; ctx.fillText("Quelle: " + s.quelle, x, 1560 - 30); }
     if (photo && s.bild && s.bild.urheber) {
       ctx.font = "400 22px " + SANS; ctx.fillStyle = "rgba(255,255,255,.75)";
       var cr = "Foto: " + s.bild.urheber + (s.bild.lizenz ? " (" + s.bild.lizenz + ")" : "") + (s.bild.quelle ? ", " + s.bild.quelle : "");
-      ctx.fillText(cr.length > 90 ? cr.slice(0, 89) + "…" : cr, x, 1625);
+      ctx.fillText(cr.length > 90 ? cr.slice(0, 89) + "…" : cr, x, 1560 + 14);
     }
     ctx.font = "700 40px " + PF; ctx.fillStyle = ac;
-    var cnt = (i + 1) + "/" + n; ctx.fillText(cnt, SW - 80 - ctx.measureText(cnt).width, 1625);
+    var cnt = (i + 1) + "/" + n; ctx.fillText(cnt, SW - x - ctx.measureText(cnt).width, 1560 + 4);
   }
   function loadImg(url) {
     return new Promise(function (res) {
