@@ -73,7 +73,7 @@
   }
   function drawItem(sec) {
     if (sec._drawn || !sec._k) return; sec._drawn = true;
-    K.fontsReady().then(function () { sec._cvs.forEach(function (cv, i) { K.draw(cv, sec._k.slides[i], i, sec._k.slides.length); }); });
+    K.fontsReady().then(function () { sec._cvs.forEach(function (cv, i) { var sl = sec._k.slides[i]; K.loadImg(sl.bild && sl.bild.url).then(function (im) { K.draw(cv, sl, i, sec._k.slides.length, im); }); }); });
   }
   function toBlob(c) { return new Promise(function (r) { c.toBlob(r, "image/png"); }); }
   function shareSlides(k, cvs) {
