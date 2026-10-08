@@ -299,23 +299,31 @@ window.BRIEFINGS = [
       "band": "Aktuell",
       "label": "Einordnung",
       "titel": "Lob und Kritik",
-      "text": "Finanzminister Klingbeil verteidigt das Paket. Der DGB sagt, die Inflation werde kaum ausgeglichen. Der DIHK warnt, höhere Sätze für Spitzenverdiener träfen auch den Mittelstand. Was der Bundestag ändert, ist offen.",
+      "text": "Finanzminister Klingbeil verteidigt das Paket. Der DGB sagt, die Inflation werde kaum ausgeglichen. Der DIHK warnt, höhere Sätze für Spitzenverdiener träfen auch den Mittelstand.",
       "quelle": "dpa, 2.9.2026; NWB"
+     },
+     {
+      "typ": "einordnung",
+      "band": "Aktuell",
+      "label": "Die Gegenrechnung",
+      "titel": "Sozialabgaben könnten mehr Netto wieder auffressen",
+      "text": "Ohne Spargesetz wäre der Zusatzbeitrag der Krankenkassen 2027 laut Gesundheitsministerium auf 3,8 Prozent gestiegen. Das Gesetz soll ihn bei 2,9 halten, Kassenverbände halten Erhöhungen für möglich. Die Bemessungsgrenzen steigen ebenfalls.",
+      "quelle": "krankenkasseninfo.de, borncity.com, DRV"
      },
      {
       "typ": "meinung",
       "band": "Aktuell",
-      "text": "Entlastung für Familien und mittlere Einkommen ist richtig. Entscheidend ist, was netto bleibt, wenn Abgaben und Streichungen gegengerechnet sind. Wir wollen gleiche Regeln für alle und ehrliche Zahlen.",
-      "handlung": "Rechne mit einem Steuerrechner nach, was sich für deinen Haushalt ändert."
+      "text": "Entlastung ist richtig. Entscheidend ist, was netto bleibt, wenn Sozialabgaben und Streichungen sie wieder aufzehren. Wir wollen gleiche Regeln für alle und ehrliche Zahlen: Wer entlastet, soll die Gegenrechnung mitzeigen.",
+      "handlung": "Rechne nach, was Steuer und Abgaben zusammen für deinen Haushalt ändern."
      },
      {
       "typ": "cta",
       "band": "Aktuell",
-      "frage": "Reicht diese Entlastung für deinen Alltag?"
+      "frage": "Was bleibt bei dir am Ende netto?"
      }
     ],
-    "caption": "Die Bundesregierung will Familien und mittlere Einkommen entlasten: Ab 2028 sollen es rund zehn Milliarden Euro im Jahr sein. Heute berät der Bundestag in erster Lesung. Der Grundfreibetrag und das Kindergeld steigen, die Handwerker-Ermäßigung sinkt, der Pauschsteuersatz für Minijobs steigt. Gewerkschaften und Wirtschaft kritisieren Teile des Pakets. Uns geht es um die Sache: Entlastung ist richtig, wenn sie netto ankommt. Wir wollen gleiche Regeln für alle und ehrliche Zahlen. Quellen und mehr auf unserer Website, Link in der Bio. Reicht diese Entlastung für deinen Alltag?",
-    "hashtags": "#doytschlandtv #steuerreform #einkommensteuer #bundestag #entlastung #kindergeld #familien #wirtschaft #einordnung"
+    "caption": "Die Bundesregierung will Familien und mittlere Einkommen entlasten: Ab 2028 sollen es rund zehn Milliarden Euro im Jahr sein. Heute berät der Bundestag in erster Lesung. Doch netto zählt die Gegenrechnung: Der Zusatzbeitrag der Krankenkassen soll 2027 bei 2,9 Prozent bleiben, Kassenverbände halten Erhöhungen für möglich, und die Beitragsbemessungsgrenzen steigen. Uns geht es um die Sache: Wir wollen gleiche Regeln für alle und ehrliche Zahlen. Wer entlastet, soll auch zeigen, was Abgaben und Streichungen wieder aufzehren. Quellen und mehr auf unserer Website, Link in der Bio. Was bleibt bei dir am Ende netto?",
+    "hashtags": "#doytschlandtv #steuerreform #einkommensteuer #sozialabgaben #netto #bundestag #krankenkasse #entlastung #wirtschaft #einordnung"
    },
    {
     "kolumne": true,
@@ -418,8 +426,8 @@ window.BRIEFINGS = [
     "kicker": "Wirtschaft",
     "titel": "Steuerreform im Bundestag: Was bleibt netto?",
     "rot": "netto",
-    "text": "Heute erste Lesung: 10 Milliarden Euro Entlastung ab 2028, mehr Kindergeld, höherer Grundfreibetrag. Offen ist, was Gegenfinanzierung und Streichungen kosten.",
-    "quelle": "Bundestag, Bundesregierung, 8.10.2026",
+    "text": "Heute erste Lesung: 10 Milliarden Euro Entlastung ab 2028. Offen ist, was Sozialabgaben und Streichungen davon wieder aufzehren.",
+    "quelle": "Bundestag, Bundesregierung, Krankenkassen, 8.10.2026",
     "bild": null
    },
    {
