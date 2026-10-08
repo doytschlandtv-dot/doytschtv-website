@@ -214,7 +214,12 @@ window.DOSSIERS = [
        "typ": "hook",
        "kicker": "Dossier",
        "titel": "Annexion, „Auswanderung“, Hilfestopp: Was zwei israelische Minister seit dem 7. Oktober 2023 sagten.",
-       "rot": "Annexion"
+       "rot": "Annexion",
+       "bild": {
+        "url": "dossier-portraet.jpg",
+        "karte": true,
+        "unter": "Illustrationen, KI-generiert, keine Fotos"
+       }
       },
       {
        "typ": "zahl",
@@ -264,6 +269,13 @@ window.DOSSIERS = [
      ],
      "caption": "Smotrich und Ben-Gvir haben seit dem 7. Oktober 2023 Annexion, „freiwillige Auswanderung“ und Hilfestopps gefordert. Wir haben die am besten belegten Aussagen gesammelt und mit den Einordnungen von Gericht, Regierung und Organisationen versehen. Zum Beispiel: Smotrich sagte nicht, man solle aushungern, sondern eine Blockade könne „gerechtfertigt“ sein. Ben-Gvirs Forderung, jede Nacht 30 bis 40 Menschen in Gaza zu töten, nannte die Bundesregierung völkerrechtswidrig. Uns geht es um die Sache, nicht um Personen. Alle Quellen im Dossier auf doytschtv.de. Wo endet für dich politische Rhetorik, und wo beginnt der Verstoß gegen Menschenrechte?",
      "hashtags": "#doytschlandtv #politik #israel #gaza #westjordanland #völkerrecht #menschenrechte #faktencheck #dossier #einordnung"
+    },
+    "bild": {
+     "src": "dossier-smotrich-ben-gvir.jpg",
+     "w": 1280,
+     "h": 1050,
+     "alt": "KI-generierte Illustration von Itamar Ben-Gvir (links) und Bezalel Smotrich (rechts) im Schwarz-Weiß-Comicstil, mit Namen, Ämtern und DoytschlandTv-Logo",
+     "unter": "Illustration, KI-generiert, keine Fotos."
     }
    }
   ],

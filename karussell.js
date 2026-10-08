@@ -148,7 +148,7 @@
     ctx.fillStyle = "#ffffff"; ctx.textBaseline = "middle"; ctx.fillText(t, xr - w + 22, y + 29);
     ctx.restore(); setLS(ctx, 0); ctx.textBaseline = "top";
   }
-  function draw(canvas, s, i, n) {
+  function draw(canvas, s, i, n, img) {
     canvas.width = W; canvas.height = H;
     var ctx = canvas.getContext("2d");
     var T = TH[s.theme || THEME_OF[s.typ] || "light"];
@@ -187,7 +187,14 @@
 
     if (s.typ === "hook") {
       lab(ctx, s.kicker || "Politik", x, y, ac);
-      head(ctx, s.titel, IS, 400, x, y + 150, mw, 880, 250, 110, 1.04, fg, hlSet(s.rot), ac, 0.02);
+      if (img) {
+        var ih = Math.round(mw * img.height / img.width);
+        ctx.save(); rr(ctx, x, y + 70, mw, ih, 14); ctx.clip(); ctx.drawImage(img, x, y + 70, mw, ih); ctx.restore();
+        head(ctx, s.titel, IS, 400, x, y + 70 + ih + 40, mw, bottom - (y + 70 + ih + 40) - 20, 96, 56, 1.04, fg, hlSet(s.rot), ac, 0.01);
+        if (s.bild && s.bild.unter) { ctx.font = "400 24px " + SANS; ctx.fillStyle = mu; ctx.fillText(s.bild.unter, x, H - 150); }
+      } else {
+        head(ctx, s.titel, IS, 400, x, y + 150, mw, 880, 250, 110, 1.04, fg, hlSet(s.rot), ac, 0.02);
+      }
       ctx.font = "400 40px " + SANS; ctx.fillStyle = mu; ctx.fillText("Wische für die Einordnung  →", x, H - 110);
     } else if (s.typ === "fakten") {
       lab(ctx, s.label || "Was passiert ist", x, y, ac);
@@ -271,7 +278,8 @@
     var T = TH[s.theme || (i === 0 ? "dark" : "dark")];
     var fg = T.fg, ac = T.ac, mu = T.mu;
     ctx.fillStyle = T.bg; ctx.fillRect(0, 0, SW, SH);
-    if (photo) {
+    var card = photo && s.bild && s.bild.karte;
+    if (photo && !card) {
       var r = Math.max(SW / img.width, SH / img.height), w = img.width * r, h = img.height * r;
       ctx.drawImage(img, (SW - w) / 2, (SH - h) / 2, w, h);
       var g = ctx.createLinearGradient(0, 0, 0, SH);
@@ -292,6 +300,17 @@
     for (var k = 0; k < n; k++) { ctx.fillStyle = (k <= i && !live) ? ac : T.soft; ctx.fillRect(x + k * (segW + 10), 372, segW, 8); }
     var y = 560;
     lab(ctx, s.kicker || "Das Wichtigste", x, y, ac);
+    if (card) {
+      var ch = Math.round(mw * img.height / img.width), cy = y + 70;
+      ctx.save(); rr(ctx, x, cy, mw, ch, 14); ctx.clip(); ctx.drawImage(img, x, cy, mw, ch); ctx.restore();
+      var yc = head(ctx, s.titel, IS, 400, x, cy + ch + 40, mw, 1500 - (cy + ch + 40), 96, 56, 1.04, fg, hlSet(s.rot), ac, 0.01);
+      ctx.fillStyle = ac; ctx.fillRect(x, yc + 24, 120, 8);
+      if (s.text) head(ctx, s.text, SANS, 400, x, yc + 60, mw, 1500 - yc - 60, 40, 28, 1.4, fg, null, ac, 0);
+      if (s.bild.unter) { ctx.font = "400 24px " + SANS; ctx.fillStyle = mu; ctx.fillText(s.bild.unter, x, 1530); }
+      ctx.font = "700 40px " + PF; ctx.fillStyle = ac;
+      var cn = (i + 1) + "/" + n; ctx.fillText(cn, SW - x - ctx.measureText(cn).width, 1564);
+      return;
+    }
     var y2 = head(ctx, s.titel, IS, 400, x, y + 80, mw, 560, 170, 90, 1.04, fg, hlSet(s.rot), ac, 0.02);
     ctx.fillStyle = ac; ctx.fillRect(x, y2 + 30, 120, 8);
     head(ctx, s.text, SANS, 400, x, y2 + 90, mw, 1500 - y2 - 90, 54, 30, 1.4, fg, null, ac, 0);
@@ -381,7 +400,7 @@
         cv.setAttribute("aria-label", "Slide " + (i + 1) + " von " + k.slides.length + ": " + (s.titel || s.zahl || s.text || s.behauptung || s.typ));
         row.appendChild(cv);
         canvases.push(cv);
-        jobs.push(function () { draw(cv, s, i, k.slides.length); });
+        jobs.push(function () { loadImg(s.bild && s.bild.url).then(function (im) { draw(cv, s, i, k.slides.length, im); }); });
       });
       sec.appendChild(row);
 
