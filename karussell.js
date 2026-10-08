@@ -188,8 +188,7 @@
     if (s.typ === "hook") {
       lab(ctx, s.kicker || "Politik", x, y, ac);
       if (img) {
-        var ih = Math.round(mw * img.height / img.width);
-        ctx.save(); rr(ctx, x, y + 70, mw, ih, 14); ctx.clip(); ctx.drawImage(img, x, y + 70, mw, ih); ctx.restore();
+        var ih = cardImg(ctx, img, x, y + 70, mw, s.bild && s.bild.fokus);
         head(ctx, s.titel, IS, 400, x, y + 70 + ih + 40, mw, bottom - (y + 70 + ih + 40) - 20, 96, 56, 1.04, fg, hlSet(s.rot), ac, 0.01);
         if (s.bild && s.bild.unter) { ctx.font = "400 24px " + SANS; ctx.fillStyle = mu; ctx.fillText(s.bild.unter, x, H - 150); }
       } else {
@@ -301,8 +300,7 @@
     var y = 560;
     lab(ctx, s.kicker || "Das Wichtigste", x, y, ac);
     if (card) {
-      var ch = Math.round(mw * img.height / img.width), cy = y + 70;
-      ctx.save(); rr(ctx, x, cy, mw, ch, 14); ctx.clip(); ctx.drawImage(img, x, cy, mw, ch); ctx.restore();
+      var cy = y + 70, ch = cardImg(ctx, img, x, cy, mw, s.bild && s.bild.fokus);
       var yc = head(ctx, s.titel, IS, 400, x, cy + ch + 40, mw, 1500 - (cy + ch + 40), 96, 56, 1.04, fg, hlSet(s.rot), ac, 0.01);
       ctx.fillStyle = ac; ctx.fillRect(x, yc + 24, 120, 8);
       if (s.text) head(ctx, s.text, SANS, 400, x, yc + 60, mw, 1500 - yc - 60, 40, 28, 1.4, fg, null, ac, 0);
@@ -365,6 +363,16 @@
     box.appendChild(src);
     fontsReady().then(function () { jobs.forEach(function (j) { j(); }); });
     return box;
+  }
+  /* Bild als Karte: bei Hochformat wird auf Querformat zugeschnitten (fy = Fokus von oben, 0 bis 1) */
+  function cardImg(ctx, img, x, y, w, fy) {
+    var ar = img.height / img.width, h = ar > 0.75 ? Math.round(w * 0.62) : Math.round(w * ar);
+    ctx.save(); rr(ctx, x, y, w, h, 14); ctx.clip();
+    if (ar > 0.75) {
+      var sh = img.width * h / w, sy = Math.max(0, Math.min(img.height - sh, img.height * (fy == null ? 0.3 : fy) - sh / 2));
+      ctx.drawImage(img, 0, sy, img.width, sh, x, y, w, h);
+    } else ctx.drawImage(img, x, y, w, h);
+    ctx.restore(); return h;
   }
   function rr(ctx, x, y, w, h, r) {
     ctx.beginPath();

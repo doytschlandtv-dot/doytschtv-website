@@ -44,6 +44,20 @@ window.BRIEFINGS = [
      "karte": true,
      "unter": "Illustration, KI-generiert, kein Foto · Kolumne: doytschtv.de"
     }
+   },
+   {
+    "band": "Meinung",
+    "kicker": "Unsere Antwort",
+    "titel": "Moscheen als Waffenlager? Wir nennen das Hetze.",
+    "rot": "Hetze",
+    "text": "",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-moscheen.jpg",
+     "karte": true,
+     "fokus": 0.36,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    }
   ],
   "karussells": [
@@ -119,6 +133,87 @@ window.BRIEFINGS = [
     ],
     "caption": "Die PKK erklärt laut eigenen Angaben den vollständigen Abzug aus der Türkei und bekräftigt die Waffenniederlegung. Von außen ist das nicht geprüft, eine Reaktion Ankaras lag am Donnerstagabend nicht vor. Fest steht: Ein Konflikt mit etwa 40.000 Toten würde enden. Ob daraus Frieden wird, entscheidet sich an gleichen Rechten im Alltag. Unsere Einordnung ist als Meinung gekennzeichnet. Die ganze Kolumne mit allen Quellen: Link in der Bio. Was braucht es für echten Frieden?",
     "hashtags": "#doytschlandtv #pkk #türkei #kurden #frieden #politik #einordnung #kolumne"
+   },
+   {
+    "thema": "Moscheen unter Generalverdacht: Unsere Antwort an Julian Reichelt",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Unsere Meinung",
+      "titel": "Moscheen als Waffenlager? Wir nennen das Hetze.",
+      "rot": "Hetze",
+      "bild": {
+       "url": "titel-moscheen.jpg",
+       "fokus": 0.36,
+       "unter": "Illustration, KI-generiert, kein Foto."
+      }
+     },
+     {
+      "typ": "fakten",
+      "titel": "Was Julian Reichelt sagte.",
+      "text": "In „Achtung, Reichelt!“ am 5.10.2026: „Moscheen gehören nicht zur deutschen Tradition, schon gar nicht zu unserem Nationalfeiertag.“ Wo Minarette stünden und der Muezzin rufe, regiere irgendwann der Islam. Wo der Islamismus herrsche, würden in Moscheen Waffen gelagert, Pläne gegen „Ungläubige“ geschmiedet und Terroristen radikalisiert und rekrutiert.",
+      "quelle": "Post von nius.de und achtung.reichelt, Video nicht gesichtet"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Die Behauptung",
+      "behauptung": "Wo Minarette stehen und der Muezzin ruft, da regiert irgendwann der Islam.",
+      "labelB": "Der Fakt",
+      "fakt": "In Köln rief im Oktober 2022 erstmals ein Muezzin öffentlich: freitags, höchstens fünf Minuten, mit Lautstärkegrenze. Regiert wird dort nach dem Grundgesetz.",
+      "quelle": "evangelisch.de, 14.10.2022"
+     },
+     {
+      "typ": "zahl",
+      "zahl": "2.500",
+      "label": "Moscheen in Deutschland",
+      "text": "Knapp 2.500 Moscheen schätzt eine Studie von 2022/23. Seit 2017 haben wir drei Verbote von Moscheevereinen gefunden: zwei 2017 (darunter Fussilet 33 in Berlin) und das Islamische Zentrum Hamburg 2024. Das ist etwa ein Promille (eigene Rechnung).",
+      "quelle": "ZfTI-Studie 2023 (Bundestag), bpb, lto.de"
+     },
+     {
+      "typ": "fakten",
+      "label": "Radikalisierung in Moscheen?",
+      "titel": "Es gibt Fälle. Aber nicht „die Moscheen“.",
+      "text": "Von 572 nach Syrien oder in den Irak Ausgereisten nannten 48 Prozent salafistisch beeinflusste Moscheen als Grund ihrer Radikalisierung. Häufiger genannt wurde der Freundeskreis (54 Prozent), dann das Internet (44 Prozent). Gemeint sind salafistisch beeinflusste Moscheen, nicht die Moscheen insgesamt.",
+      "quelle": "Bundeszentrale für politische Bildung"
+     },
+     {
+      "typ": "fakten",
+      "label": "Waffen und Pläne?",
+      "titel": "Einzelfälle sind kein Beweis für alle.",
+      "text": "Bei den Verboten 2017 wurden laut bpb dort Anschläge oder Ausreisen zum IS vorbereitet. Einen belegten Waffenfund in einer deutschen Moschee haben wir nicht gefunden, in den zitierten Sätzen nennt Reichelt keinen einzigen Fall. Wer aus einzelnen Vereinen auf fast 2.500 Moscheen schließt, ersetzt Belege durch Verdacht.",
+      "quelle": "bpb, vol.at, lto.de"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Tradition",
+      "titel": "29 Jahre Tag der offenen Moschee.",
+      "text": "Seit 1997 laden Moscheen jedes Jahr am 3. Oktober ein, 2026 zum 30. Mal, mehr als 700 Moscheen. Die erste Moschee Berlins wurde 1928 eingeweiht. 5,3 bis 5,6 Millionen Muslime leben hier. „Nicht zur Tradition“ ist eine Wertung, und sie schließt Millionen Menschen aus.",
+      "quelle": "evangelisch.de, taz, BAMF"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Der Fachbegriff",
+      "titel": "Pauschal verdächtigen hat einen Namen.",
+      "text": "Der Unabhängige Expertenkreis Muslimfeindlichkeit nennt als Merkmal die pauschale Verknüpfung des Islams mit Extremismus und Gewalt. Laut Bericht (2023) stimmt etwa die Hälfte der Menschen in Deutschland muslimfeindlichen Aussagen zu. Die Methodik des Berichts ist umstritten.",
+      "quelle": "Berliner Zeitung, Bericht des Expertenkreises 2023"
+     },
+     {
+      "typ": "meinung",
+      "text": "„Wer Millionen Muslime für die Taten von Islamisten haftbar macht, hetzt gegen Menschen. Wer behauptet, in Moscheen würden Pläne gegen „Ungläubige“ geschmiedet, macht aus Gebetshäusern Verschwörungsorte. Einzelne Täter sind kein Grund, fast 2.500 Gemeinden zu verdächtigen.“",
+      "handlung": "Kritik am Islamismus: ja, mit Beweisen. Pauschalverdacht: nein."
+     },
+     {
+      "typ": "meinung",
+      "text": "„Muslime pauschal zu verdächtigen, nur weil sie Muslime sind, ist antimuslimischer Rassismus. Er macht aus einer Religion eine Herkunft und aus Nachbarn Feinde. Das Grundgesetz kennt keine Bürger zweiter Klasse.“",
+      "handlung": "Das gilt für jede Religion und jede Herkunft."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wo ziehst du die Grenze zwischen Kritik und Hetze?"
+     }
+    ],
+    "caption": "Julian Reichelt sagte laut einem Post von nius.de und achtung.reichelt am 5.10.2026, Moscheen gehörten nicht zur deutschen Tradition, wo Minarette stünden, regiere irgendwann der Islam, und in Moscheen würden Waffen gelagert, Pläne gegen „Ungläubige“ geschmiedet und Terroristen rekrutiert. Unsere Prüfung: Es gibt knapp 2.500 Moscheen in Deutschland, wir haben seit 2017 drei Verbote von Moscheevereinen gefunden. Salafistisch beeinflusste Moscheen spielen laut bpb bei der Radikalisierung einzelner eine Rolle, häufiger genannt werden aber Freundeskreis und Internet. Einen belegten Waffenfund haben wir nicht gefunden. Der Muezzinruf in Köln folgt klaren Auflagen. Der Tag der offenen Moschee findet seit 1997 statt. Dass Moscheen pauschal unter Verdacht gestellt werden, nennen wir Hetze und antimuslimischen Rassismus. Das ist unsere Meinung und so gekennzeichnet. Der Wortlaut stützt sich auf den Post, das Video haben wir nicht gesichtet. Wo ziehst du die Grenze zwischen Kritik und Hetze?",
+    "hashtags": "#doytschlandtv #moscheen #muslime #antimuslimischerrassismus #religionsfreiheit #grundgesetz #politik #meinung"
    }
   ]
  },
