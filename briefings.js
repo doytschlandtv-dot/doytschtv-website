@@ -44,6 +44,20 @@ window.BRIEFINGS = [
      "karte": true,
      "unter": "Illustration, KI-generiert, kein Foto · Kolumne: doytschtv.de"
     }
+   },
+   {
+    "band": "Meinung",
+    "kicker": "Unsere Antwort",
+    "titel": "Moscheen als Waffenlager? Wir nennen das Hetze.",
+    "rot": "Hetze",
+    "text": "",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-moscheen.jpg",
+     "karte": true,
+     "fokus": 0.36,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    }
   ],
   "karussells": [
@@ -127,7 +141,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Unsere Meinung",
       "titel": "Moscheen als Waffenlager? Wir nennen das Hetze.",
-      "rot": "Hetze"
+      "rot": "Hetze",
+      "bild": {
+       "url": "titel-moscheen.jpg",
+       "fokus": 0.36,
+       "unter": "Illustration, KI-generiert, kein Foto."
+      }
      },
      {
       "typ": "fakten",
