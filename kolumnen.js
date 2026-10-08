@@ -228,7 +228,7 @@ window.KOLUMNEN = [
     "offen": false,
     "text": [
      "Die Skepsis hat Gründe. Die Regierung spricht von einer terrorfreien Türkei und meidet Begriffe wie Dialog oder Verhandlung. Gleichzeitig wurden gewählte Bürgermeister der DEM-Partei abgesetzt, wie die bpb schreibt. Erdoğan lehnte nach Angaben des ZDF im Frühjahr 2025 eine Freilassung Öcalans und Amnestien für verurteilte Terroristen ab. Ob alle Teile der PKK dem Aufruf folgen und wie es mit der YPG in Nordsyrien weitergeht, ist offen.",
-     "Aus kurdischer Sicht werden laut ZDFheute mögliche Verhandlungspunkte genannt: die Anerkennung des Kurdischen als Nationalsprache, eine Änderung des Verfassungsartikels zur Staatsbürgerschaft, ein Ende der Zwangsverwaltungen und ein Ende der Isolationshaft Öcalans. Wir teilen nicht alle dieser Forderungen, unsere Haltung steht im Abschnitt „Unsere Meinung“.",
+     "Aus kurdischer Sicht werden laut ZDFheute mögliche Verhandlungspunkte genannt: die Anerkennung des Kurdischen als Nationalsprache, eine Änderung des Verfassungsartikels zur Staatsbürgerschaft und ein Ende der Zwangsverwaltungen. Wir teilen nicht alle dieser Forderungen, unsere Haltung steht im Abschnitt „Unsere Meinung“.",
      "Wer das Ganze für ein taktisches Manöver hält, kann sich also auf Fakten berufen. Wer es für einen echten Neuanfang hält, ebenfalls, denn der Abzug ist erklärt und das Gesetz ist beschlossen. Beides stimmt gleichzeitig. Welche Lesart sich durchsetzt, entscheiden die nächsten Monate."
     ]
    },
