@@ -51,6 +51,14 @@ window.BRIEFINGS = [
     {
      "titel": "Volksstimme (dpa): CDU rätselt, woher die Stimmen für AfD-Präsident kamen",
      "url": "https://www.volksstimme.de/panorama/cdu-ratselt-woher-kamen-die-stimmen-fur-afd-prasident-4334212"
+    },
+    {
+     "titel": "ZDFheute: Jahrestag des Hamas-Überfalls, Berlin gedenkt der Opfer",
+     "url": "https://www.zdfheute.de/politik/hamas-angriff-7-oktober-berlin-gedenkfeier-prosor-dobrindt-100.html"
+    },
+    {
+     "titel": "Tagesspiegel: Berlin erinnert an den Hamas-Terror, Dobrindt geißelt Antisemitismus",
+     "url": "https://www.tagesspiegel.de/berlin/berlin-erinnert-an-den-hamas-terror-dobrindt-geisselt-antisemitismus-als-abscheuliches-gift--kerzen-fur-opfer-des-7-oktober-16137894.html"
     }
    ]
   },
@@ -192,6 +200,47 @@ window.BRIEFINGS = [
     ],
     "caption": "Zum ersten Mal ist ein AfD-Politiker Landtagspräsident: Tobias Rausch in Sachsen-Anhalt, mit 48 von 82 Stimmen. Erwartet waren 44. Woher die vier zusätzlichen Stimmen kamen, ist wegen der geheimen Wahl unbekannt. Uns geht es nicht um die Person, sondern um die Sache: Ein Landtagspräsident muss das ganze Parlament vertreten und die freiheitliche Grundordnung glaubhaft leben. Quellen: ORF, Volksstimme/dpa. Wie hältst du es mit Brandmauern?",
     "hashtags": "#doytschlandtv #politik #deutschland #nachrichten #einordnung #grundgesetz #demokratie #faktencheck #morningbriefing"
+   },
+   {
+    "thema": "Gedenken und Antisemitismus",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Gesellschaft",
+      "titel": "Dritter Jahrestag: Berlin erinnert an den 7. Oktober.",
+      "rot": "7. Oktober"
+     },
+     {
+      "typ": "fakten",
+      "titel": "Gedenkfeier auf dem Bebelplatz",
+      "text": "Am 7. Oktober 2026 gedachten in Berlin laut Polizei rund 1.700 Menschen der Opfer des Hamas-Angriffs. Auf dem Bebelplatz sprachen Innenminister Dobrindt und Israels Botschafter Prosor.",
+      "quelle": "ZDFheute, Tagesspiegel, 7.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "zahl": "1.200",
+      "label": "Menschen getötet am 7. Oktober 2023",
+      "text": "Mehr als 250 wurden als Geiseln in den Gazastreifen verschleppt. Der Angriff löste den Gaza-Krieg aus.",
+      "quelle": "ZDFheute, 7.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "titel": "Was Dobrindt sagte",
+      "text": "Dobrindt nannte Antisemitismus ein „abscheuliches Gift“. Jeder Angriff sei ein Auftrag, offensiv für Jüdinnen und Juden einzustehen. Er warnte laut Tagesspiegel auch vor Rechtsextremen und vor Antisemiten im Umfeld einer Berliner Partei.",
+      "quelle": "Tagesspiegel, 7.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Antisemitismus hat in diesem Land keinen Platz. Der Schutz jüdischen Lebens folgt aus dem Grundgesetz und aus unserer Geschichte. Genauso wenden wir uns gegen jede pauschale Abwertung von Menschengruppen, auch gegen Muslime.",
+      "handlung": "Widersprich, wenn Menschen wegen ihrer Religion oder Herkunft pauschal verantwortlich gemacht werden."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie schützen wir jüdisches Leben, ohne andere auszugrenzen?"
+     }
+    ],
+    "caption": "Drei Jahre nach dem Hamas-Angriff vom 7. Oktober gedachten in Berlin laut Polizei rund 1.700 Menschen der Opfer. Innenminister Dobrindt nannte Antisemitismus ein „abscheuliches Gift“ und forderte, offensiv für Jüdinnen und Juden einzustehen. Uns geht es um die Sache: Der Schutz jüdischen Lebens folgt aus dem Grundgesetz und aus unserer Geschichte. Genauso klar wenden wir uns gegen die pauschale Abwertung von Menschengruppen, auch gegen Muslime. Quellen und das ganze Briefing auf unserer Website, Link in der Bio. Wie schützen wir jüdisches Leben, ohne andere auszugrenzen?",
+    "hashtags": "#doytschlandtv #gesellschaft #antisemitismus #gedenken #deutschland #grundgesetz #menschenrechte #einordnung #morningbriefing"
    }
   ],
   "storys": [
@@ -217,6 +266,14 @@ window.BRIEFINGS = [
     "rot": "48 statt 44",
     "text": "Sachsen-Anhalt hat den ersten AfD-Landtagspräsidenten Deutschlands. Die Wahl war geheim, vier Stimmen sind ungeklärt.",
     "quelle": "ORF, Volksstimme (dpa), 6.10.2026",
+    "bild": null
+   },
+   {
+    "kicker": "Gesellschaft",
+    "titel": "Gedenken in Berlin: 1.700 erinnern an den 7. Oktober.",
+    "rot": "1.700",
+    "text": "Dobrindt nannte Antisemitismus auf dem Bebelplatz ein „abscheuliches Gift“. Israels Botschafter Prosor forderte, Antisemiten in Parlamenten entgegenzutreten, egal ob links oder rechts.",
+    "quelle": "ZDFheute, Tagesspiegel, 7.10.2026",
     "bild": null
    }
   ]
