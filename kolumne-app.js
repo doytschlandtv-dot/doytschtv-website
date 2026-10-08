@@ -11,7 +11,7 @@
 
   function el(t, c, x) { var n = document.createElement(t); if (c) n.className = c; if (x != null) n.textContent = x; return n; }
   function dat(k) { return new Date(k.datum + "T12:00:00").toLocaleDateString("de-DE", { day: "numeric", month: "long", year: "numeric", timeZone: "Europe/Berlin" }); }
-  function mins(k) { var n = (k.text || []).join(" ").length; return Math.max(1, Math.round(n / 1100)); }
+  function mins(k) { var n = (k.abschnitte && k.abschnitte.length) ? k.abschnitte.reduce(function (a, x) { return a + (x.text || []).join(" ").length; }, 0) : (k.text || []).join(" ").length; return Math.max(1, Math.round(n / 1100)); }
   function thema(k) { return k.thema || "Meinung"; }
   function meta(k) { return dat(k) + " · " + mins(k) + " Min. Lesezeit"; }
   function ki() { return el("p", "b-ki", "Dies ist eine Meinung der Redaktion und keine Nachricht."); }
@@ -70,8 +70,15 @@
       g.werte.forEach(function (x) {
         var row = el("div", "mk-bar"); row.appendChild(el("span", "mk-bl", x.l));
         var tr = el("div", "mk-tr"), f = el("div", "mk-fill" + (x.hl ? " hl" : "")); f.style.width = Math.round(x.w / mx * 100) + "%"; tr.appendChild(f); row.appendChild(tr);
-        row.appendChild(el("span", "mk-bv", String(x.w))); box.appendChild(row);
+        row.appendChild(el("span", "mk-bv", x.w.toLocaleString("de-DE"))); box.appendChild(row);
       });
+    } else if (g.art === "zeitstrahl") {
+      var zs = el("ol", "mk-zs");
+      g.werte.forEach(function (x) {
+        var li = el("li", (x.hl ? "mk-hot " : "") + (x.st ? "st-" + x.st : ""));
+        li.appendChild(el("b", null, x.j)); li.appendChild(el("span", null, x.t)); zs.appendChild(li);
+      });
+      box.appendChild(zs);
     } else if (g.art === "sitze") {
       g.werte.forEach(function (x) { tot += x.w; });
       var st = el("div", "mk-stack"), lg = el("ul", "mk-leg");

@@ -2,6 +2,320 @@
    Eintrag: {datum:"JJJJ-MM-TT", kurz:[{k,t}x3], abschnitte:[{id,titel,typ:fakten|meinung|folgen,offen,text:[Absätze],grafiken:[balken|sitze|rechnung]}], schluss, thema (Demokratie, Migration, Wirtschaft, Völkerrecht, Gesellschaft ...), titel, teaser, text:[Absätze], quellen:[{titel,url}], audio:null|"https://...", dauer:"M:SS"} */
 window.KOLUMNEN = [
  {
+  "datum": "2026-10-09",
+  "thema": "Völkerrecht",
+  "titel": "Vierzig Jahre Krieg, und jetzt? Der Frieden muss bei den Menschen ankommen",
+  "teaser": "Die PKK erklärt den vollständigen Abzug aus der Türkei. Ein Ende der Gewalt wäre ein Gewinn für Türken und Kurden, doch ob es ein Sieg der Menschen wird, entscheidet sich jetzt.",
+  "audio": null,
+  "dauer": null,
+  "kurz": [
+   {
+    "k": "Was passiert ist",
+    "t": "Die PKK erklärt, ihre bewaffneten Kräfte vollständig aus der Türkei abgezogen zu haben. Das ist eine Eigenangabe. Eine Reaktion der Regierung in Ankara lag am Donnerstagabend nicht vor."
+   },
+   {
+    "k": "Unsere Meinung",
+    "t": "Das Ende der Gewalt ist ein Gewinn für alle, die vierzig Jahre dafür bezahlt haben. Zum Sieg wird es erst, wenn aus dem Abzug gleiche Rechte werden."
+   },
+   {
+    "k": "Was folgen sollte",
+    "t": "Das Gesetz in Kraft setzen, die Isolationshaft Öcalans beenden, Sprache und Selbstverwaltung absichern, alle Opfer aufarbeiten, in Deutschland das Verbot überprüfen."
+   }
+  ],
+  "abschnitte": [
+   {
+    "id": "worum",
+    "titel": "Worum es geht",
+    "typ": "fakten",
+    "offen": true,
+    "text": [
+     "Die verbotene Kurdische Arbeiterpartei PKK hat am Donnerstag den vollständigen Abzug ihrer bewaffneten Kräfte aus der Türkei erklärt. Das meldet die PKK-nahe Agentur ANF, ORF und watson berichten darüber. Die PKK fordert von der Regierung weitere Schritte und kritisiert, dass die Isolationshaft ihres Gründers Abdullah Öcalan andauert. Dem Staat solle damit, so die Erklärung, keine Möglichkeit mehr für Vorwände bleiben.",
+     "Zwei Dinge gehören gleich dazu. Es ist eine Eigenangabe, von außen kann das niemand prüfen. Und eine Antwort der Regierung in Ankara war bis zum Abend nicht bekannt. Trotzdem ist es ein Einschnitt: Ein Konflikt, der über vierzig Jahre dauerte, wäre damit am Ende."
+    ]
+   },
+   {
+    "id": "geschichte",
+    "titel": "Wie es anfing",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "Die PKK wurde am 27. November 1978 im Dorf Ziyaret bei Lice von Abdullah Öcalan und einer kleinen Gruppe gegründet. Sie verstand sich als marxistisch und wollte zunächst einen sozialistischen kurdischen Staat. Nach dem Militärputsch von 1980 ging die Führung ins Exil nach Syrien und in den Libanon. Am 15. August 1984 begann der bewaffnete Kampf, mit Angriffen in Eruh und Şemdinli.",
+     "Dahinter steht eine ältere Wunde: Kurden wurde in der Türkei jahrzehntelang ihre Sprache und Tradition verweigert. Das erklärt nichts davon, was später an Gewalt geschah. Aber es erklärt, warum der Konflikt so lange Anhänger fand."
+    ],
+    "grafiken": [
+     {
+      "art": "zeitstrahl",
+      "titel": "Chronik des Konflikts",
+      "werte": [
+       {
+        "j": "1978",
+        "t": "Gründung der PKK im Dorf Ziyaret bei Lice"
+       },
+       {
+        "j": "1984",
+        "t": "Beginn des bewaffneten Kampfes",
+        "hl": true
+       },
+       {
+        "j": "ab 1990",
+        "t": "Härteste Jahre: Zwangsräumungen im Südosten, Höhepunkt der Entvölkerung 1994"
+       },
+       {
+        "j": "1993",
+        "t": "Verbot der PKK in Deutschland"
+       },
+       {
+        "j": "1999",
+        "t": "Öcalan wird in Kenia festgenommen, seitdem Haft auf der Insel İmralı"
+       },
+       {
+        "j": "2013",
+        "t": "Öcalan ruft zur Waffenruhe auf, die PKK zieht einen Teil der Kämpfer ab"
+       },
+       {
+        "j": "2015",
+        "t": "Friedensprozess scheitert, schwere Kämpfe im Südosten",
+        "hl": true
+       },
+       {
+        "j": "2025",
+        "t": "Öcalan ruft im Februar zur Auflösung auf, am 12. Mai erklärt die PKK ihren Kampf für beendet"
+       },
+       {
+        "j": "2026",
+        "t": "Gesetz im August, am 8. Oktober erklärt die PKK den vollständigen Abzug",
+        "hl": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "bilanz",
+    "titel": "Die Bilanz",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "Die Zahl der Toten schwankt je nach Quelle. Die International Crisis Group nennt etwa 40.000, t-online schreibt von rund 45.000. Viele davon waren Zivilisten, auf beiden Seiten. Die Anschläge der PKK trafen Zivilisten, und die Zwangsräumungen des Staates trafen Zivilisten.",
+     "In den 1990er Jahren wurden laut türkischer Presse 1.779 Dörfer und 6.153 kleinere Siedlungen zwangsgeräumt. Die Stiftung TESEV schätzt, dass zwischen 950.000 und 1,2 Millionen Menschen aus 14 Provinzen ihre Heimat verloren. Das sind Schätzungen, keine amtlichen Zahlen."
+    ],
+    "grafiken": [
+     {
+      "art": "rechnung",
+      "titel": "Vierzig Jahre in drei Zahlen",
+      "teile": [
+       {
+        "w": "40",
+        "l": "Jahre bewaffneter Konflikt (1984 bis 2025)"
+       },
+       {
+        "w": "ca. 40.000",
+        "l": "Tote, je nach Quelle bis 45.000"
+       },
+       {
+        "w": "ca. 1 Mio.",
+        "l": "Vertriebene in den 1990ern (TESEV: 950.000 bis 1,2 Mio.)"
+       }
+      ],
+      "note": "Quellen: International Crisis Group (ZDFheute), t-online, TESEV (Wikipedia). Die Zahlen schwanken, PKK und Staat zählen unterschiedlich."
+     },
+     {
+      "art": "balken",
+      "titel": "Tote 1990 bis 1999 nach offiziellen türkischen Angaben",
+      "werte": [
+       {
+        "l": "Militante",
+        "w": 26957
+       },
+       {
+        "l": "Soldaten",
+        "w": 5411
+       },
+       {
+        "l": "Zivilisten",
+        "w": 4549,
+        "hl": true
+       }
+      ],
+      "note": "Zahlen des türkischen Generalstabs (Wikipedia). Die PKK nennt für 1984 bis 1999 etwa 9.000 bis 10.000 tote Zivilisten und weicht stark ab. Beide Angaben sind nicht unabhängig überprüft."
+     }
+    ]
+   },
+   {
+    "id": "2015",
+    "titel": "Der Anlauf, der scheiterte",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "Im März 2013 rief Öcalan zur Waffenruhe auf, die PKK zog 1.500 bis 2.000 Kämpfer aus der Türkei ab. Es war die erste echte Waffenruhe. Sie hielt nicht. Im Sommer 2015 erklärte Präsident Erdoğan den Prozess für gescheitert, zuvor hatte er das Dolmabahçe-Abkommen vom 28. Februar 2015 nach etwa zwei Wochen für nichtig erklärt.",
+     "Auslöser war eine Kette von Ereignissen: Am 20. Juli 2015 sprengte sich ein IS-Attentäter in Suruç in die Luft, 34 Menschen starben. Zwei Tage später wurden in Ceylanpınar zwei Polizisten tot aufgefunden. Die PKK bekannte sich dazu und nannte es Vergeltung. Die Regierung nahm das zum Anlass, den Friedensprozess zu beenden. Der Fall ist bis heute nicht abschließend aufgeklärt. Ein Gutachten von Dezember 2025 ordnet fünf von zehn Fingerabdrücken am Tatort einem Polizeikollegen zu, keiner stammt von den Angeklagten, die 2018 freigesprochen wurden. Das berichtet Turkish Minute. Eine neue Ermittlung ist laut dem Bericht im Gange, ihr Ausgang ist offen. Wir ziehen daraus keinen Schluss, sondern halten fest, dass die Geschichte dieses Bruchs noch nicht zu Ende erzählt ist."
+    ]
+   },
+   {
+    "id": "jetzt",
+    "titel": "Warum jetzt?",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "Eine einzige Ursache gibt es nicht. Die PKK ist seit 2015 militärisch geschwächt. Die Lage in der Region hat sich verschoben: Der Iran hat an Einfluss verloren, in Damaskus übernahm im Dezember 2024 die HTS die Macht. In der Türkei suchte Devlet Bahçeli, der Koalitionspartner Erdoğans, im Oktober 2024 das Gespräch mit der prokurdischen DEM-Partei. Beobachter nennen außerdem Erdoğans angestrebte Verfassungsänderung, für die er Stimmen im Parlament braucht, und das Ziel, die Opposition zu spalten. Die Bundeszentrale für politische Bildung hält eine rein innenpolitische Erklärung für zu kurz gegriffen.",
+     "Wir sagen deshalb nicht, wer wen bezwungen hat. Wir sagen, dass mehrere Interessen zusammenkamen. Im August 2026 beschloss das türkische Parlament mit großer Mehrheit ein Gesetz, das zur Freilassung zahlreicher PKK-Mitglieder führen könnte. Es greift aber erst, wenn mehrere Schritte erfüllt sind."
+    ],
+    "grafiken": [
+     {
+      "art": "zeitstrahl",
+      "titel": "Der Weg zum Gesetz: was schon passiert ist, was noch fehlt",
+      "werte": [
+       {
+        "j": "Feb 2025",
+        "t": "Öcalan ruft zur Auflösung der PKK auf",
+        "st": "ok"
+       },
+       {
+        "j": "Mai 2025",
+        "t": "Die PKK erklärt ihren bewaffneten Kampf für beendet",
+        "st": "ok"
+       },
+       {
+        "j": "Jul 2025",
+        "t": "30 Kämpfer verbrennen symbolisch ihre Waffen",
+        "st": "ok"
+       },
+       {
+        "j": "Aug 2025",
+        "t": "Kommission im türkischen Parlament beginnt zu arbeiten",
+        "st": "ok"
+       },
+       {
+        "j": "Okt 2025",
+        "t": "Abzug in den Nordirak beginnt",
+        "st": "ok"
+       },
+       {
+        "j": "Aug 2026",
+        "t": "Parlament beschließt das Gesetz mit großer Mehrheit",
+        "st": "ok"
+       },
+       {
+        "j": "8. Okt 2026",
+        "t": "PKK erklärt den vollständigen Abzug (Eigenangabe)",
+        "st": "ok",
+        "hl": true
+       },
+       {
+        "j": "offen",
+        "t": "Sicherheitsbehörden bestätigen Auflösung und Waffenabgabe",
+        "st": "offen"
+       },
+       {
+        "j": "offen",
+        "t": "Nationaler Sicherheitsrat stimmt zu",
+        "st": "offen"
+       },
+       {
+        "j": "offen",
+        "t": "Veröffentlichung im Amtsblatt, danach könnten Freilassungen folgen",
+        "st": "offen"
+       }
+      ],
+      "note": "Quellen: watson, ORF, ZDFheute. Ausgefüllte Punkte sind geschehen, gestrichelte stehen aus."
+     }
+    ]
+   },
+   {
+    "id": "gegen",
+    "titel": "Die Skepsis",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "Die Skepsis hat Gründe. Die Regierung spricht von einer terrorfreien Türkei und meidet Begriffe wie Dialog oder Verhandlung. Gleichzeitig wurden gewählte Bürgermeister der DEM-Partei abgesetzt, wie die bpb schreibt. Erdoğan lehnte nach Angaben des ZDF im Frühjahr 2025 eine Freilassung Öcalans und Amnestien für verurteilte Terroristen ab. Ob alle Teile der PKK dem Aufruf folgen und wie es mit der YPG in Nordsyrien weitergeht, ist offen.",
+     "Wer das Ganze für ein taktisches Manöver hält, kann sich also auf Fakten berufen. Wer es für einen echten Neuanfang hält, ebenfalls, denn der Abzug ist erklärt und das Gesetz ist beschlossen. Beides stimmt gleichzeitig. Welche Lesart sich durchsetzt, entscheiden die nächsten Monate."
+    ]
+   },
+   {
+    "id": "deutschland",
+    "titel": "Und in Deutschland?",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "Auch hier gibt es eine Geschichte. Am 26. November 1993 verbot der damalige Bundesinnenminister Manfred Kanther die PKK und 35 nahestehende Organisationen. Die Begründung: 1992 und 1993 hatte es in Deutschland und Westeuropa mehrere Anschlagswellen gegeben. Am 24. Juni 1993 verübten rund 600 Täter 50 Anschläge, in München nahmen 13 Aktivisten das türkische Generalkonsulat als Geisel. Am 4. November 1993 gab es etwa 60 gewalttätige Angriffe auf türkische Einrichtungen und Wohnungen, dabei starb ein Mensch in Wiesbaden.",
+     "Das Verbot gilt weiter. Die Deutsche Vereinigung der Juristinnen und Juristen und der Republikanische Anwältinnen- und Anwälteverein forderten in einem offenen Brief vom 5. Dezember 2025 die Aufhebung. Der Brief nennt laufende Verfahren nach den Paragrafen 129a und 129b und schreibt, Innenminister Dobrindt habe das Verbot zuletzt bekräftigt. In der EU bleibt die PKK als Terrororganisation gelistet. Das ist die Position der Verfasser des Briefs, eine Stellungnahme der Bundesregierung liegt uns dazu nicht vor."
+    ]
+   },
+   {
+    "id": "meinung",
+    "titel": "Unsere Meinung",
+    "typ": "meinung",
+    "offen": true,
+    "text": [
+     "Endlich. Ein Krieg, der über vierzig Jahre Zehntausende Menschen das Leben kostete und rund eine Million aus ihrer Heimat vertrieb, geht zu Ende. Wenn sich das bestätigt, ist es ein Meilenstein. Er gehört nicht den Männern an der Spitze, sondern den Menschen, die vierzig Jahre für diesen Krieg bezahlt haben: Türken und Kurden, Mütter, Soldaten, Dorfbewohner, Zivilisten. Sie sind die Sieger, wenn der Frieden bleibt.",
+     "Aber ein Sieg wird es erst, wenn er im Alltag ankommt. Das Gesetz muss tatsächlich in Kraft treten und darf nicht an Bedingungen hängen bleiben. Die Isolationshaft Öcalans muss enden, denn der Prozess braucht jemanden, der ihn führen kann. Kurdisch darf kein Sicherheitsproblem mehr sein, und gewählte Bürgermeister müssen im Amt bleiben dürfen. Ein Frieden, in dem Menschen wegen ihrer Sprache oder ihrer Partei misstrauisch behandelt werden, ist nur eine Waffenruhe.",
+     "Wir bewerten das nach der Sache. Gewalt gegen Zivilisten ist nie zu rechtfertigen, auch nicht für ein berechtigtes Anliegen, und es gilt auf jeder Seite. Gleiche Rechte für alle Menschen sind keine Gnade, sondern ein Grundrecht. Den Beteiligten gebührt Anerkennung dafür, dass sie diesen Schritt möglich gemacht haben. Gemessen werden sie an dem, was jetzt kommt.",
+     "Eine persönliche Anmerkung von Cengiz Bozkurt: Ich bin väterlicherseits kurdisch und mütterlicherseits türkisch. Ich habe mein ganzes Leben unter diesem Konflikt gelitten. Deshalb sehe ich beide Seiten: die Opfer der Vertreibung und die Opfer der Anschläge, die Familien der gefallenen Soldaten und die Familien der getöteten Kämpfer und Zivilisten. Für mich ist dieser Tag kein Triumph einer Seite. Er ist die Chance, dass niemand mehr zwischen seiner Herkunft wählen muss.",
+     "Zum Verbot in Deutschland: Wenn die PKK sich auflöst, muss auch hier jemand sagen, was das Verbot dann noch schützen soll. Das Verbot wurde mit Gewalt begründet. Hört die Gewalt auf, gehört die Frage auf den Tisch, ob es noch verhältnismäßig ist. Wir fordern keine Aufhebung über Nacht, aber eine ehrliche Prüfung."
+    ]
+   },
+   {
+    "id": "folgen",
+    "titel": "Was folgen sollte",
+    "typ": "folgen",
+    "offen": false,
+    "text": [
+     "Erstens: das Gesetz in Kraft setzen, ohne weitere Vorwände. Zweitens: ein Ende der Isolationshaft und eine rechtlich saubere Rolle für Öcalan im Prozess. Drittens: sichtbare Schritte bei der kurdischen Sprache und der kommunalen Selbstverwaltung, einschließlich der Rücknahme von Zwangsverwaltungen. Viertens: eine Aufarbeitung, die allen Opfern gerecht wird, den zivilen Toten, den Vertriebenen und den Familien der Soldaten. Fünftens: eine Prüfung des PKK-Verbots in Deutschland, sobald die Auflösung bestätigt ist."
+    ]
+   }
+  ],
+  "schluss": "Ein Frieden, den man verkündet, ist noch keiner. Ein Frieden, den Menschen in ihrem Alltag spüren, ist es. Daran messen wir alle Beteiligten.",
+  "quellen": [
+   {
+    "titel": "ORF: PKK erklärt militärischen Rückzug (8.10.2026)",
+    "url": "https://orf.at/stories/3444486/"
+   },
+   {
+    "titel": "watson: PKK verkündet kompletten Rückzug (8.10.2026)",
+    "url": "https://www.watson.ch/international/tuerkei/823695321-pkk-erklaert-kompletten-rueckzug-aus-der-tuerkei"
+   },
+   {
+    "titel": "t-online: PKK, 40 Jahre Kampf gegen den türkischen Staat",
+    "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_100614470/pkk-40-jahre-kampf-gegen-den-tuerkischen-staat-der-einfluss-oecalans.html"
+   },
+   {
+    "titel": "bpb: Auflösung der PKK, (k)eine Chance auf Frieden",
+    "url": "https://www.bpb.de/themen/europa/tuerkei/562919/aufloesung-der-pkk-k-eine-chance-auf-frieden/"
+   },
+   {
+    "titel": "ZDFheute: PKK gibt auf, endet damit der Kurdenkonflikt?",
+    "url": "https://www.zdfheute.de/politik/ausland/tuerkei-kurden-konflikt-pkk-aufloesung-konsequenzen-100.html"
+   },
+   {
+    "titel": "ZDFheute: PKK kündigt Abzug aller Kämpfer in den Nordirak an (26.10.2025)",
+    "url": "https://www.zdfheute.de/politik/ausland/pkk-kurden-arbeiterpartei-tuerkei-ruckzueg-kaempfer-100.html"
+   },
+   {
+    "titel": "Wikipedia: Konflikt zwischen der Republik Türkei und der PKK",
+    "url": "https://de.wikipedia.org/wiki/Konflikt_zwischen_der_Republik_T%C3%BCrkei_und_der_PKK"
+   },
+   {
+    "titel": "Wikipedia: Geschichte der Arbeiterpartei Kurdistans",
+    "url": "https://de.wikipedia.org/wiki/Geschichte_der_Arbeiterpartei_Kurdistans"
+   },
+   {
+    "titel": "Turkish Minute: Prosecutors revisit 2015 police killings (23.7.2026)",
+    "url": "https://turkishminute.com/2026/07/23/turkish-prosecutors-revisit-2015-police-killings-that-ended-pkk-peace-talks/"
+   },
+   {
+    "titel": "Bundesregierung (Bulletin): Verbot der Arbeiterpartei Kurdistans in Deutschland",
+    "url": "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/verbot-der-arbeiterpartei-kurdistans-in-deutschland-790068"
+   },
+   {
+    "titel": "VDJ und RAV: Offener Brief, PKK-Verbot aufheben (5.12.2025)",
+    "url": "https://www.rav.de/publikationen/mitteilungen/mitteilung/pkk-verbot-aufhebendie-bundesregierung-muss-den-friedensprozess-in-der-tuerkei-aktiv-unterstuetzen-1176"
+   }
+  ],
+  "text": [
+   "Die PKK erklärt den vollständigen Abzug aus der Türkei. Ein Ende der Gewalt wäre ein Gewinn für Türken und Kurden, doch ob es ein Sieg der Menschen wird, entscheidet sich jetzt."
+  ]
+ },
+ {
   "datum": "2026-10-08",
   "thema": "Demokratie",
   "titel": "Kein Anspruch aufs Präsidentenamt, aber ein Anspruch auf Neutralität",
