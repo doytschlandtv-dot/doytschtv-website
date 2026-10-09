@@ -20,7 +20,7 @@
     document.documentElement.style.setProperty("--fh", fh + "px");
     document.documentElement.style.setProperty("--sw", sw + "px");
   }
-  function say(t) { toast.textContent = t; toast.classList.add("on"); clearTimeout(say.t); say.t = setTimeout(function () { toast.classList.remove("on"); }, 2200); }
+  function say(t) { toast.textContent = t; toast.classList.add("on"); clearTimeout(say.t); say.t = setTimeout(function () { toast.classList.remove("on"); }, 4500); }
   function dateLabel(iso) {
     var today = new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/Berlin" });
     var y = new Date(Date.now() - 864e5).toLocaleDateString("sv-SE", { timeZone: "Europe/Berlin" });
@@ -89,14 +89,19 @@
     var ready = sec && sec._blobs ? sec._blobs : Promise.all(cvs.map(toBlob));
     ready.then(function (blobs) {
       var files = blobs.map(function (b, i) { return new File([b], "doytschlandtv-" + K.slug(k.thema) + "-" + (i + 1) + ".png", { type: "image/png" }); });
-      var can = navigator.canShare && navigator.canShare({ files: files });
+      /* Chrome auf Android teilt höchstens 10 Dateien auf einmal: größere Karussells in Teilen von 10 */
+      var MAX = 10, n = Math.ceil(files.length / MAX), part = (sec && sec._part) || 0;
+      if (part >= n) part = 0;
+      var chunk = files.slice(part * MAX, (part + 1) * MAX);
+      var can = navigator.canShare && navigator.canShare({ files: chunk });
       if (!can) { download(files); say("Teilen geht hier nicht, Slides werden gespeichert"); return; }
-      return navigator.share({ files: files, text: K.caption(k) }).catch(function (err) {
+      function done() {
+        if (n > 1 && sec) { sec._part = (part + 1) % n; say(part + 1 < n ? "Teil " + (part + 1) + " von " + n + " geteilt. Tippe nochmal für Teil " + (part + 2) : "Teil " + n + " von " + n + " geteilt"); }
+      }
+      var data = part === 0 ? { files: chunk, text: K.caption(k) } : { files: chunk };
+      return navigator.share(data).then(done).catch(function (err) {
         if (err && err.name === "AbortError") return;
-        return navigator.share({ files: files }).catch(function (err2) {
-          if (err2 && err2.name === "AbortError") return;
-          download(files); say("Teilen fehlgeschlagen" + (err2 && err2.name ? " (" + err2.name + ")" : "") + ", Slides werden gespeichert");
-        });
+        download(files); say("Teilen fehlgeschlagen" + (err && err.name ? " (" + err.name + ")" : "") + ", Slides werden gespeichert");
       });
     });
   }

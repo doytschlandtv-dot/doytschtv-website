@@ -418,8 +418,15 @@
       bShare.addEventListener("click", function () {
         Promise.all(canvases.map(toBlob)).then(function (blobs) {
           var files = blobs.map(function (b, i) { return new File([b], "doytschlandtv-" + slug(k.thema) + "-" + (i + 1) + ".png", { type: "image/png" }); });
-          if (navigator.canShare && navigator.canShare({ files: files })) {
-            return navigator.share({ files: files, text: caption(k) }).catch(function () {});
+          /* Chrome auf Android teilt höchstens 10 Dateien auf einmal: größere Karussells in Teilen */
+          var MAX = 10, n = Math.ceil(files.length / MAX), part = bShare._part || 0;
+          if (part >= n) part = 0;
+          var chunk = files.slice(part * MAX, (part + 1) * MAX);
+          if (navigator.canShare && navigator.canShare({ files: chunk })) {
+            bShare._part = (part + 1) % n;
+            return navigator.share(part === 0 ? { files: chunk, text: caption(k) } : { files: chunk }).then(function () {
+              if (n > 1) bShare.textContent = part + 1 < n ? "Teil " + (part + 2) + " von " + n + " teilen" : "Alle Slides teilen oder speichern";
+            }).catch(function () {});
           }
           files.forEach(function (f, i) {
             setTimeout(function () {
