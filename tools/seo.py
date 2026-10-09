@@ -40,6 +40,4 @@ for slug,(title,desc) in PAGES.items():
     h = re.sub(r"<title>.*?</title>",lambda m:f"<title>{esc(title)}</title>",h,count=1,flags=re.S)
     h = h.replace("</title>","</title>\n"+block,1)
     p.write_text(h,encoding="utf-8"); print("ok",slug)
-(ROOT/"robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {BASE}/sitemap.xml\n")
-urls = [BASE+"/"] + [f"{BASE}/{s}.html" for s in PAGES if s!="index"]
-(ROOT/"sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+"".join(f"<url><loc>{u}</loc></url>\n" for u in urls)+"</urlset>\n")
+# robots.txt und sitemap.xml erzeugt tools/seo_seiten.py (inkl. Kolumnen- und Dossier-Seiten)
