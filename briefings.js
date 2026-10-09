@@ -109,41 +109,6 @@ window.BRIEFINGS = [
   },
   "storys": [
    {
-    "band": "Gegenrechnung",
-    "kicker": "Aktuell",
-    "titel": "4 Rechnungen für 2027: Nur eine ist schon sicher",
-    "rot": "Nur eine",
-    "text": "Deutschlandticket +45,60 € im Jahr: beschlossen. Wohngeld, Familienleistungen, Rente: Entwurf oder Vorschlag. Alle Zahlen im Karussell, Link in der Bio.",
-    "theme": "dark"
-   },
-   {
-    "band": "Morning Briefing",
-    "kicker": "Arbeit",
-    "titel": "28,5 Tage Ausfall: Wer pflegt, betreut und telefoniert, bricht zuerst weg",
-    "rot": "28,5 Tage Ausfall",
-    "text": "",
-    "theme": "dark",
-    "bild": {
-     "url": "kolumne-fehlzeiten.jpg",
-     "karte": true,
-     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
-    }
-   },
-   {
-    "band": "300 Sekunden",
-    "kicker": "Neue Kolumne",
-    "titel": "Ende einer Ära: Die PKK erklärt den Abzug und bekräftigt die Waffenniederlegung",
-    "rot": "Ende einer Ära",
-    "kolumne": true,
-    "theme": "dark",
-    "text": "",
-    "bild": {
-     "url": "kolumne-pkk.jpg",
-     "karte": true,
-     "unter": "Illustration, KI-generiert, keine Fotos · Kolumne: doytschtv.de"
-    }
-   },
-   {
     "zusatz": true,
     "art": "dossier",
     "band": "Dossier",
@@ -173,6 +138,20 @@ window.BRIEFINGS = [
     }
    },
    {
+    "band": "300 Sekunden",
+    "kicker": "Neue Kolumne",
+    "titel": "Ende einer Ära: Die PKK erklärt den Abzug und bekräftigt die Waffenniederlegung",
+    "rot": "Ende einer Ära",
+    "kolumne": true,
+    "theme": "dark",
+    "text": "",
+    "bild": {
+     "url": "kolumne-pkk.jpg",
+     "karte": true,
+     "unter": "Illustration, KI-generiert, keine Fotos · Kolumne: doytschtv.de"
+    }
+   },
+   {
     "band": "Meinung",
     "kicker": "Unsere Antwort",
     "titel": "Moscheen als Waffenlager? Wir nennen das Hetze.",
@@ -185,6 +164,27 @@ window.BRIEFINGS = [
      "fokus": 0.36,
      "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
     }
+   },
+   {
+    "band": "Morning Briefing",
+    "kicker": "Arbeit",
+    "titel": "28,5 Tage Ausfall: Wer pflegt, betreut und telefoniert, bricht zuerst weg",
+    "rot": "28,5 Tage Ausfall",
+    "text": "",
+    "theme": "dark",
+    "bild": {
+     "url": "kolumne-fehlzeiten.jpg",
+     "karte": true,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
+   },
+   {
+    "band": "Gegenrechnung",
+    "kicker": "Aktuell",
+    "titel": "4 Rechnungen für 2027: Nur eine ist schon sicher",
+    "rot": "Nur eine",
+    "text": "Deutschlandticket +45,60 € im Jahr: beschlossen. Wohngeld, Familienleistungen, Rente: Entwurf oder Vorschlag. Alle Zahlen im Karussell, Link in der Bio.",
+    "theme": "dark"
    }
   ],
   "karussells": [
