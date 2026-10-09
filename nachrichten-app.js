@@ -32,6 +32,8 @@
   var items = [];
   (window.BRIEFINGS || []).slice().sort(function (a, b) { return a.datum < b.datum ? 1 : -1; }).forEach(function (day) {
     (day.karussells || []).forEach(function (k) { items.push({ k: k, label: dateLabel(day.datum), alt: false, briefing: day.datum }); });
+    /* Dossier-Karussells erscheinen am Tag ihrer Veröffentlichung hinter den Tageskarussells */
+    (window.DOSSIERS || []).forEach(function (ser) { (ser.folgen || []).forEach(function (f) { if (f.datum === day.datum && f.karussell) items.push({ k: f.karussell, label: dateLabel(day.datum), alt: false, briefing: day.datum }); }); });
   });
   (window.VORRAT || []).forEach(function (k) { items.push({ k: k, label: "Hintergrund · zeitlos", alt: true }); });
 

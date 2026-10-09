@@ -789,6 +789,67 @@ window.BRIEFINGS = [
     ],
     "caption": "Neue Kolumne in 300 Sekunden: Die AfD stellt in Sachsen-Anhalt erstmals einen Landtagspräsidenten. Hat die stärkste Fraktion Anspruch auf das Amt? Unsere Antwort: Nein, Brauch ist kein Recht. Aber wer die meisten Stimmen hat, trägt Gesamtverantwortung, und das Amt muss für alle neutral geführt werden. Uns geht es um die Sache, nicht um Personen: gleiche Regeln für alle, klare Kriterien vorab, kein Parteiamt neben der Parlamentsleitung. Die ganze Kolumne mit Quellen und Grafiken auf unserer Website, Link in der Bio. Muss ein Parlamentspräsident über der Partei stehen?",
     "hashtags": "#doytschlandtv #300sekunden #kolumne #meinung #demokratie #sachsenanhalt #landtag #neutralitaet #grundgesetz #einordnung"
+   },
+   {
+    "thema": "Wörter sind Politik: „Judäa und Samaria“",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Kolumne",
+      "titel": "Wörter sind Politik: Warum „Judäa und Samaria“ in einer Rechtsdebatte auffällt",
+      "rot": "Wörter sind Politik",
+      "bild": {
+       "url": "kolumne-augsberg.jpg",
+       "unter": "Illustration, KI-generiert, kein Foto."
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Was passiert ist",
+      "titel": "Hessen will die Leugnung Israels bestrafen.",
+      "text": "Wer das Existenzrecht Israels öffentlich leugnet, soll bis zu fünf Jahre Haft riskieren. Das Gutachten dazu stammt vom Staatsrechtler Steffen Augsberg, vorgestellt am 5.10.2026. Nach unserer Beobachtung sagte er „Judäa und Samaria“. Den Wortlaut haben wir noch nicht an einem Transkript geprüft.",
+      "quelle": "hessen.de, beck-aktuell, Jung & Naiv (Video)"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Gesetzentwurf",
+      "titel": "Ein neuer Absatz in § 130 StGB.",
+      "text": "Strafbar wäre die Äußerung nur, wenn sie Gewalt oder Willkür gegen Juden fördern kann. Der Bundesrat stimmte im Juli 2026 zu. Die Bundesregierung sah ein „erhebliches verfassungsrechtliches Risiko“, 33 Rechtswissenschaftler äußerten Bedenken.",
+      "quelle": "beck-aktuell, ZDFheute, MiGAZIN"
+     },
+     {
+      "typ": "zahl",
+      "zahl": "8.725",
+      "label": "Antisemitische Vorfälle 2025",
+      "text": "Nach 2.610 im Jahr 2022, laut RIAS-Bericht zum Entwurf. Der Anteil israelbezogener Vorfälle stieg von 24 auf 68 Prozent. Wer Antisemitismus bekämpfen will, hat dafür gute Gründe.",
+      "quelle": "ZDFheute (RIAS)"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Der Begriff",
+      "titel": "In Israel gängig, im Zusammenhang auffällig.",
+      "text": "„Judäa und Samaria“ sind die biblischen Namen für das Westjordanland. Das Wort allein beweist keine Absicht. Smotrich und Ben-Gvir nutzen es aber neben Souveränitäts- und Auswanderungsforderungen. Der Internationale Gerichtshof sagte 2024: Israel darf dort keine Souveränität beanspruchen.",
+      "quelle": "Al Jazeera, Times of Israel, IGH 19.7.2024"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Gegenseite",
+      "titel": "Ein Jurist kann gute Gründe haben.",
+      "text": "Vielleicht hält er die völkerrechtliche Einordnung für umstritten. Welche Begründung Augsberg gab, wenn überhaupt, haben wir nicht geprüft. Wer „Judäa und Samaria“ sagt, ist nicht automatisch Anhänger der Siedlerbewegung.",
+      "quelle": "Unsere Einordnung, MiGAZIN"
+     },
+     {
+      "typ": "meinung",
+      "text": "„Biblische Ortsnamen legen Gebietsansprüche nahe. Das ist die Sprache, in der Smotrich und Ben-Gvir von Souveränität sprechen. Wir sagen nicht, dass Augsberg dasselbe will. Aber in einem Gutachten über die Rechte eines Staates darf eine solche Wortwahl nicht unbemerkt bleiben.“",
+      "handlung": "Die ganze Kolumne mit allen Quellen: doytschtv.de, Meinungen."
+     },
+     {
+      "typ": "cta",
+      "frage": "Welche Sprache braucht der Kampf gegen Antisemitismus?"
+     }
+    ],
+    "caption": "Bei der Vorstellung eines Gutachtens zur Strafbarkeit der Israel-Leugnung fiel uns eine Wortwahl auf: „Judäa und Samaria“. Der Begriff ist in Israel gängig und beweist allein keine Absicht, steht bei Smotrich und Ben-Gvir aber neben Souveränitätsforderungen. Den Wortlaut haben wir noch nicht an einem Transkript geprüft. Unsere Einordnung ist als Meinung gekennzeichnet, uns geht es um die Sache, nicht um die Person. Die ganze Kolumne mit allen Quellen: Link in der Bio. Welche Sprache braucht der Kampf gegen Antisemitismus?",
+    "hashtags": "#doytschlandtv #antisemitismus #israel #völkerrecht #sprache #kolumne #einordnung"
    }
   ]
  }
