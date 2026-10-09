@@ -54,7 +54,7 @@
       var i = el("i"); i.innerHTML = icon; b.appendChild(i); b.appendChild(el("span", null, label.split(" ")[0]));
       b.addEventListener("click", fn); rail.appendChild(b); return b;
     }
-    act("main", ICON.share, "Teilen", function () { shareSlides(k, cvs); });
+    act("main", ICON.share, "Teilen", function () { shareSlides(k, cvs, sec); });
     act("", ICON.copy, "Caption kopieren", function () {
       var t = K.caption(k);
       if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(function () { say("Caption kopiert"); }, function () { say("Kopieren nicht möglich"); });
@@ -73,15 +73,31 @@
   }
   function drawItem(sec) {
     if (sec._drawn || !sec._k) return; sec._drawn = true;
-    K.fontsReady().then(function () { sec._cvs.forEach(function (cv, i) { var sl = sec._k.slides[i]; K.loadImg(sl.bild && sl.bild.url).then(function (im) { K.draw(cv, sl, i, sec._k.slides.length, im); }); }); });
+    sec._ready = K.fontsReady().then(function () {
+      return Promise.all(sec._cvs.map(function (cv, i) { var sl = sec._k.slides[i]; return K.loadImg(sl.bild && sl.bild.url).then(function (im) { K.draw(cv, sl, i, sec._k.slides.length, im); }); }));
+    }).then(function () {
+      /* Bilder schon vor dem Tippen auf Teilen vorbereiten: Das Kodieren dauert auf dem Handy sonst so lange, dass die Teilen-Freigabe des Browsers abläuft. */
+      sec._blobs = sec._cvs.reduce(function (pr, cv) { return pr.then(function (arr) { return toBlob(cv).then(function (bl) { arr.push(bl); return arr; }); }); }, Promise.resolve([]));
+      return sec._blobs;
+    });
   }
   function toBlob(c) { return new Promise(function (r) { c.toBlob(r, "image/png"); }); }
-  function shareSlides(k, cvs) {
-    Promise.all(cvs.map(toBlob)).then(function (blobs) {
+  function download(files) {
+    files.forEach(function (f, i) { setTimeout(function () { var a = document.createElement("a"); a.href = URL.createObjectURL(f); a.download = f.name; document.body.appendChild(a); a.click(); a.remove(); }, i * 500); });
+  }
+  function shareSlides(k, cvs, sec) {
+    var ready = sec && sec._blobs ? sec._blobs : Promise.all(cvs.map(toBlob));
+    ready.then(function (blobs) {
       var files = blobs.map(function (b, i) { return new File([b], "doytschlandtv-" + K.slug(k.thema) + "-" + (i + 1) + ".png", { type: "image/png" }); });
-      if (navigator.canShare && navigator.canShare({ files: files })) return navigator.share({ files: files, text: K.caption(k) }).catch(function () {});
-      files.forEach(function (f, i) { setTimeout(function () { var a = document.createElement("a"); a.href = URL.createObjectURL(f); a.download = f.name; document.body.appendChild(a); a.click(); a.remove(); }, i * 400); });
-      say("Slides werden gespeichert");
+      var can = navigator.canShare && navigator.canShare({ files: files });
+      if (!can) { download(files); say("Teilen geht hier nicht, Slides werden gespeichert"); return; }
+      return navigator.share({ files: files, text: K.caption(k) }).catch(function (err) {
+        if (err && err.name === "AbortError") return;
+        return navigator.share({ files: files }).catch(function (err2) {
+          if (err2 && err2.name === "AbortError") return;
+          download(files); say("Teilen fehlgeschlagen" + (err2 && err2.name ? " (" + err2.name + ")" : "") + ", Slides werden gespeichert");
+        });
+      });
     });
   }
   size();
