@@ -38,6 +38,75 @@ window.BRIEFINGS = [
     }
    ]
   },
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": "https://music.wixstatic.com/mp3/fb5203_365bb356586941f1817e3c5833e46d6d.mp3",
+   "dauer": "4:31",
+   "themen": [
+    "PKK-Abzug: Noch keine Antwort aus Ankara",
+    "Sachsen-Anhalt: Geheime Wahl und Verdächtigungen",
+    "Schröder bei Putin, Angriff auf die Ukraine",
+    "Was heute zu kurz kam"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Freitag, der neunte Oktober. Was wirklich passiert ist, und was wir heute früh gesagt haben.",
+    "Erstens: Der PKK-Abzug und die Antwort aus Ankara.",
+    "Heute früh haben wir gesagt, die PKK habe den vollständigen Abzug aus der Türkei erklärt, eine Reaktion der Regierung lag nicht vor. Daran hat sich bis zum frühen Abend nichts geändert: In unseren Quellen findet sich keine öffentliche Antwort aus Ankara. Unvollständig war unser Bericht an einer Stelle. Laut Turkish Minute erklärte die PKK, sie habe auch Kräfte nahe der Grenze außerhalb der Türkei abgezogen und vier Tunnel im Gebiet Metina im Nordirak geräumt. Außerdem wirft sie der AKP vor, nach dem Rahmengesetz vom August nichts Weiteres getan zu haben. Das sind Angaben der PKK selbst. Die prokurdische DEM-Partei sagte am Mittwoch, es gebe keinen Zeitplan für die Rückkehr von Mitgliedern und keine Änderung bei Abdullah Öcalans Haftbedingungen.",
+    "Unsere Meinung: Ein Abzug ist erst dann ein Friedensschritt, wenn beide Seiten liefern. Die PKK sagt, sie habe geliefert, der Staat habe nicht nachgezogen. Ob das stimmt, können wir nicht prüfen. Frieden braucht überprüfbare Schritte auf beiden Seiten, einen Zeitplan und gleiche Rechte für alle Bürger, auch für Kurdinnen und Kurden. Uns geht es um die Idee, dass Konflikte am Verhandlungstisch und im Recht gelöst werden.",
+    "Zweitens: Sachsen-Anhalt und die geheime Wahl.",
+    "Das kam heute früh nicht vor. Am Dienstag wurde Tobias Rausch von der AfD in geheimer Wahl zum Landtagspräsidenten von Sachsen-Anhalt gewählt. Laut Tagesspiegel bekam er vier Stimmen mehr, als AfD und BSW zusammen haben. Wer sonst für ihn stimmte, ist nicht bekannt. Kanzler Friedrich Merz sprach von politischen False-Flag-Operationen und deutete an, Stimmen könnten aus anderen Fraktionen kommen, um der Union zu schaden. Einen Beleg nennt der Bericht nicht. Bildungsministerin Karin Prien forderte den Parteiausschluss von CDU-Abgeordneten, falls sie für Rausch gestimmt haben. Sie sagt selbst, man wisse nicht, wer es war.",
+    "Unsere Meinung: In einer geheimen Wahl kann niemand belegen, wer wie gestimmt hat. Wer trotzdem Verdächtigungen in den Raum stellt, ersetzt Aufklärung durch Misstrauen. Wir kritisieren die AfD als Politik, ihre Positionen und ihr Abstimmungsverhalten. Gerade deshalb sollten Parteien ihr Verhältnis zu ihr klar und mit Fakten regeln, nicht mit Andeutungen.",
+    "Drittens: Schröder bei Putin, und ein Angriff am selben Tag.",
+    "Auch das stand heute früh nicht im Briefing. Am Mittwoch feierte Altkanzler Gerhard Schröder in Russland mit Wladimir Putin dessen Geburtstag. Der Kreml sagt, die Einladung sei spontan erfolgt. Das lässt sich nicht prüfen. Am selben Tag griff Russland die Ukraine mit Raketen und Drohnen an. Präsident Selenskyj sprach von mindestens fünfundzwanzig Toten und mehr als hundert Verletzten. Das sind seine Angaben. Welche Ziele getroffen wurden, ist nicht belegt. Merz nannte die Feier laut Regierungssprecher geradezu unmoralisch, Finanzminister Klingbeil den Besuch völlig inakzeptabel.",
+    "Unsere Meinung: Private Kontakte sind erlaubt. Doch wer Zugang zu einem Machthaber hat, der Krieg gegen ein Nachbarland führt, trägt besondere Verantwortung. Der russische Angriffskrieg gilt völkerrechtlich als Bruch des Gewaltverbots. Ob der einzelne Angriff zivile Ziele traf, ist offen. Nähe zu Mächtigen darf nicht über Recht und Moral stehen, in keiner Partei.",
+    "Viertens: Was heute zu kurz kam.",
+    "Erstens die Wirtschaft. Das Statistische Bundesamt meldet laut dpa-AFX für Juli zweitausenddreihundertdreiundsiebzig Firmenpleiten, acht Prozent mehr als im Vorjahresmonat und der höchste Monatswert seit Juli zweitausenddreizehn. Zweitens die Gesundheit. Russische Medien berichten vom Tod einer Laborbeschäftigten in Irkutsk an Lungenpest. Der Kreml spricht von Falschinformationen. Bestätigt ist das bisher nicht. Drittens Berichte der Bild: Merz rechne nicht mehr mit einem Bundestagsbeschluss der Rentenreform bis Jahresende, und die Union gebe ihren Widerstand gegen die Tabaksteuererhöhung auf. Beides ist nicht offiziell bestätigt. Zum Fehlzeiten-Report von heute früh haben wir nichts Neues gefunden.",
+    "Unsere Meinung: Steigende Pleiten sind mehr als eine Zahl, sie treffen Beschäftigte und Familien. Und bei ungesicherten Berichten gilt: erst Transparenz, dann Schlüsse.",
+    "Morgen und am Wochenende beobachten wir, ob Ankara auf den PKK-Abzug antwortet, ob sich jemand in Sachsen-Anhalt zur Wahl von Rausch erklärt und was die CDU-Klausur am Sonntag und Montag entscheidet. Alle Quellen findest du auf unserer Website. Diese Stimme ist KI-generiert. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Turkish Minute: PKK says Turkey doing too little for peace despite fighters' withdrawal (8.10.2026)",
+     "url": "https://www.turkishminute.com/2026/10/08/pkk-says-turkey-doing-too-little-for-peace-despite-fighters-withdrawal/"
+    },
+    {
+     "titel": "ORF: PKK erklärt militärischen Rückzug aus Türkei (8.10.2026)",
+     "url": "https://orf.at/stories/3444486/"
+    },
+    {
+     "titel": "Tagesspiegel: BMW storniert Dienstwagen-Angebot für AfD-Landtagspräsident Rausch (9.10.2026)",
+     "url": "https://www.tagesspiegel.de/politik/afd-landtagsprasident-in-sachsen-anhalt-bmw-storniert-dienstwagen-angebot-fur-rausch--von-storch-wendet-sich-an-musk-16143827.html"
+    },
+    {
+     "titel": "Tagesspiegel: Heftige Kritik an Merz für False-Flag-Vorwurf (8.10.2026)",
+     "url": "https://www.tagesspiegel.de/politik/verschworungstheorie-zu-stimmen-fur-afd-mann-in-sachsen-anhaltheftige-kritik-an-merz-fur-false-flag-vorwurf-16142711.html"
+    },
+    {
+     "titel": "Tagesspiegel: Prien fordert Ausschluss von Parteikollegen, falls sie für Rausch gestimmt haben (9.10.2026)",
+     "url": "https://www.tagesspiegel.de/politik/die-afd-ist-angetreten-die-cdu-zu-zerstoren-bildungsministerin-prien-fordert-ausschluss-von-parteikollegen-falls-sie-fur-rausch-gestimmt-haben-16144124.html"
+    },
+    {
+     "titel": "Tagesspiegel: Scharfe Kritik für Schröders Teilnahme an Putins Geburtstagsfeier (9.10.2026)",
+     "url": "https://www.tagesspiegel.de/internationales/scham-ist-kaum-noch-ein-ausdruck-scharfe-kritik-fur-schroders-teilnahme-an-putins-geburtstagsfeier-16143258.html"
+    },
+    {
+     "titel": "dpa-AFX/ARIVA: Überblick Konjunktur vom 9.10.2026 (Firmenpleiten Juli, Destatis)",
+     "url": "https://www.ariva.de/news/dpa-afx-ueberblick-konjunktur-vom-09-10-2026-17-00-uhr-12164665"
+    },
+    {
+     "titel": "Tagesspiegel/AFP: Wadephul fordert Transparenz nach Pest-Berichten aus Sibirien (9.10.2026)",
+     "url": "https://www.tagesspiegel.de/politik/afp-russland-schuldet-der-welt-antworten-wadephul-fordert-transparenz-nach-pest-berichten-aus-sibirien-16143607.html"
+    },
+    {
+     "titel": "Tagesspiegel: Merz erwartet Umsetzung der Rentenreform nicht mehr bis Jahresende (laut Bild, 9.10.2026)",
+     "url": "https://www.tagesspiegel.de/politik/streit-bei-schwarz-rot-merz-erwartet-umsetzung-der-rentenreform-nicht-mehr-bis-jahresende-16143560.html"
+    },
+    {
+     "titel": "Tagesspiegel/AFP: Union gibt Widerstand gegen Tabaksteuer-Erhöhung auf (laut Bild, 9.10.2026)",
+     "url": "https://www.tagesspiegel.de/politik/afp-union-gibt-widerstand-auf-legt-die-bundesregierung-ihren-streit-um-die-erhohung-der-tabaksteuer-bei-16143633.html"
+    }
+   ]
+  },
   "storys": [
    {
     "band": "Gegenrechnung",
