@@ -40,6 +40,14 @@ window.BRIEFINGS = [
   },
   "storys": [
    {
+    "band": "Morning Briefing",
+    "kicker": "Arbeit",
+    "titel": "28,5 Tage Ausfall: Wer pflegt, betreut und telefoniert, bricht zuerst weg",
+    "rot": "28,5 Tage Ausfall",
+    "text": "Psychische Fehltage: knapp 42 Prozent mehr in zehn Jahren. Gesamtfehlzeiten sinken leicht. Quelle: AOK Fehlzeiten-Report 2026.",
+    "theme": "dark"
+   },
+   {
     "band": "300 Sekunden",
     "kicker": "Neue Kolumne",
     "titel": "Ende einer Ära: Die PKK erklärt den Abzug und bekräftigt die Waffenniederlegung",
@@ -251,6 +259,83 @@ window.BRIEFINGS = [
     ],
     "caption": "Julian Reichelt sagte laut einem Post von nius.de und achtung.reichelt am 5.10.2026, Moscheen gehörten nicht zur deutschen Tradition, wo Minarette stünden, regiere irgendwann der Islam, und in Moscheen würden Waffen gelagert, Pläne gegen „Ungläubige“ geschmiedet und Terroristen rekrutiert. Unsere Prüfung: Es gibt knapp 2.500 Moscheen in Deutschland, wir haben seit 2017 drei Verbote von Moscheevereinen gefunden. Salafistisch beeinflusste Moscheen spielen laut bpb bei der Radikalisierung einzelner eine Rolle, häufiger genannt werden aber Freundeskreis und Internet. Einen belegten Waffenfund haben wir nicht gefunden. Der Muezzinruf in Köln folgt klaren Auflagen. Der Tag der offenen Moschee findet seit 1997 statt. Dass Moscheen pauschal unter Verdacht gestellt werden, nennen wir Hetze und antimuslimischen Rassismus. Das ist unsere Meinung und so gekennzeichnet. Der Wortlaut stützt sich auf den Post, das Video haben wir nicht gesichtet. Wo ziehst du die Grenze zwischen Kritik und Hetze?",
     "hashtags": "#doytschlandtv #moscheen #muslime #antimuslimischerrassismus #religionsfreiheit #grundgesetz #politik #meinung"
+   },
+   {
+    "thema": "Fehlzeiten durch psychische Erkrankungen",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Arbeit",
+      "titel": "28,5 Tage Ausfall: Wer pflegt, betreut und telefoniert, bricht zuerst weg",
+      "rot": "28,5 Tage Ausfall"
+     },
+     {
+      "typ": "zahl",
+      "zahl": "403",
+      "label": "Fehltage je 100 Mitglieder",
+      "text": "So viele Fehltage wegen psychischer Erkrankungen zählt der AOK Fehlzeiten-Report 2026 für das Jahr 2025. Grundlage sind 14,9 Millionen erwerbstätige AOK-Versicherte.",
+      "quelle": "AOK Fehlzeiten-Report 2026 (Ärzteblatt, dpa-AFX)"
+     },
+     {
+      "typ": "fakten",
+      "label": "Zehn Jahre",
+      "titel": "Von 284 auf 403: knapp 42 Prozent mehr.",
+      "text": "2016 waren es 284 Fehltage je 100 Mitglieder, 2025 sind es 403. Die Zusatzdiagnose Burnout stieg um 77 Prozent, von 11 auf 19,5 Tage je 100 Mitglieder.",
+      "quelle": "Ärzteblatt, dpa-AFX/ARIVA, AOK Fehlzeiten-Report 2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Gegenrechnung",
+      "titel": "Insgesamt fehlen Beschäftigte sogar etwas weniger.",
+      "text": "Die Gesamtfehlzeiten liegen bei 23,3 Tagen je Mitglied im Jahr 2025, nach 23,9 in den beiden Jahren davor. Auch im ersten Halbjahr 2026 lagen sie unter dem Vorjahr. Es steigt also nicht alles, sondern vor allem die Psyche.",
+      "quelle": "Ärzteblatt, dpa-AFX/ARIVA, AOK Fehlzeiten-Report 2026"
+     },
+     {
+      "typ": "zahl",
+      "zahl": "28,5 Tage",
+      "label": "Dauer je Fall bei psychischen Erkrankungen",
+      "text": "Bei Atemwegserkrankungen sind es im Schnitt 5,7 Tage, sie kommen aber viel häufiger vor. Das Krankengeld für psychische Erkrankungen stieg von 2021 bis 2025 um 54 Prozent. Die AOK nennt dafür auch höhere Löhne und mehr Erwerbstätige, vor allem aber die längere Dauer je Fall.",
+      "quelle": "Ärzteblatt, dpa-AFX/ARIVA, AOK Fehlzeiten-Report 2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer ist betroffen",
+      "titel": "Am häufigsten betroffen sind diese Berufe.",
+      "punkte": [
+       {
+        "kopf": "Callcenter",
+        "text": "39 Fälle je 100 Mitglieder, der Spitzenwert."
+       },
+       {
+        "kopf": "Pflege",
+        "text": "Haus- und Familienpflege und Altenpflege folgen."
+       },
+       {
+        "kopf": "Kinderbetreuung",
+        "text": "Auch hier gehören die Werte zu den höchsten."
+       }
+      ],
+      "quelle": "Ärzteblatt, dpa-AFX/ARIVA, AOK Fehlzeiten-Report 2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was Fachleute sagen",
+      "titel": "Mehr Fehltage heißt nicht automatisch mehr Kranke.",
+      "text": "Die Sozialmedizinerin Steffi Riedel-Heller verweist auf hohe emotionale Anforderungen und Verantwortung für andere. Vieles werde heute besser erkannt und behandelt, die elektronische Krankmeldung erfasse mehr. Hinweise auf eine reale Zunahme gebe es besonders bei Jüngeren.",
+      "quelle": "Ärzteblatt, dpa-AFX (Riedel-Heller, WIdO)"
+     },
+     {
+      "typ": "meinung",
+      "text": "„28,5 Tage sind kein Zeichen von Schwäche. Wer dauerhaft am Limit arbeitet, zu wenig Kolleginnen und Kollegen hat und keine Wertschätzung erfährt, fällt irgendwann aus. Ob fehlende Anerkennung und Lohn die Schwelle für eine Krankmeldung senken, ist unsere Vermutung. Der Report belegt sie nicht.“",
+      "handlung": "Beschäftigte unter Verdacht zu stellen, wäre falsch."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wirst du an deinem Arbeitsplatz wertgeschätzt?"
+     }
+    ],
+    "caption": "Der AOK Fehlzeiten-Report 2026 zeigt: Die Fehltage wegen psychischer Erkrankungen sind in zehn Jahren um knapp 42 Prozent gestiegen, von 284 auf 403 je 100 Mitglieder. Ein Fall dauert im Schnitt 28,5 Tage. Gleichzeitig sinken die Gesamtfehlzeiten leicht. Am häufigsten betroffen sind Callcenter, Pflege und Kinderbetreuung. Fachleute sagen: Mehr Fehltage bedeuten nicht automatisch mehr Erkrankte. Unsere Vermutung zur Wertschätzung ist als Meinung gekennzeichnet, der Report belegt sie nicht. Wirst du an deinem Arbeitsplatz wertgeschätzt?",
+    "hashtags": "#doytschlandtv #arbeit #psychischegesundheit #burnout #pflege #aok #fehlzeiten #einordnung"
    }
   ]
  },
