@@ -1,6 +1,43 @@
 window.BRIEFINGS = [
  {
   "datum": "2026-10-09",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": "https://music.wixstatic.com/mp3/fb5203_0be3d47bcd9c4c638b28e23f00051d93.mp3",
+   "dauer": "4:43",
+   "themen": [
+    "28,5 Tage Ausfall: Wer pflegt, betreut und telefoniert, bricht zuerst weg",
+    "Ende einer Ära: Die PKK erklärt den Abzug und bekräftigt die Waffenniederlegung"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv, Freitag, der neunte Oktober. Zwei Themen, fünf Minuten, damit du informiert in den Tag startest.",
+    "Erstens: 28,5 Tage Ausfall: Wer pflegt, betreut und telefoniert, bricht zuerst weg.",
+    "Die AOK hat gestern in Berlin ihren Fehlzeiten-Report 2026 vorgestellt. Er stammt vom Wissenschaftlichen Institut der AOK und bezieht sich auf 14,9 Millionen erwerbstätige AOK-Versicherte. Die Fehltage wegen psychischer Erkrankungen sind in zehn Jahren um knapp 42 Prozent gestiegen. 2016 waren es 284 Tage je 100 Mitglieder, 2025 waren es 403. Ein Fall dauert bei psychischen Erkrankungen im Schnitt 28,5 Tage. Bei Atemwegserkrankungen sind es 5,7 Tage, sie kommen aber viel häufiger vor. Die Gesamtfehlzeiten sinken sogar leicht: 23,3 Tage je Mitglied im Jahr 2025, nach 23,9 in den beiden Jahren davor. Auch im ersten Halbjahr 2026 lagen sie unter dem Vorjahr. Die Zusatzdiagnose Burnout stieg um 77 Prozent, von 11 auf 19,5 Tage je 100 Mitglieder. Am häufigsten betroffen sind Callcenter mit 39 Fällen je 100 Mitglieder, danach Haus- und Familienpflege, Altenpflege und Kinderbetreuung. Das Krankengeld für psychische Erkrankungen stieg von 2021 bis 2025 um 54 Prozent. Die AOK-Vorsitzende Carola Reimann nennt dafür auch höhere Löhne und eine höhere Erwerbsquote, vor allem aber die längere Dauer je Fall.",
+    "Unsere Meinung: 28,5 Tage sind ein ernst zu nehmender Fall. Viele Berufe leiden unter Personalmangel und Stress, und wer dauerhaft am Limit arbeitet, ohne Wertschätzung zu erfahren, kommt an seine Grenzen. Wir vermuten, dass fehlende Anerkennung und fehlende Motivation, zum Beispiel durch Lohn, auch die Hemmschwelle für eine Krankmeldung senken. Das ist unsere Einschätzung. Der Report belegt sie nicht. Fachleute nennen andere Gründe: Die Sozialmedizinerin Steffi Riedel-Heller sagt, mehr Fehltage bedeuten nicht automatisch mehr Erkrankte, vieles wird heute besser erkannt und behandelt, die elektronische Krankmeldung erfasst mehr. Beschäftigte unter Verdacht zu stellen, wäre deshalb falsch. Wirst du an deinem Arbeitsplatz wertgeschätzt?",
+    "Zweitens: Ende einer Ära: Die PKK erklärt den Abzug und bekräftigt die Waffenniederlegung.",
+    "Die verbotene Kurdische Arbeiterpartei PKK hat gestern erklärt, ihre bewaffneten Kräfte vollständig aus der Türkei abgezogen zu haben. Das meldet die PKK-nahe Agentur ANF, laut ORF am Nachmittag um 14 Uhr 35. Es ist eine Eigenangabe, von außen überprüfen lässt sie sich nicht. Die PKK fordert von der Regierung in Ankara weitere Schritte und kritisiert laut ihrer Erklärung, dass die Isolationshaft ihres Gründers Abdullah Öcalan andauert. Der Abzug soll der Regierung nach Angaben der PKK keine Vorwände mehr lassen. Schon im Mai 2025 hatte die PKK ihre Auflösung und das Ende des bewaffneten Kampfes erklärt. Im August 2026 beschloss das türkische Parlament mit großer Mehrheit ein Gesetz, das zur Freilassung vieler PKK-Mitglieder führen könnte. Es greift aber erst, wenn die Sicherheitsbehörden Auflösung und Waffenabgabe bestätigen, der Nationale Sicherheitsrat zustimmt und alles im Amtsblatt steht. Eine Reaktion der türkischen Regierung auf die Erklärung lag bei Redaktionsschluss nicht vor. In Deutschland ist die PKK seit 1993 verboten, die Türkei, die EU und die USA stufen sie als Terrororganisation ein.",
+    "Unsere Meinung: Endlich ist der Kampf vorbei, der über vierzig Jahre dauerte. Ein Ende einer Ära. Sieger sind die türkischen und kurdischen Menschen, nicht die Personen an der Spitze. Das ist ein Meilenstein, der ihnen gehört. Wir wünschen uns eine demokratische Türkei, in der alle Bürger gleiche Rechte haben, Kurdisch frei gesprochen werden kann, ohne Ausgrenzung, und die Verfassung alle Grundrechte und Minderheiten schützt, alle unter dem Dach der Türkischen Republik. Unsere ausführliche Kolumne findest du auf unserer Website unter Meinungen.",
+    "Das war das Morning Briefing. Heute um 19 Uhr folgt der Tagesrückblick, mit allem, was sich im Laufe des Tages geändert hat. Alle Quellen findest du auf unserer Website. Diese Stimme ist KI-generiert. Einen guten Tag wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Ärzteblatt: Psychische Erkrankungen an der Spitze der Fehlzeiten (AOK Fehlzeiten-Report 2026)",
+     "url": "https://www.aerzteblatt.de/news/psychische-erkrankungen-an-der-spitze-der-fehlzeiten-a9b1b704-c89f-4533-9741-a49f74d32600"
+    },
+    {
+     "titel": "dpa-AFX/ARIVA: AOK zählt mehr Fehltage wegen psychischer Erkrankungen (8.10.2026)",
+     "url": "https://www.ariva.de/news/roundup-aok-zaehlt-mehr-fehltage-wegen-psychischer-12163108"
+    },
+    {
+     "titel": "ORF: PKK erklärt militärischen Rückzug aus Türkei (8.10.2026)",
+     "url": "https://orf.at/stories/3444486/"
+    },
+    {
+     "titel": "watson: PKK verkündet kompletten militärischen Rückzug aus der Türkei (8.10.2026)",
+     "url": "https://www.watson.ch/international/tuerkei/823695321-pkk-erklaert-kompletten-rueckzug-aus-der-tuerkei"
+    }
+   ]
+  },
   "storys": [
    {
     "band": "300 Sekunden",
