@@ -40,6 +40,14 @@ window.BRIEFINGS = [
   },
   "storys": [
    {
+    "band": "Gegenrechnung",
+    "kicker": "Aktuell",
+    "titel": "4 Rechnungen für 2027: Nur eine ist schon sicher",
+    "rot": "Nur eine",
+    "text": "Deutschlandticket +45,60 € im Jahr: beschlossen. Wohngeld, Familienleistungen, Rente: Entwurf oder Vorschlag. Alle Zahlen im Karussell, Link in der Bio.",
+    "theme": "dark"
+   },
+   {
     "band": "Morning Briefing",
     "kicker": "Arbeit",
     "titel": "28,5 Tage Ausfall: Wer pflegt, betreut und telefoniert, bricht zuerst weg",
@@ -345,6 +353,80 @@ window.BRIEFINGS = [
     ],
     "caption": "Der AOK Fehlzeiten-Report 2026 zeigt: Die Fehltage wegen psychischer Erkrankungen sind in zehn Jahren um knapp 42 Prozent gestiegen, von 284 auf 403 je 100 Mitglieder. Ein Fall dauert im Schnitt 28,5 Tage. Gleichzeitig sinken die Gesamtfehlzeiten leicht. Am häufigsten betroffen sind Callcenter, Pflege und Kinderbetreuung. Fachleute sagen: Mehr Fehltage bedeuten nicht automatisch mehr Erkrankte. Unsere Vermutung zur Wertschätzung ist als Meinung gekennzeichnet, der Report belegt sie nicht. Wirst du an deinem Arbeitsplatz wertgeschätzt?",
     "hashtags": "#doytschlandtv #arbeit #psychischegesundheit #burnout #pflege #aok #fehlzeiten #einordnung"
+   },
+   {
+    "thema": "4 Rechnungen für 2027",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Gegenrechnung",
+      "titel": "4 Rechnungen für 2027: Nur eine ist schon sicher",
+      "rot": "Nur eine"
+     },
+     {
+      "typ": "zahl",
+      "zahl": "45,60 €",
+      "label": "Deutschlandticket: mehr im Jahr",
+      "text": "Ab 1. Januar 2027 kostet es 66,80 statt 63 Euro, also 3,80 Euro im Monat mehr (eigene Rechnung). Der Preis folgt erstmals einer Formel, die Zuschüsse von Bund und Ländern bleiben bei 3 Milliarden Euro. Beschlossen.",
+      "quelle": "ZDFheute, 30.9.2026 (AFP, VDV)"
+     },
+     {
+      "typ": "fakten",
+      "label": "Wohngeld",
+      "titel": "Heizkosten-Komponente soll halbiert werden.",
+      "text": "Der Gesetzentwurf halbiert die Heizkostenkomponente und setzt die Anpassung einmalig aus. Der Bund spart so 1,156 Milliarden Euro 2027 und 1,486 Milliarden 2028. Erste Lesung war am 8.10., der Ausschuss berät noch. Noch kein Gesetz.",
+      "quelle": "Bundestag, 8.10.2026 (Drs. 21/8284)"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Familien",
+      "titel": "Der Haushaltsentwurf spart bei Familien.",
+      "punkte": [
+       {
+        "kopf": "Elterngeld",
+        "text": "7,51 auf 7,07 Milliarden Euro."
+       },
+       {
+        "kopf": "Kinderzuschlag",
+        "text": "3,38 auf 3,12 Milliarden Euro."
+       },
+       {
+        "kopf": "Unterhaltsvorschuss",
+        "text": "1,31 Milliarden auf 914 Millionen."
+       },
+       {
+        "kopf": "Kita-Programm",
+        "text": "940 auf 434 Millionen Euro."
+       }
+      ],
+      "quelle": "Bundestag (hib), 19.8.2026, Haushaltsentwurf 2027"
+     },
+     {
+      "typ": "fakten",
+      "label": "Rente",
+      "titel": "Eine Empfehlung, noch kein Gesetz.",
+      "text": "Die Kommission schlägt vor, das Rentenalter ab 2031 an die Lebenserwartung zu koppeln (nach Destatis-Annahme 67,5 bis 2041), die abschlagsfreie Rente nach 45 Jahren abzuschaffen und die früheste Rente auf 64 zu setzen. Bis zum Gesetz gilt das bisherige Recht.",
+      "quelle": "Deutsche Rentenversicherung, Stand August 2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was sicher ist",
+      "titel": "Beschlossen ist bisher nur das Ticket.",
+      "text": "Wohngeld und Haushalt sind Entwürfe, über die der Bundestag noch entscheidet. Die Rente ist eine Empfehlung. Und Haushaltsansätze sind keine Kürzung je Familie: Wie viel bei wem ankommt, hängt von den Gesetzen dahinter ab.",
+      "quelle": "Unsere Einordnung, Bundestag, DRV"
+     },
+     {
+      "typ": "meinung",
+      "text": "„Der Staat spart bei Leistungen, und gleichzeitig steigen die Preise durch Steuern und Erhöhungen. Den Menschen geht es nicht gut. Wir kritisieren die Regierung dafür. Wer seine Hoffnung auf die AfD setzt: Auch sie kann strukturelle Probleme nicht kurzfristig lösen.“",
+      "handlung": "Wir zeigen bei jedem Posten, ob er beschlossen, Entwurf oder Vorschlag ist."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wo sollte der Staat nicht sparen?"
+     }
+    ],
+    "caption": "4 Rechnungen für 2027, aber nur eine ist schon sicher: Das Deutschlandticket kostet ab Januar 66,80 statt 63 Euro, 45,60 Euro mehr im Jahr. Beim Wohngeld soll die Heizkostenkomponente halbiert werden, der Haushaltsentwurf spart bei Elterngeld, Unterhaltsvorschuss und Kita-Programm, und die Rentenkommission empfiehlt, die abschlagsfreie Rente nach 45 Jahren abzuschaffen. Das sind Entwürfe und Empfehlungen, der Bundestag entscheidet noch. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wo sollte der Staat nicht sparen?",
+    "hashtags": "#doytschlandtv #aktuell #wohngeld #rente #deutschlandticket #haushalt2027 #familien #steuern #preise #nachrichten"
    }
   ]
  },
