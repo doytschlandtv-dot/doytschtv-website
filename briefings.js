@@ -44,8 +44,13 @@ window.BRIEFINGS = [
     "kicker": "Arbeit",
     "titel": "28,5 Tage Ausfall: Wer pflegt, betreut und telefoniert, bricht zuerst weg",
     "rot": "28,5 Tage Ausfall",
-    "text": "Psychische Fehltage: knapp 42 Prozent mehr in zehn Jahren. Gesamtfehlzeiten sinken leicht. Quelle: AOK Fehlzeiten-Report 2026.",
-    "theme": "dark"
+    "text": "",
+    "theme": "dark",
+    "bild": {
+     "url": "kolumne-fehlzeiten.jpg",
+     "karte": true,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    },
    {
     "band": "300 Sekunden",
@@ -267,7 +272,11 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Arbeit",
       "titel": "28,5 Tage Ausfall: Wer pflegt, betreut und telefoniert, bricht zuerst weg",
-      "rot": "28,5 Tage Ausfall"
+      "rot": "28,5 Tage Ausfall",
+      "bild": {
+       "url": "kolumne-fehlzeiten.jpg",
+       "unter": "Illustration, KI-generiert, kein Foto."
+      }
      },
      {
       "typ": "zahl",
