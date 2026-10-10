@@ -299,6 +299,17 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "art": "nachricht",
+    "band": "Morning Briefing",
+    "kicker": "Heute früh",
+    "titel": "Morning Briefing: Jetzt nachhören",
+    "rot": "nachhören",
+    "text": "Vier Themen in 4:41 Minuten: Wohngeld, Rente mit 70?, Haushalt 2027 für Familien und die Mietrechtsreform. Zum Hören und Lesen auf doytschtv.de, Link in der Bio.",
+    "quelle": "Audio mit KI-generierter Stimme",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
     "band": "Aktuell",
     "kicker": "International",
     "titel": "„Größte Lüge“: Israel attackiert die Nobelpreisträgerin",
