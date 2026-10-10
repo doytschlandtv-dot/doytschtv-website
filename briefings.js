@@ -164,13 +164,13 @@ window.BRIEFINGS = [
    },
    {
     "zusatz": true,
-    "thema": "Nobelpreis morgens, Sanktionen abends: USA gegen das Weltstrafgericht",
+    "thema": "Wenige Stunden nach dem Nobelpreis: USA sanktionieren das ganze Weltstrafgericht",
     "slides": [
      {
       "typ": "hook",
       "kicker": "International",
-      "titel": "Nobelpreis morgens, Sanktionen abends: USA gegen das Weltstrafgericht",
-      "rot": "Sanktionen",
+      "titel": "Wenige Stunden nach dem Nobelpreis: USA sanktionieren das ganze Weltstrafgericht",
+      "rot": "sanktionieren",
       "bild": {
        "url": "titel-sanktionen.jpg",
        "unter": "Illustrationen, KI-generiert, keine Fotos."
@@ -179,20 +179,20 @@ window.BRIEFINGS = [
      {
       "typ": "fakten",
       "label": "Was passiert ist",
-      "titel": "Die USA wollen den Strafgerichtshof lahmlegen.",
-      "text": "Am 9.10.2026 kündigte das US-Außenministerium an, Geschäfte mit dem Internationalen Strafgerichtshof zu verbieten und seine Mittel abzuschneiden. Außenminister Rubio: Sonst „beenden wir den IStGH“.",
-      "quelle": "LTO, beck-aktuell, 9.10.2026"
+      "titel": "Die USA wollen das Gericht lahmlegen.",
+      "text": "Am 9.10.2026 kündigte das US-Außenministerium an, Geschäfte mit dem Internationalen Strafgerichtshof zu verbieten und seine Mittel zu kappen. Außenminister Rubio sagte sinngemäß: Entweder beende das Gericht seine Drohungen, oder die USA beendeten es.",
+      "quelle": "LTO, Berliner Zeitung, 9.10.2026"
      },
      {
       "typ": "zahl",
       "label": "Schon vorher sanktioniert",
       "zahl": "13",
-      "text": "Richterinnen, Richter und Anklagende traf es vorher. Jetzt steht das ganze Gericht auf der Liste.",
-      "quelle": "beck-aktuell, 9.10.2026"
+      "text": "Richterinnen, Richter und Anklagende waren bereits sanktioniert. Neu: Erstmals trifft es das Gericht als ganze Institution.",
+      "quelle": "beck-aktuell, LTO, Berliner Zeitung, 9.10.2026"
      },
      {
       "typ": "betrifft",
-      "label": "Warum dich das betrifft",
+      "label": "Was das bedeutet",
       "titel": "Es geht um mehr als ein Gericht.",
       "punkte": [
        {
@@ -201,25 +201,29 @@ window.BRIEFINGS = [
        },
        {
         "kopf": "Dienstleister",
-        "text": "Banken und Softwarefirmen könnten betroffen sein (laut Reuters)."
+        "text": "Banken, Versicherungen und Softwarefirmen könnten betroffen sein (laut Reuters)."
+       },
+       {
+        "kopf": "Frist",
+        "text": "US-Firmen haben sechs Monate, Geschäfte zu beenden."
        },
        {
         "kopf": "Opfer",
-        "text": "Opfervertreter nennen die Sanktionen „pervers“."
+        "text": "Ein Anwalt von Opfern im Duterte-Verfahren nennt es „pervers“."
        }
       ],
-      "quelle": "LTO, 9.10.2026"
+      "quelle": "LTO, Berliner Zeitung, 9.10.2026"
      },
      {
       "typ": "einordnung",
       "label": "Einordnung",
       "titel": "Ein Schritt ohne Vorbild.",
-      "text": "Das Gericht nennt die Sanktionen beispiellos und einen Angriff auf die Rechtsstaatlichkeit. Am selben Tag erhielt die frühere IStGH-Richterin Navi Pillay den Friedensnobelpreis.",
-      "quelle": "LTO, 9.10.2026"
+      "text": "Das Gericht nennt den Schritt beispiellos und einen Angriff auf die Rechtsstaatlichkeit. Deutschland und weitere EU-Staaten hatten ihm zuvor volle Unterstützung zugesichert. Am selben Tag wurde Navi Pillay, früher Richterin am Gericht, der Friedensnobelpreis zugesprochen.",
+      "quelle": "beck-aktuell, LTO, 9.10.2026"
      },
      {
       "typ": "meinung",
-      "text": "Recht gilt nicht nur für Mitglieder. Wer ein Gericht bestraft, weil es Haftbefehle erlässt, greift die Idee an, dass Gesetze für alle gelten.",
+      "text": "Recht und Ordnung gelten auch für Staaten, die kein Mitglied sind. Wer ein Gericht mit Sanktionen lahmlegen will, greift die Idee an, dass Gesetze für alle gelten. Doppelmoral hat im Recht keinen Platz.",
       "handlung": "Frag nach: Was tut die Bundesregierung konkret?"
      },
      {
@@ -227,7 +231,7 @@ window.BRIEFINGS = [
       "frage": "Muss das Völkerrecht auch für Großmächte gelten?"
      }
     ],
-    "caption": "Am Morgen ging der Friedensnobelpreis an die frühere IStGH-Richterin Navi Pillay, am Abend kündigten die USA Sanktionen gegen den Internationalen Strafgerichtshof an: keine Geschäfte mehr mit dem Gericht, seine Mittel sollen abgeschnitten werden. Vorher waren schon 13 Richterinnen, Richter und Anklagende sanktioniert. Das Gericht spricht von einem beispiellosen Schritt. Mehr zur Nobelpreisträgerin: voriges Karussell. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Muss das Völkerrecht auch für Großmächte gelten?",
+    "caption": "Wenige Stunden nach der Vergabe des Friedensnobelpreises an Navi Pillay kündigten die USA Sanktionen gegen den Internationalen Strafgerichtshof an: keine Geschäfte mehr mit dem Gericht, seine Mittel sollen gekappt werden. Vorher waren schon 13 Richterinnen, Richter und Anklagende sanktioniert, nun trifft es erstmals das ganze Gericht. Es spricht von einem beispiellosen Schritt. Mehr zur Nobelpreisträgerin: voriges Karussell. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Muss das Völkerrecht auch für Großmächte gelten?",
     "hashtags": "#doytschlandtv #aktuell #voelkerrecht #istgh #usa #sanktionen #nobelpreis #menschenrechte #rechtsstaat #nachrichten"
    },
    {
