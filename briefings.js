@@ -74,12 +74,12 @@ window.BRIEFINGS = [
   "karussells": [
    {
     "zusatz": true,
-    "thema": "Warum Navi Pillay den Friedensnobelpreis bekam – und Israel sie angreift",
+    "thema": "Warum Navi Pillay den Friedensnobelpreis bekam – und Israels Regierung sie angreift",
     "slides": [
      {
       "typ": "hook",
       "kicker": "International",
-      "titel": "Warum Navi Pillay den Friedensnobelpreis bekam – und Israel sie angreift",
+      "titel": "Warum Navi Pillay den Friedensnobelpreis bekam – und Israels Regierung sie angreift",
       "rot": "Friedensnobelpreis",
       "bild": {
        "url": "titel-pillay.jpg",
@@ -90,9 +90,9 @@ window.BRIEFINGS = [
      {
       "typ": "fakten",
       "label": "Warum sie ausgezeichnet wurde",
-      "titel": "Das Komitee ehrt ihren Einsatz fürs Völkerrecht.",
-      "text": "Am 9.10.2026 erhielt Navi Pillay, 85, den Friedensnobelpreis. Das Komitee würdigt ihren „Mut“ und ihre „Integrität“ im Einsatz für das Völkerrecht. Seine Botschaft: Frieden erfordere Gerechtigkeit.",
-      "quelle": "taz, Vatican News, 9.10.2026"
+      "titel": "Das Komitee würdigt ihren Einsatz fürs Völkerrecht.",
+      "text": "Am 9.10.2026 sprach das Nobelkomitee Navi Pillay, 85, den Friedensnobelpreis zu. Es würdigt ihren „Mut“ und ihre „Integrität“ im Einsatz für das Völkerrecht. Israels Außenministerium griff die Entscheidung noch am selben Tag scharf an.",
+      "quelle": "taz, Vatican News, L'essentiel, 9.10.2026"
      },
      {
       "typ": "betrifft",
@@ -147,7 +147,7 @@ window.BRIEFINGS = [
       "label": "Israels Reaktion",
       "titel": "„Größte Lüge“ und ein Goebbels-Vergleich",
       "text": "Israels Außenministerium sprach von der „größten Lüge des 21. Jahrhunderts“ und schrieb, Goebbels applaudiere „aus der Hölle“. Den Bericht nannte es „verzerrt und falsch“. Der Krieg begann mit dem Hamas-Angriff vom 7.10.2023 (1.219 Tote, AFP-Zählung).",
-      "quelle": "t-online/AFP, 9.10.2026; Justiceinfo, 16.9.2025"
+      "quelle": "t-online/AFP, L'essentiel, 9.10.2026; Justiceinfo, 16.9.2025"
      },
      {
       "typ": "meinung",
@@ -159,7 +159,7 @@ window.BRIEFINGS = [
       "frage": "Haben Nazi-Vergleiche in politischen Debatten etwas verloren?"
      }
     ],
-    "caption": "Warum bekam Navi Pillay den Friedensnobelpreis? Das Komitee würdigt ihren Einsatz für das Völkerrecht: vom Ruanda-Urteil 1998 bis zur UN-Menschenrechtsarbeit. Als Leiterin der UN-Untersuchungskommission stellte sie 2025 fest, Israel begehe in Gaza Völkermord. Israel nennt den Bericht „verzerrt und falsch“, sein Außenministerium sprach von der „größten Lüge des 21. Jahrhunderts“ und zog einen Goebbels-Vergleich. Unsere Meinung ist gekennzeichnet. Am selben Tag: Sanktionen gegen den Strafgerichtshof, siehe nächstes Karussell. Quellen auf unserer Website, Link in der Bio. Haben Nazi-Vergleiche in politischen Debatten etwas verloren?",
+    "caption": "Am 9.10.2026 sprach das Nobelkomitee Navi Pillay den Friedensnobelpreis zu. Das Komitee würdigt ihren Einsatz für das Völkerrecht: vom Ruanda-Urteil 1998 bis zur UN-Menschenrechtsarbeit. Als Leiterin der UN-Untersuchungskommission stellte sie 2025 fest, Israel begehe in Gaza Völkermord. Israel nennt den Bericht „verzerrt und falsch“, sein Außenministerium sprach von der „größten Lüge des 21. Jahrhunderts“ und zog einen Goebbels-Vergleich. Unsere Meinung ist gekennzeichnet. Am selben Tag: Sanktionen gegen den Strafgerichtshof, siehe nächstes Karussell. Quellen auf unserer Website, Link in der Bio. Haben Nazi-Vergleiche in politischen Debatten etwas verloren?",
     "hashtags": "#doytschlandtv #aktuell #nobelpreis #navipillay #voelkerrecht #menschenrechte #gaza #israel #einordnung #nachrichten"
    },
    {
