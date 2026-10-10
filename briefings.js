@@ -268,8 +268,8 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Fair bleiben",
       "titel": "Haftbefehle sind keine Urteile.",
-      "text": "Es gilt die Unschuldsvermutung. Das Gericht erließ zugleich einen Haftbefehl gegen Hamas-Militärchef Deif. Netanjahus Büro wies die Vorwürfe als „antisemitisch“ zurück.",
-      "quelle": "Euronews, 21.11.2024"
+      "text": "Es gilt die Unschuldsvermutung. Auch gegen die Hamas-Führer Sinwar, Deif und Haniyeh beantragte der Ankläger Haftbefehle, unter anderem wegen Mord, Geiselnahme, Vergewaltigung und Folter. Netanjahus Büro nannte die Vorwürfe gegen ihn „antisemitisch“.",
+      "quelle": "Euronews, 21.11.2024; Human Rights Watch, 21.5.2024"
      },
      {
       "typ": "betrifft",
@@ -297,7 +297,7 @@ window.BRIEFINGS = [
      },
      {
       "typ": "meinung",
-      "text": "Wir bewerten die gezielte Tötung von Deif, Haniyeh und Sinwar als Selbstjustiz: Auch ihnen stand ein Verfahren zu. Recht lässt sich nicht mit zweierlei Maß anwenden. Es gilt für Hamas-Anführer wie für Regierungschefs.",
+      "text": "Wir halten die Befunde der UN-Kommission und die Haftbefehle für berechtigt. Israels Angriffe auf das Gericht und die US-Sanktionen sind für uns inakzeptabel. Strafe gehört vor Gericht: Die Tötung von Deif, Haniyeh und Sinwar bewerten wir als Selbstjustiz.",
       "handlung": "Fordere Verfahren statt Vergeltung, für alle Seiten."
      },
      {
