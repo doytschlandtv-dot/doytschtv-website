@@ -432,7 +432,7 @@ window.BRIEFINGS = [
     "art": "nachricht",
     "band": "Aktuell",
     "kicker": "Völkerrecht",
-    "titel": "Haftbefehl gegen Netanjahu: Israels Einspruch ist weiter offen",
+    "titel": "Netanjahu-Haftbefehl: Israels Einspruch bleibt offen",
     "rot": "Einspruch",
     "text": "",
     "quelle": "Amnesty, Times of Israel",
