@@ -71,8 +71,196 @@ window.BRIEFINGS = [
    ]
   },
   "abend": null,
-  "karussells": [],
-  "storys": []
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Nobelpreis morgens, Sanktionen abends: USA gegen das Weltstrafgericht",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "International",
+      "titel": "Nobelpreis morgens, Sanktionen abends: USA gegen das Weltstrafgericht",
+      "rot": "Sanktionen"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was passiert ist",
+      "titel": "Die USA wollen den Strafgerichtshof lahmlegen.",
+      "text": "Am 9.10.2026 kündigte das US-Außenministerium an, Geschäfte mit dem Internationalen Strafgerichtshof zu verbieten und seine Mittel abzuschneiden. Außenminister Rubio: Sonst „beenden wir den IStGH“.",
+      "quelle": "LTO, beck-aktuell, 9.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Schon vorher sanktioniert",
+      "zahl": "13",
+      "text": "Richterinnen, Richter und Anklagende traf es vorher. Jetzt steht das ganze Gericht auf der Liste.",
+      "quelle": "beck-aktuell, 9.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Warum dich das betrifft",
+      "titel": "Es geht um mehr als ein Gericht.",
+      "punkte": [
+       {
+        "kopf": "Verfahren",
+        "text": "Das Gericht verfolgt seit 2002 Kriegsverbrechen und Völkermord."
+       },
+       {
+        "kopf": "Dienstleister",
+        "text": "Banken und Softwarefirmen könnten betroffen sein (laut Reuters)."
+       },
+       {
+        "kopf": "Opfer",
+        "text": "Opfervertreter nennen die Sanktionen „pervers“."
+       }
+      ],
+      "quelle": "LTO, 9.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Ein Schritt ohne Vorbild.",
+      "text": "Das Gericht nennt die Sanktionen beispiellos und einen Angriff auf die Rechtsstaatlichkeit. Am selben Tag erhielt die frühere IStGH-Richterin Navi Pillay den Friedensnobelpreis.",
+      "quelle": "LTO, 9.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Recht gilt nicht nur für Mitglieder. Wer ein Gericht bestraft, weil es Haftbefehle erlässt, greift die Idee an, dass Gesetze für alle gelten.",
+      "handlung": "Frag nach: Was tut die Bundesregierung konkret?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Muss das Völkerrecht auch für Großmächte gelten?"
+     }
+    ],
+    "caption": "Am Morgen ging der Friedensnobelpreis an die frühere IStGH-Richterin Navi Pillay, am Abend kündigten die USA Sanktionen gegen den Internationalen Strafgerichtshof an: keine Geschäfte mehr mit dem Gericht, seine Mittel sollen abgeschnitten werden. Vorher waren schon 13 Richterinnen, Richter und Anklagende sanktioniert. Das Gericht spricht von einem beispiellosen Schritt. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Muss das Völkerrecht auch für Großmächte gelten?",
+    "hashtags": "#doytschlandtv #aktuell #voelkerrecht #istgh #usa #sanktionen #nobelpreis #menschenrechte #rechtsstaat #nachrichten"
+   },
+   {
+    "zusatz": true,
+    "thema": "Haftbefehl gegen Netanjahu: Darum geht es im Streit um das Gericht",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Völkerrecht",
+      "titel": "Haftbefehl gegen Netanjahu: Darum geht es im Streit um das Gericht",
+      "rot": "Netanjahu"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was dem Gericht vorliegt",
+      "titel": "Haftbefehle gegen Netanjahu und Gallant.",
+      "text": "Am 21.11.2024 erließ der IStGH Haftbefehle gegen Israels Ministerpräsidenten Netanjahu und Ex-Verteidigungsminister Gallant. Vorwurf: Aushungern von Zivilisten als Methode der Kriegsführung und Verbrechen gegen die Menschlichkeit, 8.10.2023 bis 20.5.2024.",
+      "quelle": "Amnesty, 21.11.2024"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Das Argument",
+      "behauptung": "Israel bestreitet die Zuständigkeit: Es ist kein Mitglied und hat dem Gericht nicht zugestimmt.",
+      "labelB": "Das sagt das Gericht",
+      "fakt": "Zuständig für Gaza und das Westjordanland, so die Kammer am 5.2.2021. Israels Anerkennung sei nicht nötig.",
+      "quelle": "Amnesty, Euronews"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Fair bleiben",
+      "titel": "Haftbefehle sind keine Urteile.",
+      "text": "Es gilt die Unschuldsvermutung. Das Gericht erließ zugleich einen Haftbefehl gegen Hamas-Militärchef Deif. Netanjahus Büro wies die Vorwürfe als „antisemitisch“ zurück.",
+      "quelle": "Euronews, 21.11.2024"
+     },
+     {
+      "typ": "meinung",
+      "text": "Ob ein Gericht zuständig ist, klärt das Gericht, nicht der Beschuldigte und nicht dessen Verbündete. Sanktionen gegen Richter sind kein Rechtsmittel. Recht und Ordnung gelten auch, wenn ein Staat nicht Mitglied ist.",
+      "handlung": "Kritik an der Zuständigkeit gehört ins Verfahren, nicht in die Strafe."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wer entscheidet, für wen das Recht gilt?"
+     }
+    ],
+    "caption": "Hinter den US-Sanktionen steht ein Haftbefehl: Am 21.11.2024 erließ der Internationale Strafgerichtshof Haftbefehle gegen Netanjahu und Gallant, wegen mutmaßlicher Kriegsverbrechen und Verbrechen gegen die Menschlichkeit in Gaza. Israel bestreitet die Zuständigkeit, das Gericht bejaht sie für Gaza und das Westjordanland. Wichtig: Haftbefehle sind keine Urteile, es gilt die Unschuldsvermutung, und auch gegen Hamas-Militärchef Deif gab es einen. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer entscheidet, für wen das Recht gilt?",
+    "hashtags": "#doytschlandtv #aktuell #voelkerrecht #istgh #netanjahu #gaza #menschenrechte #rechtsstaat #einordnung #nachrichten"
+   },
+   {
+    "zusatz": true,
+    "thema": "„Finsterer Tag“: Reicht Deutschland ein Wort gegen die US-Sanktionen?",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Deutschland",
+      "titel": "„Finsterer Tag“: Reicht Deutschland ein Wort gegen die US-Sanktionen?",
+      "rot": "Finsterer Tag"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was Berlin bisher sagt",
+      "titel": "Worte der Ministerin, Zusagen des Ministers.",
+      "text": "Justizministerin Hubig nannte es einen „finsteren Tag“ für das internationale Recht. Außenminister Wadephul will helfen, dass das Gericht „auch unter Druck handlungsfähig bleibt“. Eine Äußerung des Kanzlers fanden wir bis Samstagmorgen nicht.",
+      "quelle": "LTO, IPG-Journal, 9.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Deutsche Richter am Gericht",
+      "zahl": "0",
+      "text": "Erstmals seit 2002 stellt Deutschland keine Richterin und keinen Richter. Die Regierung nominierte niemanden (laut LTO).",
+      "quelle": "LTO, 9.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was Europa tun könnte",
+      "titel": "Das Blocking-Statut als Vorschlag.",
+      "text": "Fachleute fordern das EU-Blocking-Statut: Europäische Firmen dürften US-Sanktionen dann nicht befolgen. Das ist eine Forderung, kein Beschluss. Eine Festlegung der Bundesregierung dazu fanden wir nicht.",
+      "quelle": "IPG-Journal, 9.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Wir halten diese Politik der US-Regierung für eine Gefahr für Freiheit und Recht. Wenn die Bundesregierung nicht entschieden antwortet, ist sie nicht besser: Doppelmoral beginnt dort, wo Recht nur gegen Schwächere gilt.",
+      "handlung": "Wir beobachten, was Berlin konkret tut."
+     },
+     {
+      "typ": "cta",
+      "frage": "Was muss Deutschland jetzt konkret tun?"
+     }
+    ],
+    "caption": "Justizministerin Hubig sprach von einem „finsteren Tag“ für das internationale Recht, Außenminister Wadephul will das Gericht „auch unter Druck handlungsfähig“ halten. Konkrete Maßnahmen nennt bisher keine Quelle, eine Äußerung des Kanzlers fanden wir nicht. Fachleute schlagen das EU-Blocking-Statut vor, ein Beschluss dazu liegt nicht vor. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Was muss Deutschland jetzt konkret tun?",
+    "hashtags": "#doytschlandtv #aktuell #deutschland #voelkerrecht #istgh #bundesregierung #eu #rechtsstaat #einordnung #nachrichten"
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "International",
+    "titel": "Nobelpreis morgens, Sanktionen abends",
+    "rot": "Sanktionen",
+    "text": "Am 9.10. kündigen die USA an, Geschäfte mit dem Internationalen Strafgerichtshof zu verbieten. Am selben Tag erhält die frühere IStGH-Richterin Navi Pillay den Friedensnobelpreis. Karussell: Link in der Bio.",
+    "quelle": "beck-aktuell, 9.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Völkerrecht",
+    "titel": "Netanjahu: Das Gericht bejaht seine Zuständigkeit",
+    "rot": "Zuständigkeit",
+    "text": "Haftbefehl vom 21.11.2024, Unschuldsvermutung. Israel bestreitet die Zuständigkeit, das Gericht bejaht sie für Gaza und das Westjordanland. Alle Fakten im Karussell, Link in der Bio.",
+    "quelle": "Amnesty, Euronews",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Deutschland",
+    "titel": "„Finsterer Tag“: Und was folgt daraus?",
+    "rot": "Finsterer Tag",
+    "text": "Hubig: finsterer Tag für das Völkerrecht. Wadephul: Gericht soll handlungsfähig bleiben. Konkrete Maßnahmen nennt bisher keine Quelle. Karussell: Link in der Bio.",
+    "quelle": "LTO, IPG-Journal, 9.10.2026",
+    "theme": "dark"
+   }
+  ]
  },
  {
   "datum": "2026-10-09",
