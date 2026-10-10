@@ -415,7 +415,7 @@ window.BRIEFINGS = [
     "art": "nachricht",
     "band": "Aktuell",
     "kicker": "International",
-    "titel": "Wenige Stunden nach dem Nobelpreis: USA sanktionieren das Gericht",
+    "titel": "Nach dem Nobelpreis: USA sanktionieren das ganze Gericht",
     "rot": "sanktionieren",
     "text": "",
     "quelle": "LTO, Berliner Zeitung, 9.10.2026",
