@@ -74,6 +74,62 @@ window.BRIEFINGS = [
   "karussells": [
    {
     "zusatz": true,
+    "thema": "„Größte Lüge“: Israels Regierung greift die Nobelpreisträgerin an",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "International",
+      "titel": "„Größte Lüge“: Israels Regierung greift die Nobelpreisträgerin an",
+      "rot": "Lüge",
+      "bild": {
+       "url": "titel-pillay.jpg",
+       "unter": "Illustration, KI-generiert, kein Foto.",
+       "fokus": 0.38
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Was passiert ist",
+      "titel": "Israels Außenministerium attackiert die Preisträgerin.",
+      "text": "Am 9.10.2026 erhielt die südafrikanische Juristin Navi Pillay, 85, den Friedensnobelpreis. Israels Außenministerium schrieb auf X, das Komitee belohne „die größte Lüge des 21. Jahrhunderts“.",
+      "quelle": "t-online/AFP, 9.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Ihre Rolle",
+      "zahl": "2021–2025",
+      "text": "leitete Pillay die Untersuchungskommission des UN-Menschenrechtsrats zu den palästinensischen Gebieten und Israel.",
+      "quelle": "t-online/AFP, 9.10.2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Wortwahl",
+      "titel": "Von „Lüge“ bis zum Goebbels-Vergleich.",
+      "text": "Das Ministerium nannte die Vergabe eine „groteske Instrumentalisierung“ und schrieb, Goebbels applaudiere „aus der Hölle“. Auf die Vorwürfe der Kommission ging es laut Bericht nicht ein.",
+      "quelle": "t-online/AFP, 9.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Der Vorwurf dahinter",
+      "titel": "Kommission und Gericht sind zweierlei.",
+      "text": "Die UN-Kommission warf Israel im September 2025 Völkermord in Gaza vor. Israel weist das zurück und beruft sich auf Selbstverteidigung nach dem 7.10.2023. Ein Urteil in der Hauptsache fanden wir nicht.",
+      "quelle": "Global News, Channels TV, 16.9.2025"
+     },
+     {
+      "typ": "meinung",
+      "text": "Wir halten den Vorwurf für legitim, auch wenn noch kein Gericht entschieden hat. Es sind viel zu viele Menschen gestorben, das ist die Schande des 21. Jahrhunderts. Auf Vorwürfe gehören Argumente, keine Angriffe auf Personen.",
+      "handlung": "Lies den Kommissionsbericht selbst, statt Schlagzeilen zu folgen."
+     },
+     {
+      "typ": "cta",
+      "frage": "Sollte Kritik mit Argumenten beantwortet werden?"
+     }
+    ],
+    "caption": "Am 9.10.2026 erhielt Navi Pillay den Friedensnobelpreis. Israels Außenministerium schrieb auf X, das Komitee belohne „die größte Lüge des 21. Jahrhunderts“, und zog einen Goebbels-Vergleich. Pillay leitete 2021 bis 2025 die UN-Untersuchungskommission, die Israel 2025 Völkermord in Gaza vorwarf. Israel weist das zurück, ein Gerichtsurteil in der Hauptsache fanden wir nicht. Unsere Meinung ist gekennzeichnet. Am selben Tag: Sanktionen gegen den Strafgerichtshof, siehe nächstes Karussell. Quellen auf unserer Website, Link in der Bio. Sollte Kritik mit Argumenten beantwortet werden?",
+    "hashtags": "#doytschlandtv #aktuell #nobelpreis #navipillay #voelkerrecht #menschenrechte #gaza #israel #einordnung #nachrichten"
+   },
+   {
+    "zusatz": true,
     "thema": "Nobelpreis morgens, Sanktionen abends: USA gegen das Weltstrafgericht",
     "slides": [
      {
@@ -133,7 +189,7 @@ window.BRIEFINGS = [
       "frage": "Muss das Völkerrecht auch für Großmächte gelten?"
      }
     ],
-    "caption": "Am Morgen ging der Friedensnobelpreis an die frühere IStGH-Richterin Navi Pillay, am Abend kündigten die USA Sanktionen gegen den Internationalen Strafgerichtshof an: keine Geschäfte mehr mit dem Gericht, seine Mittel sollen abgeschnitten werden. Vorher waren schon 13 Richterinnen, Richter und Anklagende sanktioniert. Das Gericht spricht von einem beispiellosen Schritt. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Muss das Völkerrecht auch für Großmächte gelten?",
+    "caption": "Am Morgen ging der Friedensnobelpreis an die frühere IStGH-Richterin Navi Pillay, am Abend kündigten die USA Sanktionen gegen den Internationalen Strafgerichtshof an: keine Geschäfte mehr mit dem Gericht, seine Mittel sollen abgeschnitten werden. Vorher waren schon 13 Richterinnen, Richter und Anklagende sanktioniert. Das Gericht spricht von einem beispiellosen Schritt. Mehr zur Nobelpreisträgerin: voriges Karussell. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Muss das Völkerrecht auch für Großmächte gelten?",
     "hashtags": "#doytschlandtv #aktuell #voelkerrecht #istgh #usa #sanktionen #nobelpreis #menschenrechte #rechtsstaat #nachrichten"
    },
    {
@@ -227,6 +283,23 @@ window.BRIEFINGS = [
    }
   ],
   "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "International",
+    "titel": "„Größte Lüge“: Israel attackiert die Nobelpreisträgerin",
+    "rot": "Lüge",
+    "text": "",
+    "quelle": "t-online/AFP, 9.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-pillay.jpg",
+     "karte": true,
+     "fokus": 0.38,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
+   },
    {
     "zusatz": true,
     "art": "nachricht",
