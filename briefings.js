@@ -258,18 +258,18 @@ window.BRIEFINGS = [
      },
      {
       "typ": "vergleich",
-      "labelA": "Das Argument",
-      "behauptung": "Israel bestreitet die Zuständigkeit: Es ist kein Mitglied und hat dem Gericht nicht zugestimmt.",
-      "labelB": "Das sagt das Gericht",
-      "fakt": "Zuständig für Gaza und das Westjordanland, so die Kammer am 5.2.2021. Israels Anerkennung sei nicht nötig.",
-      "quelle": "Amnesty, Euronews"
+      "labelA": "Israels Argument",
+      "behauptung": "Israel ist kein Mitglied und hat dem Gericht nicht zugestimmt. Deshalb sei das Gericht nicht zuständig.",
+      "labelB": "Der Stand",
+      "fakt": "Das Gericht sieht sich zuständig: Palästina ist Mitglied, die Taten geschahen dort (2021). Israels Einspruch ist offen, die Haftbefehle gelten.",
+      "quelle": "Amnesty, Euronews; Times of Israel, 18.10.2025"
      },
      {
       "typ": "einordnung",
       "label": "Fair bleiben",
       "titel": "Haftbefehle sind keine Urteile.",
-      "text": "Es gilt die Unschuldsvermutung. Das Gericht erließ zugleich einen Haftbefehl gegen Hamas-Militärchef Deif. Netanjahus Büro wies die Vorwürfe als „antisemitisch“ zurück.",
-      "quelle": "Euronews, 21.11.2024"
+      "text": "Es gilt die Unschuldsvermutung. Auch gegen Hamas-Militärchef Deif gab es einen Haftbefehl, er wurde nach dessen Tod aufgehoben. Netanjahus Büro wies die Vorwürfe als „antisemitisch“ zurück.",
+      "quelle": "Euronews, 21.11.2024; Justiceinfo"
      },
      {
       "typ": "meinung",
@@ -281,7 +281,7 @@ window.BRIEFINGS = [
       "frage": "Wer entscheidet, für wen das Recht gilt?"
      }
     ],
-    "caption": "Hinter den US-Sanktionen steht ein Haftbefehl: Am 21.11.2024 erließ der Internationale Strafgerichtshof Haftbefehle gegen Netanjahu und Gallant, wegen mutmaßlicher Kriegsverbrechen und Verbrechen gegen die Menschlichkeit in Gaza. Israel bestreitet die Zuständigkeit, das Gericht bejaht sie für Gaza und das Westjordanland. Wichtig: Haftbefehle sind keine Urteile, es gilt die Unschuldsvermutung, und auch gegen Hamas-Militärchef Deif gab es einen. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer entscheidet, für wen das Recht gilt?",
+    "caption": "Der Streit um den Internationalen Strafgerichtshof dreht sich auch um diesen Haftbefehl: Am 21.11.2024 erließ das Gericht Haftbefehle gegen Netanjahu und Gallant, wegen mutmaßlicher Kriegsverbrechen und Verbrechen gegen die Menschlichkeit in Gaza. Die USA lehnen sie ab. Israel bestreitet die Zuständigkeit, das Gericht sieht sich für Taten auf palästinensischem Gebiet zuständig, Israels Einspruch ist noch offen. Wichtig: Haftbefehle sind keine Urteile, es gilt die Unschuldsvermutung. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer entscheidet, für wen das Recht gilt?",
     "hashtags": "#doytschlandtv #aktuell #voelkerrecht #istgh #netanjahu #gaza #menschenrechte #rechtsstaat #einordnung #nachrichten"
    },
    {
