@@ -136,7 +136,11 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "International",
       "titel": "Nobelpreis morgens, Sanktionen abends: USA gegen das Weltstrafgericht",
-      "rot": "Sanktionen"
+      "rot": "Sanktionen",
+      "bild": {
+       "url": "titel-sanktionen.jpg",
+       "unter": "Illustrationen, KI-generiert, keine Fotos."
+      }
      },
      {
       "typ": "fakten",
@@ -307,9 +311,15 @@ window.BRIEFINGS = [
     "kicker": "International",
     "titel": "Nobelpreis morgens, Sanktionen abends",
     "rot": "Sanktionen",
-    "text": "Am 9.10. kündigen die USA an, Geschäfte mit dem Internationalen Strafgerichtshof zu verbieten. Am selben Tag erhält die frühere IStGH-Richterin Navi Pillay den Friedensnobelpreis. Karussell: Link in der Bio.",
+    "text": "",
     "quelle": "beck-aktuell, 9.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-sanktionen.jpg",
+     "karte": true,
+     "fokus": 0.4,
+     "unter": "Illustrationen, KI-generiert, keine Fotos · Karussell: Link in der Bio"
+    }
    },
    {
     "zusatz": true,
