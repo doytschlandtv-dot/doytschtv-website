@@ -325,27 +325,51 @@ window.BRIEFINGS = [
      {
       "typ": "fakten",
       "label": "Was Berlin bisher sagt",
-      "titel": "Worte der Ministerin, Zusagen des Ministers.",
-      "text": "Justizministerin Hubig nannte es einen „finsteren Tag“ für das internationale Recht. Außenminister Wadephul will helfen, dass das Gericht „auch unter Druck handlungsfähig bleibt“. Eine Äußerung des Kanzlers fanden wir bis Samstagmorgen nicht.",
-      "quelle": "LTO, IPG-Journal, 9.10.2026"
+      "titel": "Berlin findet Worte, nennt aber keine Schritte.",
+      "text": "Justizministerin Hubig nannte es „einen finsteren Tag für das internationale Recht“. Außenminister Wadephul will helfen, dass das Gericht „auch unter Druck handlungsfähig bleibt“. Konkrete Schritte fanden wir nicht, auch keine Äußerung des Kanzlers.",
+      "quelle": "LTO, fuldainfo, IPG-Journal, 9.10.2026"
      },
      {
       "typ": "zahl",
       "label": "Deutsche Richter am Gericht",
       "zahl": "0",
-      "text": "Erstmals seit 2002 stellt Deutschland keine Richterin und keinen Richter. Die Regierung nominierte niemanden (laut LTO).",
-      "quelle": "LTO, 9.10.2026"
+      "text": "Erstmals seit 2002 ist kein deutscher Richter am Gericht tätig, obwohl Deutschland zweitgrößter Beitragszahler ist.",
+      "quelle": "LTO, IPG-Journal, 9.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was Fachleute fordern",
+      "titel": "Vier Forderungen an die Politik",
+      "punkte": [
+       {
+        "kopf": "Blocking-Statut",
+        "text": "Firmen in der EU dürften US-Sanktionen dann nicht befolgen."
+       },
+       {
+        "kopf": "Geld",
+        "text": "Deutschland soll Notfallstrukturen des Gerichts finanzieren."
+       },
+       {
+        "kopf": "Schutz",
+        "text": "Kritische Infrastruktur des Gerichts absichern."
+       },
+       {
+        "kopf": "Zugang",
+        "text": "Opferanwälte und Organisationen brauchen weiter Bankzugang."
+       }
+      ],
+      "quelle": "ECCHR, IPG-Journal, 9.10.2026"
      },
      {
       "typ": "einordnung",
-      "label": "Was Europa tun könnte",
-      "titel": "Das Blocking-Statut als Vorschlag.",
-      "text": "Fachleute fordern das EU-Blocking-Statut: Europäische Firmen dürften US-Sanktionen dann nicht befolgen. Das ist eine Forderung, kein Beschluss. Eine Festlegung der Bundesregierung dazu fanden wir nicht.",
-      "quelle": "IPG-Journal, 9.10.2026"
+      "label": "Einordnung",
+      "titel": "Der Druck gilt auch den Verbündeten.",
+      "text": "Rubio kündigte weitere Anpassungen an, falls Verbündete das Gericht nicht „in die Schranken weisen“. Die Forderungen sind Vorschläge, kein Beschluss. Die EU-Kommission zeigt sich besorgt und hofft auf einen Dialog.",
+      "quelle": "fuldainfo, LTO, 9.10.2026"
      },
      {
       "typ": "meinung",
-      "text": "Wir halten diese Politik der US-Regierung für eine Gefahr für Freiheit und Recht. Wenn die Bundesregierung nicht entschieden antwortet, ist sie nicht besser: Doppelmoral beginnt dort, wo Recht nur gegen Schwächere gilt.",
+      "text": "Wenn die Bundesregierung nicht entschieden antwortet, ist sie nicht besser. Worte allein reichen nicht. Der Maßstab ist, ob Berlin die Forderungen der Fachleute umsetzt.",
       "handlung": "Wir beobachten, was Berlin konkret tut."
      },
      {
@@ -353,7 +377,7 @@ window.BRIEFINGS = [
       "frage": "Was muss Deutschland jetzt konkret tun?"
      }
     ],
-    "caption": "Justizministerin Hubig sprach von einem „finsteren Tag“ für das internationale Recht, Außenminister Wadephul will das Gericht „auch unter Druck handlungsfähig“ halten. Konkrete Maßnahmen nennt bisher keine Quelle, eine Äußerung des Kanzlers fanden wir nicht. Fachleute schlagen das EU-Blocking-Statut vor, ein Beschluss dazu liegt nicht vor. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Was muss Deutschland jetzt konkret tun?",
+    "caption": "Justizministerin Hubig sprach von „einem finsteren Tag für das internationale Recht“, Außenminister Wadephul will das Gericht „auch unter Druck handlungsfähig“ halten. Konkrete Schritte fanden wir nicht, auch keine Äußerung des Kanzlers. Erstmals seit 2002 ist kein deutscher Richter am Gericht tätig, Deutschland ist zweitgrößter Beitragszahler. Fachleute fordern unter anderem das EU-Blocking-Statut, einen Beschluss dazu gibt es nicht. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Was muss Deutschland jetzt konkret tun?",
     "hashtags": "#doytschlandtv #aktuell #deutschland #voelkerrecht #istgh #bundesregierung #eu #rechtsstaat #einordnung #nachrichten"
    }
   ],
