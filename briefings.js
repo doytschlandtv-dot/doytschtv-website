@@ -204,7 +204,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Völkerrecht",
       "titel": "Haftbefehl gegen Netanjahu: Darum geht es im Streit um das Gericht",
-      "rot": "Netanjahu"
+      "rot": "Netanjahu",
+      "bild": {
+       "url": "titel-netanjahu.jpg",
+       "fokus": 0.38,
+       "unter": "Illustration, KI-generiert, kein Foto · Haftbefehl, kein Urteil"
+      }
      },
      {
       "typ": "fakten",
@@ -328,9 +333,15 @@ window.BRIEFINGS = [
     "kicker": "Völkerrecht",
     "titel": "Netanjahu: Das Gericht bejaht seine Zuständigkeit",
     "rot": "Zuständigkeit",
-    "text": "Haftbefehl vom 21.11.2024, Unschuldsvermutung. Israel bestreitet die Zuständigkeit, das Gericht bejaht sie für Gaza und das Westjordanland. Alle Fakten im Karussell, Link in der Bio.",
+    "text": "",
     "quelle": "Amnesty, Euronews",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-netanjahu.jpg",
+     "karte": true,
+     "fokus": 0.38,
+     "unter": "Illustration, KI-generiert, kein Foto · Haftbefehl, kein Urteil"
+    }
    },
    {
     "zusatz": true,
