@@ -223,7 +223,7 @@ window.BRIEFINGS = [
      },
      {
       "typ": "meinung",
-      "text": "Recht und Ordnung gelten auch für Staaten, die kein Mitglied sind. Wer ein Gericht mit Sanktionen lahmlegen will, greift die Idee an, dass Gesetze für alle gelten. Doppelmoral hat im Recht keinen Platz.",
+      "text": "Recht und Ordnung gelten auch für Nichtmitglieder. Wer ein Gericht mit Sanktionen lahmlegen will, greift die Idee an, dass Gesetze für alle gelten. Wir sehen in dieser Politik der Trump-Regierung Doppelmoral und eine Gefahr für Recht und Freiheit.",
       "handlung": "Frag nach: Was tut die Bundesregierung konkret?"
      },
      {
