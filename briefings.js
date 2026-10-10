@@ -1,5 +1,80 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-10",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": "https://music.wixstatic.com/mp3/fb5203_9caa6c7f08f44c7ba5c65943598cbef9.mp3",
+   "dauer": "4:41",
+   "themen": [
+    "Wohngeld: Wer verliert wie viel? Die Zahlen sortiert",
+    "Rente mit 70? Das steht wirklich im Kommissionsbericht",
+    "Haushalt 2027: Wo bei Familien gespart werden soll",
+    "Mietrecht: Was die Reform für Mieter ändern soll"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv, Samstag, der zehnte Oktober. Vier Themen, fünf Minuten, damit du informiert in den Tag startest.",
+    "Erstens: Wohngeld: Wer verliert wie viel? Die Zahlen sortiert.",
+    "Der Bundestag hat die Wohngeld-Kürzung in der Nacht zum Freitag in erster Lesung beraten, nach nur zwanzig Minuten Aussprache. Laut Gesetzentwurf wird die Heizkostenkomponente halbiert und die übliche Anpassung einmalig ausgesetzt. Außerdem ändert sich die Formel. Die Einsparung beziffert der Bundestag mit 1,156 Milliarden Euro im Jahr 2027 und 1,486 Milliarden im Jahr 2028. Zurzeit beziehen rund 1,3 Millionen Haushalte Wohngeld. Laut Bauministerium verliert etwa ein Drittel von ihnen den Anspruch, das wären rechnerisch etwa 430.000 Haushalte. Der Mieterbund spricht von bis zu 500.000, andere Berichte nennen eine Million. Eine Quelle dafür nennen sie nicht. Wie viel ein einzelner Haushalt verliert, steht nirgends belegt. Das hängt von Einkommen, Miete und Wohnort ab. Der Entwurf geht jetzt in die Ausschüsse, einen Termin haben wir nicht gefunden.",
+    "Unsere Meinung: Ein Haushalt muss sparen, das ist richtig. Aber wer beim Wohngeld spart, trifft Menschen mit kleinen Einkommen, vor allem Rentner, Familien und Alleinlebende. Wir wünschen uns, dass der Ausschuss vor der Entscheidung offenlegt, wie viele Haushalte wirklich betroffen sind. Denn zwischen 430.000 und einer Million liegt ein großer Unterschied.",
+    "Zweitens: Rente mit 70? Das steht wirklich im Kommissionsbericht.",
+    "Die Alterssicherungskommission hat im Juni 33 Empfehlungen vorgelegt. Eine Rente mit 70 ist nicht darunter. Vorgeschlagen wird, die Regelaltersgrenze ab 2031 an die Lebenserwartung zu koppeln. Nach den mittleren Annahmen des Statistischen Bundesamts steigt sie zwischen 2031 und 2041 schrittweise von 67 auf 67 einhalb Jahre. Die abschlagsfreie Rente für besonders langjährig Versicherte soll abgeschafft werden. Die Altersgrenze für langjährig Versicherte soll von 63 auf 64 steigen. Ersetzt werden soll das durch eine Schutzrente für Menschen, die aus gesundheitlichen Gründen nicht mehr arbeiten können. Beschlossen ist nichts. Am Freitag beriet der Bundestag Anträge der Linken dazu. Innerhalb der SPD gibt es Widerstand gegen die Abschaffung. Kanzler Merz rechnet laut Berichten nicht mehr mit einem Abschluss bis Weihnachten, sondern hofft auf das Frühjahr.",
+    "Unsere Meinung: Die Zahl siebzig steht nicht im Bericht. Trotzdem geht es um Lebensplanung. Wer körperlich hart arbeitet, kann nicht einfach länger. Wir finden, jede Anhebung braucht einen echten Schutz für diese Menschen, und die Koalition sollte offen sagen, wer am Ende zahlt.",
+    "Drittens: Haushalt 2027: Wo bei Familien gespart werden soll.",
+    "Laut Bundestag soll das Familienministerium 2027 rund 15,48 Milliarden Euro bekommen, 1,19 Milliarden weniger als 2026. Das Elterngeld sinkt im Ansatz von 7,51 auf 7,07 Milliarden Euro. Der Kinderzuschlag geht von 3,38 auf 3,12 Milliarden zurück. Beim Unterhaltsvorschuss sind es 914 Millionen statt 1,31 Milliarden. Das Investitionsprogramm für Kitas sinkt von 940 auf 433,8 Millionen Euro. Das Kindergeld steigt im Ansatz leicht. Wichtig: Ein Haushaltsansatz ist keine Kürzung je Familie. Was das konkret für Familien heißt, ist offen. Am Montag um 15 Uhr hört der Haushaltsausschuss Sachverständige zum Haushaltsbegleitgesetz an.",
+    "Unsere Meinung: Die Zahlen zeigen eine Richtung, aber noch kein Urteil. Wir schauen deshalb auf die Anhörung am Montag. Entscheidend ist, ob am Ende Familien mit wenig Geld weniger Unterstützung bekommen. Kinder sollten die Letzten sein, bei denen gespart wird.",
+    "Viertens: Mietrecht: Was die Reform für Mieter ändern soll.",
+    "Am Mittwoch hört der Rechtsausschuss von 16 Uhr 30 bis 18 Uhr 30 Sachverständige zur Mietrechtsreform an. Laut Haufe sieht der Regierungsentwurf vor: Kurzzeitverträge höchstens sechs Monate, einmal verlängerbar auf acht. Bei möblierten Wohnungen muss der Zuschlag offengelegt werden. Für voll möblierte Wohnungen ist eine Pauschale von zehn Prozent der Nettokaltmiete vorgesehen. Bei der Indexmiete bleibt in angespannten Märkten die Hälfte der Teuerung über drei Prozent unberücksichtigt. Und wer Mietrückstände zahlt, kann auch eine ordentliche Kündigung einmal abwenden. Teile der Union wollen die Regeln zugunsten der Vermieter abschwächen. Den Gesetzestext konnten wir nicht prüfen, Änderungen sind möglich.",
+    "Unsere Meinung: Mieterschutz und die berechtigten Interessen von Vermietern gehören zusammen. Wer Wohnraum anbietet, soll fair verdienen. Wer dort wohnt, braucht Planbarkeit und Schutz vor überzogenen Aufschlägen. Wir beobachten, was die Sachverständigen am Mittwoch sagen.",
+    "Das war das Morning Briefing. Heute um 19 Uhr folgt der Tagesrückblick, mit allem, was sich im Laufe des Tages geändert hat. Alle Quellen findest du auf unserer Website. Diese Stimme ist KI-generiert. Einen guten Tag wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Bundestag: Wohngeldgesetz, 1. Lesung (Drs. 21/8284)",
+     "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-wohngeldgesetz-1217564"
+    },
+    {
+     "titel": "ZDFheute: Wohngeld-Kürzung, Bundestag berät nachts",
+     "url": "https://www.zdfheute.de/politik/wohngeld-bundestag-merz-hubig-kuerzung-100.html"
+    },
+    {
+     "titel": "taz: Debatte zum Wohngeldgesetz",
+     "url": "https://taz.de/Debatte-zum-Wohngeldgesetz-im-Bundestag-Ueber-1-Million-Haushalte-betroffen/!6220225/"
+    },
+    {
+     "titel": "Deutscher Mieterbund: Bundestag berät über Wohngeldkürzungen",
+     "url": "https://mieterbund.de/aktuelles/meldungen/bundestag-beraet-ueber-wohngeldkuerzungen/"
+    },
+    {
+     "titel": "BMAS: Rentenkommission 2026",
+     "url": "https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/Rentenreform-2025/Rentenkommission-2026/rentenkommission-2026.html"
+    },
+    {
+     "titel": "ms-aktuell: Streit um Rentenalter im Bundestag",
+     "url": "https://ms-aktuell.de/welt/rentenreform-bundestag-09-10-2026/"
+    },
+    {
+     "titel": "Bundestag hib: Haushalt 2027, Bildung und Familie",
+     "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1205456"
+    },
+    {
+     "titel": "Bundestag: Anhörung Haushaltsbegleitgesetz 2027",
+     "url": "https://www.bundestag.de/ausschuesse/a08_haushalt/anhoerungen/1194566-1194566"
+    },
+    {
+     "titel": "Bundestag: Anhörung Wohn- und Geschäftsraummiete",
+     "url": "https://www.bundestag.de/ausschuesse/recht-verbraucherschutz/sitzungen/1216992-1216992"
+    },
+    {
+     "titel": "Haufe: Mietrechtsreform 2026",
+     "url": "https://www.haufe.de/immobilien/wirtschaft-politik/mietrechtsreform-2026_84342_684280.html"
+    }
+   ]
+  },
+  "abend": null,
+  "karussells": [],
+  "storys": []
+ },
+ {
   "datum": "2026-10-09",
   "morgen": {
    "titel": "Morning Briefing",
