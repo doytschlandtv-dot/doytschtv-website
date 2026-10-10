@@ -74,13 +74,13 @@ window.BRIEFINGS = [
   "karussells": [
    {
     "zusatz": true,
-    "thema": "„Größte Lüge“: Israels Regierung greift die Nobelpreisträgerin an",
+    "thema": "Warum Navi Pillay den Friedensnobelpreis bekam – und Israel sie angreift",
     "slides": [
      {
       "typ": "hook",
       "kicker": "International",
-      "titel": "„Größte Lüge“: Israels Regierung greift die Nobelpreisträgerin an",
-      "rot": "Lüge",
+      "titel": "Warum Navi Pillay den Friedensnobelpreis bekam – und Israel sie angreift",
+      "rot": "Friedensnobelpreis",
       "bild": {
        "url": "titel-pillay.jpg",
        "unter": "Illustration, KI-generiert, kein Foto.",
@@ -89,43 +89,77 @@ window.BRIEFINGS = [
      },
      {
       "typ": "fakten",
-      "label": "Was passiert ist",
-      "titel": "Israels Außenministerium attackiert die Preisträgerin.",
-      "text": "Am 9.10.2026 erhielt die südafrikanische Juristin Navi Pillay, 85, den Friedensnobelpreis. Israels Außenministerium schrieb auf X, das Komitee belohne „die größte Lüge des 21. Jahrhunderts“.",
-      "quelle": "t-online/AFP, 9.10.2026"
+      "label": "Warum sie ausgezeichnet wurde",
+      "titel": "Das Komitee ehrt ihren Einsatz fürs Völkerrecht.",
+      "text": "Am 9.10.2026 erhielt Navi Pillay, 85, den Friedensnobelpreis. Das Komitee würdigt ihren „Mut“ und ihre „Integrität“ im Einsatz für das Völkerrecht. Seine Botschaft: Frieden erfordere Gerechtigkeit.",
+      "quelle": "taz, Vatican News, 9.10.2026"
      },
      {
-      "typ": "zahl",
-      "label": "Ihre Rolle",
-      "zahl": "2021–2025",
-      "text": "leitete Pillay die Untersuchungskommission des UN-Menschenrechtsrats zu den palästinensischen Gebieten und Israel.",
-      "quelle": "t-online/AFP, 9.10.2026"
+      "typ": "betrifft",
+      "label": "Ihre Laufbahn",
+      "titel": "Von der Apartheid bis nach Den Haag",
+      "punkte": [
+       {
+        "kopf": "Anwältin",
+        "text": "Verteidigte politische Gefangene, auch Nelson Mandela."
+       },
+       {
+        "kopf": "Ruanda 1998",
+        "text": "Erstes Völkermord-Urteil gegen eine Einzelperson."
+       },
+       {
+        "kopf": "Den Haag",
+        "text": "Ab 2003 Richterin am Internationalen Strafgerichtshof."
+       },
+       {
+        "kopf": "UN",
+        "text": "2008 bis 2014 Hochkommissarin für Menschenrechte."
+       }
+      ],
+      "quelle": "taz, 9.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was die UN-Kommission feststellte",
+      "titel": "Ihr Bericht vom 16. September 2025",
+      "punkte": [
+       {
+        "kopf": "Handlungen",
+        "text": "Vier von fünf Völkermord-Handlungen, Absicht aus Aussagen abgeleitet."
+       },
+       {
+        "kopf": "Aufstachelung",
+        "text": "Laut Kommission: Herzog, Netanjahu und Gallant. Israel schritt nicht ein."
+       },
+       {
+        "kopf": "Folgen",
+        "text": "Fast 65.000 Tote laut Gesundheitsministerium in Gaza, Hungersnot in Gaza-Stadt."
+       },
+       {
+        "kopf": "Forderung",
+        "text": "Staaten sollen Waffenlieferungen für solche Zwecke stoppen."
+       }
+      ],
+      "quelle": "Justiceinfo, Law Society Gazette, 16.9.2025"
      },
      {
       "typ": "fakten",
-      "label": "Die Wortwahl",
-      "titel": "Von „Lüge“ bis zum Goebbels-Vergleich.",
-      "text": "Das Ministerium nannte die Vergabe eine „groteske Instrumentalisierung“ und schrieb, Goebbels applaudiere „aus der Hölle“. Auf die Vorwürfe der Kommission ging es laut Bericht nicht ein.",
-      "quelle": "t-online/AFP, 9.10.2026"
-     },
-     {
-      "typ": "einordnung",
-      "label": "Der Vorwurf dahinter",
-      "titel": "Kommission und Gericht sind zweierlei.",
-      "text": "Die UN-Kommission warf Israel im September 2025 Völkermord in Gaza vor. Israel weist das zurück und beruft sich auf Selbstverteidigung nach dem 7.10.2023. Ein Urteil in der Hauptsache fanden wir nicht.",
-      "quelle": "Global News, Channels TV, 16.9.2025"
+      "label": "Israels Reaktion",
+      "titel": "„Größte Lüge“ und ein Goebbels-Vergleich",
+      "text": "Israels Außenministerium sprach von der „größten Lüge des 21. Jahrhunderts“ und schrieb, Goebbels applaudiere „aus der Hölle“. Den Bericht nannte es „verzerrt und falsch“. Der Krieg begann mit dem Hamas-Angriff vom 7.10.2023 (1.219 Tote, AFP-Zählung).",
+      "quelle": "t-online/AFP, 9.10.2026; Justiceinfo, 16.9.2025"
      },
      {
       "typ": "meinung",
-      "text": "Wir halten den Vorwurf für legitim, auch wenn noch kein Gericht entschieden hat. Es sind viel zu viele Menschen gestorben, das ist die Schande des 21. Jahrhunderts. Auf Vorwürfe gehören Argumente, keine Angriffe auf Personen.",
+      "text": "Die Taten der Hamas waren schlimm, doch Israels Reaktion überschreitet für uns die Verhältnismäßigkeit. Goebbels-Vergleiche sind populistisch und grotesk. Sie werfen einen Schatten auf die Gräuel der Nationalsozialisten.",
       "handlung": "Lies den Kommissionsbericht selbst, statt Schlagzeilen zu folgen."
      },
      {
       "typ": "cta",
-      "frage": "Sollte Kritik mit Argumenten beantwortet werden?"
+      "frage": "Haben Nazi-Vergleiche in politischen Debatten etwas verloren?"
      }
     ],
-    "caption": "Am 9.10.2026 erhielt Navi Pillay den Friedensnobelpreis. Israels Außenministerium schrieb auf X, das Komitee belohne „die größte Lüge des 21. Jahrhunderts“, und zog einen Goebbels-Vergleich. Pillay leitete 2021 bis 2025 die UN-Untersuchungskommission, die Israel 2025 Völkermord in Gaza vorwarf. Israel weist das zurück, ein Gerichtsurteil in der Hauptsache fanden wir nicht. Unsere Meinung ist gekennzeichnet. Am selben Tag: Sanktionen gegen den Strafgerichtshof, siehe nächstes Karussell. Quellen auf unserer Website, Link in der Bio. Sollte Kritik mit Argumenten beantwortet werden?",
+    "caption": "Warum bekam Navi Pillay den Friedensnobelpreis? Das Komitee würdigt ihren Einsatz für das Völkerrecht: vom Ruanda-Urteil 1998 bis zur UN-Menschenrechtsarbeit. Als Leiterin der UN-Untersuchungskommission stellte sie 2025 fest, Israel begehe in Gaza Völkermord. Israel nennt den Bericht „verzerrt und falsch“, sein Außenministerium sprach von der „größten Lüge des 21. Jahrhunderts“ und zog einen Goebbels-Vergleich. Unsere Meinung ist gekennzeichnet. Am selben Tag: Sanktionen gegen den Strafgerichtshof, siehe nächstes Karussell. Quellen auf unserer Website, Link in der Bio. Haben Nazi-Vergleiche in politischen Debatten etwas verloren?",
     "hashtags": "#doytschlandtv #aktuell #nobelpreis #navipillay #voelkerrecht #menschenrechte #gaza #israel #einordnung #nachrichten"
    },
    {
