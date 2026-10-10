@@ -268,20 +268,44 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Fair bleiben",
       "titel": "Haftbefehle sind keine Urteile.",
-      "text": "Es gilt die Unschuldsvermutung. Der Ankläger beantragte auch Haftbefehle gegen drei Hamas-Anführer: Sinwar, Deif, Haniyeh. Alle drei sind tot, die Verfahren wurden eingestellt. Netanjahus Büro nannte die Vorwürfe „antisemitisch“.",
-      "quelle": "Euronews, 21.11.2024; Justiceinfo, 26.2.2025; Eastleigh Voice, 6.9.2024"
+      "text": "Es gilt die Unschuldsvermutung. Das Gericht erließ zugleich einen Haftbefehl gegen Hamas-Militärchef Deif. Netanjahus Büro wies die Vorwürfe als „antisemitisch“ zurück.",
+      "quelle": "Euronews, 21.11.2024"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Die Hamas-Anführer",
+      "titel": "Drei Anträge, drei Tötungen, kein Urteil",
+      "punkte": [
+       {
+        "kopf": "Deif",
+        "text": "Haftbefehl erlassen. Im Juli 2024 bei israelischem Luftangriff getötet."
+       },
+       {
+        "kopf": "Haniyeh",
+        "text": "Haftbefehl beantragt. Im Juli 2024 in Teheran getötet, Israel bekannte sich im Dezember dazu."
+       },
+       {
+        "kopf": "Sinwar",
+        "text": "Haftbefehl beantragt. Im Oktober 2024 vom israelischen Militär getötet."
+       },
+       {
+        "kopf": "Folge",
+        "text": "Kein Gericht konnte über sie urteilen."
+       }
+      ],
+      "quelle": "Justiceinfo, 26.2.2025; Eastleigh Voice; New Arab, 24.12.2024; Times of Israel"
      },
      {
       "typ": "meinung",
-      "text": "Ob ein Gericht zuständig ist, klärt das Gericht. Sanktionen gegen Richter sind kein Rechtsmittel. Auch die getöteten Hamas-Anführer galten bis zu einem Urteil als unschuldig. Wir meinen: Strafe gehört vor ein Gericht, nicht in die Hand eines Staates.",
-      "handlung": "Kritik an der Zuständigkeit gehört ins Verfahren, nicht in die Strafe."
+      "text": "Wir bewerten die gezielte Tötung von Deif, Haniyeh und Sinwar als Selbstjustiz: Auch ihnen stand ein Verfahren zu. Recht lässt sich nicht mit zweierlei Maß anwenden. Es gilt für Hamas-Anführer wie für Regierungschefs.",
+      "handlung": "Fordere Verfahren statt Vergeltung, für alle Seiten."
      },
      {
       "typ": "cta",
       "frage": "Wer entscheidet, für wen das Recht gilt?"
      }
     ],
-    "caption": "Der Streit um den Internationalen Strafgerichtshof dreht sich auch um diesen Haftbefehl: Am 21.11.2024 erließ das Gericht Haftbefehle gegen Netanjahu und Gallant, wegen mutmaßlicher Kriegsverbrechen und Verbrechen gegen die Menschlichkeit in Gaza. Die USA lehnen sie ab. Israel bestreitet die Zuständigkeit, das Gericht sieht sich für Taten auf palästinensischem Gebiet zuständig, Israels Einspruch ist noch offen. Wichtig: Haftbefehle sind keine Urteile, es gilt die Unschuldsvermutung. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer entscheidet, für wen das Recht gilt?",
+    "caption": "Der Streit um den Internationalen Strafgerichtshof dreht sich auch um diesen Haftbefehl: Am 21.11.2024 erließ das Gericht Haftbefehle gegen Netanjahu und Gallant, wegen mutmaßlicher Kriegsverbrechen und Verbrechen gegen die Menschlichkeit in Gaza. Die USA lehnen sie ab. Israel bestreitet die Zuständigkeit, das Gericht sieht sich für Taten auf palästinensischem Gebiet zuständig, Israels Einspruch ist noch offen. Wichtig: Haftbefehle sind keine Urteile, es gilt die Unschuldsvermutung, auch für Hamas-Anführer, die ohne Urteil getötet wurden. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer entscheidet, für wen das Recht gilt?",
     "hashtags": "#doytschlandtv #aktuell #voelkerrecht #istgh #netanjahu #gaza #menschenrechte #rechtsstaat #einordnung #nachrichten"
    },
    {
