@@ -268,12 +268,12 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Fair bleiben",
       "titel": "Haftbefehle sind keine Urteile.",
-      "text": "Es gilt die Unschuldsvermutung. Auch gegen Hamas-Militärchef Deif gab es einen Haftbefehl, er wurde nach dessen Tod aufgehoben. Netanjahus Büro wies die Vorwürfe als „antisemitisch“ zurück.",
-      "quelle": "Euronews, 21.11.2024; Justiceinfo"
+      "text": "Es gilt die Unschuldsvermutung. Der Ankläger beantragte auch Haftbefehle gegen drei Hamas-Anführer: Sinwar, Deif, Haniyeh. Alle drei sind tot, die Verfahren wurden eingestellt. Netanjahus Büro nannte die Vorwürfe „antisemitisch“.",
+      "quelle": "Euronews, 21.11.2024; Justiceinfo, 26.2.2025; Eastleigh Voice, 6.9.2024"
      },
      {
       "typ": "meinung",
-      "text": "Ob ein Gericht zuständig ist, klärt das Gericht, nicht der Beschuldigte und nicht dessen Verbündete. Sanktionen gegen Richter sind kein Rechtsmittel. Recht und Ordnung gelten auch, wenn ein Staat nicht Mitglied ist.",
+      "text": "Ob ein Gericht zuständig ist, klärt das Gericht. Sanktionen gegen Richter sind kein Rechtsmittel. Auch die getöteten Hamas-Anführer galten bis zu einem Urteil als unschuldig. Wir meinen: Strafe gehört vor ein Gericht, nicht in die Hand eines Staates.",
       "handlung": "Kritik an der Zuständigkeit gehört ins Verfahren, nicht in die Strafe."
      },
      {
