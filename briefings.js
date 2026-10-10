@@ -254,7 +254,11 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Deutschland",
       "titel": "„Finsterer Tag“: Reicht Deutschland ein Wort gegen die US-Sanktionen?",
-      "rot": "Finsterer Tag"
+      "rot": "Finsterer Tag",
+      "bild": {
+       "url": "titel-finsterer-tag.jpg",
+       "unter": "Illustration, KI-generiert, kein Foto."
+      }
      },
      {
       "typ": "fakten",
@@ -350,9 +354,15 @@ window.BRIEFINGS = [
     "kicker": "Deutschland",
     "titel": "„Finsterer Tag“: Und was folgt daraus?",
     "rot": "Finsterer Tag",
-    "text": "Hubig: finsterer Tag für das Völkerrecht. Wadephul: Gericht soll handlungsfähig bleiben. Konkrete Maßnahmen nennt bisher keine Quelle. Karussell: Link in der Bio.",
+    "text": "",
     "quelle": "LTO, IPG-Journal, 9.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-finsterer-tag-story.jpg",
+     "karte": true,
+     "fokus": 0.4,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    }
   ]
  },
