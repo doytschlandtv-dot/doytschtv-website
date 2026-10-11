@@ -451,3 +451,5 @@ a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
 .wer p { margin: 0 0 0.9rem; line-height: 1.6; }
 @media (max-width: 640px) { .wer { grid-template-columns: minmax(0, 1fr); gap: 1.25rem; } .wer figure { max-width: 14rem; } }
 .wer h3 { margin: 1.4rem 0 0.35rem; font-size: 1.05rem; letter-spacing: 0; }
+.tk-g a.own { font-weight: 700; }
+.tk-g a.ext .src { opacity: 0.6; font-size: 0.75rem; margin-left: 0.15rem; }

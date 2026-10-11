@@ -12,6 +12,7 @@ B = sorted(load("briefings.js", "window.BRIEFINGS = "), key=lambda d: d["datum"]
 K = sorted(load("kolumnen.js", "window.KOLUMNEN = "), key=lambda d: d["datum"], reverse=True)
 E = load("erklaert-data.js", "window.ERKLAERT = ")
 D = load("dossiers-data.js", "window.DOSSIERS = ")
+T = load("ticker.js", "window.TICKER = ")
 e = lambda x: html.escape(str(x), quote=True)
 def ps(lst): return "".join(f"<p>{e(t)}</p>" for t in lst or [])
 def links(q): return "<ul>" + "".join(f'<li><a href="{e(x["url"])}">{e(x["titel"])}</a></li>' if x.get("url") else f"<li>{e(x['titel'])}</li>" for x in q or []) + "</ul>"
@@ -81,7 +82,12 @@ def heute():
     def card(k, t, h, img, y, u):
         im = f'<span class="hc-i"><img class="bg" src="{e(img)}" alt="" loading="lazy" aria-hidden="true"><img class="fg" src="{e(img)}" alt="" loading="lazy"></span>' if img else ""
         return f'<a class="hc{" has-img" if img else ""}" href="{e(h)}">{im}<span class="hc-t"><span class="k">{e(k)}</span><strong>{e(t)}</strong>' + (f"<small>{e(u)}</small>" if u else "") + "</span></a>"
-    tick = '<span class="tk-g">' + "".join(f'<a href="{e(h)}">{e(t)}</a>' for k, t, h, *_ in it) + "</span>"
+    X = T.get("items", [])
+    parts = []
+    for i in range(max(len(it), len(X))):
+        if i < len(it): parts.append(f'<a class="own" href="{e(it[i][2])}">{e(it[i][1])}</a>')
+        if i < len(X): parts.append(f'<a class="ext" href="{e(X[i]["u"])}" target="_blank" rel="noopener">{e(X[i]["t"])}<span class="src"> {e(X[i]["q"])}</span></a>')
+    tick = '<span class="tk-g">' + "".join(parts) + "</span>"
     return "".join(card(*x) for x in it), tick, d["datum"]
 
 JS = '<script>document.documentElement.className+=" js"</script>'
