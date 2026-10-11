@@ -405,14 +405,14 @@ window.BRIEFINGS = [
        },
        {
         "kopf": "Bekennung",
-        "text": "Eine Bekennung der Huthi gibt es laut ORF nicht."
+        "text": "Zum Samstag liegt keine vor. Zu früheren Angriffen auf den Flughafen bekannten sich die Huthi."
        },
        {
         "kopf": "Reaktionen",
         "text": "Guterres „zutiefst schockiert“, Rubio verurteilt, Trump prüft Unterstützung für Angriffe."
        }
       ],
-      "quelle": "ORF, AWP/cash.ch, 11.10.2026"
+      "quelle": "ORF, AWP/cash.ch, 11.10.2026; Euronews, 8.10.2026"
      },
      {
       "typ": "einordnung",
@@ -440,10 +440,41 @@ window.BRIEFINGS = [
        },
        {
         "kopf": "Nach Riad",
-        "text": "Eine Reaktion des Pakts auf den Angriff fanden wir bisher nicht."
+        "text": "Eine Reaktion des Pakts auf den Angriff vom Samstag fanden wir bisher nicht."
        }
       ],
       "quelle": "heute.at, 6.10.2026; derStandard"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Türkei und Pakistan",
+      "titel": "Was Ankara und Islamabad sagen",
+      "punkte": [
+       {
+        "kopf": "Fidan, 8.10.",
+        "text": "Außenminister Fidan: „Das ist kein offensives Abkommen.“ Geprüft wird Luftabwehr und technische Hilfe."
+       },
+       {
+        "kopf": "Außenministerium",
+        "text": "Verurteilt die Angriffe, fordert ein Ende der Angriffe auf Zivilisten und Infrastruktur, „volle Solidarität“."
+       },
+       {
+        "kopf": "Pakistan",
+        "text": "Laut NYT rund 8.000 Soldaten im Land, Schwerpunkt Luftverteidigung."
+       },
+       {
+        "kopf": "Unbestätigt",
+        "text": "Ein anonymer Offizier nannte pakistanische Luftangriffe im Jemen. Das Ministerium dementiert."
+       }
+      ],
+      "quelle": "Middle East Eye, 8.10.; Daily Sabah, 10.10.; Ynet nach NYT, 8.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Saudi-Arabien",
+      "titel": "Wie Riad bisher reagiert",
+      "text": "Die Koalition meldet Angriffe auf 82 Huthi-Ziele. US-Präsident Trump, der zuvor direkte Hilfe ablehnte, erwägt laut ORF nun Unterstützung für saudische Schläge. Eine offizielle Reaktion Riads auf den Samstag fanden wir bisher nicht.",
+      "quelle": "ORF, 8. und 11.10.2026"
      },
      {
       "typ": "einordnung",
@@ -461,15 +492,15 @@ window.BRIEFINGS = [
      },
      {
       "typ": "meinung",
-      "text": "Es geht nicht um Parteien. Flughäfen, Häfen, Hotels, Stromnetze: Zivile Infrastruktur wird in diesem Krieg immer öfter zum Ziel, in Dubai wie in Riad. Wer das hinnimmt, weil es der andere Block trifft, hat den Maßstab verloren. Ein Bündnis, das sich Beistand verspricht, muss auch Schutz von Zivilisten und Deeskalation mitdenken.",
-      "handlung": "Miss jede Seite am gleichen Maßstab."
+      "text": "Auch Krieg hat Grenzen, so etwas wie Würde und Regeln. Flughäfen, Hotels, Häfen sind keine Schlachtfelder, dort sind Reisende, Angestellte, Familien. Wer sie trifft, zerstört mehr als Gebäude: die letzten Grenzen, die Kriege eingrenzen. Muss es wirklich zivile Infrastruktur sein?",
+      "handlung": "Frag bei jeder Meldung: Wer wurde getroffen, Militär oder Zivilisten?"
      },
      {
       "typ": "cta",
       "frage": "Wird zivile Infrastruktur zum neuen Normalfall im Krieg?"
      }
     ],
-    "caption": "Am Samstag traf ein Angriff den King-Khalid-Flughafen in Riad: laut saudischer Luftfahrtbehörde 12 Tote, 309 Verletzte. Das Bündnis macht die Huthi verantwortlich, eine Bekennung gibt es laut ORF nicht. Schon im März traf der Iran laut Wikipedia-Übersicht Flughafen, Hafen und Hotels in Dubai. Der Verteidigungspakt von Saudi-Arabien, Türkei und Pakistan wurde am 5. Oktober aktiviert, eine Reaktion auf den Angriff fanden wir bisher nicht. Das humanitäre Völkerrecht schützt Zivilisten, für alle Parteien gleich. Unsere Meinung ist gekennzeichnet. Quellen: ORF, AWP/cash.ch, heute.at, derStandard, Wikipedia. Wird zivile Infrastruktur zum neuen Normalfall im Krieg?",
+    "caption": "Am Samstag traf ein Angriff den King-Khalid-Flughafen in Riad: laut saudischer Luftfahrtbehörde 12 Tote, 309 Verletzte. Das Bündnis macht die Huthi verantwortlich, eine Bekennung gibt es laut ORF nicht. Schon im März traf der Iran laut Wikipedia-Übersicht Flughafen, Hafen und Hotels in Dubai. Der Verteidigungspakt von Saudi-Arabien, Türkei und Pakistan wurde am 5. Oktober aktiviert. Außenminister Fidan nennt ihn nicht offensiv, die Türkei fordert ein Ende der Angriffe auf Zivilisten und Infrastruktur. Eine Reaktion auf den Angriff vom Samstag fanden wir bisher nicht. Das humanitäre Völkerrecht schützt Zivilisten, für alle Parteien gleich. Unsere Meinung ist gekennzeichnet. Quellen: ORF, AWP/cash.ch, heute.at, derStandard, Wikipedia. Wird zivile Infrastruktur zum neuen Normalfall im Krieg?",
     "hashtags": "#doytschlandtv #aktuell #riad #saudiarabien #jemen #iran #dubai #voelkerrecht #zivilisten #einordnung #nachrichten"
    }
   ],
