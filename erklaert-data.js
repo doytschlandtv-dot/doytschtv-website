@@ -397,5 +397,118 @@ window.ERKLAERT = [
    }
   ],
   "stand": "Oktober 2026"
+ },
+ {
+  "id": "lobbyismus",
+  "titel": "Fall Christ erklärt: Lobbyregister, Beirat und Interessenkonflikt",
+  "teaser": "Was die Begriffe aus dem Spiegel-Bericht über Klingbeils Berater bedeuten, Schritt für Schritt.",
+  "min": 5,
+  "kern": [
+   {
+    "z": "500 Mrd. €",
+    "l": "Sondervermögen Infrastruktur, bis zu 12 Jahre"
+   },
+   {
+    "z": "bis 50.000 €",
+    "l": "Bußgeld für falsche Angaben im Lobbyregister"
+   },
+   {
+    "z": "15+",
+    "l": "neue Aufträge seit Amtsantritt, laut Spiegel"
+   }
+  ],
+  "abschnitte": [
+   {
+    "h": "Der Fall in kurzen Worten",
+    "t": [
+     "Laut Spiegel, wie t-online und Tagesspiegel (dpa) berichten, hat die Unternehmensgruppe von Harald Christ seit September 2025 mindestens 15 neue Aufträge erhalten, darunter von Firmen aus der Digital- und Rüstungsindustrie. Christ berät Finanzminister Lars Klingbeil und leitet den Investitions- und Innovationsbeirat des Finanzministeriums. Zu seiner Gruppe gehören laut Spiegel drei Lobbyagenturen.",
+     "Wichtig vorab: Das ist ein Bericht über einen möglichen Interessenkonflikt. In unseren Quellen gibt es kein Verfahren gegen Christ und keinen Nachweis, dass Entscheidungen beeinflusst wurden. Sein Anwalt weist die Vorwürfe zurück. Die folgenden Begriffe helfen, den Bericht einzuordnen."
+    ]
+   },
+   {
+    "h": "Was ist Lobbyismus, und ist das erlaubt?",
+    "t": [
+     "Lobbyismus heißt, Politik und Verwaltung im Interesse eines Unternehmens, Verbands oder Auftraggebers zu beeinflussen. Das ist in Deutschland erlaubt. Das Lobbyregistergesetz verlangt aber, dass es offen geschieht.",
+     "Nach der Definition des Bundestags gilt jede Person oder Organisation als Interessenvertreter, die Kontakt zu Bundestag oder Bundesregierung aufnimmt, auch im Auftrag Dritter, um Entscheidungen unmittelbar oder mittelbar zu beeinflussen. Eine Lobbyagentur arbeitet genau so: Sie vertritt die Interessen ihrer Kunden."
+    ]
+   },
+   {
+    "h": "Das Lobbyregister",
+    "t": [
+     "Das öffentliche Lobbyregister beim Bundestag gibt es seit Januar 2022. Wer Interessenvertretung betreibt, muss sich eintragen und Angaben machen, darunter Auftraggeber und Aufträge bei Vertretung im Auftrag Dritter, die Zahl der Beschäftigten, Finanzangaben, Interessenbereiche, konkrete Regelungsvorhaben und frühere Ämter in Bundestag oder Bundesregierung aus den letzten fünf Jahren, der sogenannte Drehtüreffekt.",
+     "Wer nicht, falsch, unvollständig oder verspätet meldet, riskiert ein Bußgeld von bis zu 50.000 Euro. Geführt wird das Register von einer Stelle beim Bundestag. Im Fall Christ stammt die Zahl „über 40 Aufträge“ laut t-online aus diesem Register: Sie zeigt, wie viele Aufträge seine drei Agenturen zuletzt betreuten.",
+     "Was das Register nicht zeigt: ob ein Auftrag Erfolg hatte oder ob jemand Einfluss genommen hat. Es schafft Transparenz darüber, wer für wen arbeitet, und ist kein Beweis für Einfluss. Schon bei der Einführung 2022 hielten LobbyControl und Transparency International es trotz Fortschritten für nicht weitgehend genug."
+    ]
+   },
+   {
+    "h": "Was ist das Sondervermögen?",
+    "t": [
+     "Das „Sondervermögen für Infrastruktur und Klimaneutralität“ umfasst 500 Milliarden Euro. 100 Milliarden gehen an Länder und Kommunen, 100 Milliarden in den Klima- und Transformationsfonds und 300 Milliarden an den Bund. Die Mittel können über zwölf Jahre bewilligt werden, etwa für Schulen, Kitas, Schiene, Straßen, Forschung, Digitalisierung und Klimaschutz.",
+     "Die Grundlage schuf der Bundestag im März 2025 mit einer Grundgesetzänderung. Das Gesetz wurde am 2. Oktober 2025 im Bundesgesetzblatt verkündet und gilt rückwirkend ab 1. Januar 2025. Bis Ende 2025 waren rund 24 Milliarden Euro abgerufen. Für die Umsetzung setzte Klingbeil im Herbst 2025 einen Beirat ein."
+    ]
+   },
+   {
+    "h": "Was macht ein Beirat?",
+    "t": [
+     "Ein Beirat berät das Ministerium. Er beschließt keine Gesetze und vergibt kein Geld. Im Investitions- und Innovationsbeirat sollen laut Handelsblatt Vertreter aus Wirtschaft, Wissenschaft und Kommunalpolitik beraten, wie das Sondervermögen schneller und wirksamer investiert wird. Genannt wurden 2025 unter anderem die Wissenschaftlerin Ann-Kristin Achleitner, die frühere Microsoft-Deutschland-Chefin Sabine Bendiek, der Gewerkschafter Roman Zitzelsberger, der frühere Mannheimer Oberbürgermeister Peter Kurz und der Ökonom Jens Südekum. Christ leitet das Gremium.",
+     "Das Finanzministerium sagte dem Spiegel zufolge, die Mitglieder seien nicht an Entscheidungen über Gesetz- und Verordnungsentwürfe, Vergabeverfahren oder Förderprozesse beteiligt. Offen ist, wie stark Empfehlungen eines Beirats spätere Entscheidungen prägen. Dazu enthalten die Berichte keine Angaben."
+    ]
+   },
+   {
+    "h": "Was ist ein Interessenkonflikt?",
+    "t": [
+     "Ein Interessenkonflikt liegt vor, wenn private oder geschäftliche Interessen mit einer öffentlichen Aufgabe zusammentreffen und die Unabhängigkeit beeinträchtigen können. Er ist nicht dasselbe wie Korruption und kein Rechtsverstoß an sich.",
+     "Für Mitglieder der Bundesregierung regelt das Bundesministergesetz einiges: Sie dürfen kein Gewerbe ausüben und nicht im Vorstand oder Aufsichtsrat eines erwerbswirtschaftlichen Unternehmens sitzen, Ausnahmen brauchen die Zustimmung des Bundestages (Art. 66 GG, § 5 BMinG). Feste Kriterien, ab wann ein Konflikt vorliegt, gibt es laut Bundesregierung auch dort nicht. Es wird im Einzelfall bewertet.",
+     "Für den Beirat von Klingbeil sagt das Ministerium laut t-online: Alle Mitglieder hätten versichert, dass keine Interessenkonflikte bestehen. Vor Christs Berufung hieß es intern, Mitglieder sollten „möglichst keine Eigeninteressen verfolgen“. Zu Christs geschäftlichen Tätigkeiten lägen dem Ministerium keine Informationen vor. LobbyControl nennt Christs Berufung „völlig inakzeptabel“ und sagt, schon der Anschein von Einfluss schade dem Vertrauen in die Politik."
+    ]
+   },
+   {
+    "h": "Verdacht, Bericht, Unschuldsvermutung",
+    "t": [
+     "Der Bericht stützt sich laut t-online auf Handelsregister, Lobbyregister und Anfragen an Ministerium und Betroffene. Es ist eine journalistische Recherche, kein Urteil und kein Ermittlungsergebnis. Eine Quelle über ein Verfahren gegen Christ haben wir nicht gefunden. Bis eine Behörde oder ein Gericht etwas feststellt, gilt die Unschuldsvermutung. Die öffentliche Debatte dreht sich um Regeln und Transparenz."
+    ]
+   },
+   {
+    "h": "Selbst nachschauen",
+    "t": [
+     "Das Lobbyregister ist öffentlich einsehbar unter lobbyregister.bundestag.de. Dort lässt sich nach Namen, Auftraggebern und Regelungsvorhaben suchen. Unternehmensbeteiligungen wie die an Aleph Alpha, über die der Spiegel berichtet, lassen sich im Handelsregister nachvollziehen."
+    ]
+   }
+  ],
+  "quellen": [
+   {
+    "titel": "t-online: Klingbeil-Berater Harald Christ, Vorwürfe wegen Interessenkonflikten (nach Spiegel), 8.10.2026",
+    "url": "https://www.t-online.de/nachrichten/deutschland/id_101472890/klingbeil-berater-harald-christ-vorwuerfe-wegen-interessenkonflikten.html"
+   },
+   {
+    "titel": "Tagesspiegel (dpa): Kritik an Klingbeils Beiratschef Harald Christ, 8.10.2026",
+    "url": "https://www.tagesspiegel.de/politik/dpa-kritik-an-klingbeils-beiratschef-harald-christ-16142184.html"
+   },
+   {
+    "titel": "Handelsblatt: Investitionsbeirat, wer Klingbeil berät, 1.9.2025",
+    "url": "https://www.handelsblatt.com/politik/deutschland/investitionsbeirat-wer-klingbeil-bei-seiner-investitionsoffensive-beraet/100151940.html"
+   },
+   {
+    "titel": "Bundestag: Lobbyregister, häufig gestellte Fragen",
+    "url": "https://www.bundestag.de/parlament/lobbyregister/haeufig-gestellte-fragen-faq--863572"
+   },
+   {
+    "titel": "taz: Registrierungspflicht im Bundestag, 4.1.2022",
+    "url": "https://taz.de/Registrierungspflicht-im-Bundestag/!5823339/"
+   },
+   {
+    "titel": "Bundesregierung: Sondervermögen für Infrastruktur und Klimaneutralität, Stand 19.3.2026",
+    "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/wirksam-regieren/sondervermoegen-2356240"
+   },
+   {
+    "titel": "Bundestag: Drucksache 21/1136, Antwort der Bundesregierung zu Interessenkonflikten, 4.8.2025",
+    "url": "https://dserver.bundestag.de/btd/21/011/2101136.pdf"
+   },
+   {
+    "titel": "Lobbyregister beim Deutschen Bundestag",
+    "url": "https://www.lobbyregister.bundestag.de/"
+   }
+  ],
+  "stand": "Oktober 2026 (Berichte zum Fall Christ vom 8.10.2026)"
  }
 ];
