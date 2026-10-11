@@ -381,7 +381,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Saudi-Arabien · Zivile Infrastruktur",
       "titel": "Angriff auf Flughafen in Riad: 12 Tote, 309 Verletzte",
-      "rot": "12 Tote, 309 Verletzte"
+      "rot": "12 Tote, 309 Verletzte",
+      "bild": {
+       "url": "titel-riad.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -574,9 +579,15 @@ window.BRIEFINGS = [
     "kicker": "Saudi-Arabien · Zivile Infrastruktur",
     "titel": "Angriff auf Flughafen in Riad: 12 Tote, 309 Verletzte",
     "rot": "12 Tote, 309 Verletzte",
-    "text": "Laut saudischer Luftfahrtbehörde starben am Samstag 12 Menschen am Flughafen. Die Koalition macht die Huthi verantwortlich, eine Bekennung gibt es nicht. Zivile Infrastruktur wird zunehmend Ziel.",
+    "text": "",
     "quelle": "AWP/cash.ch, ZDFheute, 11.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-riad.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    }
   ]
  },
