@@ -1,5 +1,84 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-11",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": "https://music.wixstatic.com/mp3/fb5203_8e5c459d1790472390946014df149f23.mp3",
+   "dauer": "5:02",
+   "themen": [
+    "3,7 Milliarden erlassen: Was Karlsruhe diese Woche über Erbschaften prüft",
+    "Beitragsbemessungsgrenze 2027: Wer mehr zahlt, wer nicht",
+    "Pflegeheim: 3.364 Euro im Monat und der Streit um den Deckel",
+    "Ragebait: Warum Empörung online mehr Reichweite bekommt"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv, Sonntag, der elfte Oktober. Vier Themen, fünf Minuten, damit du informiert in den Tag startest.",
+    "Erstens: 3,7 Milliarden erlassen: Was Karlsruhe diese Woche über Erbschaften prüft.",
+    "Das Bundesverfassungsgericht verhandelt in dieser Woche gleich zweimal über die Erbschaftsteuer. Am Montag geht es um den Antrag der bayerischen Staatsregierung. Sie bezweifelt die Zuständigkeit des Bundes und hält Freibeträge und Steuersätze für verfassungswidrig. Am Dienstag folgt eine Verfassungsbeschwerde zur Verschonung von Betriebsvermögen. Laut Statistischem Bundesamt wurden für 2025 insgesamt einundzwanzig Komma vier Milliarden Euro Erbschaft- und Schenkungsteuer festgesetzt, sechzig Prozent mehr als im Vorjahr. Drei Komma sieben Milliarden Euro wurden zusätzlich erlassen. Die meisten Vermögensübergänge liegen laut Behörde innerhalb der Freibeträge.",
+    "Unsere Meinung: Beim Erben treffen zwei berechtigte Anliegen aufeinander. Familienbetriebe und ihre Arbeitsplätze sollen nicht durch eine Steuer zerstört werden. Zugleich muss das Steuerrecht für alle nachvollziehbar und gleich behandelnd sein. Wir schauen auf die Regeln, nicht auf einzelne Erben. Das Urteil steht noch aus.",
+    "Zweitens: Beitragsbemessungsgrenze 2027: Wer mehr zahlt, wer nicht.",
+    "Das Kabinett hat am Mittwoch die Rechengrößen der Sozialversicherung für 2027 beschlossen. Die Beitragsbemessungsgrenze für Kranken- und Pflegeversicherung steigt auf sechstausenddreihundertfünfundsiebzig Euro im Monat. In diesem Jahr sind es fünftausendachthundertzwölf Euro fünfzig, also gut neun Prozent mehr. Laut Bundesarbeitsministerium betrifft das nur Menschen, die schon über der Grenze verdienen. Für die große Mehrheit ändere sich nichts. Offen ist der Zusatzbeitrag. Offiziell liegt er in diesem Jahr bei zwei Komma neun Prozent. Der Schätzerkreis tagt Mitte Oktober, festgelegt wird er bis zum ersten November. Prognosen reichen laut Berichten von drei Komma sechs bis drei Komma acht Prozent. Eine eigene Beispielrechnung: Steigt der Satz von zwei Komma neun auf drei Komma sieben Prozent, zahlt ein Arbeitnehmer mit dem Durchschnittsentgelt etwa achtzehn Euro im Monat mehr. Das ist nur eine Annahme.",
+    "Unsere Meinung: Wer mehr verdient, kann auch mehr zum Solidarsystem beitragen. Wichtig ist, dass bei normalen Einkommen die Belastung nicht still und leise steigt. Die Regierung sollte offen sagen, was das Gesundheitssystem kostet und wer es zahlt.",
+    "Drittens: Pflegeheim: 3.364 Euro im Monat und der Streit um den Deckel.",
+    "Laut Ersatzkassenverband zahlen Pflegebedürftige im ersten Jahr im Heim im Bundesdurchschnitt dreitausenddreihundertvierundsechzig Euro im Monat selbst. Das sind zweihundertsechsundfünfzig Euro mehr als vor einem Jahr. Die SPD will den pflegebedingten Anteil auf fünfzehnhundert Euro deckeln, im Juli lag er im Schnitt bei siebzehnhundertfünfundsiebzig. Rechnerisch wären das zweihundertfünfundsiebzig Euro weniger im Monat, nur für diesen Teil. Unterkunft und Verpflegung blieben außen vor. Die Union hält den Deckel laut ZDF für hochgradig gefährlich und setzt auf Zuschüsse. Eine Pflegekommission sollte am Mittwoch eingesetzt werden. Das ist laut ZDF nicht geschehen, die Besetzung war strittig. Dem Vernehmen nach gibt es diese Woche einen neuen Anlauf.",
+    "Unsere Meinung: Pflege darf Familien nicht in die Armut treiben. Ob ein Deckel oder gestaffelte Zuschüsse der bessere Weg sind, hängt davon ab, wer am Ende bezahlt und ob Preise steigen. Diese Rechnung gehört offen auf den Tisch, und der Streit um die Besetzung darf die Betroffenen nicht länger warten lassen.",
+    "Viertens: Ragebait: Warum Empörung online mehr Reichweite bekommt.",
+    "Laut Langenscheidt ist Ragebait das Jugendwort des Jahres 2026. Das Wort bekam sechsunddreißig Komma fünf Prozent der Stimmen, vor Peak mit dreiunddreißig Komma acht und Crashout mit neunundzwanzig Komma sieben Prozent. Gemeint sind Inhalte, die absichtlich Wut auslösen sollen, um Aufmerksamkeit zu bekommen. Dahinter steckt ein Mechanismus, den eine Studie der Universität Yale beschrieben hat. Sie wertete zwölf Komma sieben Millionen Tweets von gut siebentausend Nutzern aus. Das Ergebnis laut Bericht der EU-Forschungsplattform Cordis: Empörte Beiträge bekommen mehr Likes und Shares, und die Nutzer lernen dadurch, noch mehr Empörung zu äußern. Die Studie selbst konnten wir nicht lesen.",
+    "Unsere Meinung: Wut ist ein Geschäftsmodell, wenn Plattformen Aufmerksamkeit belohnen. Wer das weiß, kann sich schützen: Prüfe bei einem Beitrag, der dich sofort aufregt, die Quelle, bevor du teilst. Das gilt auch für uns. Klare Haltung ja, Empörungsmache nein.",
+    "Das war das Morning Briefing. Heute um 19 Uhr folgt der Tagesrückblick, mit allem, was sich im Laufe des Tages geändert hat. Alle Quellen findest du auf unserer Website. Diese Stimme ist KI-generiert. Einen guten Tag wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "BVerfG: Terminübersicht Erbschaftsteuer 12./13. Oktober 2026",
+     "url": "https://www.bundesverfassungsgericht.de/DE/Aktuelles/TermineWochenausblick/termine-Wochenausblick_node.html"
+    },
+    {
+     "titel": "BVerfG: Pressemitteilung 48/2026, mündliche Verhandlung Erbschaftsteuer",
+     "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2026/bvg26-048.html"
+    },
+    {
+     "titel": "Destatis: Erbschaft- und Schenkungsteuer 2025",
+     "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_306_736.html"
+    },
+    {
+     "titel": "BMAS: Sozialversicherungsrechengrößen 2027",
+     "url": "https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2026/bundeskabinett-beschliesst-sozialversicherungsrechengroessen-2027.html"
+    },
+    {
+     "titel": "krankenkasseninfo.de: Zusatzbeitrag 2027, Schätzerkreis Mitte Oktober",
+     "url": "https://www.krankenkasseninfo.de/ratgeber/nachrichten/zusatzbeitrag-2027-mitte-oktober-kommt-entscheidende-prognose-62762.html"
+    },
+    {
+     "titel": "schlemann.com: Sozialversicherungswerte 2027 (Vergleichswert 2026)",
+     "url": "https://schlemann.com/sozialversicherungswerte-2027-rechengroessen/"
+    },
+    {
+     "titel": "vdek: Eigenanteile Pflegeheim, Stichtag 1. Juli 2026",
+     "url": "https://www.vdek.com/fokus/pflegereform-pflegegesetz-pueg.html"
+    },
+    {
+     "titel": "ZDFheute: Pflegekommission verschoben",
+     "url": "https://www.zdfheute.de/politik/deutschland/pflege-kommission-linnemann-verschoben-100.html"
+    },
+    {
+     "titel": "Deutsches Ärzteblatt: Zuschüsse statt Pflegedeckel",
+     "url": "https://www.aerzteblatt.de/news/linnemann-sozialvertragliche-zuschusse-statt-pflegedeckel-4b7d7cfe-9904-4db0-a529-d4f3a5438856"
+    },
+    {
+     "titel": "ZDFheute: Ragebait ist Jugendwort des Jahres 2026",
+     "url": "https://www.zdfheute.de/panorama/jugendwort-des-jahres-2026-gewinner-ragebait-100.html"
+    },
+    {
+     "titel": "CORDIS: Social Media macht uns wütender (Yale-Studie, Science Advances)",
+     "url": "https://www.cordis.europa.eu/article/id/430608-trending-science-social-media-making-us-angrier-study-reveals/de"
+    }
+   ]
+  },
+  "abend": null,
+  "karussells": [],
+  "storys": []
+ },
+ {
   "datum": "2026-10-10",
   "morgen": {
    "titel": "Morning Briefing",
