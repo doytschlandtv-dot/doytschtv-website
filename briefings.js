@@ -84,7 +84,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "USA · Russland",
       "titel": "Trump holt russischen Diesel ins Land: Was der Deal bedeutet",
-      "rot": "russischen Diesel"
+      "rot": "russischen Diesel",
+      "bild": {
+       "url": "titel-diesel.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -160,7 +165,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Ukraine · Faktencheck",
       "titel": "Trump fordert einen neuen Präsidenten für die Ukraine: Der Faktencheck zu Selenskyj",
-      "rot": "neuen Präsidenten"
+      "rot": "neuen Präsidenten",
+      "bild": {
+       "url": "titel-selenskyj.jpg",
+       "fokus": 0.45,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -259,7 +269,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Lobbyismus · laut Spiegel",
       "titel": "Klingbeil-Berater Christ: Mindestens 15 neue Aufträge seit Amtsantritt, was steckt dahinter?",
-      "rot": "15 neue Aufträge"
+      "rot": "15 neue Aufträge",
+      "bild": {
+       "url": "titel-christ.jpg",
+       "fokus": 0.3,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -371,31 +386,49 @@ window.BRIEFINGS = [
     "kicker": "International",
     "titel": "Trumps Diesel-Deal mit Putin: Was er bedeutet",
     "rot": "Diesel-Deal",
-    "text": "300.000 Tonnen russischer Diesel sollen sofort auf den Markt, die US-Lizenz gilt bis 7.4.2027. Berlin bleibt bei seinen Sanktionen. Karussell: Link in der Bio.",
+    "text": "",
     "quelle": "ZDFheute, 10.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-diesel.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    },
    {
     "zusatz": true,
     "art": "nachricht",
     "band": "Aktuell",
     "kicker": "Ukraine",
-    "titel": "Trump will neuen Präsidenten für die Ukraine: Der Faktencheck",
+    "titel": "Selenskyj: Der Faktencheck",
     "rot": "Faktencheck",
-    "text": "Das Parlament bestätigte 2025 Selenskyjs Mandat, Wahlen schließt das Kriegsrecht aus. Belegt ist auch Kritik, etwa am Gesetz gegen die Antikorruptionsbehörden. Karussell: Link in der Bio.",
+    "text": "",
     "quelle": "ZDFheute, 11.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-selenskyj.jpg",
+     "karte": true,
+     "fokus": 0.45,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    },
    {
     "zusatz": true,
     "art": "nachricht",
     "band": "Aktuell",
     "kicker": "Lobbyismus · laut Spiegel",
-    "titel": "Klingbeil-Berater: Mindestens 15 neue Aufträge seit Amtsantritt",
+    "titel": "Klingbeil-Berater: Mindestens 15 neue Aufträge",
     "rot": "15 neue Aufträge",
-    "text": "Laut Spiegel. Christs Anwalt weist die Vorwürfe zurück, es gilt die Unschuldsvermutung. Karussell: Link in der Bio.",
+    "text": "",
     "quelle": "t-online nach Spiegel, 8.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-christ.jpg",
+     "karte": true,
+     "fokus": 0.3,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    }
   ]
  },
