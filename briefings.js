@@ -154,39 +154,46 @@ window.BRIEFINGS = [
    },
    {
     "zusatz": true,
-    "thema": "Trump fordert einen neuen Präsidenten für die Ukraine: Was ist an den Vorwürfen gegen Selenskyj dran?",
+    "thema": "Trump fordert einen neuen Präsidenten für die Ukraine: Der Faktencheck zu Selenskyj",
     "slides": [
      {
       "typ": "hook",
-      "kicker": "Ukraine",
-      "titel": "Trump fordert einen neuen Präsidenten für die Ukraine: Was ist an den Vorwürfen gegen Selenskyj dran?",
+      "kicker": "Ukraine · Faktencheck",
+      "titel": "Trump fordert einen neuen Präsidenten für die Ukraine: Der Faktencheck zu Selenskyj",
       "rot": "neuen Präsidenten"
      },
      {
       "typ": "fakten",
-      "label": "Was Trump sagte",
-      "titel": "„Zeit für einen neuen Präsidenten“",
-      "text": "Trump sagte in Washington, es sei an der Zeit, dass die Ukraine einen neuen Präsidenten bekommt. Er habe Chancen gehabt, den Krieg zu beenden, und sie nicht genutzt. Der Nachfolger solle einen Deal unterschreiben können. Außenminister Sybiha wies das zurück: Die Ukrainer entscheiden selbst.",
+      "label": "Trumps Forderung",
+      "titel": "Ein neuer Präsident für die Ukraine.",
+      "text": "Trump sagte in Washington, es sei an der Zeit, dass die Ukraine einen neuen Präsidenten bekommt. Selenskyj habe Chancen gehabt, den Krieg zu beenden, und sie nicht genutzt. Ein Nachfolger solle einen Deal unterschreiben können. Außenminister Sybiha: Die Ukrainer entscheiden selbst.",
       "quelle": "ZDFheute, 11.10.2026"
      },
      {
       "typ": "fakten",
       "label": "Warum es keine Wahl gibt",
-      "titel": "Kriegsrecht setzt Wahlen aus.",
-      "text": "Seit dem 24.2.2022 gilt in der Ukraine das Kriegsrecht, vom Parlament verhängt und mehrfach verlängert. Es setzt reguläre Wahlen aus. Selenskyjs Amtszeit wäre im Mai 2024 regulär ausgelaufen. Auch die Opposition um Poroschenko und Timoschenko lehnte 2025 Wahlen im Krieg ab.",
-      "quelle": "Mimikama (dpa); ZDFheute, 6.3.2025"
+      "titel": "Kriegsrecht schließt Wahlen aus.",
+      "text": "Selenskyj ist seit dem 20.5.2019 im Amt, regulär wäre seine Amtszeit am 20.5.2024 abgelaufen. Seit dem 24.2.2022 gilt Kriegsrecht, das das Parlament regelmäßig verlängert. Nach ukrainischem Recht sind Wahlen dann ausgeschlossen. Auch Poroschenko und Timoschenko lehnten 2025 Wahlen im Krieg ab.",
+      "quelle": "Berliner Zeitung, 3.1.2025; ZDFheute, 6.3.2025"
+     },
+     {
+      "typ": "fakten",
+      "label": "Ist er noch legitim?",
+      "titel": "Das Parlament sagt: ja.",
+      "text": "Am 25.2.2025 bestätigte die Rada mit 268 Stimmen ohne Gegenstimme sein Mandat. Nach Artikel 108 der Verfassung bleibt der Präsident im Amt, bis ein gewählter Nachfolger antritt. Das ist die Position des ukrainischen Parlaments.",
+      "quelle": "Al Jazeera, 25.2.2025"
      },
      {
       "typ": "fakten",
       "label": "Selenskyjs Angebot",
       "titel": "„Ich bin bereit für Wahlen.“",
-      "text": "Das sagte Selenskyj am 9.12.2025. Dafür müsse das Parlament die Gesetze ändern, und USA und Europa müssten die Sicherheit garantieren. Er nannte 60 bis 90 Tage Vorlauf, auch bei laufendem Krieg.",
+      "text": "Das sagte Selenskyj am 9.12.2025. Dafür müsse das Parlament die Gesetze ändern, und USA und Europa müssten die Sicherheit garantieren. Wahlen seien dann binnen 60 bis 90 Tagen möglich, auch bei laufendem Krieg.",
       "quelle": "ZDFheute, 9.12.2025"
      },
      {
       "typ": "betrifft",
       "label": "Kurz erklärt",
-      "titel": "Die Begriffe hinter der Kritik",
+      "titel": "Was sonst über Selenskyj gesagt wird",
       "punkte": [
        {
         "kopf": "NABU und SAPO",
@@ -198,42 +205,42 @@ window.BRIEFINGS = [
        },
        {
         "kopf": "Operation Midas",
-        "text": "Ermittlung zu Schmiergeld von 10 bis 15 Prozent bei Aufträgen für Schutzbauten. Laut NABU rund 100 Millionen Dollar gewaschen."
+        "text": "Mutmaßliches Schmiergeld von 10 bis 15 Prozent bei Schutzbauten, laut NABU rund 100 Millionen Dollar gewaschen."
        },
        {
         "kopf": "Timur Mindich",
-        "text": "Laut NABU mutmaßlicher Drahtzieher, früher Geschäftspartner Selenskyjs. Er bestreitet das."
+        "text": "Früher enger Vertrauter, Mitinhaber von Selenskyjs Firma. Laut NABU mutmaßlicher Drahtzieher."
        }
       ],
-      "quelle": "Euronews, 15.11.2025; Berliner Zeitung"
+      "quelle": "Euronews, 15.11.2025"
      },
      {
       "typ": "betrifft",
       "label": "Was belegt ist",
-      "titel": "Die Kritik an Selenskyj",
+      "titel": "Vier Punkte der Kritik",
       "punkte": [
        {
         "kopf": "Juli 2025",
-        "text": "Ein Gesetz schwächte NABU und SAPO. Nach Massenprotesten wurde ihre Unabhängigkeit wiederhergestellt."
+        "text": "Selenskyj unterschrieb ein Gesetz, das NABU und SAPO schwächte. Nach Protesten wurde es korrigiert."
        },
        {
         "kopf": "Midas",
-        "text": "Selenskyj: Wer Schemata schuf, müsse eine klare Antwort bekommen. Er sanktionierte Mindich per Dekret."
+        "text": "Selenskyj: Wer Schemata schuf, müsse eine klare Antwort bekommen. Mindich sanktionierte er per Dekret."
        },
        {
         "kopf": "Jermak",
-        "text": "Stabschef trat im November 2025 zurück. Im Mai 2026 ermittelte NABU wegen Geldwäsche. Er bestreitet das."
+        "text": "Ex-Stabschef, im November 2025 zurückgetreten. Im Mai 2026 U-Haft wegen Geldwäsche-Verdachts. Er weist alles zurück."
        },
        {
         "kopf": "Poroschenko",
-        "text": "Sanktionen per Dekret gegen den Oppositionsführer. Das Gericht wies seine Klage ab, zwei von fünf Richtern widersprachen."
+        "text": "Sanktionen per Dekret seit 2025, damals ohne genannte Begründung. Klage im Juli 2026 abgewiesen, zwei von fünf Richtern widersprachen."
        }
       ],
-      "quelle": "Euronews; Berliner Zeitung; Euromaidan Press, 14.7.2026"
+      "quelle": "Euronews; Tagesspiegel (dpa), 14.5.2026; ORF, 13.2.2025; Euromaidan Press, 14.7.2026"
      },
      {
       "typ": "meinung",
-      "text": "Selenskyj darf und muss dort kritisiert werden, wo es belegt ist: beim Gesetz gegen die Antikorruptionsbehörden und bei den Sanktionen gegen Oppositionelle. Wer in der Ukraine regiert, entscheiden aber die Ukrainer in freien Wahlen, nicht ein Präsident in Washington.",
+      "text": "Selenskyj darf und muss dort kritisiert werden, wo es belegt ist, etwa beim Gesetz gegen die Antikorruptionsbehörden. Wer die Ukraine regiert, entscheiden aber die Ukrainer in freien Wahlen, nicht ein Präsident in Washington.",
       "handlung": "Trenne Kritik an Politik von Forderungen nach Machtwechsel von außen."
      },
      {
@@ -241,7 +248,7 @@ window.BRIEFINGS = [
       "frage": "Wer darf entscheiden, wer die Ukraine regiert?"
      }
     ],
-    "caption": "Trump sagte in Washington, es sei Zeit für einen neuen Präsidenten der Ukraine. Wir haben geprüft, was belegt ist: Das Kriegsrecht setzt Wahlen seit 2022 aus, auch die Opposition lehnte Wahlen im Krieg ab. Selenskyj erklärte im Dezember 2025, er sei bereit, wenn die Sicherheit garantiert ist. Belegt sind auch Kritikpunkte: das Gesetz gegen die Antikorruptionsbehörden im Juli 2025 (später zurückgenommen), der Korruptionsfall Midas um den Atomkonzern Energoatom, die Ermittlungen gegen seinen früheren Stabschef Jermak und die Sanktionen gegen Poroschenko. Alle Beschuldigten bestreiten, es gilt die Unschuldsvermutung. Gegen Selenskyj selbst nennt keine unserer Quellen ein Verfahren. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer darf entscheiden, wer die Ukraine regiert?",
+    "caption": "Trump sagte in Washington, es sei Zeit für einen neuen Präsidenten der Ukraine. Wir haben geprüft, was dazu belegt ist: Nach ukrainischem Recht sind Wahlen unter Kriegsrecht ausgeschlossen, das Parlament verlängert es regelmäßig. Die Rada bestätigte im Februar 2025 Selenskyjs Mandat, auch die Opposition lehnte Wahlen im Krieg ab. Selenskyj sagte im Dezember 2025, er sei bei Sicherheitsgarantien bereit. Belegt sind auch Kritikpunkte: das Gesetz gegen die Antikorruptionsbehörden im Juli 2025 (später zurückgenommen), der Korruptionsfall Midas um den Atomkonzern Energoatom, die U-Haft für seinen früheren Stabschef Jermak seit Mai 2026 (Stand der Quellen) und die Sanktionen gegen Poroschenko. Alle Beschuldigten bestreiten, es gilt die Unschuldsvermutung. Gegen Selenskyj selbst nennt keine unserer Quellen ein Verfahren. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer darf entscheiden, wer die Ukraine regiert?",
     "hashtags": "#doytschlandtv #aktuell #ukraine #selenskyj #trump #wahlen #korruption #rechtsstaat #einordnung #nachrichten"
    },
    {
@@ -250,7 +257,7 @@ window.BRIEFINGS = [
     "slides": [
      {
       "typ": "hook",
-      "kicker": "Lobbyismus",
+      "kicker": "Lobbyismus · laut Spiegel",
       "titel": "Klingbeil-Berater Christ: Mindestens 15 neue Aufträge seit Amtsantritt, was steckt dahinter?",
       "rot": "15 neue Aufträge"
      },
@@ -258,13 +265,13 @@ window.BRIEFINGS = [
       "typ": "fakten",
       "label": "Der Befund laut Spiegel",
       "titel": "Mindestens 15 neue Aufträge seit Amtsantritt.",
-      "text": "Laut Spiegel hat die Unternehmensgruppe von Harald Christ seit seiner Berufung in den Beirat im September 2025 mindestens 15 neue Aufträge erhalten. Darunter sind Firmen aus der Digital- und Rüstungsindustrie, die auch öffentliche Aufträge bekommen. Namen und Werte nennt die Berichterstattung nicht.",
+      "text": "Laut Spiegel hat die Unternehmensgruppe von Harald Christ seit seiner Berufung in den Beirat im September 2025 mindestens 15 neue Aufträge erhalten, darunter von Firmen aus der Digital- und Rüstungsindustrie. Aufträge des Staates an seine Firmen nennt der Bericht nicht.",
       "quelle": "t-online und Tagesspiegel (dpa) nach Spiegel, 8.10.2026"
      },
      {
       "typ": "betrifft",
       "label": "Wer ist Harald Christ?",
-      "titel": "Unternehmer, Berater, Parteiwechsler",
+      "titel": "Unternehmer und Berater",
       "punkte": [
        {
         "kopf": "Beruf",
@@ -289,43 +296,51 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Seine Rolle",
       "titel": "Beirat für das 500-Milliarden-Sondervermögen",
-      "text": "Der Beirat soll beraten, wie das Sondervermögen schneller und wirksamer investiert wird. Das Ministerium sagt, Mitglieder seien nicht an Entscheidungen über Gesetze, Vergaben oder Förderungen beteiligt. Intern hieß es vorab, Mitglieder sollten „möglichst keine Eigeninteressen verfolgen“.",
+      "text": "Der Beirat soll beraten, wie das Sondervermögen schneller und wirksamer investiert wird. Intern hieß es vorab, Mitglieder sollten „möglichst keine Eigeninteressen verfolgen“. Zu Christs Geschäften lägen dem Ministerium laut t-online keine Informationen vor.",
       "quelle": "Handelsblatt, 1.9.2025; t-online, 8.10.2026"
      },
      {
       "typ": "betrifft",
       "label": "Aleph Alpha und Bakira",
-      "titel": "Eine Verbindung laut Spiegel",
+      "titel": "Der Bezug zu Aleph Alpha",
       "punkte": [
        {
         "kopf": "Beteiligung",
-        "text": "Laut Handelsregister hielt Christ bis vor Kurzem rund 2 Prozent am KI-Unternehmen Aleph Alpha."
+        "text": "Laut Handelsregister bis zu 2 Prozent, bis vor Kurzem. Christ&Company investierte schon 2023 mit."
        },
        {
-        "kopf": "Agentur",
-        "text": "Eine seiner Agenturen arbeitet für Aleph Alpha."
+        "kopf": "Lobbyagentur",
+        "text": "Eine seiner Agenturen ist für Aleph Alpha tätig."
        },
        {
         "kopf": "Bakira",
-        "text": "KI-Assistent von Aleph Alpha und Bundesagentur für Arbeit. 2,15 Millionen Euro aus dem Sondervermögen bewilligt."
+        "text": "KI-Assistent von Aleph Alpha und Bundesagentur für Arbeit, 2,15 Millionen Euro bewilligt."
        },
        {
-        "kopf": "Dementi",
-        "text": "Das Geld gehe an externe Unterstützer, sagt die Agentur. Aleph Alpha: keine Gespräche mit Christ über Bakira."
+        "kopf": "Gegenseite",
+        "text": "Bundesagentur: Geld geht an externe Unterstützer. Aleph Alpha: keine Gespräche mit Christ über Bakira."
        }
       ],
-      "quelle": "t-online nach Spiegel, 8.10.2026"
+      "quelle": "t-online nach Spiegel, 8.10.2026; consulting.de, 8.11.2023"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Die Kritik",
+      "behauptung": "LobbyControl nennt die Berufung „völlig inakzeptabel“. Schon der Anschein von Einfluss auf die Verteilung des Sondervermögens schade dem Vertrauen.",
+      "labelB": "Die Gegenseite",
+      "fakt": "Christs Anwalt weist die Vorwürfe „aufs Schärfste“ zurück. Das Ministerium: Mitglieder sind an Entscheidungen nicht beteiligt und versicherten, keine Interessenkonflikte zu haben.",
+      "quelle": "Tagesspiegel (dpa), t-online, 8.10.2026"
      },
      {
       "typ": "einordnung",
       "label": "Fair bleiben",
       "titel": "Verdacht ist kein Beleg.",
-      "text": "Christs Anwalt weist die Vorwürfe „aufs Schärfste“ zurück, Christ selbst hat sich öffentlich nicht geäußert. Von Klingbeil liegt uns keine Aussage vor. Wir fanden keinen Nachweis, dass Entscheidungen beeinflusst wurden. Es gilt die Unschuldsvermutung.",
+      "text": "Wir fanden keinen Nachweis, dass Entscheidungen beeinflusst wurden. Christ hat sich öffentlich nicht geäußert. Eine Aussage von Klingbeil fanden wir bis zum Stand der Berichte vom 8.10. nicht. Es gilt die Unschuldsvermutung.",
       "quelle": "t-online, Tagesspiegel (dpa), 8.10.2026"
      },
      {
       "typ": "meinung",
-      "text": "Es geht nicht um die Person, sondern um die Regel: Wer bei der Verteilung von Staatsmilliarden berät, sollte nicht zugleich für Kunden lobbyieren, die öffentliche Aufträge bekommen. LobbyControl nennt schon den Anschein von Einfluss „völlig inakzeptabel“. Wir halten klare Regeln für nötig.",
+      "text": "Es geht nicht um die Person, sondern um die Regel: Wer bei der Verteilung von Staatsmilliarden berät, sollte nicht zugleich für Kunden lobbyieren, die öffentliche Aufträge bekommen. Wir halten dafür klare, öffentliche Regeln für nötig.",
       "handlung": "Frage nach: Wer berät die Regierung, und für wen arbeitet er sonst noch?"
      },
      {
@@ -333,7 +348,7 @@ window.BRIEFINGS = [
       "frage": "Wer darf den Staat beraten, wenn er nebenbei Kunden vertritt?"
      }
     ],
-    "caption": "Laut Spiegel hat die Unternehmensgruppe von Harald Christ, Berater von Finanzminister Klingbeil und Chef des Investitions- und Innovationsbeirats, seit September 2025 mindestens 15 neue Aufträge erhalten, auch aus der Digital- und Rüstungsbranche. Eine seiner Lobbyagenturen arbeitet für das KI-Unternehmen Aleph Alpha, an dem er bis vor Kurzem rund 2 Prozent hielt. Das Ministerium sagt, der Beirat sei nicht an Entscheidungen über Gesetze, Vergaben oder Förderungen beteiligt. Christs Anwalt weist die Vorwürfe zurück, es gilt die Unschuldsvermutung. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer darf den Staat beraten, wenn er nebenbei Kunden vertritt?",
+    "caption": "Laut Spiegel hat die Unternehmensgruppe von Harald Christ, Berater von Finanzminister Klingbeil und Chef des Investitions- und Innovationsbeirats, seit September 2025 mindestens 15 neue Aufträge erhalten, auch aus der Digital- und Rüstungsbranche. Eine seiner Lobbyagenturen arbeitet für das KI-Unternehmen Aleph Alpha, an dem er laut Handelsregister bis zu 2 Prozent hielt. Das Ministerium sagt, der Beirat sei nicht an Entscheidungen über Gesetze, Vergaben oder Förderungen beteiligt. Christs Anwalt weist die Vorwürfe zurück, es gilt die Unschuldsvermutung. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer darf den Staat beraten, wenn er nebenbei Kunden vertritt?",
     "hashtags": "#doytschlandtv #aktuell #klingbeil #haraldchrist #lobbyismus #sondervermoegen #transparenz #rechtsstaat #einordnung #nachrichten"
    }
   ],
@@ -365,9 +380,9 @@ window.BRIEFINGS = [
     "art": "nachricht",
     "band": "Aktuell",
     "kicker": "Ukraine",
-    "titel": "Trump will neuen Präsidenten für die Ukraine: Was ist belegt?",
-    "rot": "belegt",
-    "text": "Das Kriegsrecht setzt Wahlen aus, auch die Opposition lehnte Wahlen im Krieg ab. Selenskyj sagte im Dezember 2025: bereit, wenn die Sicherheit garantiert ist. Karussell: Link in der Bio.",
+    "titel": "Trump will neuen Präsidenten für die Ukraine: Der Faktencheck",
+    "rot": "Faktencheck",
+    "text": "Das Parlament bestätigte 2025 Selenskyjs Mandat, Wahlen schließt das Kriegsrecht aus. Belegt ist auch Kritik, etwa am Gesetz gegen die Antikorruptionsbehörden. Karussell: Link in der Bio.",
     "quelle": "ZDFheute, 11.10.2026",
     "theme": "dark"
    },
@@ -375,7 +390,7 @@ window.BRIEFINGS = [
     "zusatz": true,
     "art": "nachricht",
     "band": "Aktuell",
-    "kicker": "Lobbyismus",
+    "kicker": "Lobbyismus · laut Spiegel",
     "titel": "Klingbeil-Berater: Mindestens 15 neue Aufträge seit Amtsantritt",
     "rot": "15 neue Aufträge",
     "text": "Laut Spiegel. Christs Anwalt weist die Vorwürfe zurück, es gilt die Unschuldsvermutung. Karussell: Link in der Bio.",
