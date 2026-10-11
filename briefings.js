@@ -205,7 +205,7 @@ window.BRIEFINGS = [
        },
        {
         "kopf": "Operation Midas",
-        "text": "Mutmaßliches Schmiergeld von 10 bis 15 Prozent bei Schutzbauten, laut NABU rund 100 Millionen Dollar gewaschen."
+        "text": "Mutmaßliches Schmiergeld bei Schutzbauten, laut NABU rund 100 Millionen Dollar gewaschen."
        },
        {
         "kopf": "Timur Mindich",
