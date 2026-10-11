@@ -93,7 +93,7 @@
     var day = getDay(); if (!day) return;
     var b = el("button", "st-btn" + (isSeen(day) ? " seen" : "")); b.type = "button";
     b.setAttribute("aria-label", "Storys von heute ansehen (" + day.storys.length + ")");
-    var ring = el("span", "st-ring"), inner = el("span", "st-in", "D"); ring.appendChild(inner);
+    var ring = el("span", "st-ring"), inner = el("span", "st-in", "d'"); ring.appendChild(inner);
     b.appendChild(ring); b.appendChild(el("span", "st-lab", "Heute"));
     b.addEventListener("click", function () { open(day, b); });
     host.appendChild(b);

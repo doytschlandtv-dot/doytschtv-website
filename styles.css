@@ -158,7 +158,7 @@ footer .wrap { display: flex; justify-content: space-between; gap: 1rem; flex-wr
 .big { font-size: 3rem; font-weight: 800; letter-spacing: -0.04em; color: var(--accent); line-height: 1; margin-bottom: 1rem; }
 @media (max-width: 52rem) { .grid, .steps { grid-template-columns: minmax(0, 1fr); } .op { grid-template-columns: minmax(0, 1fr); gap: 1rem; } .post { min-height: 0; } }
 .brand { display: flex; align-items: center; }
-.brand img { display: block; height: 1.55rem; width: auto; }
+.brand img { display: block; height: 1.8rem; width: auto; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .brand img { filter: invert(1) hue-rotate(180deg); } }
 :root[data-theme="dark"] .brand img { filter: invert(1) hue-rotate(180deg); }
 
@@ -453,3 +453,6 @@ a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
 .wer h3 { margin: 1.4rem 0 0.35rem; font-size: 1.05rem; letter-spacing: 0; }
 .tk-g a.own { font-weight: 700; }
 .tk-g a.ext .src { opacity: 0.6; font-size: 0.75rem; margin-left: 0.15rem; }
+
+/* Rebranding-Vorschau: Wortmarke doy'tsch allein, ohne Kreis-Marke */
+.brand .mk { display: none; }

@@ -18,7 +18,7 @@
   el.innerHTML = '<div class="pu-box"><button class="pu-x" type="button" aria-label="Schließen">×</button>' +
     '<h2 id="pu-h">Folge uns auf unseren Social-Media-Kanälen</h2><p class="s">Jeden Tag ein Thema als Karussell. Mit Quellen, Meinung gekennzeichnet.</p>' +
     '<div class="pu-b"><a href="' + IG + '" target="_blank" rel="noopener">' + icoIG + 'Instagram</a><a href="' + TT + '" target="_blank" rel="noopener">' + icoTT + 'TikTok</a></div>' +
-    '<div class="pu-ph" aria-hidden="true"><div class="pu-sc"><div class="pu-top"><i>D</i>doytschlandtv</div><div class="pu-tr">' + track + '</div><div class="pu-dots">' + dots + '</div></div></div>' +
+    '<div class="pu-ph" aria-hidden="true"><div class="pu-sc"><div class="pu-top"><i>d'</i>doytsch</div><div class="pu-tr">' + track + '</div><div class="pu-dots">' + dots + '</div></div></div>' +
     '<button class="pu-skip" type="button">Weiter zur Startseite</button></div>';
   var tr = el.querySelector(".pu-tr"), ds = el.querySelectorAll(".pu-dots i"), idx = 0, tm, last;
   function go(i) { idx = i; tr.scrollTo({ left: i * tr.clientWidth, behavior: "smooth" }); for (var k = 0; k < ds.length; k++) ds[k].className = k === i ? "on" : ""; }
