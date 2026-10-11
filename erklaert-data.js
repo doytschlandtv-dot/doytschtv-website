@@ -399,116 +399,448 @@ window.ERKLAERT = [
   "stand": "Oktober 2026"
  },
  {
-  "id": "lobbyismus",
-  "titel": "Fall Christ erklärt: Lobbyregister, Beirat und Interessenkonflikt",
-  "teaser": "Was die Begriffe aus dem Spiegel-Bericht über Klingbeils Berater bedeuten, Schritt für Schritt.",
-  "min": 5,
+  "id": "staatsauftraege",
+  "titel": "Wie der Staat Aufträge vergibt",
+  "teaser": "Ausschreibung, Schwellenwerte und Direktvergabe: die Regeln hinter Staatsaufträgen.",
+  "min": 4,
   "kern": [
    {
-    "z": "500 Mrd. €",
-    "l": "Sondervermögen Infrastruktur, bis zu 12 Jahre"
+    "z": "140.000 €",
+    "l": "EU-Schwelle Liefer-/Dienstleistungen, Bundesbehörden (2026)"
    },
    {
-    "z": "bis 50.000 €",
-    "l": "Bußgeld für falsche Angaben im Lobbyregister"
+    "z": "216.000 €",
+    "l": "EU-Schwelle bei sonstigen öffentlichen Auftraggebern"
    },
    {
-    "z": "15+",
-    "l": "neue Aufträge seit Amtsantritt, laut Spiegel"
+    "z": "5,4 Mio. €",
+    "l": "EU-Schwelle bei Bauaufträgen"
    }
   ],
   "abschnitte": [
    {
-    "h": "Der Fall in kurzen Worten",
+    "h": "Was ein öffentlicher Auftrag ist",
     "t": [
-     "Laut Spiegel, wie t-online und Tagesspiegel (dpa) berichten, hat die Unternehmensgruppe von Harald Christ seit September 2025 mindestens 15 neue Aufträge erhalten, darunter von Firmen aus der Digital- und Rüstungsindustrie. Christ berät Finanzminister Lars Klingbeil und leitet den Investitions- und Innovationsbeirat des Finanzministeriums. Zu seiner Gruppe gehören laut Spiegel drei Lobbyagenturen.",
-     "Wichtig vorab: Das ist ein Bericht über einen möglichen Interessenkonflikt. In unseren Quellen gibt es kein Verfahren gegen Christ und keinen Nachweis, dass Entscheidungen beeinflusst wurden. Sein Anwalt weist die Vorwürfe zurück. Die folgenden Begriffe helfen, den Bericht einzuordnen."
+     "Wenn Bund, Länder, Kommunen oder andere öffentliche Auftraggeber etwas kaufen lassen, etwa Bauleistungen, Software, Beratung oder Fahrzeuge, ist das ein öffentlicher Auftrag. Gezahlt wird mit Steuergeld. Deshalb gibt es dafür ein eigenes Recht, das Vergaberecht."
     ]
    },
    {
-    "h": "Was ist Lobbyismus, und ist das erlaubt?",
+    "h": "Die Grundregeln",
     "t": [
-     "Lobbyismus heißt, Politik und Verwaltung im Interesse eines Unternehmens, Verbands oder Auftraggebers zu beeinflussen. Das ist in Deutschland erlaubt. Das Lobbyregistergesetz verlangt aber, dass es offen geschieht.",
-     "Nach der Definition des Bundestags gilt jede Person oder Organisation als Interessenvertreter, die Kontakt zu Bundestag oder Bundesregierung aufnimmt, auch im Auftrag Dritter, um Entscheidungen unmittelbar oder mittelbar zu beeinflussen. Eine Lobbyagentur arbeitet genau so: Sie vertritt die Interessen ihrer Kunden."
+     "Das Vergaberecht (Teil 4 des Gesetzes gegen Wettbewerbsbeschränkungen, §§ 97 ff.) legt Grundsätze fest: Wettbewerb, Transparenz, Gleichbehandlung und Wirtschaftlichkeit. Alle Teilnehmer eines Verfahrens sind gleich zu behandeln, das Verfahren muss dokumentiert werden. Unzulässig ist es zum Beispiel, örtliche Bieter zu bevorzugen oder nach Herkunft oder Staatsangehörigkeit zu diskriminieren.",
+     "Gemeint ist: Der Auftrag soll nach sachlichen Kriterien an das passende Angebot gehen, nicht an den, den jemand kennt."
     ]
    },
    {
-    "h": "Das Lobbyregister",
+    "h": "Schwellenwerte: ab wann Europa mitbietet",
     "t": [
-     "Das öffentliche Lobbyregister beim Bundestag gibt es seit Januar 2022. Wer Interessenvertretung betreibt, muss sich eintragen und Angaben machen, darunter Auftraggeber und Aufträge bei Vertretung im Auftrag Dritter, die Zahl der Beschäftigten, Finanzangaben, Interessenbereiche, konkrete Regelungsvorhaben und frühere Ämter in Bundestag oder Bundesregierung aus den letzten fünf Jahren, der sogenannte Drehtüreffekt.",
-     "Wer nicht, falsch, unvollständig oder verspätet meldet, riskiert ein Bußgeld von bis zu 50.000 Euro. Geführt wird das Register von einer Stelle beim Bundestag. Im Fall Christ stammt die Zahl „über 40 Aufträge“ laut t-online aus diesem Register: Sie zeigt, wie viele Aufträge seine drei Agenturen zuletzt betreuten.",
-     "Was das Register nicht zeigt: ob ein Auftrag Erfolg hatte oder ob jemand Einfluss genommen hat. Es schafft Transparenz darüber, wer für wen arbeitet, und ist kein Beweis für Einfluss. Schon bei der Einführung 2022 hielten LobbyControl und Transparency International es trotz Fortschritten für nicht weitgehend genug."
+     "Ab bestimmten Auftragswerten (netto, ohne Umsatzsteuer) muss der Auftrag EU-weit ausgeschrieben werden. Seit dem 1. Januar 2026 gelten bei Liefer- und Dienstleistungen 140.000 Euro für Bundesbehörden und 216.000 Euro für sonstige öffentliche Auftraggeber, bei Bauaufträgen 5.404.000 Euro. Die Werte werden alle zwei Jahre überprüft und gelten bis Ende 2027.",
+     "Unterhalb dieser Schwellen gelten einfachere nationale Regeln."
     ]
    },
    {
-    "h": "Was ist das Sondervermögen?",
+    "h": "Wann ein Auftrag ohne großes Verfahren vergeben werden darf",
     "t": [
-     "Das „Sondervermögen für Infrastruktur und Klimaneutralität“ umfasst 500 Milliarden Euro. 100 Milliarden gehen an Länder und Kommunen, 100 Milliarden in den Klima- und Transformationsfonds und 300 Milliarden an den Bund. Die Mittel können über zwölf Jahre bewilligt werden, etwa für Schulen, Kitas, Schiene, Straßen, Forschung, Digitalisierung und Klimaschutz.",
-     "Die Grundlage schuf der Bundestag im März 2025 mit einer Grundgesetzänderung. Das Gesetz wurde am 2. Oktober 2025 im Bundesgesetzblatt verkündet und gilt rückwirkend ab 1. Januar 2025. Bis Ende 2025 waren rund 24 Milliarden Euro abgerufen. Für die Umsetzung setzte Klingbeil im Herbst 2025 einen Beirat ein."
+     "Bei kleineren Aufträgen sind vereinfachte Verfahren erlaubt. Bei Bauleistungen nach der VOB/A liegt seit dem 1. Januar 2026 die Grenze für einen Direktauftrag bei 50.000 Euro netto (vorher 3.000 Euro), für die freihändige Vergabe bei 100.000 Euro netto (vorher 10.000 Euro).",
+     "Das ist erlaubt und kein Verstoß. Es heißt aber auch: Je kleiner der Auftrag, desto weniger Wettbewerb ist vorgeschrieben."
     ]
    },
    {
-    "h": "Was macht ein Beirat?",
+    "h": "Sonderregeln",
     "t": [
-     "Ein Beirat berät das Ministerium. Er beschließt keine Gesetze und vergibt kein Geld. Im Investitions- und Innovationsbeirat sollen laut Handelsblatt Vertreter aus Wirtschaft, Wissenschaft und Kommunalpolitik beraten, wie das Sondervermögen schneller und wirksamer investiert wird. Genannt wurden 2025 unter anderem die Wissenschaftlerin Ann-Kristin Achleitner, die frühere Microsoft-Deutschland-Chefin Sabine Bendiek, der Gewerkschafter Roman Zitzelsberger, der frühere Mannheimer Oberbürgermeister Peter Kurz und der Ökonom Jens Südekum. Christ leitet das Gremium.",
-     "Das Finanzministerium sagte dem Spiegel zufolge, die Mitglieder seien nicht an Entscheidungen über Gesetz- und Verordnungsentwürfe, Vergabeverfahren oder Förderprozesse beteiligt. Offen ist, wie stark Empfehlungen eines Beirats spätere Entscheidungen prägen. Dazu enthalten die Berichte keine Angaben."
+     "Für die Bundeswehr trat am 14. Februar 2026 ein Gesetz zur beschleunigten Planung und Beschaffung in Kraft. Es setzt unter anderem den Losgrundsatz aus, also die Pflicht, große Aufträge in Teillose aufzuteilen. Ziel ist schnellere Beschaffung."
     ]
    },
    {
-    "h": "Was ist ein Interessenkonflikt?",
+    "h": "Wer Vergaben überprüft",
     "t": [
-     "Ein Interessenkonflikt liegt vor, wenn private oder geschäftliche Interessen mit einer öffentlichen Aufgabe zusammentreffen und die Unabhängigkeit beeinträchtigen können. Er ist nicht dasselbe wie Korruption und kein Rechtsverstoß an sich.",
-     "Für Mitglieder der Bundesregierung regelt das Bundesministergesetz einiges: Sie dürfen kein Gewerbe ausüben und nicht im Vorstand oder Aufsichtsrat eines erwerbswirtschaftlichen Unternehmens sitzen, Ausnahmen brauchen die Zustimmung des Bundestages (Art. 66 GG, § 5 BMinG). Feste Kriterien, ab wann ein Konflikt vorliegt, gibt es laut Bundesregierung auch dort nicht. Es wird im Einzelfall bewertet.",
-     "Für den Beirat von Klingbeil sagt das Ministerium laut t-online: Alle Mitglieder hätten versichert, dass keine Interessenkonflikte bestehen. Vor Christs Berufung hieß es intern, Mitglieder sollten „möglichst keine Eigeninteressen verfolgen“. Zu Christs geschäftlichen Tätigkeiten lägen dem Ministerium keine Informationen vor. LobbyControl nennt Christs Berufung „völlig inakzeptabel“ und sagt, schon der Anschein von Einfluss schade dem Vertrauen in die Politik."
-    ]
-   },
-   {
-    "h": "Verdacht, Bericht, Unschuldsvermutung",
-    "t": [
-     "Der Bericht stützt sich laut t-online auf Handelsregister, Lobbyregister und Anfragen an Ministerium und Betroffene. Es ist eine journalistische Recherche, kein Urteil und kein Ermittlungsergebnis. Eine Quelle über ein Verfahren gegen Christ haben wir nicht gefunden. Bis eine Behörde oder ein Gericht etwas feststellt, gilt die Unschuldsvermutung. Die öffentliche Debatte dreht sich um Regeln und Transparenz."
-    ]
-   },
-   {
-    "h": "Selbst nachschauen",
-    "t": [
-     "Das Lobbyregister ist öffentlich einsehbar unter lobbyregister.bundestag.de. Dort lässt sich nach Namen, Auftraggebern und Regelungsvorhaben suchen. Unternehmensbeteiligungen wie die an Aleph Alpha, über die der Spiegel berichtet, lassen sich im Handelsregister nachvollziehen."
+     "Unternehmen, die sich übergangen fühlen, können bei Aufträgen oberhalb der Schwellen die Vergabekammern anrufen. Gegen deren Entscheidung gibt es die sofortige Beschwerde (§§ 155 bis 184 GWB). Ob dieser künftig keine aufschiebende Wirkung mehr haben soll, ist laut einer Kanzlei-Übersicht von Anfang 2026 offen.",
+     "Streitigkeiten unterhalb der Schwellen gehören seit 2026 unabhängig vom Streitwert vor die Landgerichte."
     ]
    }
   ],
   "quellen": [
    {
-    "titel": "t-online: Klingbeil-Berater Harald Christ, Vorwürfe wegen Interessenkonflikten (nach Spiegel), 8.10.2026",
-    "url": "https://www.t-online.de/nachrichten/deutschland/id_101472890/klingbeil-berater-harald-christ-vorwuerfe-wegen-interessenkonflikten.html"
+    "titel": "IHK Hannover: Neue Schwellenwerte für EU-Ausschreibungen 2026 und 2027",
+    "url": "https://www.ihk.de/hannover/hauptnavigation/unternehmensfoerderung/oeffentliches-auftragswesen/aktuell-auftragswesen/neue-schwellenwerte-fuer-eu-ausschreibungen-fuer-2026-und-2027-6927176"
    },
    {
-    "titel": "Tagesspiegel (dpa): Kritik an Klingbeils Beiratschef Harald Christ, 8.10.2026",
-    "url": "https://www.tagesspiegel.de/politik/dpa-kritik-an-klingbeils-beiratschef-harald-christ-16142184.html"
+    "titel": "Rödl & Partner: Neue EU-Schwellenwerte ab 1.1.2026",
+    "url": "https://www.roedl.com/insights/neue-eu-schwellenwerte-ab-ersten-ersten-zweitausendsechsundzwanzig/"
    },
    {
-    "titel": "Handelsblatt: Investitionsbeirat, wer Klingbeil berät, 1.9.2025",
-    "url": "https://www.handelsblatt.com/politik/deutschland/investitionsbeirat-wer-klingbeil-bei-seiner-investitionsoffensive-beraet/100151940.html"
+    "titel": "Leinemann Partner: Neues zum Vergaberecht 01/2026",
+    "url": "https://www.leinemann-partner.de/newsletter-download/neues-zum-vergaberecht-01-2026"
    },
+   {
+    "titel": "ibau: Gleichbehandlungsgrundsatz und Transparenzgebot (§ 97 GWB)",
+    "url": "https://www.ibau.de/akademie/glossar/gleichbehandlungsgrundsatz/"
+   },
+   {
+    "titel": "cosinex: GWB, Überblick Teil 4 Vergaberecht",
+    "url": "https://blog.cosinex.de/normen/gwb/"
+   }
+  ],
+  "stand": "Oktober 2026 (Werte für 2026 und 2027)"
+ },
+ {
+  "id": "lobbyregister",
+  "titel": "Lobbyismus und Lobbyregister",
+  "teaser": "Was Lobbyismus ist, wer sich eintragen muss und was das Register nicht zeigt.",
+  "min": 4,
+  "kern": [
+   {
+    "z": "seit 2022",
+    "l": "öffentliches Lobbyregister beim Bundestag"
+   },
+   {
+    "z": "5 Jahre",
+    "l": "frühere Ämter müssen angegeben werden (Drehtür)"
+   },
+   {
+    "z": "bis 50.000 €",
+    "l": "Bußgeld bei falschen oder fehlenden Angaben"
+   }
+  ],
+  "abschnitte": [
+   {
+    "h": "Was Lobbyismus ist",
+    "t": [
+     "Lobbyismus heißt, Politik und Verwaltung im Interesse eines Unternehmens, Verbands oder Auftraggebers zu beeinflussen. Das ist in Deutschland erlaubt und gehört zur Demokratie: Betroffene dürfen ihre Sicht vortragen. Das Lobbyregistergesetz verlangt aber, dass es offen geschieht.",
+     "Interessenvertreter ist nach der Definition des Bundestags, wer Kontakt zu Bundestag oder Bundesregierung aufnimmt, auch im Auftrag Dritter, um Entscheidungen unmittelbar oder mittelbar zu beeinflussen."
+    ]
+   },
+   {
+    "h": "Das Lobbyregister",
+    "t": [
+     "Das öffentliche Lobbyregister beim Bundestag gibt es seit Januar 2022. Wer Interessenvertretung betreibt, muss sich eintragen. Dazu gehören Unternehmen, Verbände und auch Agenturen, die für andere arbeiten.",
+     "Verpflichtend sind unter anderem Angaben zu Auftraggebern, Zahl der Beschäftigten, Finanzen, Interessenbereichen und konkreten Regelungsvorhaben."
+    ]
+   },
+   {
+    "h": "Was seit 2024 gilt",
+    "t": [
+     "Eine Reform trat am 1. März 2024 in Kraft, Einträge mussten bis 30. Juni 2024 angepasst werden. Neu oder verpflichtend sind unter anderem: Aufwendungen in Stufen von 10.000 Euro, die Hauptfinanzierungsquellen, öffentliche Zuwendungen über 10.000 Euro, die Pflicht, grundlegende Stellungnahmen und Gutachten hochzuladen, sowie Angaben zu Ämtern in Bundestag, Bundesregierung oder Bundesverwaltung in den letzten fünf Jahren. Die Verweigerung von Finanzangaben ist nicht mehr möglich."
+    ]
+   },
+   {
+    "h": "Der Drehtüreffekt",
+    "t": [
+     "Wenn jemand von einem Amt in die Interessenvertretung wechselt, spricht man vom Drehtüreffekt. Das Register macht das sichtbar: Frühere Ämter der letzten fünf Jahre sind anzugeben. Es verbietet den Wechsel nicht. Für Regierungsmitglieder gibt es dazu die Karenzzeit (siehe eigener Beitrag)."
+    ]
+   },
+   {
+    "h": "Was das Register nicht zeigt",
+    "t": [
+     "Das Register zeigt, wer für wen arbeitet und woran. Es zeigt nicht, ob ein Gespräch stattfand, was besprochen wurde oder ob jemand Erfolg hatte. Ein Eintrag ist also kein Beleg für Einfluss, und ein Lobbykontakt ist kein Rechtsverstoß.",
+     "Bei der Einführung 2022 hielten LobbyControl und Transparency International das Gesetz trotz Fortschritten nicht für weitgehend genug. Das war vor der Reform von 2024."
+    ]
+   },
+   {
+    "h": "Sanktionen",
+    "t": [
+     "Wer nicht, falsch, unvollständig oder verspätet meldet, riskiert ein Bußgeld von bis zu 50.000 Euro."
+    ]
+   },
+   {
+    "h": "Selbst nachschauen",
+    "t": [
+     "Das Register ist öffentlich unter lobbyregister.bundestag.de. Man kann nach Namen, Auftraggebern und Regelungsvorhaben suchen."
+    ]
+   }
+  ],
+  "quellen": [
    {
     "titel": "Bundestag: Lobbyregister, häufig gestellte Fragen",
     "url": "https://www.bundestag.de/parlament/lobbyregister/haeufig-gestellte-fragen-faq--863572"
+   },
+   {
+    "titel": "CMS: Reform des Lobbyregisters, Unternehmen müssen ihre Einträge überprüfen",
+    "url": "https://cms.law/de/deu/legal-updates/reform-des-lobbyregisters-unternehmen-muessen-ihre-eintraege-ueberpruefen"
    },
    {
     "titel": "taz: Registrierungspflicht im Bundestag, 4.1.2022",
     "url": "https://taz.de/Registrierungspflicht-im-Bundestag/!5823339/"
    },
    {
-    "titel": "Bundesregierung: Sondervermögen für Infrastruktur und Klimaneutralität, Stand 19.3.2026",
-    "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/wirksam-regieren/sondervermoegen-2356240"
+    "titel": "Lobbyregister beim Deutschen Bundestag",
+    "url": "https://www.lobbyregister.bundestag.de/"
+   }
+  ],
+  "stand": "Oktober 2026 (Rechtslage nach der Reform vom 1.3.2024)"
+ },
+ {
+  "id": "interessenkonflikt",
+  "titel": "Interessenkonflikt und Selbstauskunft",
+  "teaser": "Was ein Interessenkonflikt ist, welche Regeln für Regierungsmitglieder gelten und was eine Selbstauskunft leistet.",
+  "min": 4,
+  "kern": [
+   {
+    "z": "Art. 66 GG",
+    "l": "Nebentätigkeiten von Regierungsmitgliedern"
    },
+   {
+    "z": "keine",
+    "l": "festen Kriterien für Konflikte, laut Bundesregierung"
+   },
+   {
+    "z": "2020",
+    "l": "GRECO fordert öffentliche Erklärungen"
+   }
+  ],
+  "abschnitte": [
+   {
+    "h": "Was ein Interessenkonflikt ist",
+    "t": [
+     "Ein Interessenkonflikt liegt vor, wenn private oder geschäftliche Interessen mit einer öffentlichen Aufgabe zusammentreffen und die Unabhängigkeit beeinträchtigen können. Er ist nicht dasselbe wie Korruption und kein Rechtsverstoß an sich. Schon der Anschein kann aber Vertrauen kosten."
+    ]
+   },
+   {
+    "h": "Was für Regierungsmitglieder gilt",
+    "t": [
+     "Für Mitglieder der Bundesregierung regelt das Bundesministergesetz einiges: Sie dürfen kein Gewerbe ausüben und nicht im Vorstand oder Aufsichtsrat eines erwerbswirtschaftlichen Unternehmens sitzen. Ausnahmen brauchen die Zustimmung des Bundestages (Art. 66 GG, § 5 BMinG)."
+    ]
+   },
+   {
+    "h": "Wer entscheidet, was ein Konflikt ist",
+    "t": [
+     "Nach einer Antwort der Bundesregierung vom August 2025 auf eine Anfrage im Bundestag (Drucksache 21/1136) gibt es im Bundesministergesetz keine quantitativen oder qualitativen Kriterien dafür, wann ein Interessenkonflikt vorliegt. Das werde im Einzelfall bewertet. Eine Pflicht, Beteiligungen offenzulegen, gebe es nicht. Eine Offenlegung ohne Anlass halte die Bundesregierung weder für zielführend noch für erforderlich."
+    ]
+   },
+   {
+    "h": "Was eine Selbstauskunft ist",
+    "t": [
+     "Eine Selbstauskunft ist eine Erklärung, die die betroffene Person über sich selbst abgibt, etwa dass keine Interessenkonflikte bestehen. Sie ist keine unabhängige Prüfung. Wie belastbar sie ist, hängt davon ab, ob Angaben von einer Stelle geprüft und veröffentlicht werden und ob es bei falschen Angaben Folgen gibt."
+    ]
+   },
+   {
+    "h": "Was Kritiker fordern",
+    "t": [
+     "Laut LobbyControl forderte die Staatengruppe gegen Korruption des Europarats, GRECO, Deutschland 2020 auf, hochrangige Amtsträger der Exekutive zu verpflichten, ihre finanziellen Interessen regelmäßig öffentlich zu erklären. Deutschland erfülle das bisher nicht.",
+     "LobbyControl verlangt verbindliche Offenlegungspflichten für Minister unabhängig von einer Bundestagsmitgliedschaft, eine unabhängige Kontrollstelle und den Ausschluss von Verfahren, die eigene frühere oder aktuelle wirtschaftliche Interessen berühren. Weitere Forderungen der Organisation, die uns aus einem Bericht vom August 2025 vorliegen: Interessenerklärungen für Spitzenbeamte, eine Karenzzeit von 36 statt 18 Monaten und Sanktionen."
+    ]
+   },
+   {
+    "h": "Die Gegenposition",
+    "t": [
+     "Die Bundesregierung sieht in der anlasslosen Offenlegung keinen Mehrwert, wie oben beschrieben. Das Bundesministergesetz solle im Einzelfall angewendet werden."
+    ]
+   },
+   {
+    "h": "Verdacht ist kein Beleg",
+    "t": [
+     "Ein Medienbericht über einen möglichen Interessenkonflikt ist eine journalistische Recherche, kein Urteil und kein Ermittlungsergebnis. Bis eine Behörde oder ein Gericht etwas feststellt, gilt die Unschuldsvermutung. Die Debatte dreht sich dann um Regeln und Transparenz, nicht um Schuld."
+    ]
+   }
+  ],
+  "quellen": [
    {
     "titel": "Bundestag: Drucksache 21/1136, Antwort der Bundesregierung zu Interessenkonflikten, 4.8.2025",
     "url": "https://dserver.bundestag.de/btd/21/011/2101136.pdf"
    },
    {
-    "titel": "Lobbyregister beim Deutschen Bundestag",
-    "url": "https://www.lobbyregister.bundestag.de/"
+    "titel": "Verbandsbüro: Transparenz in der Bundesregierung, Interessenkonflikte und Offenlegungspflichten (zu LobbyControl, GRECO), 7.8.2025",
+    "url": "https://www.verbandsbuero.de/transparenz-in-der-bundesregierung-interessenkonflikte-und-offenlegungspflichten-im-fokus/"
+   },
+   {
+    "titel": "Bundestag: Lobbyregister, häufig gestellte Fragen",
+    "url": "https://www.bundestag.de/parlament/lobbyregister/haeufig-gestellte-fragen-faq--863572"
    }
   ],
-  "stand": "Oktober 2026 (Berichte zum Fall Christ vom 8.10.2026)"
+  "stand": "Oktober 2026 (Antwort der Bundesregierung vom 4.8.2025)"
+ },
+ {
+  "id": "karenzzeit",
+  "titel": "Karenzzeit: Vom Ministeramt in die Wirtschaft",
+  "teaser": "Wie lange Regierungsmitglieder nach dem Amt warten müssen und wer das prüft.",
+  "min": 3,
+  "kern": [
+   {
+    "z": "18 Monate",
+    "l": "höchstens kann eine Tätigkeit untersagt werden"
+   },
+   {
+    "z": "2015",
+    "l": "Karenzzeitgesetz in Kraft"
+   },
+   {
+    "z": "1 Monat",
+    "l": "vorher soll die Anzeige erfolgen"
+   }
+  ],
+  "abschnitte": [
+   {
+    "h": "Worum es geht",
+    "t": [
+     "Wechselt ein Minister direkt in einen Konzern oder Verband, kann der Verdacht entstehen, dass schon im Amt Rücksicht auf den späteren Arbeitgeber genommen wurde. Das Karenzzeitgesetz, am 25. Juli 2015 in Kraft getreten, soll solche Wechsel prüfbar machen."
+    ]
+   },
+   {
+    "h": "Wen es betrifft",
+    "t": [
+     "Es gilt für die politische Spitze: Bundesminister und parlamentarische Staatssekretäre, aktuelle wie ehemalige. Beamtete Staatssekretäre fallen nicht darunter."
+    ]
+   },
+   {
+    "h": "Wie es funktioniert",
+    "t": [
+     "Wer innerhalb der ersten 18 Monate nach dem Ausscheiden eine Tätigkeit außerhalb des öffentlichen Dienstes aufnehmen will, muss das anzeigen, am besten einen Monat vorher. Die Pflicht beginnt schon, wenn konkrete Vorbereitungen laufen oder eine Stelle in Aussicht steht. Die Bundesregierung entscheidet auf Empfehlung eines beratenden Gremiums.",
+     "Sie kann die Tätigkeit ganz oder teilweise für bis zu 18 Monate untersagen, wenn öffentliche Interessen beeinträchtigt werden können, etwa wenn die Tätigkeit Bereiche betrifft, in denen die Person zuvor amtlich tätig war. Das ist eine Ermessensentscheidung, bei der auch die Berufsfreiheit zählt. Eine Untersagung muss begründet werden, alle Entscheidungen werden veröffentlicht."
+    ]
+   },
+   {
+    "h": "Übergangsgeld",
+    "t": [
+     "Wird eine Tätigkeit untersagt, gibt es in den ersten drei Monaten das volle Amtsgehalt, danach die Hälfte. Einen Anspruch auf Übergangsgeld von bis zu zwei Jahren haben ehemalige Minister und Staatssekretäre laut LTO auch ohne Untersagung."
+    ]
+   },
+   {
+    "h": "Kritik",
+    "t": [
+     "Transparenzorganisationen wie abgeordnetenwatch.de und Transparency International forderten laut einem web.de-Bericht eine Frist von bis zu drei Jahren. Kritisiert wurde außerdem, dass die Regelung keine Sanktionen bei Verstößen vorsieht und dass die Politik sich selbst kontrolliere. LobbyControl nannte im August 2025 eine Karenzzeit von 36 statt 18 Monaten als Forderung."
+    ]
+   },
+   {
+    "h": "Was die Karenzzeit nicht ist",
+    "t": [
+     "Sie ist kein generelles Berufsverbot. Die meisten Wechsel bleiben erlaubt, untersagt werden kann nur im Einzelfall und für höchstens 18 Monate. Ein Wechsel ist auch kein Beleg für Fehlverhalten im Amt."
+    ]
+   }
+  ],
+  "quellen": [
+   {
+    "titel": "LTO: Karenzzeitgesetz in Kraft getreten",
+    "url": "https://www.lto.de/recht/hintergruende/h/karenzzeitgesetz-politiker-anschlusstaetigkeit-wirtschaft-18-monate"
+   },
+   {
+    "titel": "web.de: Gremium prüft Seitenwechsel von Ex-Regierungsmitgliedern",
+    "url": "https://web.de/magazine/politik/lobbyismus-gremium-prueft-seitenwechsel-ex-regierungsmitgliedern-36884900"
+   },
+   {
+    "titel": "Bundestag: Drucksache 21/1136, 4.8.2025",
+    "url": "https://dserver.bundestag.de/btd/21/011/2101136.pdf"
+   }
+  ],
+  "stand": "Oktober 2026 (der web.de-Bericht ist älter, Kritikpunkte können sich überholt haben)"
+ },
+ {
+  "id": "beratung",
+  "titel": "Wer berät die Regierung?",
+  "teaser": "Beiräte, Räte und Kommissionen: was sie tun und worüber gestritten wird.",
+  "min": 3,
+  "kern": [
+   {
+    "z": "3",
+    "l": "Gremien in einer Studie 1982 bis 2022 untersucht"
+   },
+   {
+    "z": "10",
+    "l": "Institutionen stellen rund 42 % der Mitglieder"
+   },
+   {
+    "z": "25 Jahre",
+    "l": "durchschnittliche Mitgliedsdauer in BMF und BMWK"
+   }
+  ],
+  "abschnitte": [
+   {
+    "h": "Beraten heißt nicht entscheiden",
+    "t": [
+     "Ministerien lassen sich von Beiräten, Sachverständigenräten und Kommissionen beraten. Sie geben Empfehlungen oder Gutachten ab. Beschließen können sie nichts: Gesetze beschließt der Bundestag, über Ausgaben entscheiden Regierung und Parlament."
+    ]
+   },
+   {
+    "h": "Ein Beispiel aus der Forschung",
+    "t": [
+     "Die Otto Brenner Stiftung hat 2024 drei wirtschaftspolitische Gremien von 1982 bis 2022 untersucht: den Sachverständigenrat und die wissenschaftlichen Beiräte beim Wirtschafts- und beim Finanzministerium. Ergebnis laut Stiftung: Zehn Institutionen stellen rund 42 Prozent der Mitgliedschaften, Ökonomen dominieren, Frauen sind unterrepräsentiert, die Mitglieder in den Beiräten blieben im Schnitt rund 25 Jahre. Etwa ein Viertel der Beiratsmitglieder im Wirtschaftsministerium saß zugleich mit dem eigenen akademischen Betreuer im Gremium.",
+     "Die Stiftung spricht von einer intellektuellen Engführung und fordert zeitliche Begrenzungen der Mitgliedschaft und modernisierte Berufungsregeln."
+    ]
+   },
+   {
+    "h": "Was daraus folgt und was nicht",
+    "t": [
+     "Die Studie betrifft nur diese drei Gremien und ist eine Einzelstudie. Sie zeigt, wie Berufungen die Zusammensetzung prägen können, und sagt nichts über andere Beiräte. Eine vollständige Übersicht aller Beratungsgremien des Bundes haben wir in unseren Quellen nicht gefunden."
+    ]
+   },
+   {
+    "h": "Fragen, die sich bei jedem Gremium stellen lassen",
+    "t": [
+     "Wer wird nach welchem Verfahren berufen? Für wie lange? Aus welchen Bereichen kommen die Mitglieder? Sind ihre Nebentätigkeiten und Auftraggeber bekannt? Wo werden Empfehlungen veröffentlicht? Das sind Prüffragen, keine Vorwürfe."
+    ]
+   }
+  ],
+  "quellen": [
+   {
+    "titel": "Otto Brenner Stiftung: Pressemitteilung zur Studie über wirtschaftspolitische Beratungsgremien, 12.3.2024",
+    "url": "https://www.otto-brenner-stiftung.de/fileadmin/user_data/stiftung/05_Presse/02_Pressemitteilungen/2024_03_12_PM_Beratungsgremien.pdf"
+   }
+  ],
+  "stand": "Oktober 2026 (Studie von 2024)"
+ },
+ {
+  "id": "schuldenbremse",
+  "titel": "Schuldenbremse und Sondervermögen",
+  "teaser": "Was die Schuldenbremse begrenzt, welche Ausnahmen es gibt und was sich 2025 geändert hat.",
+  "min": 4,
+  "kern": [
+   {
+    "z": "0,35 %",
+    "l": "des BIP: Grenze für neue Schulden des Bundes"
+   },
+   {
+    "z": "500 Mrd. €",
+    "l": "Sondervermögen Infrastruktur und Klimaneutralität"
+   },
+   {
+    "z": "12 Jahre",
+    "l": "können die Mittel bewilligt werden"
+   }
+  ],
+  "abschnitte": [
+   {
+    "h": "Was die Schuldenbremse ist",
+    "t": [
+     "Die Schuldenbremse (Art. 109 und 115 Grundgesetz) begrenzt die Neuverschuldung des Bundes auf höchstens 0,35 Prozent des Bruttoinlandsprodukts pro Jahr."
+    ]
+   },
+   {
+    "h": "Welche Ausnahmen es gibt",
+    "t": [
+     "Bei Naturkatastrophen, Krieg oder Pandemie kann der Bund nach Feststellung einer Notlage abweichen. Außerdem sind Sondervermögen ausgenommen, wenn sie einem klar definierten Zweck dienen. Laut Bundesrechnungshof gab es zuletzt 29 Sondervermögen. 2022 kam ein Sondervermögen von 100 Milliarden Euro für die Bundeswehr hinzu, angelegt bis 2028.",
+     "Ein Sondervermögen ist ein Extra-Budget neben dem normalen Haushalt. Die Schulden dafür zählen nicht unter die Grenze."
+    ]
+   },
+   {
+    "h": "Was im März 2025 geändert wurde",
+    "t": [
+     "Der Bundestag beschloss die Grundgesetzänderung am 18. März 2025 mit 512 Ja- und 206 Nein-Stimmen, nötig waren 489. Der Bundesrat stimmte am 21. März mit 53 Stimmen zu, nötig waren 46.",
+     "Neu: Verteidigungsausgaben, Zivil- und Bevölkerungsschutz, Nachrichtendienste, IT-Sicherheit und Hilfe für angegriffene Staaten sind oberhalb von 1 Prozent des BIP von der Schuldenbremse ausgenommen. Die Länder dürfen zusammen Kredite bis 0,35 Prozent des BIP aufnehmen, rund 15 Milliarden Euro. Dazu kommt ein Sondervermögen von bis zu 500 Milliarden Euro."
+    ]
+   },
+   {
+    "h": "Das Sondervermögen Infrastruktur",
+    "t": [
+     "Es dient zusätzlichen Investitionen in Infrastruktur und Klimaneutralität bis 2045. 100 Milliarden Euro sind für Länder und Kommunen vorgesehen, 100 Milliarden für den Klima- und Transformationsfonds und 300 Milliarden für den Bund. Die Mittel können über zwölf Jahre bewilligt werden, etwa für Schulen, Schiene, Straßen, Digitalisierung und Klimaschutz.",
+     "Das Gesetz wurde am 2. Oktober 2025 verkündet und gilt rückwirkend ab 1. Januar 2025. Bis Ende 2025 waren laut Bundesregierung rund 24 Milliarden Euro abgerufen."
+    ]
+   },
+   {
+    "h": "Zusätzlichkeit",
+    "t": [
+     "Investitionen aus dem Sondervermögen sollen zusätzlich sein. Als zusätzlich gelten sie, wenn mindestens 10 Prozent der Bundesausgaben ohne Sondervermögen und ohne finanzielle Transaktionen investiert werden."
+    ]
+   }
+  ],
+  "quellen": [
+   {
+    "titel": "bpb: Die Schuldenbremse und ihre Reform (Hintergrund aktuell)",
+    "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/560839/"
+   },
+   {
+    "titel": "Bundesregierung: Sondervermögen für Infrastruktur und Klimaneutralität, Stand 19.3.2026",
+    "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/wirksam-regieren/sondervermoegen-2356240"
+   }
+  ],
+  "stand": "Oktober 2026 (Stand der Quellen; Mittelabruf ab 2026 nicht geprüft)"
  }
 ];
