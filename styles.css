@@ -433,3 +433,12 @@ a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
 .hc-t { margin-top: auto; padding: 0.95rem 1.1rem 1.15rem; }
 .hc:not(.has-img) { min-height: 100%; justify-content: flex-end; }
 .hc-rail { align-items: stretch; }
+/* Startseite: Wegweiser zu Kolumnen, Dossiers, Erklärt */
+#mehr { padding-block: clamp(0.5rem, 2vw, 1.5rem) 0; }
+.mehr { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.9rem; }
+.mehr a { display: block; background: var(--panel); border-radius: 1.25rem; padding: 1.1rem 1.25rem 1.2rem; color: inherit; text-decoration: none; border-left: 3px solid var(--accent); }
+.mehr .k { display: block; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.3rem; }
+.mehr strong { display: block; font-size: 1.15rem; line-height: 1.2; margin-bottom: 0.35rem; }
+.mehr a > span:last-child { display: block; font-size: 0.92rem; line-height: 1.45; color: var(--muted); }
+.mehr a:hover strong { text-decoration: underline; }
+@media (max-width: 760px) { .mehr { grid-template-columns: minmax(0, 1fr); gap: 0.7rem; } }
