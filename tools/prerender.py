@@ -20,8 +20,8 @@ def datum(iso): y, m, d = iso.split("-"); return f"{int(d)}. {MON[int(m)-1]} {y}
 
 def slide_text(s):
     out = []
-    for k in ("kicker", "label", "titel", "zahl", "text", "behauptung", "fakt", "frage", "handlung"):
-        if s.get(k): out.append(str(s[k]))
+    for k in ("kicker", "label", "titel", "zahl", "text", "behauptung", "fakt", "frage", "handlung", "quelle"):
+        if s.get(k): out.append(("Quelle: " if k == "quelle" else "") + str(s[k]))
     for p in s.get("punkte") or []: out.append(f"{p.get('kopf','')}: {p.get('text','')}")
     for z in s.get("zeilen") or []: out.append(z if isinstance(z, str) else " ".join(map(str, z.values())) if isinstance(z, dict) else str(z))
     return out
