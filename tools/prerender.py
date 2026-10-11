@@ -71,7 +71,7 @@ def dossiers():
     return "".join(o)
 def heute():
     d = B[0]; it = []
-    for k in d.get("karussells") or []:
+    for k in reversed(d.get("karussells") or []):
         bi = (k["slides"][0].get("bild") or {}) if k.get("slides") else {}
         it.append(("Nachrichten", k["thema"], "nachrichten.html", bi.get("url"), bi.get("fokus"), bi.get("unter")))
     if d.get("morgen"):
