@@ -379,7 +379,7 @@ window.BRIEFINGS = [
     "slides": [
      {
       "typ": "hook",
-      "kicker": "Saudi-Arabien · Jemen-Krieg",
+      "kicker": "Saudi-Arabien · Zivile Infrastruktur",
       "titel": "Angriff auf Flughafen in Riad: 12 Tote, 309 Verletzte",
       "rot": "12 Tote, 309 Verletzte"
      },
@@ -387,8 +387,8 @@ window.BRIEFINGS = [
       "typ": "fakten",
       "label": "Was gemeldet wird",
       "titel": "12 Tote, 309 Verletzte am Flughafen.",
-      "text": "Bei einem Angriff auf den Passagierterminal des King-Khalid-Flughafens in Riad starben laut der saudischen Luftfahrtbehörde 12 Menschen, 309 wurden verletzt. Es ist die bislang höchste Opferzahl seit Beginn des Iran-Kriegs Ende Februar.",
-      "quelle": "AWP/cash.ch, ZDFheute, 11.10.2026"
+      "text": "Am Samstag traf ein Angriff den King-Khalid-Flughafen in Riad. Laut der saudischen Luftfahrtbehörde starben 12 Menschen, 309 wurden verletzt. Es war binnen weniger Tage der dritte schwere Angriff auf den Flughafen.",
+      "quelle": "ORF, AWP/cash.ch, 11.10.2026"
      },
      {
       "typ": "betrifft",
@@ -405,56 +405,72 @@ window.BRIEFINGS = [
        },
        {
         "kopf": "Bekennung",
-        "text": "Eine Bekennung der Huthi meldet AWP nicht."
+        "text": "Eine Bekennung der Huthi gibt es laut ORF nicht."
        },
        {
         "kopf": "Reaktionen",
-        "text": "Guterres „zutiefst schockiert“, Rubio verurteilt den Angriff."
+        "text": "Guterres „zutiefst schockiert“, Rubio verurteilt, Trump prüft Unterstützung für Angriffe."
        }
       ],
-      "quelle": "AWP/cash.ch, ZDFheute, 11.10.2026"
+      "quelle": "ORF, AWP/cash.ch, 11.10.2026"
      },
      {
       "typ": "einordnung",
-      "label": "Die Vorgeschichte",
-      "titel": "Es ist nicht der erste Angriff.",
-      "text": "Schon Anfang der Woche gab es Angriffe auf Riad und Abha mit 3 Toten und 36 Verletzten. Eine Saudia-Maschine soll getroffen worden sein, offiziell bestätigt ist das nicht. Der Bürgerkrieg im Jemen ist seit dem Sommer wieder aufgeflammt, mehr als 200.000 Menschen sind laut UN seit Juli vertrieben.",
-      "quelle": "ORF, t-online, 8.10.2026; aerotelegraph; Euronews, 9.10.2026"
+      "label": "Das Muster",
+      "titel": "Zivile Ziele werden zur Normalität.",
+      "text": "Schon am Donnerstag starben am selben Flughafen 3 Menschen, Lufthansa und Air India stoppten Flüge. Im März traf der Iran laut Wikipedia-Übersicht den Flughafen Dubai, den Hafen Jebel Ali und Hotels. Seit dem 28.2. gibt es dort 13 Tote und 224 Verletzte aus 31 Nationen.",
+      "quelle": "ORF, 11.10.2026; Wikipedia: Iranian strikes on the UAE"
      },
      {
-      "typ": "vergleich",
-      "labelA": "Die Koalition",
-      "behauptung": "Sie meldet Angriffe auf 82 militärische Ziele der Huthi und nennt den Angriff auf den Flughafen ein Kriegsverbrechen.",
-      "labelB": "Die Huthi",
-      "fakt": "Sie werfen Saudi-Arabien Luftangriffe auf den Flughafen von Hodeida vor. Das ist unbestätigt.",
-      "quelle": "ORF, 8.10.2026; AWP/cash.ch, 11.10.2026"
+      "typ": "betrifft",
+      "label": "Der Verteidigungspakt",
+      "titel": "Saudi-Arabien, Türkei, Pakistan",
+      "punkte": [
+       {
+        "kopf": "Der Pakt",
+        "text": "Beistandspflicht, geschlossen am 7. August. Ein Angriff auf einen gilt als Angriff auf alle."
+       },
+       {
+        "kopf": "Aktiviert",
+        "text": "Am 5. Oktober beschlossen die drei in Riad die Umsetzung. Truppen gehen nach Saudi-Arabien."
+       },
+       {
+        "kopf": "Rolle",
+        "text": "Laut Pakistans Verteidigungsminister zunächst unterstützend, etwa Aufklärung."
+       },
+       {
+        "kopf": "Nach Riad",
+        "text": "Eine Reaktion des Pakts auf den Angriff fanden wir bisher nicht."
+       }
+      ],
+      "quelle": "heute.at, 6.10.2026; derStandard"
      },
      {
       "typ": "einordnung",
       "label": "Was wir nicht wissen",
       "titel": "Offen bleibt",
-      "text": "Wer den Angriff ausführte und womit, ist nicht unabhängig belegt. Der genaue Zeitpunkt ist uns unklar, die Meldungen sprechen vom Wochenende. Wir fanden keine unabhängige Untersuchung. Bis dahin gilt: Das sind Angaben einer Konfliktpartei.",
-      "quelle": "AWP/cash.ch, ZDFheute, 11.10.2026"
+      "text": "Wer den Angriff ausführte, ist nicht belegt, die Koalition nennt die Huthi. Eine unabhängige Untersuchung fanden wir nicht. Zu konkreten Angriffen auf Katar fanden wir keine belastbare Quelle, deshalb nennen wir sie hier nicht.",
+      "quelle": "ORF, AWP/cash.ch, 11.10.2026"
      },
      {
       "typ": "einordnung",
       "label": "Völkerrecht",
       "titel": "Zivilisten sind geschützt",
-      "text": "Das humanitäre Völkerrecht verbietet gezielte Angriffe auf Zivilpersonen und zivile Objekte. Das gilt für alle Parteien gleich, auch für die Koalition. Ob ein Kriegsverbrechen vorliegt, klären unabhängige Untersuchungen, nicht Pressesprecher.",
+      "text": "Das humanitäre Völkerrecht verbietet gezielte Angriffe auf Zivilpersonen und zivile Objekte. Das gilt für alle Parteien gleich, egal ob Iran, Huthi oder Koalition. Ob ein Kriegsverbrechen vorliegt, klären unabhängige Untersuchungen.",
       "quelle": "Genfer Konventionen, Zusatzprotokoll I"
      },
      {
       "typ": "meinung",
-      "text": "Ein Passagierterminal ist kein Schlachtfeld. Wer dort Menschen trifft, trifft Zivilisten, egal von wem die Rakete kommt. Wir wollen eine unabhängige Untersuchung und gleiche Maßstäbe für alle Seiten.",
-      "handlung": "Prüfe Meldungen zu diesem Krieg auf Quelle und Seite."
+      "text": "Es geht nicht um Parteien. Flughäfen, Häfen, Hotels, Stromnetze: Zivile Infrastruktur wird in diesem Krieg immer öfter zum Ziel, in Dubai wie in Riad. Wer das hinnimmt, weil es der andere Block trifft, hat den Maßstab verloren. Ein Bündnis, das sich Beistand verspricht, muss auch Schutz von Zivilisten und Deeskalation mitdenken.",
+      "handlung": "Miss jede Seite am gleichen Maßstab."
      },
      {
       "typ": "cta",
-      "frage": "Messen wir alle Konfliktparteien mit demselben Maßstab?"
+      "frage": "Wird zivile Infrastruktur zum neuen Normalfall im Krieg?"
      }
     ],
-    "caption": "Bei einem Angriff auf den Passagierterminal des King-Khalid-Flughafens in Riad starben laut der saudischen Luftfahrtbehörde 12 Menschen, 309 wurden verletzt. Das saudisch geführte Bündnis macht die Huthi verantwortlich und spricht von einem Kriegsverbrechen. Eine Bekennung der Huthi meldet AWP nicht, eine unabhängige Untersuchung fanden wir nicht. Schon zuvor gab es Angriffe auf Riad und Abha. Das humanitäre Völkerrecht schützt Zivilisten, für alle Parteien gleich. Unsere Meinung ist gekennzeichnet. Quellen: AWP/cash.ch, ZDFheute, ORF, t-online, Euronews. Messen wir alle Konfliktparteien mit demselben Maßstab?",
-    "hashtags": "#doytschlandtv #aktuell #riad #saudiarabien #jemen #huthi #voelkerrecht #zivilisten #einordnung #nachrichten"
+    "caption": "Am Samstag traf ein Angriff den King-Khalid-Flughafen in Riad: laut saudischer Luftfahrtbehörde 12 Tote, 309 Verletzte. Das Bündnis macht die Huthi verantwortlich, eine Bekennung gibt es laut ORF nicht. Schon im März traf der Iran laut Wikipedia-Übersicht Flughafen, Hafen und Hotels in Dubai. Der Verteidigungspakt von Saudi-Arabien, Türkei und Pakistan wurde am 5. Oktober aktiviert, eine Reaktion auf den Angriff fanden wir bisher nicht. Das humanitäre Völkerrecht schützt Zivilisten, für alle Parteien gleich. Unsere Meinung ist gekennzeichnet. Quellen: ORF, AWP/cash.ch, heute.at, derStandard, Wikipedia. Wird zivile Infrastruktur zum neuen Normalfall im Krieg?",
+    "hashtags": "#doytschlandtv #aktuell #riad #saudiarabien #jemen #iran #dubai #voelkerrecht #zivilisten #einordnung #nachrichten"
    }
   ],
   "storys": [
@@ -524,10 +540,10 @@ window.BRIEFINGS = [
     "zusatz": true,
     "art": "nachricht",
     "band": "Aktuell",
-    "kicker": "Saudi-Arabien · Jemen-Krieg",
+    "kicker": "Saudi-Arabien · Zivile Infrastruktur",
     "titel": "Angriff auf Flughafen in Riad: 12 Tote, 309 Verletzte",
     "rot": "12 Tote, 309 Verletzte",
-    "text": "Laut saudischer Luftfahrtbehörde starben 12 Menschen am Passagierterminal. Die Koalition macht die Huthi verantwortlich, eine Bekennung gibt es laut AWP nicht. Unabhängig belegt ist noch wenig.",
+    "text": "Laut saudischer Luftfahrtbehörde starben am Samstag 12 Menschen am Flughafen. Die Koalition macht die Huthi verantwortlich, eine Bekennung gibt es nicht. Zivile Infrastruktur wird zunehmend Ziel.",
     "quelle": "AWP/cash.ch, ZDFheute, 11.10.2026",
     "theme": "dark"
    }
