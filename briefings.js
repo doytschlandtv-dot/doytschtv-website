@@ -315,6 +315,13 @@ window.BRIEFINGS = [
       "quelle": "Handelsblatt, 1.9.2025; t-online, 8.10.2026"
      },
      {
+      "typ": "einordnung",
+      "label": "Der Beirat",
+      "titel": "Wer sonst mitberät",
+      "text": "Laut Handelsblatt (Stand 1.9.2025) sitzen im Beirat auch die Wissenschaftlerin Achleitner, die frühere Microsoft-Deutschland-Chefin Bendiek, der Gewerkschafter Zitzelsberger, der frühere Mannheimer Oberbürgermeister Kurz und der Ökonom Südekum. Christ leitet das Gremium.",
+      "quelle": "Handelsblatt, 1.9.2025"
+     },
+     {
       "typ": "betrifft",
       "label": "Aleph Alpha und Bakira",
       "titel": "Der Bezug zu Aleph Alpha",
@@ -350,20 +357,20 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Fair bleiben",
       "titel": "Verdacht ist kein Beleg.",
-      "text": "Wir fanden keinen Nachweis, dass Entscheidungen beeinflusst wurden. Christ hat sich öffentlich nicht geäußert. Eine Aussage von Klingbeil fanden wir bis zum Stand der Berichte vom 8.10. nicht. Es gilt die Unschuldsvermutung.",
+      "text": "Wir fanden keinen Nachweis, dass Entscheidungen beeinflusst wurden. Christs Anwalt weist die Vorwürfe zurück. Eine Aussage von Klingbeil fanden wir bis zum 8.10. nicht. Es gilt die Unschuldsvermutung.",
       "quelle": "t-online, Tagesspiegel (dpa), 8.10.2026"
      },
      {
       "typ": "meinung",
-      "text": "Es geht nicht um die Person, sondern um die Regel: Wer bei der Verteilung von Staatsmilliarden berät, sollte nicht zugleich für Kunden lobbyieren, die öffentliche Aufträge bekommen. Wir halten dafür klare, öffentliche Regeln für nötig.",
-      "handlung": "Frage nach: Wer berät die Regierung, und für wen arbeitet er sonst noch?"
+      "text": "Wer 500 Milliarden Euro mitgestaltet, darf nicht nebenbei für Kunden lobbyieren, die öffentliche Aufträge bekommen. Dass das Ministerium vor Interessenkonflikten warnt, aber nichts über Christs Geschäfte weiß und auf Selbstauskünfte setzt, reicht uns nicht.",
+      "handlung": "Fordere: Offenlegen, wer berät und für wen er sonst arbeitet."
      },
      {
       "typ": "cta",
-      "frage": "Wer darf den Staat beraten, wenn er nebenbei Kunden vertritt?"
+      "frage": "Warum berät ausgerechnet ein Lobbyist über Staatsmilliarden?"
      }
     ],
-    "caption": "Laut Spiegel hat die Unternehmensgruppe von Harald Christ, Berater von Finanzminister Klingbeil und Chef des Investitions- und Innovationsbeirats, seit September 2025 mindestens 15 neue Aufträge erhalten, auch aus der Digital- und Rüstungsbranche. Eine seiner Lobbyagenturen arbeitet für das KI-Unternehmen Aleph Alpha, an dem er laut Handelsregister bis zu 2 Prozent hielt. Das Ministerium sagt, der Beirat sei nicht an Entscheidungen über Gesetze, Vergaben oder Förderungen beteiligt. Christs Anwalt weist die Vorwürfe zurück, es gilt die Unschuldsvermutung. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer darf den Staat beraten, wenn er nebenbei Kunden vertritt?",
+    "caption": "Laut Spiegel hat die Unternehmensgruppe von Harald Christ, Berater von Finanzminister Klingbeil und Chef des Investitions- und Innovationsbeirats, seit September 2025 mindestens 15 neue Aufträge erhalten, auch aus der Digital- und Rüstungsbranche. Eine seiner Lobbyagenturen arbeitet für das KI-Unternehmen Aleph Alpha, an dem er laut Handelsregister bis zu 2 Prozent hielt. Das Ministerium sagt, der Beirat sei nicht an Entscheidungen über Gesetze, Vergaben oder Förderungen beteiligt. Christs Anwalt weist die Vorwürfe zurück, es gilt die Unschuldsvermutung. Das Ministerium hatte intern vor Interessenkonflikten gewarnt, wusste aber laut t-online nichts über Christs Geschäfte. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wir fordern: Offenlegen, wer die Regierung berät und für wen er sonst arbeitet. Warum berät ausgerechnet ein Lobbyist über Staatsmilliarden?",
     "hashtags": "#doytschlandtv #aktuell #klingbeil #haraldchrist #lobbyismus #sondervermoegen #transparenz #rechtsstaat #einordnung #nachrichten"
    }
   ],
