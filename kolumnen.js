@@ -2,6 +2,150 @@
    Eintrag: {datum:"JJJJ-MM-TT", kurz:[{k,t}x3], abschnitte:[{id,titel,typ:fakten|meinung|folgen,offen,text:[Absätze],grafiken:[balken|sitze|rechnung]}], schluss, thema (Demokratie, Migration, Wirtschaft, Völkerrecht, Gesellschaft ...), titel, teaser, text:[Absätze], quellen:[{titel,url}], audio:null|"https://...", dauer:"M:SS"} */
 window.KOLUMNEN = [
  {
+  "datum": "2026-10-11",
+  "thema": "Demokratie",
+  "titel": "Selbstauskunft ist keine Kontrolle: Was der Fall Christ über Beratergremien zeigt",
+  "teaser": "Mindestens 15 neue Aufträge seit Amtsantritt, laut Spiegel. Eine Kolumne darüber, warum bei 500 Milliarden Euro Versicherungen nicht reichen.",
+  "audio": null,
+  "dauer": null,
+  "kurz": [
+   {
+    "k": "Was passiert ist",
+    "t": "Laut Spiegel hat die Gruppe von Klingbeils Berater Harald Christ seit September 2025 mindestens 15 neue Aufträge erhalten, auch aus der Digital- und Rüstungsbranche. Er leitet den Beirat zum 500-Milliarden-Sondervermögen. Sein Anwalt weist die Vorwürfe zurück, es gilt die Unschuldsvermutung. Den Spiegel-Artikel selbst haben wir nicht gelesen."
+   },
+   {
+    "k": "Unsere Meinung",
+    "t": "Selbstauskunft ist keine Kontrolle. Wer Staatsmilliarden mitgestaltet, darf nicht nebenbei für Kunden lobbyieren, die davon profitieren können. Es geht um die Regel und nicht um die Person."
+   },
+   {
+    "k": "Was folgen sollte",
+    "t": "Öffentliche Interessenerklärungen vor der Berufung, keine Lobbymandate bei Gremienvorsitz, unabhängige Prüfung, Offenlegung der Lobbytreffen."
+   }
+  ],
+  "abschnitte": [
+   {
+    "id": "worum",
+    "titel": "Worum es geht",
+    "typ": "fakten",
+    "offen": true,
+    "text": [
+     "Laut Spiegel, wie t-online und Tagesspiegel (dpa) am 8.10.2026 berichten, hat die Unternehmensgruppe von Harald Christ seit seiner Berufung im September 2025 mindestens 15 neue Aufträge erhalten. Darunter sind Firmen aus der Digital- und Rüstungsindustrie, die auch öffentliche Aufträge bekommen. Christ berät Finanzminister Klingbeil und leitet den Investitions- und Innovationsbeirat zum 500-Milliarden-Sondervermögen. Seine Holding betreibt laut Spiegel drei Lobbyagenturen, im Lobbyregister standen zuletzt über 40 Aufträge.",
+     "Laut Spiegel hielt Christ bis vor Kurzem bis zu zwei Prozent an Aleph Alpha, und eine seiner Agenturen arbeitet für das Unternehmen. Aleph Alpha und die Bundesagentur für Arbeit entwickelten die KI Bakira, dafür wurden 2,15 Millionen Euro aus dem Sondervermögen bewilligt. Die Bundesagentur sagt, das Geld gehe an externe Unterstützer. Aleph Alpha sagt, es habe mit Christ nicht über Bakira gesprochen.",
+     "Das Ministerium erklärt, Beiratsmitglieder seien nicht an Entscheidungen über Gesetze, Vergaben oder Förderungen beteiligt. Christs Anwalt weist die Vorwürfe aufs Schärfste zurück. Christ selbst hat sich öffentlich nicht geäußert."
+    ]
+   },
+   {
+    "id": "unbekannt",
+    "titel": "Was wir nicht wissen",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "Wir haben den Spiegel-Artikel nicht gelesen, er ist kostenpflichtig. Wir stützen uns auf t-online und Tagesspiegel (dpa), die ihn zusammenfassen. Was dort fehlt, fehlt auch hier.",
+     "Nicht bekannt sind die Namen der Agenturen und Kunden, die Auftragswerte und der Zeitpunkt, zu dem die Aleph-Alpha-Anteile verkauft wurden. Wir fanden keinen Hinweis, dass der Beirat Entscheidungen beeinflusst hat, und kein Verfahren gegen Christ. Eine Aussage von Klingbeil fanden wir bis zum 8.10. nicht. Es gilt die Unschuldsvermutung."
+    ]
+   },
+   {
+    "id": "problem",
+    "titel": "Das eigentliche Problem",
+    "typ": "fakten",
+    "offen": false,
+    "text": [
+     "Vor der Berufung hieß es intern im Ministerium, Mitglieder sollten „möglichst keine Eigeninteressen verfolgen“. Heute sagt das Ministerium, alle Mitglieder hätten versichert, dass keine Interessenkonflikte bestehen. Zu Christs geschäftlichen Tätigkeiten lägen ihm keine Informationen vor.",
+     "Das Bundesministergesetz regelt Gewerbe und Aufsichtsräte für Regierungsmitglieder. Eigene gesetzliche Pflichten für Beiräte fanden wir nicht. Die Bundesregierung nannte im August 2025 auf eine Anfrage der Grünen eine Offenlegungspflicht für finanzielle Interessen ohne Anlass „weder zielführend noch erforderlich“. Laut LobbyControl forderte die Antikorruptionsgruppe des Europarats, GRECO, schon 2020 regelmäßige öffentliche Erklärungen von Spitzenbeamten, Deutschland hat das nicht umgesetzt. Das Bußgeld im Lobbyregister liegt bei höchstens 50.000 Euro, LobbyControl hält das für zu niedrig."
+    ]
+   },
+   {
+    "id": "meinung",
+    "titel": "Unsere Meinung",
+    "typ": "meinung",
+    "offen": true,
+    "text": [
+     "Selbstauskunft ist keine Kontrolle. Wenn ein Ministerium vor Eigeninteressen warnt und danach nichts über die Geschäfte seines Beiratschefs weiß, hat es gewarnt, aber nicht geprüft. Bei 500 Milliarden Euro ist das zu wenig.",
+     "Es kommt nicht darauf an, ob Christ etwas falsch gemacht hat. Das wissen wir nicht. Es kommt darauf an, dass die Konstruktion den Verdacht erzeugt: Der Vorsitzende eines Gremiums, das zur Verteilung von Staatsgeld berät, führt zugleich Lobbyagenturen mit Kunden aus Branchen, die öffentliche Aufträge bekommen. Das ist ein Interessenkonflikt im Anschein. Und der Anschein ist das Problem, weil Vertrauen in staatliche Verfahren davon lebt, dass niemand fragen muss.",
+     "Das wiegt schwerer, weil es ein Beirat ist. Beratung hat keine Entscheidungsgewalt, aber sie prägt Prioritäten, ohne dass jemand haftet. Dort entsteht Einfluss ohne Spuren.",
+     "Wir sagen es klar: So geht es nicht. Wer Staatsmilliarden mitgestaltet, darf nicht nebenbei für Kunden lobbyieren, die davon profitieren können.",
+     "Die Gegenseite hat ein Argument: Beiräte brauchen Praktiker, und Wissen aus der Wirtschaft ist nützlich. Das stimmt. Nutzen und Unabhängigkeit schließen sich aber nicht aus, wenn offen ist, für wen jemand arbeitet. Und der Maßstab gilt für alle: Auch bei anderen Mitgliedern, etwa mit Aufsichtsratsposten, ist die Frage zu stellen. Hinweise auf Konflikte haben wir dort nicht."
+    ]
+   },
+   {
+    "id": "folgen",
+    "titel": "Was folgen sollte",
+    "typ": "folgen",
+    "offen": false,
+    "text": [
+     "1. Eine öffentliche Interessenerklärung vor der Berufung, auch für Beiratsmitglieder: Beteiligungen, Aufsichtsräte, Kunden, Lobbymandate. LobbyControl fordert das für Minister, Staatssekretäre und Abteilungsleiter. Für Beiräte fanden wir keine eigene Forderung, wir übertragen sie.",
+     "2. Keine parallelen Lobbymandate bei Vorsitz oder Leitung eines Gremiums, das zu Staatsgeld berät.",
+     "3. Prüfung statt Versicherung, durch eine unabhängige Stelle. LobbyControl schlägt eine Behörde nach französischem Vorbild vor.",
+     "4. Eine öffentliche Mitgliederliste mit Interessen und die Veröffentlichung der Lobbytreffen der Hausspitze.",
+     "5. Höhere Bußgelder und Sanktionen bei Verstößen.",
+     "6. Das Ministerium legt offen, was es vor der Berufung geprüft hat, und Klingbeil äußert sich zu dem Fall."
+    ]
+   }
+  ],
+  "schluss": "Es geht nicht darum, wer Christ ist. Es geht darum, ob wir bei 500 Milliarden Euro auf Vertrauen setzen oder auf Prüfung. Ein Staat, der nur Versicherungen sammelt, kontrolliert nichts.",
+  "text": [
+   "Laut Spiegel, wie t-online und Tagesspiegel (dpa) am 8.10.2026 berichten, hat die Unternehmensgruppe von Harald Christ seit seiner Berufung im September 2025 mindestens 15 neue Aufträge erhalten. Darunter sind Firmen aus der Digital- und Rüstungsindustrie, die auch öffentliche Aufträge bekommen. Christ berät Finanzminister Klingbeil und leitet den Investitions- und Innovationsbeirat zum 500-Milliarden-Sondervermögen. Seine Holding betreibt laut Spiegel drei Lobbyagenturen, im Lobbyregister standen zuletzt über 40 Aufträge.",
+   "Laut Spiegel hielt Christ bis vor Kurzem bis zu zwei Prozent an Aleph Alpha, und eine seiner Agenturen arbeitet für das Unternehmen. Aleph Alpha und die Bundesagentur für Arbeit entwickelten die KI Bakira, dafür wurden 2,15 Millionen Euro aus dem Sondervermögen bewilligt. Die Bundesagentur sagt, das Geld gehe an externe Unterstützer. Aleph Alpha sagt, es habe mit Christ nicht über Bakira gesprochen.",
+   "Das Ministerium erklärt, Beiratsmitglieder seien nicht an Entscheidungen über Gesetze, Vergaben oder Förderungen beteiligt. Christs Anwalt weist die Vorwürfe aufs Schärfste zurück. Christ selbst hat sich öffentlich nicht geäußert.",
+   "Wir haben den Spiegel-Artikel nicht gelesen, er ist kostenpflichtig. Wir stützen uns auf t-online und Tagesspiegel (dpa), die ihn zusammenfassen. Was dort fehlt, fehlt auch hier.",
+   "Nicht bekannt sind die Namen der Agenturen und Kunden, die Auftragswerte und der Zeitpunkt, zu dem die Aleph-Alpha-Anteile verkauft wurden. Wir fanden keinen Hinweis, dass der Beirat Entscheidungen beeinflusst hat, und kein Verfahren gegen Christ. Eine Aussage von Klingbeil fanden wir bis zum 8.10. nicht. Es gilt die Unschuldsvermutung.",
+   "Vor der Berufung hieß es intern im Ministerium, Mitglieder sollten „möglichst keine Eigeninteressen verfolgen“. Heute sagt das Ministerium, alle Mitglieder hätten versichert, dass keine Interessenkonflikte bestehen. Zu Christs geschäftlichen Tätigkeiten lägen ihm keine Informationen vor.",
+   "Das Bundesministergesetz regelt Gewerbe und Aufsichtsräte für Regierungsmitglieder. Eigene gesetzliche Pflichten für Beiräte fanden wir nicht. Die Bundesregierung nannte im August 2025 auf eine Anfrage der Grünen eine Offenlegungspflicht für finanzielle Interessen ohne Anlass „weder zielführend noch erforderlich“. Laut LobbyControl forderte die Antikorruptionsgruppe des Europarats, GRECO, schon 2020 regelmäßige öffentliche Erklärungen von Spitzenbeamten, Deutschland hat das nicht umgesetzt. Das Bußgeld im Lobbyregister liegt bei höchstens 50.000 Euro, LobbyControl hält das für zu niedrig.",
+   "Selbstauskunft ist keine Kontrolle. Wenn ein Ministerium vor Eigeninteressen warnt und danach nichts über die Geschäfte seines Beiratschefs weiß, hat es gewarnt, aber nicht geprüft. Bei 500 Milliarden Euro ist das zu wenig.",
+   "Es kommt nicht darauf an, ob Christ etwas falsch gemacht hat. Das wissen wir nicht. Es kommt darauf an, dass die Konstruktion den Verdacht erzeugt: Der Vorsitzende eines Gremiums, das zur Verteilung von Staatsgeld berät, führt zugleich Lobbyagenturen mit Kunden aus Branchen, die öffentliche Aufträge bekommen. Das ist ein Interessenkonflikt im Anschein. Und der Anschein ist das Problem, weil Vertrauen in staatliche Verfahren davon lebt, dass niemand fragen muss.",
+   "Das wiegt schwerer, weil es ein Beirat ist. Beratung hat keine Entscheidungsgewalt, aber sie prägt Prioritäten, ohne dass jemand haftet. Dort entsteht Einfluss ohne Spuren.",
+   "Wir sagen es klar: So geht es nicht. Wer Staatsmilliarden mitgestaltet, darf nicht nebenbei für Kunden lobbyieren, die davon profitieren können.",
+   "Die Gegenseite hat ein Argument: Beiräte brauchen Praktiker, und Wissen aus der Wirtschaft ist nützlich. Das stimmt. Nutzen und Unabhängigkeit schließen sich aber nicht aus, wenn offen ist, für wen jemand arbeitet. Und der Maßstab gilt für alle: Auch bei anderen Mitgliedern, etwa mit Aufsichtsratsposten, ist die Frage zu stellen. Hinweise auf Konflikte haben wir dort nicht.",
+   "1. Eine öffentliche Interessenerklärung vor der Berufung, auch für Beiratsmitglieder: Beteiligungen, Aufsichtsräte, Kunden, Lobbymandate. LobbyControl fordert das für Minister, Staatssekretäre und Abteilungsleiter. Für Beiräte fanden wir keine eigene Forderung, wir übertragen sie.",
+   "2. Keine parallelen Lobbymandate bei Vorsitz oder Leitung eines Gremiums, das zu Staatsgeld berät.",
+   "3. Prüfung statt Versicherung, durch eine unabhängige Stelle. LobbyControl schlägt eine Behörde nach französischem Vorbild vor.",
+   "4. Eine öffentliche Mitgliederliste mit Interessen und die Veröffentlichung der Lobbytreffen der Hausspitze.",
+   "5. Höhere Bußgelder und Sanktionen bei Verstößen.",
+   "6. Das Ministerium legt offen, was es vor der Berufung geprüft hat, und Klingbeil äußert sich zu dem Fall."
+  ],
+  "quellen": [
+   {
+    "titel": "t-online: Klingbeil-Berater Harald Christ, Vorwürfe wegen Interessenkonflikten (nach Spiegel), 8.10.2026",
+    "url": "https://www.t-online.de/nachrichten/deutschland/id_101472890/klingbeil-berater-harald-christ-vorwuerfe-wegen-interessenkonflikten.html"
+   },
+   {
+    "titel": "Tagesspiegel (dpa): Kritik an Klingbeils Beiratschef Harald Christ, 8.10.2026",
+    "url": "https://www.tagesspiegel.de/politik/dpa-kritik-an-klingbeils-beiratschef-harald-christ-16142184.html"
+   },
+   {
+    "titel": "Handelsblatt: Investitionsbeirat, wer Klingbeil berät, 1.9.2025",
+    "url": "https://www.handelsblatt.com/politik/deutschland/investitionsbeirat-wer-klingbeil-bei-seiner-investitionsoffensive-beraet/100151940.html"
+   },
+   {
+    "titel": "Bundestag: Drucksache 21/1136, Antwort der Bundesregierung zu Interessenkonflikten, 4.8.2025",
+    "url": "https://dserver.bundestag.de/btd/21/011/2101136.pdf"
+   },
+   {
+    "titel": "LobbyControl: Bundesregierung will Interessenkonflikte im Dunkeln lassen, 7.8.2025",
+    "url": "https://www.lobbycontrol.de/pressemitteilung/bundesregierung-will-interessenkonflikte-im-dunkeln-lassen-122096/"
+   },
+   {
+    "titel": "LobbyControl: Eckpunkte für Transparenz, Integrität und Compliance in den Bundesministerien, Mai 2023",
+    "url": "https://www.lobbycontrol.de/wp-content/uploads/Eckpunkte-Interessenkonflikte-Bundesregierung-Stand-220523.pdf"
+   },
+   {
+    "titel": "LobbyControl: Forderungen für die 21. Wahlperiode, Dezember 2024",
+    "url": "https://www.lobbycontrol.de/wp-content/uploads/Forderungen-LobbyControl-BTW-2025_final.pdf"
+   },
+   {
+    "titel": "Bundestag: Lobbyregister, häufig gestellte Fragen",
+    "url": "https://www.bundestag.de/parlament/lobbyregister/haeufig-gestellte-fragen-faq--863572"
+   }
+  ],
+  "bild": {
+   "src": "kolumne-christ.jpg",
+   "w": 1050,
+   "h": 700,
+   "alt": "KI-generierte Bleistift-Illustration eines Mannes mit Brille im Nadelstreifen-Sakko",
+   "unter": "Illustration, KI-generiert, kein Foto."
+  }
+ },
+ {
   "datum": "2026-10-10",
   "thema": "Völkerrecht",
   "titel": "Wörter sind Politik: Warum „Judäa und Samaria“ in einer Rechtsdebatte auffällt",
