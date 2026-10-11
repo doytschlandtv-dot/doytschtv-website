@@ -360,3 +360,31 @@ a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
 .hl:hover strong { text-decoration: underline; }
 .static { margin-top: 2rem; }
 .js .static { display: none; }
+
+/* Startseite kompakt: weniger Scrollen */
+.hero { padding-block: clamp(1.5rem, 5vw, 3.5rem) 0; }
+.hero h1 { font-size: clamp(2.4rem, 8vw, 4.6rem); }
+.hero .sub { margin-top: 0.9rem; }
+.hero .actions { margin-top: 1.25rem; }
+#heute { padding-block: clamp(1.75rem, 4vw, 3rem) 0; }
+#heute .head { margin-bottom: 1.25rem; }
+#heute .head h2 { font-size: clamp(1.6rem, 4.5vw, 2.4rem); }
+#heute .head h2::after { margin-top: 0.8rem; }
+#heute .head p { margin-top: 0.6rem; font-size: 0.95rem; }
+.hl { padding: 0.95rem 1.25rem; }
+.hl strong { font-size: 1.05rem; }
+#methode { padding-block: clamp(2rem, 5vw, 3.5rem) 0; }
+.pil { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; max-width: 52rem; margin: 0 auto; }
+.pil div { border-top: 2px solid var(--accent); padding-top: 0.75rem; }
+.pil h3 { margin: 0 0 0.25rem; font-size: 1.1rem; font-weight: 700; }
+.pil p { margin: 0; color: var(--muted); font-size: 0.95rem; line-height: 1.45; }
+.pil-links { display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin: 1.5rem 0 0; }
+#folgen { padding-block: clamp(2rem, 5vw, 3.5rem) clamp(2.5rem, 6vw, 4rem); }
+#folgen .head h2 { font-size: clamp(1.6rem, 4.5vw, 2.4rem); }
+#folgen .head p { font-size: 1rem; }
+#folgen .chan { margin-top: 1.25rem; }
+#folgen .chan a { padding: 1.1rem 1.5rem; }
+@media (max-width: 600px) { .pil { grid-template-columns: minmax(0, 1fr); gap: 0.75rem; } .pil div { display: flex; gap: 0.6rem; align-items: baseline; } .pil h3 { flex: none; } }
+#folgen { padding-block-start: clamp(2.5rem, 6vw, 4rem); }
+#folgen .chan a { padding: 0.9rem 1.25rem; }
+#folgen .chan strong { font-size: 1.2rem; }
