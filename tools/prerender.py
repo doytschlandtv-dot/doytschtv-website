@@ -70,11 +70,19 @@ def dossiers():
     return "".join(o)
 def heute():
     d = B[0]; it = []
-    for k in d.get("karussells") or []: it.append(("Nachrichten", k["thema"], "nachrichten.html"))
-    if d.get("morgen"): it.append(("Morning Briefing" + (" · " + d["morgen"]["dauer"] if d["morgen"].get("dauer") else ""), (lambda t: t[0] + (f" und {len(t)-1} weitere Themen" if len(t) > 1 else "") if t else "")(d["morgen"].get("themen") or []), "briefing.html#" + d["datum"]))
-    if K: it.append(("Kolumne · " + K[0]["thema"], K[0]["titel"], "meinungen.html#" + K[0]["datum"]))
-    if E: it.append(("Erklärt", E[-1]["titel"], "erklaert.html#" + E[-1]["id"]))
-    return "".join(f'<a class="hl" href="{e(h)}"><span class="k">{e(k)}</span><strong>{e(t)}</strong></a>' for k, t, h in it), d["datum"]
+    for k in d.get("karussells") or []:
+        bi = (k["slides"][0].get("bild") or {}) if k.get("slides") else {}
+        it.append(("Nachrichten", k["thema"], "nachrichten.html", bi.get("url"), bi.get("fokus"), bi.get("unter")))
+    if d.get("morgen"):
+        t = d["morgen"].get("themen") or []
+        it.append(("Morning Briefing" + (" · " + d["morgen"]["dauer"] if d["morgen"].get("dauer") else ""), (t[0] + (f" und {len(t)-1} weitere Themen" if len(t) > 1 else "")) if t else "Heute im Überblick", "briefing.html#" + d["datum"], None, None, None))
+    if K: it.append(("Kolumne · " + K[0]["thema"], K[0]["titel"], "meinungen.html#" + K[0]["datum"], (K[0].get("bild") or {}).get("src"), None, (K[0].get("bild") or {}).get("unter")))
+    if E: it.append(("Erklärt", E[-1]["titel"], "erklaert.html#" + E[-1]["id"], None, None, None))
+    def card(k, t, h, img, y, u):
+        im = f'<img src="{e(img)}" alt="" loading="lazy"' + (f' style="object-position:50% {round(y*100)}%"' if isinstance(y, (int, float)) else "") + ">" if img else ""
+        return f'<a class="hc{" has-img" if img else ""}" href="{e(h)}">{im}<span class="hc-t"><span class="k">{e(k)}</span><strong>{e(t)}</strong>' + (f"<small>{e(u)}</small>" if u else "") + "</span></a>"
+    tick = '<span class="tk-g">' + "".join(f'<a href="{e(h)}">{e(t)}</a>' for k, t, h, *_ in it) + "</span>"
+    return "".join(card(*x) for x in it), tick, d["datum"]
 
 JS = '<script>document.documentElement.className+=" js"</script>'
 def put(slug, fn):
@@ -86,7 +94,8 @@ def put(slug, fn):
     h = h.replace("</main>", blk + "</main>", 1)
     p.write_text(h, encoding="utf-8"); print("ok", slug)
 for slug, fn in (("nachrichten", nachrichten), ("briefing", briefing), ("meinungen", meinungen), ("erklaert", erklaert), ("dossiers", dossiers)): put(slug, fn)
-p = ROOT/"index.html"; h = p.read_text(encoding="utf-8"); rows, iso = heute()
+p = ROOT/"index.html"; h = p.read_text(encoding="utf-8"); rows, tick, iso = heute()
+h = re.sub(r"<!--tk-->.*?<!--/tk-->", lambda m: f"<!--tk-->{tick}<!--/tk-->", h, flags=re.S)
 h = re.sub(r"<!--heute-->.*?<!--/heute-->", lambda m: f"<!--heute-->{rows}<!--/heute-->", h, flags=re.S)
 h = re.sub(r'(<p id="heute-datum">).*?(</p>)', lambda m: m.group(1) + e(datum(iso)) + m.group(2), h, flags=re.S)
 p.write_text(h, encoding="utf-8"); print("ok index")
