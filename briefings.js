@@ -372,6 +372,89 @@ window.BRIEFINGS = [
     ],
     "caption": "Laut Spiegel hat die Unternehmensgruppe von Harald Christ, Berater von Finanzminister Klingbeil und Chef des Investitions- und Innovationsbeirats, seit September 2025 mindestens 15 neue Aufträge erhalten, auch aus der Digital- und Rüstungsbranche. Eine seiner Lobbyagenturen arbeitet für das KI-Unternehmen Aleph Alpha, an dem er laut Handelsregister bis zu 2 Prozent hielt. Das Ministerium sagt, der Beirat sei nicht an Entscheidungen über Gesetze, Vergaben oder Förderungen beteiligt. Christs Anwalt weist die Vorwürfe zurück, es gilt die Unschuldsvermutung. Das Ministerium hatte intern vor Interessenkonflikten gewarnt, wusste aber laut t-online nichts über Christs Geschäfte. Unsere Meinung ist gekennzeichnet. Quellen und Begriffserklärung (Lobbyregister, Beirat, Interessenkonflikt) in der Rubrik Erklärt auf unserer Website, Link in der Bio. Wir fordern: Offenlegen, wer die Regierung berät und für wen er sonst arbeitet. Warum berät ausgerechnet ein Lobbyist über Staatsmilliarden?",
     "hashtags": "#doytschlandtv #aktuell #klingbeil #haraldchrist #lobbyismus #sondervermoegen #transparenz #rechtsstaat #einordnung #nachrichten"
+   },
+   {
+    "zusatz": true,
+    "thema": "Angriff auf Flughafen in Riad: 12 Tote, 309 Verletzte",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Saudi-Arabien · Jemen-Krieg",
+      "titel": "Angriff auf Flughafen in Riad: 12 Tote, 309 Verletzte",
+      "rot": "12 Tote, 309 Verletzte"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was gemeldet wird",
+      "titel": "12 Tote, 309 Verletzte am Flughafen.",
+      "text": "Bei einem Angriff auf den Passagierterminal des King-Khalid-Flughafens in Riad starben laut der saudischen Luftfahrtbehörde 12 Menschen, 309 wurden verletzt. Es ist die bislang höchste Opferzahl seit Beginn des Iran-Kriegs Ende Februar.",
+      "quelle": "AWP/cash.ch, ZDFheute, 11.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer sagt was",
+      "titel": "Opfer, Schuldzuweisung, Reaktionen",
+      "punkte": [
+       {
+        "kopf": "Die Toten",
+        "text": "Vier Saudis, zwei Bangladescher, sieben weitere Nationen."
+       },
+       {
+        "kopf": "Die Koalition",
+        "text": "Das Bündnis macht die Huthi verantwortlich, spricht von „Kriegsverbrechen“."
+       },
+       {
+        "kopf": "Bekennung",
+        "text": "Eine Bekennung der Huthi meldet AWP nicht."
+       },
+       {
+        "kopf": "Reaktionen",
+        "text": "Guterres „zutiefst schockiert“, Rubio verurteilt den Angriff."
+       }
+      ],
+      "quelle": "AWP/cash.ch, ZDFheute, 11.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Vorgeschichte",
+      "titel": "Es ist nicht der erste Angriff.",
+      "text": "Schon Anfang der Woche gab es Angriffe auf Riad und Abha mit 3 Toten und 36 Verletzten. Eine Saudia-Maschine soll getroffen worden sein, offiziell bestätigt ist das nicht. Der Bürgerkrieg im Jemen ist seit dem Sommer wieder aufgeflammt, mehr als 200.000 Menschen sind laut UN seit Juli vertrieben.",
+      "quelle": "ORF, t-online, 8.10.2026; aerotelegraph; Euronews, 9.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Die Koalition",
+      "behauptung": "Sie meldet Angriffe auf 82 militärische Ziele der Huthi und nennt den Angriff auf den Flughafen ein Kriegsverbrechen.",
+      "labelB": "Die Huthi",
+      "fakt": "Sie werfen Saudi-Arabien Luftangriffe auf den Flughafen von Hodeida vor. Das ist unbestätigt.",
+      "quelle": "ORF, 8.10.2026; AWP/cash.ch, 11.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was wir nicht wissen",
+      "titel": "Offen bleibt",
+      "text": "Wer den Angriff ausführte und womit, ist nicht unabhängig belegt. Der genaue Zeitpunkt ist uns unklar, die Meldungen sprechen vom Wochenende. Wir fanden keine unabhängige Untersuchung. Bis dahin gilt: Das sind Angaben einer Konfliktpartei.",
+      "quelle": "AWP/cash.ch, ZDFheute, 11.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Völkerrecht",
+      "titel": "Zivilisten sind geschützt",
+      "text": "Das humanitäre Völkerrecht verbietet gezielte Angriffe auf Zivilpersonen und zivile Objekte. Das gilt für alle Parteien gleich, auch für die Koalition. Ob ein Kriegsverbrechen vorliegt, klären unabhängige Untersuchungen, nicht Pressesprecher.",
+      "quelle": "Genfer Konventionen, Zusatzprotokoll I"
+     },
+     {
+      "typ": "meinung",
+      "text": "Ein Passagierterminal ist kein Schlachtfeld. Wer dort Menschen trifft, trifft Zivilisten, egal von wem die Rakete kommt. Wir wollen eine unabhängige Untersuchung und gleiche Maßstäbe für alle Seiten.",
+      "handlung": "Prüfe Meldungen zu diesem Krieg auf Quelle und Seite."
+     },
+     {
+      "typ": "cta",
+      "frage": "Messen wir alle Konfliktparteien mit demselben Maßstab?"
+     }
+    ],
+    "caption": "Bei einem Angriff auf den Passagierterminal des King-Khalid-Flughafens in Riad starben laut der saudischen Luftfahrtbehörde 12 Menschen, 309 wurden verletzt. Das saudisch geführte Bündnis macht die Huthi verantwortlich und spricht von einem Kriegsverbrechen. Eine Bekennung der Huthi meldet AWP nicht, eine unabhängige Untersuchung fanden wir nicht. Schon zuvor gab es Angriffe auf Riad und Abha. Das humanitäre Völkerrecht schützt Zivilisten, für alle Parteien gleich. Unsere Meinung ist gekennzeichnet. Quellen: AWP/cash.ch, ZDFheute, ORF, t-online, Euronews. Messen wir alle Konfliktparteien mit demselben Maßstab?",
+    "hashtags": "#doytschlandtv #aktuell #riad #saudiarabien #jemen #huthi #voelkerrecht #zivilisten #einordnung #nachrichten"
    }
   ],
   "storys": [
@@ -436,6 +519,17 @@ window.BRIEFINGS = [
      "fokus": 0.3,
      "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
     }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Saudi-Arabien · Jemen-Krieg",
+    "titel": "Angriff auf Flughafen in Riad: 12 Tote, 309 Verletzte",
+    "rot": "12 Tote, 309 Verletzte",
+    "text": "Laut saudischer Luftfahrtbehörde starben 12 Menschen am Passagierterminal. Die Koalition macht die Huthi verantwortlich, eine Bekennung gibt es laut AWP nicht. Unabhängig belegt ist noch wenig.",
+    "quelle": "AWP/cash.ch, ZDFheute, 11.10.2026",
+    "theme": "dark"
    }
   ]
  },
