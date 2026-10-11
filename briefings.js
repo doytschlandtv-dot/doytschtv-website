@@ -75,8 +75,314 @@ window.BRIEFINGS = [
    ]
   },
   "abend": null,
-  "karussells": [],
-  "storys": []
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Trump holt russischen Diesel ins Land: Was der Deal bedeutet",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "USA · Russland",
+      "titel": "Trump holt russischen Diesel ins Land: Was der Deal bedeutet",
+      "rot": "russischen Diesel"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Deal",
+      "titel": "300.000 Tonnen russischer Diesel, sofort.",
+      "text": "Nach einem Telefonat mit Putin verkündete Trump: Mehr als 300.000 Tonnen russischer Diesel sollen umgehend für die USA und den Weltmarkt verfügbar sein. Der Kreml bestätigte das. Angekündigt sind außerdem 500.000 Tonnen im November und eine Million danach.",
+      "quelle": "ZDFheute, 10.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Lizenz gilt bis",
+      "zahl": "7.4.2027",
+      "text": "Das US-Finanzministerium erlaubt per befristeter Lizenz Verkauf, Lieferung, Entladung und Import russischen Diesels. Laut ZDF ist das eine vorübergehende Lockerung der Russland-Sanktionen.",
+      "quelle": "ZDFheute, 10.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Trumps Begründung",
+      "behauptung": "Selenskyj sei mit seinen Angriffen auf russische Energieanlagen für den Dieselmangel verantwortlich.",
+      "labelB": "Der Hintergrund",
+      "fakt": "Laut ZDF stiegen die Preise nach Beginn des Iran-Kriegs im Februar. Trump steht vor den Zwischenwahlen am 3.11. wegen hoher Spritpreise unter Druck.",
+      "quelle": "ZDFheute, 10. und 11.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Deutschland",
+      "titel": "Was der Deal hier ändert",
+      "punkte": [
+       {
+        "kopf": "Sanktionen",
+        "text": "Die Bundesregierung bleibt dabei und arbeitet mit EU-Partnern an weiteren."
+       },
+       {
+        "kopf": "Versorgung",
+        "text": "Laut Wirtschaftsministerium diversifiziert und unabhängig von russischem Öl."
+       },
+       {
+        "kopf": "Importverbot",
+        "text": "Das EU-Einfuhrverbot für russischen Diesel gilt seit 5.2.2023 weiter."
+       },
+       {
+        "kopf": "Spritpreise",
+        "text": "Der Verband Fuels und Energie erwartet bei diesen Mengen keinen nennenswerten Effekt."
+       }
+      ],
+      "quelle": "ZDFheute, 10.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Kiews Sicht",
+      "titel": "„Investition in den Krieg“",
+      "text": "So nannte Selenskyj die Erlaubnis und erwartet weitere russische Angriffe. Trump sagte danach, es sei Zeit für einen neuen Präsidenten der Ukraine. Was daran belegt ist, zeigt das nächste Karussell.",
+      "quelle": "ZDFheute, 10. und 11.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Sanktionen sind nur glaubwürdig, wenn sie nicht nach Preislage gelten. Wer Russland wirtschaftlich unter Druck setzen will, kann nicht zugleich dessen Diesel einkaufen. Das nennen wir Doppelmoral und keine Strategie.",
+      "handlung": "Frage bei Sanktionen immer: Wer profitiert, wer zahlt, wie lange gilt es?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Was sind Sanktionen wert, wenn sie verhandelbar sind?"
+     }
+    ],
+    "caption": "Nach einem Telefonat mit Putin kündigte Trump an, dass mehr als 300.000 Tonnen russischer Diesel sofort für die USA und den Weltmarkt verfügbar sein sollen, weitere Mengen sollen folgen. Das US-Finanzministerium erlaubt den Handel per befristeter Lizenz bis 7.4.2027. Die Bundesregierung bleibt bei ihren Sanktionen, das EU-Importverbot für russischen Diesel gilt weiter. Trump macht Selenskyj für den Dieselmangel verantwortlich, das ist seine Behauptung. Laut ZDF stiegen die Preise nach Beginn des Iran-Kriegs. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Was sind Sanktionen wert, wenn sie verhandelbar sind?",
+    "hashtags": "#doytschlandtv #aktuell #usa #russland #ukraine #sanktionen #diesel #trump #einordnung #nachrichten"
+   },
+   {
+    "zusatz": true,
+    "thema": "Trump fordert einen neuen Präsidenten für die Ukraine: Was ist an den Vorwürfen gegen Selenskyj dran?",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Ukraine",
+      "titel": "Trump fordert einen neuen Präsidenten für die Ukraine: Was ist an den Vorwürfen gegen Selenskyj dran?",
+      "rot": "neuen Präsidenten"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was Trump sagte",
+      "titel": "„Zeit für einen neuen Präsidenten“",
+      "text": "Trump sagte in Washington, es sei an der Zeit, dass die Ukraine einen neuen Präsidenten bekommt. Er habe Chancen gehabt, den Krieg zu beenden, und sie nicht genutzt. Der Nachfolger solle einen Deal unterschreiben können. Außenminister Sybiha wies das zurück: Die Ukrainer entscheiden selbst.",
+      "quelle": "ZDFheute, 11.10.2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Warum es keine Wahl gibt",
+      "titel": "Kriegsrecht setzt Wahlen aus.",
+      "text": "Seit dem 24.2.2022 gilt in der Ukraine das Kriegsrecht, vom Parlament verhängt und mehrfach verlängert. Es setzt reguläre Wahlen aus. Selenskyjs Amtszeit wäre im Mai 2024 regulär ausgelaufen. Auch die Opposition um Poroschenko und Timoschenko lehnte 2025 Wahlen im Krieg ab.",
+      "quelle": "Mimikama (dpa); ZDFheute, 6.3.2025"
+     },
+     {
+      "typ": "fakten",
+      "label": "Selenskyjs Angebot",
+      "titel": "„Ich bin bereit für Wahlen.“",
+      "text": "Das sagte Selenskyj am 9.12.2025. Dafür müsse das Parlament die Gesetze ändern, und USA und Europa müssten die Sicherheit garantieren. Er nannte 60 bis 90 Tage Vorlauf, auch bei laufendem Krieg.",
+      "quelle": "ZDFheute, 9.12.2025"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Kurz erklärt",
+      "titel": "Die Begriffe hinter der Kritik",
+      "punkte": [
+       {
+        "kopf": "NABU und SAPO",
+        "text": "Ukrainische Antikorruptions-Ermittler, 2015 nach pro-westlichen Reformen gegründet."
+       },
+       {
+        "kopf": "Energoatom",
+        "text": "Staatlicher Atomkonzern, Jahresumsatz laut NABU über 4 Milliarden Euro."
+       },
+       {
+        "kopf": "Operation Midas",
+        "text": "Ermittlung zu Schmiergeld von 10 bis 15 Prozent bei Aufträgen für Schutzbauten. Laut NABU rund 100 Millionen Dollar gewaschen."
+       },
+       {
+        "kopf": "Timur Mindich",
+        "text": "Laut NABU mutmaßlicher Drahtzieher, früher Geschäftspartner Selenskyjs. Er bestreitet das."
+       }
+      ],
+      "quelle": "Euronews, 15.11.2025; Berliner Zeitung"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was belegt ist",
+      "titel": "Die Kritik an Selenskyj",
+      "punkte": [
+       {
+        "kopf": "Juli 2025",
+        "text": "Ein Gesetz schwächte NABU und SAPO. Nach Massenprotesten wurde ihre Unabhängigkeit wiederhergestellt."
+       },
+       {
+        "kopf": "Midas",
+        "text": "Selenskyj: Wer Schemata schuf, müsse eine klare Antwort bekommen. Er sanktionierte Mindich per Dekret."
+       },
+       {
+        "kopf": "Jermak",
+        "text": "Stabschef trat im November 2025 zurück. Im Mai 2026 ermittelte NABU wegen Geldwäsche. Er bestreitet das."
+       },
+       {
+        "kopf": "Poroschenko",
+        "text": "Sanktionen per Dekret gegen den Oppositionsführer. Das Gericht wies seine Klage ab, zwei von fünf Richtern widersprachen."
+       }
+      ],
+      "quelle": "Euronews; Berliner Zeitung; Euromaidan Press, 14.7.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Selenskyj darf und muss dort kritisiert werden, wo es belegt ist: beim Gesetz gegen die Antikorruptionsbehörden und bei den Sanktionen gegen Oppositionelle. Wer in der Ukraine regiert, entscheiden aber die Ukrainer in freien Wahlen, nicht ein Präsident in Washington.",
+      "handlung": "Trenne Kritik an Politik von Forderungen nach Machtwechsel von außen."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wer darf entscheiden, wer die Ukraine regiert?"
+     }
+    ],
+    "caption": "Trump sagte in Washington, es sei Zeit für einen neuen Präsidenten der Ukraine. Wir haben geprüft, was belegt ist: Das Kriegsrecht setzt Wahlen seit 2022 aus, auch die Opposition lehnte Wahlen im Krieg ab. Selenskyj erklärte im Dezember 2025, er sei bereit, wenn die Sicherheit garantiert ist. Belegt sind auch Kritikpunkte: das Gesetz gegen die Antikorruptionsbehörden im Juli 2025 (später zurückgenommen), der Korruptionsfall Midas um den Atomkonzern Energoatom, die Ermittlungen gegen seinen früheren Stabschef Jermak und die Sanktionen gegen Poroschenko. Alle Beschuldigten bestreiten, es gilt die Unschuldsvermutung. Gegen Selenskyj selbst nennt keine unserer Quellen ein Verfahren. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer darf entscheiden, wer die Ukraine regiert?",
+    "hashtags": "#doytschlandtv #aktuell #ukraine #selenskyj #trump #wahlen #korruption #rechtsstaat #einordnung #nachrichten"
+   },
+   {
+    "zusatz": true,
+    "thema": "Klingbeil-Berater Christ: Mindestens 15 neue Aufträge seit Amtsantritt, was steckt dahinter?",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Lobbyismus",
+      "titel": "Klingbeil-Berater Christ: Mindestens 15 neue Aufträge seit Amtsantritt, was steckt dahinter?",
+      "rot": "15 neue Aufträge"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Befund laut Spiegel",
+      "titel": "Mindestens 15 neue Aufträge seit Amtsantritt.",
+      "text": "Laut Spiegel hat die Unternehmensgruppe von Harald Christ seit seiner Berufung in den Beirat im September 2025 mindestens 15 neue Aufträge erhalten. Darunter sind Firmen aus der Digital- und Rüstungsindustrie, die auch öffentliche Aufträge bekommen. Namen und Werte nennt die Berichterstattung nicht.",
+      "quelle": "t-online und Tagesspiegel (dpa) nach Spiegel, 8.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer ist Harald Christ?",
+      "titel": "Unternehmer, Berater, Parteiwechsler",
+      "punkte": [
+       {
+        "kopf": "Beruf",
+        "text": "Früher Vorstand bei Postbank-Finanzberatung und ERGO-Vertrieb, heute Chef der Christ&Company."
+       },
+       {
+        "kopf": "Parteien",
+        "text": "31 Jahre SPD, Austritt 2019. Von März 2020 bis Ende 2024 FDP, 2020 bis 2022 deren Bundesschatzmeister."
+       },
+       {
+        "kopf": "Aktuelle Rolle",
+        "text": "Er berät Finanzminister Klingbeil und leitet seit September 2025 den Investitions- und Innovationsbeirat."
+       },
+       {
+        "kopf": "Lobbyagenturen",
+        "text": "Laut Spiegel gehören seiner Holding drei, mit zuletzt über 40 Aufträgen im Lobbyregister."
+       }
+      ],
+      "quelle": "Wikipedia; Tagesspiegel (dpa), 8.10.2026; t-online"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Seine Rolle",
+      "titel": "Beirat für das 500-Milliarden-Sondervermögen",
+      "text": "Der Beirat soll beraten, wie das Sondervermögen schneller und wirksamer investiert wird. Das Ministerium sagt, Mitglieder seien nicht an Entscheidungen über Gesetze, Vergaben oder Förderungen beteiligt. Intern hieß es vorab, Mitglieder sollten „möglichst keine Eigeninteressen verfolgen“.",
+      "quelle": "Handelsblatt, 1.9.2025; t-online, 8.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Aleph Alpha und Bakira",
+      "titel": "Eine Verbindung laut Spiegel",
+      "punkte": [
+       {
+        "kopf": "Beteiligung",
+        "text": "Laut Handelsregister hielt Christ bis vor Kurzem rund 2 Prozent am KI-Unternehmen Aleph Alpha."
+       },
+       {
+        "kopf": "Agentur",
+        "text": "Eine seiner Agenturen arbeitet für Aleph Alpha."
+       },
+       {
+        "kopf": "Bakira",
+        "text": "KI-Assistent von Aleph Alpha und Bundesagentur für Arbeit. 2,15 Millionen Euro aus dem Sondervermögen bewilligt."
+       },
+       {
+        "kopf": "Dementi",
+        "text": "Das Geld gehe an externe Unterstützer, sagt die Agentur. Aleph Alpha: keine Gespräche mit Christ über Bakira."
+       }
+      ],
+      "quelle": "t-online nach Spiegel, 8.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Fair bleiben",
+      "titel": "Verdacht ist kein Beleg.",
+      "text": "Christs Anwalt weist die Vorwürfe „aufs Schärfste“ zurück, Christ selbst hat sich öffentlich nicht geäußert. Von Klingbeil liegt uns keine Aussage vor. Wir fanden keinen Nachweis, dass Entscheidungen beeinflusst wurden. Es gilt die Unschuldsvermutung.",
+      "quelle": "t-online, Tagesspiegel (dpa), 8.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Es geht nicht um die Person, sondern um die Regel: Wer bei der Verteilung von Staatsmilliarden berät, sollte nicht zugleich für Kunden lobbyieren, die öffentliche Aufträge bekommen. LobbyControl nennt schon den Anschein von Einfluss „völlig inakzeptabel“. Wir halten klare Regeln für nötig.",
+      "handlung": "Frage nach: Wer berät die Regierung, und für wen arbeitet er sonst noch?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wer darf den Staat beraten, wenn er nebenbei Kunden vertritt?"
+     }
+    ],
+    "caption": "Laut Spiegel hat die Unternehmensgruppe von Harald Christ, Berater von Finanzminister Klingbeil und Chef des Investitions- und Innovationsbeirats, seit September 2025 mindestens 15 neue Aufträge erhalten, auch aus der Digital- und Rüstungsbranche. Eine seiner Lobbyagenturen arbeitet für das KI-Unternehmen Aleph Alpha, an dem er bis vor Kurzem rund 2 Prozent hielt. Das Ministerium sagt, der Beirat sei nicht an Entscheidungen über Gesetze, Vergaben oder Förderungen beteiligt. Christs Anwalt weist die Vorwürfe zurück, es gilt die Unschuldsvermutung. Unsere Meinung ist gekennzeichnet. Quellen auf unserer Website, Link in der Bio. Wer darf den Staat beraten, wenn er nebenbei Kunden vertritt?",
+    "hashtags": "#doytschlandtv #aktuell #klingbeil #haraldchrist #lobbyismus #sondervermoegen #transparenz #rechtsstaat #einordnung #nachrichten"
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Morning Briefing",
+    "kicker": "Heute früh",
+    "titel": "Morning Briefing: Jetzt nachhören",
+    "rot": "nachhören",
+    "text": "Vier Themen in 5:02 Minuten: Erbschaftsteuer in Karlsruhe, Beitragsbemessungsgrenze 2027, Pflegeheim-Eigenanteile und Ragebait. Zum Hören und Lesen auf doytschtv.de, Link in der Bio.",
+    "quelle": "Audio mit KI-generierter Stimme",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "International",
+    "titel": "Trumps Diesel-Deal mit Putin: Was er bedeutet",
+    "rot": "Diesel-Deal",
+    "text": "300.000 Tonnen russischer Diesel sollen sofort auf den Markt, die US-Lizenz gilt bis 7.4.2027. Berlin bleibt bei seinen Sanktionen. Karussell: Link in der Bio.",
+    "quelle": "ZDFheute, 10.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Ukraine",
+    "titel": "Trump will neuen Präsidenten für die Ukraine: Was ist belegt?",
+    "rot": "belegt",
+    "text": "Das Kriegsrecht setzt Wahlen aus, auch die Opposition lehnte Wahlen im Krieg ab. Selenskyj sagte im Dezember 2025: bereit, wenn die Sicherheit garantiert ist. Karussell: Link in der Bio.",
+    "quelle": "ZDFheute, 11.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Lobbyismus",
+    "titel": "Klingbeil-Berater: Mindestens 15 neue Aufträge seit Amtsantritt",
+    "rot": "15 neue Aufträge",
+    "text": "Laut Spiegel. Christs Anwalt weist die Vorwürfe zurück, es gilt die Unschuldsvermutung. Karussell: Link in der Bio.",
+    "quelle": "t-online nach Spiegel, 8.10.2026",
+    "theme": "dark"
+   }
+  ]
  },
  {
   "datum": "2026-10-10",
