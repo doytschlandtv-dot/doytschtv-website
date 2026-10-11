@@ -195,3 +195,6 @@ button.b-chip.on { background: var(--fg, #1d1d1f); color: var(--bg, #fff); }
 .mk-zs li.st-offen::before { border-style: dashed; }
 .mk-zs li.st-offen span { color: var(--muted, #6e6e73); }
 @media (max-width: 520px) { .mk-zs li { grid-template-columns: 3.4rem 1fr; gap: .5rem; } }
+.b-host { margin: 0 0 1.25rem; display: flex; align-items: center; gap: 0.9rem; }
+.b-host img { width: 5.5rem; height: 5.5rem; border-radius: 50%; object-fit: cover; object-position: 50% 30%; background: #fff; border: 2px solid var(--accent, #b2231c); flex: none; }
+.b-host figcaption { font-size: 0.85rem; color: var(--muted, #6e6e73); line-height: 1.4; }

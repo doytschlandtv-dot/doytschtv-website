@@ -12,7 +12,7 @@
   });
   if (day.morgen) {
     var th = day.morgen.themen || [];
-    items.push({ k: "Morning Briefing" + (day.morgen.dauer ? " · " + day.morgen.dauer : ""), t: th.length ? th[0] + (th.length > 1 ? " und " + (th.length - 1) + " weitere Themen" : "") : "Heute im Überblick", h: "briefing.html#" + day.datum });
+    items.push({ k: "Morning Briefing" + (day.morgen.dauer ? " · " + day.morgen.dauer : ""), t: th.length ? th[0] + (th.length > 1 ? " und " + (th.length - 1) + " weitere Themen" : "") : "Heute im Überblick", h: "briefing.html#" + day.datum, img: "titel-briefing.jpg", u: "Illustration, KI-generiert, kein Foto" });
   }
   var K = (window.KOLUMNEN || []).slice().sort(function (a, b) { return a.datum < b.datum ? 1 : -1; })[0];
   if (K) items.push({ k: "Kolumne · " + K.thema, t: K.titel, h: "meinungen.html#" + K.datum, img: K.bild && K.bild.src, u: K.bild && K.bild.unter });

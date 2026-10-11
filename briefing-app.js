@@ -133,6 +133,13 @@
     var m = day.morgen;
     var sec1 = el("section", "b-sec"); sec1.id = "morgen";
     sec1.appendChild(el("h2", "b-sec-h", "Morning Briefing" + (m && m.dauer ? " · " + m.dauer : "")));
+    if (m) {
+      var fig = el("figure", "b-host"), im = document.createElement("img");
+      im.src = "titel-briefing.jpg"; im.alt = "Skizze von Cengiz Bozkurt"; im.width = 1050; im.height = 1439; im.loading = "lazy";
+      fig.appendChild(im);
+      fig.appendChild(el("figcaption", null, "Cengiz Bozkurt · Illustration, KI-generiert, kein Foto"));
+      sec1.appendChild(fig);
+    }
     if (m && m.themen && m.themen.length) {
       var chips = el("div", "b-chips");
       m.themen.forEach(function (t, k) {

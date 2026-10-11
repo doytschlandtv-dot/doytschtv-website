@@ -75,7 +75,7 @@ def heute():
         it.append(("Nachrichten", k["thema"], "nachrichten.html", bi.get("url"), bi.get("fokus"), bi.get("unter")))
     if d.get("morgen"):
         t = d["morgen"].get("themen") or []
-        it.append(("Morning Briefing" + (" · " + d["morgen"]["dauer"] if d["morgen"].get("dauer") else ""), (t[0] + (f" und {len(t)-1} weitere Themen" if len(t) > 1 else "")) if t else "Heute im Überblick", "briefing.html#" + d["datum"], None, None, None))
+        it.append(("Morning Briefing" + (" · " + d["morgen"]["dauer"] if d["morgen"].get("dauer") else ""), (t[0] + (f" und {len(t)-1} weitere Themen" if len(t) > 1 else "")) if t else "Heute im Überblick", "briefing.html#" + d["datum"], "titel-briefing.jpg", None, "Illustration, KI-generiert, kein Foto"))
     if K: it.append(("Kolumne · " + K[0]["thema"], K[0]["titel"], "meinungen.html#" + K[0]["datum"], (K[0].get("bild") or {}).get("src"), None, (K[0].get("bild") or {}).get("unter")))
     if E: it.append(("Erklärt", E[-1]["titel"], "erklaert.html#" + E[-1]["id"], None, None, None))
     def card(k, t, h, img, y, u):
