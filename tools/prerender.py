@@ -79,7 +79,7 @@ def heute():
     if K: it.append(("Kolumne · " + K[0]["thema"], K[0]["titel"], "meinungen.html#" + K[0]["datum"], (K[0].get("bild") or {}).get("src"), None, (K[0].get("bild") or {}).get("unter")))
     if E: it.append(("Erklärt", E[-1]["titel"], "erklaert.html#" + E[-1]["id"], None, None, None))
     def card(k, t, h, img, y, u):
-        im = f'<img src="{e(img)}" alt="" loading="lazy"' + (f' style="object-position:50% {round(y*100)}%"' if isinstance(y, (int, float)) else "") + ">" if img else ""
+        im = f'<span class="hc-i"><img class="bg" src="{e(img)}" alt="" loading="lazy" aria-hidden="true"><img class="fg" src="{e(img)}" alt="" loading="lazy"></span>' if img else ""
         return f'<a class="hc{" has-img" if img else ""}" href="{e(h)}">{im}<span class="hc-t"><span class="k">{e(k)}</span><strong>{e(t)}</strong>' + (f"<small>{e(u)}</small>" if u else "") + "</span></a>"
     tick = '<span class="tk-g">' + "".join(f'<a href="{e(h)}">{e(t)}</a>' for k, t, h, *_ in it) + "</span>"
     return "".join(card(*x) for x in it), tick, d["datum"]

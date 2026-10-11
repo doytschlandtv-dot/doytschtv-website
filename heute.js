@@ -23,7 +23,11 @@
     rail.textContent = "";
     items.forEach(function (it) {
       var a = n("a", "hc" + (it.img ? " has-img" : "")); a.href = it.h;
-      if (it.img) { var im = n("img"); im.src = it.img; im.alt = ""; im.loading = "lazy"; if (typeof it.y === "number") im.style.objectPosition = "50% " + Math.round(it.y * 100) + "%"; a.appendChild(im); }
+      if (it.img) {
+        var box = n("span", "hc-i");
+        ["bg", "fg"].forEach(function (c) { var im = n("img", c); im.src = it.img; im.alt = ""; im.loading = "lazy"; if (c === "bg") im.setAttribute("aria-hidden", "true"); box.appendChild(im); });
+        a.appendChild(box);
+      }
       var tx = n("span", "hc-t"); tx.appendChild(n("span", "k", it.k)); tx.appendChild(n("strong", null, it.t)); if (it.u) tx.appendChild(n("small", null, it.u));
       a.appendChild(tx); rail.appendChild(a);
     });

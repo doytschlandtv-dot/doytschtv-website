@@ -423,3 +423,13 @@ a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
   .hc-b:hover { opacity: 1; }
 }
 @media (max-width: 600px) { .hero .eyebrow { display: none; } .hero h1 { font-size: 2.3rem; } .hero .sub { font-size: 1rem; margin-top: 0.6rem; } .hero .actions { margin-top: 1rem; gap: 1rem; } #heute { padding-block-start: 1.25rem; } #heute .head { margin-bottom: 0.5rem; } }
+/* Titelbilder vollständig sichtbar: Bild oben ganz (contain), unscharfer Hintergrund füllt den Rest */
+.hc { aspect-ratio: auto; flex-direction: column; align-items: stretch; justify-content: flex-start; width: min(78vw, 19rem); }
+.hc.has-img::after { display: none; }
+.hc-i { position: relative; display: block; aspect-ratio: 5 / 4; overflow: hidden; background: #000; flex: none; }
+.hc-i img { position: absolute; inset: 0; width: 100%; height: 100%; }
+.hc-i .bg { object-fit: cover; filter: blur(16px) brightness(0.65); transform: scale(1.25); }
+.hc-i .fg { object-fit: contain; }
+.hc-t { margin-top: auto; padding: 0.95rem 1.1rem 1.15rem; }
+.hc:not(.has-img) { min-height: 100%; justify-content: flex-end; }
+.hc-rail { align-items: stretch; }
