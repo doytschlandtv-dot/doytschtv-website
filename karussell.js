@@ -295,8 +295,9 @@
     var wd = ctx.measureText("Doytschland").width;
     ctx.fillStyle = ac; ctx.fillText("Tv", x + 100 + wd, 274);
     if (s.band) band(ctx, s.band, x + mw, 272);
+    /* Export ohne Seitenzahl und Fortschrittsbalken: Die Anzahl der Storys ändert sich im Lauf des Tages */
     var segW = (mw - (n - 1) * 10) / n;
-    for (var k = 0; k < n; k++) { ctx.fillStyle = (k <= i && !live) ? ac : T.soft; ctx.fillRect(x + k * (segW + 10), 372, segW, 8); }
+    if (live) for (var k = 0; k < n; k++) { ctx.fillStyle = (k <= i && !live) ? ac : T.soft; ctx.fillRect(x + k * (segW + 10), 372, segW, 8); }
     var y = 560;
     lab(ctx, s.kicker || "Das Wichtigste", x, y, ac);
     if (card) {
@@ -305,8 +306,6 @@
       ctx.fillStyle = ac; ctx.fillRect(x, yc + 24, 120, 8);
       if (s.text) head(ctx, s.text, SANS, 400, x, yc + 60, mw, 1500 - yc - 60, 40, 28, 1.4, fg, null, ac, 0);
       if (s.bild.unter) { ctx.font = "400 24px " + SANS; ctx.fillStyle = mu; ctx.fillText(s.bild.unter, x, 1530); }
-      ctx.font = "700 40px " + PF; ctx.fillStyle = ac;
-      var cn = (i + 1) + "/" + n; ctx.fillText(cn, SW - x - ctx.measureText(cn).width, 1564);
       return;
     }
     var y2 = head(ctx, s.titel, IS, 400, x, y + 80, mw, 560, 170, 90, 1.04, fg, hlSet(s.rot), ac, 0.02);
@@ -318,8 +317,6 @@
       var cr = "Foto: " + s.bild.urheber + (s.bild.lizenz ? " (" + s.bild.lizenz + ")" : "") + (s.bild.quelle ? ", " + s.bild.quelle : "");
       ctx.fillText(cr.length > 90 ? cr.slice(0, 89) + "…" : cr, x, 1560 + 14);
     }
-    ctx.font = "700 40px " + PF; ctx.fillStyle = ac;
-    var cnt = (i + 1) + "/" + n; ctx.fillText(cnt, SW - x - ctx.measureText(cnt).width, 1560 + 4);
   }
   function loadImg(url) {
     return new Promise(function (res) {
