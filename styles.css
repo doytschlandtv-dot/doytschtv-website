@@ -453,3 +453,13 @@ a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
 .wer h3 { margin: 1.4rem 0 0.35rem; font-size: 1.05rem; letter-spacing: 0; }
 .tk-g a.own { font-weight: 700; }
 .tk-g a.ext .src { opacity: 0.6; font-size: 0.75rem; margin-left: 0.15rem; }
+
+/* ===== Menüpunkte als Buttons ===== */
+.nav ul a { display: block; text-align: center; white-space: nowrap; padding: 0.4rem 0.9rem; border: 1px solid var(--line, #d8d4c8); border-radius: 980px; background: var(--panel, transparent); color: var(--fg); transition: background .2s, color .2s, border-color .2s; }
+.nav ul a:hover { border-color: var(--fg); }
+.nav ul a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.nav ul a.on, .nav ul a[aria-current] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+@media (max-width: 52rem) {
+  .nav ul { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.45rem; justify-content: stretch; }
+  .nav ul a { padding: 0.5rem 0.2rem; font-size: 0.66rem; letter-spacing: 0.08em; }
+}
