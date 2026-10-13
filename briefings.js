@@ -286,7 +286,7 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Ursachen",
       "titel": "Sprache ist ein Faktor, nicht der einzige",
-      "text": "Der Lehrerverband nennt Sprachprobleme als einen Faktor unter mehreren. Eine Aufschlüsselung nach Staatsangehörigkeit liegt in unseren Quellen nicht vor, daher ziehen wir keine Schlüsse über Gruppen.",
+      "text": "Der Lehrerverband nennt Sprachprobleme als einen Faktor unter mehreren.",
       "quelle": "news4teachers, 9.10.2026"
      },
      {
@@ -383,9 +383,9 @@ window.BRIEFINGS = [
      },
      {
       "typ": "einordnung",
-      "label": "Was wir nicht wissen",
-      "titel": "Offen bleibt",
-      "text": "Stichprobe, Methodik und was die Befragten unter „Gewalt“ verstehen, steht nicht in der Meldung. Die Zahlen sind Angaben in einer Umfrage, keine Anzeigen."
+      "label": "Einordnung",
+      "titel": "Eine Umfrage, keine Fallstatistik",
+      "text": "Die Zahlen beruhen auf Befragungen. Sie zeigen, was Azubis und Studierende erlebt oder beobachtet haben, nicht, wie viele Fälle angezeigt wurden."
      },
      {
       "typ": "meinung",
@@ -1157,7 +1157,7 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Was wir nicht wissen",
       "titel": "Offen bleibt",
-      "text": "Wer den Angriff ausführte, ist nicht belegt, die Koalition nennt die Huthi. Eine unabhängige Untersuchung fanden wir nicht. Zu konkreten Angriffen auf Katar fanden wir keine belastbare Quelle, deshalb nennen wir sie hier nicht.",
+      "text": "Wer den Angriff ausführte, ist nicht belegt. Die Koalition nennt die Huthi.",
       "quelle": "ORF, AWP/cash.ch, 11.10.2026"
      },
      {
