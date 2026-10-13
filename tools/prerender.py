@@ -3,7 +3,9 @@
 Der Block steht zwischen <!--static--> und <!--/static--> und wird mit JavaScript ausgeblendet.
 Auf der Startseite füllt das Skript die Zeilen von "Heute im Blick". Aufruf nach jeder Änderung an den Datendateien:
     python3 tools/prerender.py"""
-import urllib.parse
+import urllib.parse, sys
+sys.path.insert(0, str(__import__('pathlib').Path(__file__).resolve().parent))
+from slug import beitrag_pfad
 import re, json, html, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 def load(f, key):
@@ -31,7 +33,7 @@ def nachrichten():
     o = []
     for d in B:
         for k in d.get("karussells") or []:
-            o.append(f"<article><h2>{e(k['thema'])}</h2><p><em>{e(datum(d['datum']))}</em></p>")
+            o.append(f"<article><h2><a href=\"{beitrag_pfad(d['datum'], k['thema'])}\">{e(k['thema'])}</a></h2><p><em>{e(datum(d['datum']))}</em></p>")
             o.append("<ol>" + "".join("<li>" + e(" – ".join(slide_text(s))) + "</li>" for s in k["slides"]) + "</ol>")
             if k.get("caption"): o.append(f"<p>{e(k['caption'])}</p>")
             o.append("</article>")
@@ -52,7 +54,7 @@ def briefing():
 def meinungen():
     o = ["<h1>Meinungen und Kolumnen</h1>"]
     for k in K:
-        o.append(f"<article><h2>{e(k['titel'])}</h2><p><em>{e(k['thema'])} · {e(datum(k['datum']))}</em></p><p>{e(k.get('teaser',''))}</p>")
+        o.append(f"<article><h2><a href=\"/meinung/{e(k['datum'])}.html\">{e(k['titel'])}</a></h2><p><em>{e(k['thema'])} · {e(datum(k['datum']))}</em></p><p>{e(k.get('teaser',''))}</p>")
         o.append(ps(k.get("text")) + links(k.get("quellen")) + "</article>")
     return "".join(o)
 def erklaert():
@@ -67,7 +69,7 @@ def dossiers():
     o = ["<h1>Dossiers</h1>"]
     for r in D:
         o.append(f"<article><h2>{e(r['titel'])}</h2><p>{e(r['teaser'])}</p>")
-        for f in r.get("folgen") or []: o.append(f"<h3>{e(f['titel'])}</h3><p>{e(f.get('teaser',''))}</p>")
+        for f in r.get("folgen") or []: o.append(f"<h3><a href=\"/dossier/{e(f['id'])}.html\">{e(f['titel'])}</a></h3><p>{e(f.get('teaser',''))}</p>")
         o.append("</article>")
     return "".join(o)
 def heute():
