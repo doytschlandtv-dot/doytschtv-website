@@ -3,6 +3,7 @@
 Der Block steht zwischen <!--static--> und <!--/static--> und wird mit JavaScript ausgeblendet.
 Auf der Startseite füllt das Skript die Zeilen von "Heute im Blick". Aufruf nach jeder Änderung an den Datendateien:
     python3 tools/prerender.py"""
+import urllib.parse
 import re, json, html, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 def load(f, key):
@@ -73,7 +74,7 @@ def heute():
     d = B[0]; it = []
     for k in reversed(d.get("karussells") or []):
         bi = (k["slides"][0].get("bild") or {}) if k.get("slides") else {}
-        it.append(("Nachrichten", k["thema"], "nachrichten.html", bi.get("url"), bi.get("fokus"), bi.get("unter")))
+        it.append(("Nachrichten", k["thema"], "nachrichten.html#" + urllib.parse.quote(k["thema"], safe="~()*!.'"), bi.get("url"), bi.get("fokus"), bi.get("unter")))
     if d.get("morgen"):
         t = d["morgen"].get("themen") or []
         it.append(("Morning Briefing" + (" · " + d["morgen"]["dauer"] if d["morgen"].get("dauer") else ""), (t[0] + (f" und {len(t)-1} weitere Themen" if len(t) > 1 else "")) if t else "Heute im Überblick", "briefing.html#" + d["datum"], "titel-briefing.jpg", None, "Illustration, KI-generiert, kein Foto"))

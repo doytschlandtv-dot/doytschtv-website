@@ -133,5 +133,12 @@
     secs.forEach(function (s) { io.observe(s); });
   } else secs.forEach(drawItem);
   window.addEventListener("resize", size);
+  /* Link von der Startseite (nachrichten.html#Thema): direkt zum angeklickten Karussell springen */
+  (function () {
+    var want = ""; try { want = decodeURIComponent(location.hash.slice(1)); } catch (e) { want = location.hash.slice(1); }
+    if (!want) return;
+    var at = -1; items.forEach(function (it, i) { if (at < 0 && it.k.thema === want) at = i; });
+    if (at > 0) requestAnimationFrame(function () { feed.scrollTop = at * feed.clientHeight; });
+  })();
   feed.focus({ preventScroll: true });
 })();

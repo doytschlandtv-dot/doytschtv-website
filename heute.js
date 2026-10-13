@@ -8,7 +8,7 @@
   var day = B[0], items = [];
   (day.karussells || []).slice().reverse().forEach(function (k) { /* neuestes zuerst */
     var h = (k.slides || [])[0] || {}, b = h.bild || null;
-    items.push({ k: "Nachrichten", t: k.thema, h: "nachrichten.html", img: b && b.url, y: b && b.fokus, u: b && b.unter });
+    items.push({ k: "Nachrichten", t: k.thema, h: "nachrichten.html#" + encodeURIComponent(k.thema), img: b && b.url, y: b && b.fokus, u: b && b.unter });
   });
   if (day.morgen) {
     var th = day.morgen.themen || [];
