@@ -1,7 +1,7 @@
 /* Intro beim ersten Öffnen der Startseite (einmal pro Sitzung): Ring fällt von oben, Name, Slogan, dann Startseite und Pop-up. */
 (function () {
   "use strict";
-  var KEY = "dtv-intro", SLOGAN = "Das Wichtigste. Eingeordnet.", HOLD = 4600;
+  var KEY = "dtv-intro", SLOGAN = "Das Wichtigste. Eingeordnet.", HOLD = 7200;
   try { if (sessionStorage.getItem(KEY)) return; } catch (e) {}
   if (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) return;
   window.__dtvIntro = true;
