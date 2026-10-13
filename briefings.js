@@ -14,7 +14,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Energie · Entlastung",
       "titel": "Stromsteuer für alle: Was 81 Euro im Jahr bringen",
-      "rot": "81 Euro im Jahr"
+      "rot": "81 Euro im Jahr",
+      "bild": {
+       "url": "titel-stromsteuer.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -95,7 +100,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "EU · Autoindustrie",
       "titel": "Verbrenner-Aus 2035: 90 statt 100 Prozent",
-      "rot": "90 statt 100 Prozent"
+      "rot": "90 statt 100 Prozent",
+      "bild": {
+       "url": "titel-verbrenner.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -165,7 +175,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Iran · Energie",
       "titel": "Tankerangriffe bei Hormus: Ölpreis nahe 100 Dollar",
-      "rot": "Ölpreis nahe 100 Dollar"
+      "rot": "Ölpreis nahe 100 Dollar",
+      "bild": {
+       "url": "titel-hormus.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -245,7 +260,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Bildung · Schule",
       "titel": "65.000 ohne Abschluss: Was die Zahl heißt und was nicht",
-      "rot": "65.000 ohne Abschluss"
+      "rot": "65.000 ohne Abschluss",
+      "bild": {
+       "url": "titel-schule.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -320,7 +340,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Ausbildung · Arbeit",
       "titel": "Azubis nennen deutlich häufiger Gewalt als Studierende",
-      "rot": "häufiger Gewalt"
+      "rot": "häufiger Gewalt",
+      "bild": {
+       "url": "titel-azubi.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -383,7 +408,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Kanada · Zusammenhalt",
       "titel": "Alberta stimmt am 19. Oktober über seine Zukunft in Kanada ab",
-      "rot": "19. Oktober"
+      "rot": "19. Oktober",
+      "bild": {
+       "url": "titel-alberta.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -452,9 +482,15 @@ window.BRIEFINGS = [
     "kicker": "Energie · Entlastung",
     "titel": "Stromsteuer für alle: Was 81 Euro im Jahr bringen",
     "rot": "81 Euro im Jahr",
-    "text": "Merz will die Stromsteuer für alle senken, beschlossen ist es nicht. Rund 6,75 Euro im Monat, bei Kosten von etwa 5,4 Mrd. Euro. Wer zahlt, ist offen. Karussell: Link in der Bio.",
+    "text": "",
     "quelle": "Tagesspiegel, Handelsblatt, 12.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-stromsteuer.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    },
    {
     "zusatz": true,
@@ -463,9 +499,15 @@ window.BRIEFINGS = [
     "kicker": "EU · Autoindustrie",
     "titel": "Verbrenner-Aus 2035: 90 statt 100 Prozent",
     "rot": "90 statt 100 Prozent",
-    "text": "Die EU-Kommission will 2035 minus 90 statt minus 100 Prozent CO2. Merz und Macron wollen laut Berichten noch weiter lockern. Karussell: Link in der Bio.",
+    "text": "",
     "quelle": "electrive, ZDFheute, 7. und 12.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-verbrenner.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    },
    {
     "zusatz": true,
@@ -474,9 +516,15 @@ window.BRIEFINGS = [
     "kicker": "Iran · Energie",
     "titel": "Tankerangriffe bei Hormus: Ölpreis nahe 100 Dollar",
     "rot": "Ölpreis nahe 100 Dollar",
-    "text": "Seit dem 2. Oktober fast täglich Angriffe auf Tanker. Brent lag am 6.10. bei 99,57 Dollar, vor dem Krieg bei etwa 72. Karussell: Link in der Bio.",
+    "text": "",
     "quelle": "Al Jazeera, ZDFheute, 6. und 12.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-hormus.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    },
    {
     "zusatz": true,
@@ -485,31 +533,49 @@ window.BRIEFINGS = [
     "kicker": "Bildung · Schule",
     "titel": "65.000 ohne Abschluss: Was die Zahl heißt und was nicht",
     "rot": "65.000 ohne Abschluss",
-    "text": "8,4 Prozent verließen 2024/25 die Schule ohne ersten Abschluss, der höchste Wert seit rund 20 Jahren. Viele holen ihn später nach. Karussell: Link in der Bio.",
+    "text": "",
     "quelle": "Destatis laut ZDFheute, 9.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-schule.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    },
    {
     "zusatz": true,
     "art": "nachricht",
     "band": "Aktuell",
     "kicker": "Ausbildung · Arbeit",
-    "titel": "Azubis nennen deutlich häufiger Gewalt als Studierende",
+    "titel": "Azubis nennen häufiger Gewalt",
     "rot": "häufiger Gewalt",
-    "text": "Gewalt erlebt oder beobachtet: 14 Prozent der Azubis, 3 Prozent der Studierenden. Mehr zur Umfrage und was wir nicht wissen im Karussell, Link in der Bio.",
+    "text": "",
     "quelle": "Forsa für DGUV, dpa-AFX, 13.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-azubi.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    },
    {
     "zusatz": true,
     "art": "nachricht",
     "band": "Aktuell",
     "kicker": "Kanada · Zusammenhalt",
-    "titel": "Alberta stimmt am 19. Oktober über seine Zukunft in Kanada ab",
+    "titel": "Alberta stimmt am 19. Oktober ab",
     "rot": "19. Oktober",
-    "text": "Bleiben oder den Weg zur Abspaltung beginnen: In allen Umfragen führt „Bleiben“. Die Abstimmung ist nicht bindend. Karussell: Link in der Bio.",
+    "text": "",
     "quelle": "Wikipedia-Übersicht, Angus Reid, 2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-alberta.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    }
   ]
  },
