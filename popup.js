@@ -42,5 +42,6 @@
   el.addEventListener("click", function (e) { if (e.target === el || e.target.classList.contains("pu-x") || e.target.classList.contains("pu-skip")) close(); });
   el.querySelectorAll(".pu-b a").forEach(function (a) { a.addEventListener("click", function () { try { sessionStorage.setItem(KEY, "1"); } catch (e) {} }); });
   var go0 = function () { setTimeout(open, 1200); };
-  if (document.readyState === "complete") go0(); else window.addEventListener("load", go0);
+  var go1 = function () { if (window.__dtvIntro) window.addEventListener("dtv-intro-done", function () { setTimeout(open, 500); }, { once: true }); else go0(); };
+  if (document.readyState === "complete") go1(); else window.addEventListener("load", go1);
 })();
