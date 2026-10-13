@@ -77,7 +77,7 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Was wir nicht wissen",
       "titel": "Offen bleibt",
-      "text": "Wann die Senkung kommt, ob es einen Gesetzentwurf gibt und ob die SPD zustimmt. Ob Anbieter sie voll weitergeben, ist ebenfalls offen. Das Beschlusspapier selbst haben wir nicht gelesen, nur Berichte darüber."
+      "text": "Wann die Senkung kommt, ob es einen Gesetzentwurf gibt und ob die SPD zustimmt, ist offen. Ob Anbieter sie voll weitergeben, ebenfalls."
      },
      {
       "typ": "meinung",
@@ -93,7 +93,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "Verbrenner-Aus 2035: 90 statt 100 Prozent",
-    "caption": "Die EU-Kommission will, dass neue Autos 2035 nur noch 90 statt 100 Prozent weniger CO2 ausstoßen als 2021. Die restlichen 10 Prozent sollen über grünen Stahl, E-Fuels und Biokraftstoffe ausgeglichen werden können. Merz und Macron wollen laut FAZ und Handelsblatt noch weiter lockern, die Details sind offen. Unsere Meinung: Klima und Industrie gehören zusammen, gesichert wird beides durch Innovation und Wettbewerbsfähigkeit, nicht durch Gegenmaßnahmen, die Marktwirtschaft missachten.",
+    "caption": "Die EU-Kommission will, dass neue Autos 2035 nur noch 90 statt 100 Prozent weniger CO2 ausstoßen als 2021. Die restlichen 10 Prozent sollen über kohlenstoffarmen Stahl und nachhaltige erneuerbare Kraftstoffe ausgeglichen werden können. Merz und Macron wollen laut FAZ und Handelsblatt noch weiter lockern, die Details sind offen. Unsere Meinung: Klima und Industrie gehören zusammen, gesichert wird beides durch Innovation und Wettbewerbsfähigkeit, nicht durch Gegenmaßnahmen, die Marktwirtschaft missachten.",
     "hashtags": "#doytschlandtv #aktuell #verbrennerverbot #eu #autoindustrie #klima #wettbewerbsfaehigkeit #einordnung #nachrichten",
     "slides": [
      {
@@ -111,15 +111,15 @@ window.BRIEFINGS = [
       "typ": "fakten",
       "label": "Der Vorschlag",
       "titel": "Minus 90 statt minus 100 Prozent.",
-      "text": "Die EU-Kommission schlug Ende 2025 vor, die CO2-Emissionen neuer Autos bis 2035 um 90 Prozent gegenüber 2021 zu senken statt auf null. Die restlichen 10 Prozent sollen über grünen Stahl, E-Fuels und Biokraftstoffe ausgeglichen werden können, mit Obergrenzen.",
-      "quelle": "electrive, 7.10.2026"
+      "text": "Die EU-Kommission schlug am 16.12.2025 vor, die CO2-Emissionen neuer Autos bis 2035 um 90 Prozent gegenüber 2021 zu senken statt auf null. Die restlichen 10 Prozent sollen über Gutschriften ausgeglichen werden können.",
+      "quelle": "EU-Rat, Dok. 6639/26; ADAC, 17.12.2025"
      },
      {
       "typ": "zahl",
       "label": "Neuwagen 2035",
       "zahl": "−90 %",
-      "text": "Das entspricht rund 11 Gramm CO2 je Kilometer statt null. Ein festes Datum für 100 Prozent entfällt.",
-      "quelle": "electrive, 7.10.2026"
+      "text": "Ausgleich nur mit Obergrenzen: bis zu 7 Prozent über in der EU hergestellten kohlenstoffarmen Stahl, bis zu 3 Prozent über nachhaltige erneuerbare Kraftstoffe.",
+      "quelle": "EU-Rat, Dok. 6639/26; Akin Gump, Dez. 2025"
      },
      {
       "typ": "einordnung",
@@ -152,7 +152,7 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Was wir nicht wissen",
       "titel": "Offen bleibt",
-      "text": "Was Merz und Macron genau vereinbaren, ist nicht veröffentlicht. Zu Jobzahlen und Positionen von Herstellern und Umweltverbänden fanden wir nichts Belastbares. Das Kommissionsdokument selbst haben wir nicht gelesen."
+      "text": "Was Merz und Macron genau vereinbaren, ist nicht veröffentlicht. Ob das Parlament im November zustimmt, ist offen. Wie viele Gutschriften Hersteller tatsächlich nutzen würden, zeigt sich erst nach Inkrafttreten."
      },
      {
       "typ": "meinung",
@@ -237,7 +237,7 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Was wir nicht wissen",
       "titel": "Offen bleibt",
-      "text": "Wie stark die Lage Sprit- und Heizkosten in Deutschland bewegt, haben wir nicht belegt. Der Ölpreis ist vom 6.10., aktuelle Kurse sind zu prüfen. Die Angaben der Revolutionsgarden sind ihre eigenen."
+      "text": "Wie stark die Lage Sprit- und Heizkosten in Deutschland bewegt, lässt sich nicht sicher sagen. Der genannte Ölpreis gilt für den 6.10. Die Angaben der Revolutionsgarden sind ihre eigenen."
      },
      {
       "typ": "meinung",
@@ -317,7 +317,7 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Was wir nicht wissen",
       "titel": "Offen bleibt",
-      "text": "Wann der Bundestag den Entwurf berät, ist nicht belegt. Die Destatis-Mitteilung und den Gesetzentwurf selbst haben wir nicht gelesen, nur Berichte darüber."
+      "text": "Wann der Bundestag den Entwurf berät, steht nicht fest. Ob mehr Sprachförderung die Quote senkt, lässt sich aus der Zahl allein nicht ablesen."
      },
      {
       "typ": "meinung",
@@ -333,7 +333,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "Azubis nennen deutlich häufiger Gewalt als Studierende",
-    "caption": "Laut einer Forsa-Umfrage im Auftrag der Unfallversicherung DGUV nennen Azubis häufiger Beschimpfungen (42 zu 23 Prozent), Mobbing (28 zu 12 Prozent) und Gewalt (14 zu 3 Prozent) als Studierende, erlebt oder beobachtet. Stichprobe und Methodik haben wir nicht gefunden. Unsere Meinung: Wer ausbildet, trägt Verantwortung für die Menschen. Die Betriebe stehen in der Pflicht.",
+    "caption": "Laut einer Forsa-Umfrage im Auftrag der Unfallversicherung DGUV nennen Azubis häufiger Beschimpfungen (42 zu 23 Prozent), Mobbing (28 zu 12 Prozent) und Gewalt (14 zu 3 Prozent) als Studierende, erlebt oder beobachtet. Stichprobe und Methodik nennt die Meldung nicht. Unsere Meinung: Wer ausbildet, trägt Verantwortung für die Menschen. Die Betriebe stehen in der Pflicht.",
     "hashtags": "#doytschlandtv #aktuell #ausbildung #azubi #mobbing #gewalt #arbeitsschutz #einordnung #nachrichten",
     "slides": [
      {
@@ -351,7 +351,7 @@ window.BRIEFINGS = [
       "typ": "fakten",
       "label": "Die Umfrage",
       "titel": "Forsa im Auftrag der Unfallversicherung.",
-      "text": "Die Deutsche Gesetzliche Unfallversicherung (DGUV) ließ Azubis und Studierende befragen, ob sie Beschimpfungen, Mobbing oder Gewalt erlebt oder beobachtet haben. Stichprobe und Methodik haben wir nicht gefunden.",
+      "text": "Die Deutsche Gesetzliche Unfallversicherung (DGUV) ließ Azubis und Studierende befragen, ob sie Beschimpfungen, Mobbing oder Gewalt erlebt oder beobachtet haben. Stichprobe und Methodik nennt die Meldung nicht.",
       "quelle": "dpa-AFX über onvista, 13.10.2026"
      },
      {
@@ -385,7 +385,7 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Was wir nicht wissen",
       "titel": "Offen bleibt",
-      "text": "Stichprobe, Methodik und was die Befragten unter „Gewalt“ verstehen, steht nicht in der Meldung. Die Zahlen sind Angaben in einer Umfrage, keine Anzeigen. Die Primärquelle der DGUV haben wir nicht gefunden."
+      "text": "Stichprobe, Methodik und was die Befragten unter „Gewalt“ verstehen, steht nicht in der Meldung. Die Zahlen sind Angaben in einer Umfrage, keine Anzeigen."
      },
      {
       "typ": "meinung",
@@ -426,7 +426,7 @@ window.BRIEFINGS = [
       "typ": "zahl",
       "label": "Umfragen",
       "zahl": "60–74 %",
-      "text": "wollen laut acht Umfragen zwischen Mai und August bleiben. 19 bis 35 Prozent sind für den Weg zur Abspaltung. Neuere Umfragen haben wir nicht. Die Hälfte der Befragten fand die Frage laut Angus Reid (Mai) verwirrend.",
+      "text": "wollen laut acht Umfragen zwischen Mai und August bleiben. 19 bis 35 Prozent sind für den Weg zur Abspaltung. Die Umfragen reichen nur bis August. Die Hälfte der Befragten fand die Frage laut Angus Reid (Mai) verwirrend.",
       "quelle": "Wikipedia-Übersicht; Angus Reid, Mai 2026"
      },
      {
@@ -460,7 +460,7 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Was wir nicht wissen",
       "titel": "Offen bleibt",
-      "text": "Wie Premierminister Carney zur Abstimmung steht, haben wir außer seinem Aufruf zur Einheit nicht belegt. Die Umfragen reichen bis August. Eine Primärquelle der Wahlbehörde haben wir nicht gelesen."
+      "text": "Carney hat zur Einheit aufgerufen. Die Umfragen reichen bis August, wie es am 19. Oktober ausgeht, ist offen."
      },
      {
       "typ": "meinung",
