@@ -36,6 +36,6 @@
   ov.querySelector(".in-go").addEventListener("click", end); ov.querySelector(".in-sk").addEventListener("click", end);
   document.addEventListener("keydown", key);
   var s1 = ov.querySelector(".in-s1"), s2 = ov.querySelector(".in-s2");
-  setTimeout(function () { if (!done) s1.classList.add("go"); }, rm ? 1900 : 2200);
-  setTimeout(end, rm ? 2500 : 2900);
+  setTimeout(function () { if (!done) s1.classList.add("go"); }, rm ? 2300 : 2800);
+  setTimeout(end, rm ? 2900 : 3500);
 })();
