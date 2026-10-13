@@ -3,7 +3,7 @@
   "use strict";
   var KEY = "dtv-intro", SLOGAN = "Das Wichtigste. Eingeordnet.", HOLD = 7200;
   try { if (sessionStorage.getItem(KEY)) return; } catch (e) {}
-  if (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  var rm = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches; if (rm) HOLD = 5600;
   window.__dtvIntro = true;
   var ov = document.createElement("div"); ov.className = "in-ov"; ov.setAttribute("role", "presentation");
   ov.innerHTML = '<div class="in-ring" aria-hidden="true"><span>D</span></div><img class="in-nm" src="logo.png" alt="DoytschlandTv" width="136" height="25"><p class="in-sl">' + SLOGAN + '</p><button class="in-sk" type="button">Überspringen</button>';

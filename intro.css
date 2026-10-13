@@ -9,4 +9,9 @@
 .in-sk:focus-visible{outline:2px solid #0a0a0a;outline-offset:2px}
 @keyframes in-drop{0%{transform:translateY(-70vh);opacity:0}15%{opacity:1}100%{transform:none;opacity:1}}
 @keyframes in-up{to{opacity:1;transform:none}}
-@media (prefers-reduced-motion:reduce){.in-ov{display:none}}
+@media (prefers-reduced-motion:reduce){
+.in-ring{transform:none;animation:in-fade 1.2s ease .3s forwards}
+.in-nm{transform:none;animation:in-fade 1.2s ease 1.8s forwards}
+.in-sl{transform:none;animation:in-fade 1.2s ease 3.2s forwards}
+}
+@keyframes in-fade{to{opacity:1}}
