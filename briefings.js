@@ -547,6 +547,156 @@ window.BRIEFINGS = [
       "frage": "Frührente nach 45 Jahren: behalten oder abschaffen?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Israel wählt am 27. Oktober: Keine Umfrage sieht eine Mehrheit",
+    "caption": "Am 27. Oktober wählt Israel eine neue Knesset. Für eine Regierungsmehrheit braucht es 61 von 120 Sitzen. In aktuellen Umfragen kommt der Netanjahu-Block auf 49 bis 55 Sitze, der Block um Eisenkot auf 50 bis 55. Keiner erreicht die 61. Ausgang und Regierungsbildung sind offen. Unsere Meinung: Wen Israel wählt, entscheiden die Wählerinnen und Wähler dort. Für jede Regierung gilt: Gerichtsentscheidungen sind bindend. Woran erkennst du, dass ein Rechtsstaat funktioniert?",
+    "hashtags": "#doytschlandtv #aktuell #israel #wahl #knesset #netanjahu #eisenkot #rechtsstaat #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Israel · Wahl",
+      "titel": "Israel wählt am 27. Oktober: Keine Umfrage sieht eine Mehrheit",
+      "rot": "27. Oktober",
+      "bild": {
+       "url": "titel-israel-wahl.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Wahl",
+      "titel": "120 Sitze, 61 für die Mehrheit.",
+      "text": "Am 27. Oktober wählt Israel eine neue Knesset. Sie hat 120 Sitze. Für eine Regierungsmehrheit braucht es 61. Dazu zählen Umfragen den Block um Ministerpräsident Netanjahu und den Block um den früheren Generalstabschef Eisenkot, der mit seiner Partei Yashar antritt.",
+      "quelle": "Times of Israel, 8.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Umfragen",
+      "zahl": "49–55",
+      "text": "Sitze bekommt der Netanjahu-Block in aktuellen Umfragen von Maariv, Channel 12 und 13, Kan und Tatika. Der Block um Eisenkot liegt bei 50 bis 55. Keiner erreicht die 61.",
+      "quelle": "Jerusalem Post, Times of Israel, Haaretz, 8.–11.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer entscheidet",
+      "titel": "Drei Unbekannte",
+      "punkte": [
+       {
+        "kopf": "Arabische Parteien",
+        "text": "Sie kommen auf 12 bis 15 Sitze und gehören keinem der beiden Blöcke an."
+       },
+       {
+        "kopf": "Unentschlossene",
+        "text": "In der Kan-Umfrage sind 30 Prozent unentschlossen (552 Befragte, Fehlertoleranz 4,2 Punkte)."
+       },
+       {
+        "kopf": "Sperrklausel",
+        "text": "Kleine Parteien nahe der Hürde, etwa Blau-Weiß, können die Regierungsbildung entscheiden."
+       }
+      ],
+      "quelle": "Jerusalem Post; Haaretz (Kan/Kantar), 11.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Wie es weitergeht",
+      "titel": "Droht eine weitere Wahl?",
+      "text": "Staatspräsident Herzog will nach Berichten alles tun, um eine weitere Wahlrunde zu verhindern. Umfragen deuten laut Times of Israel darauf hin, dass womöglich keine Partei genug Unterstützung für eine Regierungsbildung hat.",
+      "quelle": "Times of Israel, 12.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was wir nicht wissen",
+      "titel": "Offen bleibt",
+      "text": "Wie die Wahl ausgeht, ist offen, bei so vielen Unentschlossenen erst recht. Ob danach eine Regierung zustande kommt, ebenfalls."
+     },
+     {
+      "typ": "meinung",
+      "text": "Wen Israel wählt, entscheiden die Menschen dort. Wir sagen nicht, wen man wählen soll. Aber eines gilt für jede Regierung, auch für die nächste: Der Rechtsstaat ist keine Verhandlungsmasse, und Gerichtsentscheidungen sind bindend.",
+      "handlung": "Frag dich: Woran erkennst du, dass ein Rechtsstaat funktioniert?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Woran erkennst du einen starken Rechtsstaat?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Westjordanland: Armee soll „dauerhaft“ bleiben, Gericht verlangt Zeitplan",
+    "caption": "Israels Oberster Gerichtshof verlangt einen Zeitplan, wie Vertriebene in die Lager Dschenin, Tulkarm und Nur Schams im Westjordanland zurückkehren können. Verteidigungsminister Katz sagt, die Armee bleibe dort dauerhaft, Sicherheit sei nicht Sache des Gerichts. Der Internationale Gerichtshof nannte Israels Präsenz in den besetzten Gebieten 2024 rechtswidrig. Unsere Meinung: Der Rechtsstaat gilt für alle, auch für Regierungen. Muss sich eine Regierung an Gerichtsurteile halten?",
+    "hashtags": "#doytschlandtv #aktuell #israel #westjordanland #völkerrecht #rechtsstaat #katz #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Westjordanland · Rechtsstaat",
+      "titel": "Armee bleibt „dauerhaft“, Gericht will Zeitplan: Streit um Lager im Westjordanland",
+      "rot": "Gericht will Zeitplan",
+      "bild": {
+       "url": "titel-israel-westbank.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Streit",
+      "titel": "Ein Gericht verlangt einen Zeitplan.",
+      "text": "Israels Oberster Gerichtshof verlangte am 11.10. einen Zeitplan für Schritte, die eine Rückkehr der Vertriebenen in die Lager Dschenin, Tulkarm und Nur Schams im nördlichen Westjordanland ermöglichen. Eine sofortige Rückkehr ordnete er nicht an. Die Stellungnahme ist bis zum 23. November fällig.",
+      "quelle": "Times of Israel; VINnews, 12./13.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Lager",
+      "zahl": "40.000",
+      "text": "Menschen haben die Lager laut Verteidigungsminister Katz während der Armeeoperationen verlassen. Die Armee räumte sie 2025 als Teil der Operation „Eiserne Mauer“. Das Gericht erkennt an, dass die Sicherheitslage eine Rückkehr noch nicht zulässt.",
+      "quelle": "VINnews; Times of Israel, 12./13.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer sagt was",
+      "titel": "Drei Positionen",
+      "punkte": [
+       {
+        "kopf": "Gericht",
+        "text": "Die Armee soll darlegen, wann eine Rückkehr möglich wäre, und ob sich der Prozess beschleunigen lässt."
+       },
+       {
+        "kopf": "Katz",
+        "text": "Die Präsenz in den Lagern sei dauerhaft, Sicherheit sei Sache der Armee, nicht der Justiz. Notfalls strebt er ein Gesetz in der Knesset an."
+       },
+       {
+        "kopf": "Smotrich",
+        "text": "Der Finanzminister fordert, die Armee solle nicht mit dem Gericht kooperieren."
+       }
+      ],
+      "quelle": "VINnews; Times of Israel, 12./13.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Völkerrecht",
+      "titel": "Besatzung ist vorübergehend",
+      "text": "Eine Besatzung ist nach Völkerrecht grundsätzlich vorübergehend. Der Internationale Gerichtshof stellte am 19.7.2024 fest, Israels Präsenz in den besetzten Gebieten sei rechtswidrig und müsse so schnell wie möglich enden. Das Gutachten ist nicht rechtsverbindlich.",
+      "quelle": "LTO, Gutachten des IGH vom 19.7.2024"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was wir nicht wissen",
+      "titel": "Offen bleibt",
+      "text": "Ob die Armee bis zum 23. November einen Zeitplan vorlegt, ist offen. Ob die Knesset ein Gesetz beschließt, das die Gerichtsvorgabe aushebelt, ebenfalls."
+     },
+     {
+      "typ": "meinung",
+      "text": "Eine Besatzung ist nach Völkerrecht vorübergehend. Wer sie „dauerhaft“ nennt, stellt sich gegen das Völkerrecht, wie es der Internationale Gerichtshof beschrieben hat. Sicherheit ist ein legitimes Interesse, aber sie hebt weder Gerichtsurteile noch die Rechte der Vertriebenen auf. Ein Rechtsstaat gilt für alle, auch für Regierungen, denen ein Urteil nicht gefällt.",
+      "handlung": "Frag dich: Wer prüft eine Regierung, wenn nicht ihre Gerichte?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Muss sich eine Regierung an Gerichtsurteile halten?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -664,6 +814,40 @@ window.BRIEFINGS = [
     "theme": "dark",
     "bild": {
      "url": "titel-rente.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, kein Foto · Karussell: Link in der Bio"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Israel · Wahl",
+    "titel": "Israel wählt am 27. Oktober: Keine Umfrage sieht eine Mehrheit",
+    "rot": "27. Oktober",
+    "text": "",
+    "quelle": "Times of Israel, Jerusalem Post, Haaretz, Oktober 2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-israel-wahl.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, kein Foto · Karussell: Link in der Bio"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Westjordanland · Rechtsstaat",
+    "titel": "Armee bleibt „dauerhaft“, Gericht will Zeitplan",
+    "rot": "Gericht will Zeitplan",
+    "text": "",
+    "quelle": "Times of Israel, VINnews, 12./13.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-israel-westbank.jpg",
      "karte": true,
      "fokus": 0.5,
      "unter": "Illustration, kein Foto · Karussell: Link in der Bio"
