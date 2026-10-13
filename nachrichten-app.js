@@ -49,7 +49,43 @@
       cv.setAttribute("aria-label", "Slide " + (i + 1) + " von " + k.slides.length + ": " + (s.titel || s.zahl || s.text || s.behauptung || s.typ));
       row.appendChild(cv); cvs.push(cv);
     });
-    stage.appendChild(row);
+    var wrap = el("div", "f-wrap"); wrap.appendChild(row);
+    /* Desktop: Pfeile, Maus-Ziehen und Pfeiltasten, damit man auch ohne Touchscreen durch die Slides kommt */
+    var prv = el("button", "f-nav prv", "\u2039"), nxt = el("button", "f-nav nxt", "\u203A");
+    prv.type = nxt.type = "button"; prv.setAttribute("aria-label", "Vorherige Slide"); nxt.setAttribute("aria-label", "Nächste Slide");
+    wrap.appendChild(prv); wrap.appendChild(nxt);
+    function cur() { return Math.round(row.scrollLeft / Math.max(1, row.clientWidth)); }
+    function go(i) { i = Math.max(0, Math.min(cvs.length - 1, i)); row.scrollTo({ left: i * row.clientWidth, behavior: "smooth" }); }
+    function navState() { var i = cur(); prv.hidden = i <= 0; nxt.hidden = i >= cvs.length - 1; }
+    prv.addEventListener("click", function () { go(cur() - 1); });
+    nxt.addEventListener("click", function () { go(cur() + 1); });
+    row.tabIndex = 0; row.setAttribute("aria-label", "Slides von " + k.thema + ", mit den Pfeiltasten wechseln");
+    row.addEventListener("keydown", function (e) {
+      if (e.key === "ArrowRight") { e.preventDefault(); go(cur() + 1); } else if (e.key === "ArrowLeft") { e.preventDefault(); go(cur() - 1); }
+    });
+    var dx0 = null, sl0 = 0, moved = false, startIdx = 0;
+    row.addEventListener("pointerdown", function (e) {
+      if (e.pointerType !== "mouse" || e.button !== 0) return;
+      dx0 = e.clientX; sl0 = row.scrollLeft; moved = false; startIdx = cur();
+    });
+    window.addEventListener("pointermove", function (e) {
+      if (dx0 == null) return;
+      var d = e.clientX - dx0;
+      if (!moved && Math.abs(d) < 5) return;
+      if (!moved) { moved = true; row.classList.add("drag"); }
+      row.scrollLeft = sl0 - d;
+    });
+    function release(e) {
+      if (dx0 == null) return;
+      var d = e.clientX - dx0; dx0 = null;
+      if (!moved) return;
+      row.classList.remove("drag");
+      var w = row.clientWidth, i = startIdx;
+      if (d < -w * 0.15) i = startIdx + 1; else if (d > w * 0.15) i = startIdx - 1;
+      go(i);
+    }
+    window.addEventListener("pointerup", release); window.addEventListener("pointercancel", release);
+    stage.appendChild(wrap);
     var rail = el("div", "f-rail");
     function act(cls, icon, label, fn) {
       var b = el("button", "f-act " + cls); b.type = "button"; b.setAttribute("aria-label", label);
@@ -68,7 +104,9 @@
     row.addEventListener("scroll", function () {
       var i = Math.round(row.scrollLeft / Math.max(1, row.clientWidth));
       [].forEach.call(dots.children, function (d, j) { d.className = j === i ? "on" : ""; });
+      navState();
     }, { passive: true });
+    navState();
     if (idx === 0) sec.appendChild(el("div", "f-hint", "Nach oben wischen für das nächste Karussell · seitlich für die Slides"));
     sec._cvs = cvs; sec._k = k; sec._drawn = false;
     return sec;
