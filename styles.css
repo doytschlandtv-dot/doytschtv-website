@@ -463,3 +463,8 @@ a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
   .nav ul { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.45rem; justify-content: stretch; }
   .nav ul a { padding: 0.5rem 0.2rem; font-size: 0.66rem; letter-spacing: 0.08em; }
 }
+.nav-so { display: flex; gap: 0.4rem; align-items: center; }
+.nav-so a { display: grid; place-items: center; width: 2.25rem; height: 2.25rem; border-radius: 50%; background: var(--accent); color: var(--accent-fg, #fff); transition: opacity .2s; }
+.nav-so a:hover { opacity: .85; }
+.nav-so a:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+.nav-so svg { width: 1.2rem; height: 1.2rem; }
