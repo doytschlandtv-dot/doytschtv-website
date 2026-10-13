@@ -1,5 +1,519 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-13",
+  "morgen": null,
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Stromsteuer für alle: Was 81 Euro im Jahr bringen",
+    "caption": "Kanzler Merz will die Stromsteuer für alle auf das EU-Mindestmaß senken. Beschlossen ist das nicht: Das CDU-Papier nennt es ein Ziel, ohne Zeitplan. Bei 3.500 kWh wären es rund 81 Euro im Jahr, etwa 6,75 Euro im Monat, wenn der Anbieter voll weitergibt. Das Finanzministerium bezifferte die Kosten 2025 auf rund 5,4 Milliarden Euro im Jahr. Unsere Meinung: Das spürt man nicht, das als Entlastung zu propagieren ist grotesk. Ab wann ist Entlastung für dich Entlastung?",
+    "hashtags": "#doytschlandtv #aktuell #stromsteuer #entlastung #energiepreise #merz #haushalt #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Energie · Entlastung",
+      "titel": "Stromsteuer für alle: Was 81 Euro im Jahr bringen",
+      "rot": "81 Euro im Jahr"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Ankündigung",
+      "titel": "Stromsteuer für alle, aber nur als Ziel.",
+      "text": "Nach der CDU-Klausur kündigte Kanzler Merz an, die Stromsteuer für alle auf das EU-Mindestmaß zu senken. Beschlossen ist das nicht: Das Papier nennt es ein Ziel, ohne Zeitplan und ohne Gesetzentwurf.",
+      "quelle": "Tagesspiegel, Handelsblatt, ZDFheute, 12.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Pro Jahr",
+      "zahl": "81 Euro",
+      "text": "Das sind rund 6,75 Euro im Monat bei 3.500 kWh Jahresverbrauch. Gerechnet vom Satz 2,05 auf 0,10 Cent je kWh, plus Mehrwertsteuer, und nur, wenn der Anbieter die Senkung voll weitergibt.",
+      "quelle": "ms-aktuell, 12.10.2026; eigene Rechnung"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Das Versprechen",
+      "titel": "Zugesagt, vertagt, wieder Ziel.",
+      "text": "Der Koalitionsvertrag versprach die Senkung für alle. Im Juli 2025 vertagte der Koalitionsausschuss sie wegen Haushaltszwängen. Seitdem gilt sie nur für Industrie sowie Land- und Forstwirtschaft. Jetzt steht sie wieder als Ziel im Papier.",
+      "quelle": "Stuttgarter Zeitung, 3.7.2025; Tagesspiegel, 12.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Kosten",
+      "zahl": "5,4 Mrd. Euro",
+      "text": "So viel kostet die Senkung für alle laut Bundesfinanzministerium pro Jahr. Die Angabe stammt von 2025 und ist nicht neu gerechnet.",
+      "quelle": "Stuttgarter Zeitung, 3.7.2025; Tagesspiegel, 12.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer zahlt?",
+      "titel": "Drei Antworten, keine Deckung",
+      "punkte": [
+       {
+        "kopf": "Merz",
+        "text": "Wachstum schafft Spielraum: 10 Mrd. je Prozentpunkt, 5 beim Bund. Seine Faustformel, ungeprüft."
+       },
+       {
+        "kopf": "Klingbeil",
+        "text": "Finanzierung offen. Dass Wachstum sie dauerhaft bezahlt, kann er nicht bestätigen."
+       },
+       {
+        "kopf": "Fraktionschefs",
+        "text": "Länder-Union will lieber niedrigere Sozialbeiträge statt Einkommensteuerreform."
+       },
+       {
+        "kopf": "Das Papier",
+        "text": "Nennt „finanzielle Spielräume im Haushalt“, ohne sie zu beziffern."
+       }
+      ],
+      "quelle": "Handelsblatt, Tagesspiegel, 12.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was wir nicht wissen",
+      "titel": "Offen bleibt",
+      "text": "Wann die Senkung kommt, ob es einen Gesetzentwurf gibt und ob die SPD zustimmt. Ob Anbieter sie voll weitergeben, ist ebenfalls offen. Das Beschlusspapier selbst haben wir nicht gelesen, nur Berichte darüber."
+     },
+     {
+      "typ": "meinung",
+      "text": "6,75 Euro im Monat spürt man nicht. Das als Entlastung zu propagieren, ist grotesk. Echte Entlastung heißt, dass am Monatsende spürbar mehr übrig bleibt, nicht eine minimale Kürzung, die auf dem Papier gut aussieht.",
+      "handlung": "Rechne nach: Was zahlst du im Jahr für Strom, und wie viel davon wären 81 Euro?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Ab wann ist eine Entlastung für dich eine Entlastung?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Verbrenner-Aus 2035: 90 statt 100 Prozent",
+    "caption": "Die EU-Kommission will, dass neue Autos 2035 nur noch 90 statt 100 Prozent weniger CO2 ausstoßen als 2021. Die restlichen 10 Prozent sollen über grünen Stahl, E-Fuels und Biokraftstoffe ausgeglichen werden können. Merz und Macron wollen laut FAZ und Handelsblatt noch weiter lockern, die Details sind offen. Unsere Meinung: Klima und Industrie gehören zusammen, gesichert wird beides durch Innovation und Wettbewerbsfähigkeit, nicht durch Gegenmaßnahmen, die Marktwirtschaft missachten.",
+    "hashtags": "#doytschlandtv #aktuell #verbrennerverbot #eu #autoindustrie #klima #wettbewerbsfaehigkeit #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "EU · Autoindustrie",
+      "titel": "Verbrenner-Aus 2035: 90 statt 100 Prozent",
+      "rot": "90 statt 100 Prozent"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Vorschlag",
+      "titel": "Minus 90 statt minus 100 Prozent.",
+      "text": "Die EU-Kommission schlug Ende 2025 vor, die CO2-Emissionen neuer Autos bis 2035 um 90 Prozent gegenüber 2021 zu senken statt auf null. Die restlichen 10 Prozent sollen über grünen Stahl, E-Fuels und Biokraftstoffe ausgeglichen werden können, mit Obergrenzen.",
+      "quelle": "electrive, 7.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Neuwagen 2035",
+      "zahl": "−90 %",
+      "text": "Das entspricht rund 11 Gramm CO2 je Kilometer statt null. Ein festes Datum für 100 Prozent entfällt.",
+      "quelle": "electrive, 7.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Der neue Vorstoß",
+      "titel": "Merz und Macron wollen mehr lockern",
+      "text": "Laut FAZ und Handelsblatt wollen beide die Regeln weiter lockern, die Details sind offen. Frankreich gibt demnach seinen Widerstand auf, Deutschland stützt im Gegenzug strengere „Made in EU“-Regeln. Macron kündigte eine bevorstehende Einigung an.",
+      "quelle": "electrive, 7.10.2026; ZDFheute, 12.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Der Weg",
+      "titel": "Wer noch entscheidet",
+      "punkte": [
+       {
+        "kopf": "Verkehrsausschuss",
+        "text": "Abstimmung um etwa zwei Wochen verschoben, geplant war der 5.10."
+       },
+       {
+        "kopf": "EU-Parlament",
+        "text": "Das Plenum soll im November abstimmen, einfache Mehrheit reicht."
+       },
+       {
+        "kopf": "EU-Rat",
+        "text": "Braucht 15 Staaten mit zusammen 65 Prozent der EU-Bevölkerung."
+       }
+      ],
+      "quelle": "electrive, 7.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was wir nicht wissen",
+      "titel": "Offen bleibt",
+      "text": "Was Merz und Macron genau vereinbaren, ist nicht veröffentlicht. Zu Jobzahlen und Positionen von Herstellern und Umweltverbänden fanden wir nichts Belastbares. Das Kommissionsdokument selbst haben wir nicht gelesen."
+     },
+     {
+      "typ": "meinung",
+      "text": "Klima und Industrie gehören zusammen. Dauerhaft sichert man beides durch Innovation, die Wettbewerbsfähigkeit und Standortattraktivität erhöht, nicht durch Gegenmaßnahmen, die marktwirtschaftliche Instrumente missachten.",
+      "handlung": "Frag bei jeder Autopolitik: Was stärkt Innovation, was schützt nur den Status quo?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Klimaziel oder Standort: Muss man sich wirklich entscheiden?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Tankerangriffe bei Hormus: Ölpreis nahe 100 Dollar",
+    "caption": "Seit dem 2. Oktober meldet die britische Schifffahrtsstelle UKMTO mindestens einen Angriff pro Tag in der Straße von Hormus oder im Golf von Aden. Brent lag am 6. Oktober bei 99,57 Dollar, vor dem Krieg waren es etwa 72. Angriffe auf Handelsschiffe und Seeleute sind ein Völkerrechtsbruch. Unsere Meinung: Wir sehen nur den Preis bei uns, dahinter steckt die Frage, welche Rolle Deutschland in der Weltpolitik spielen muss.",
+    "hashtags": "#doytschlandtv #aktuell #hormus #oelpreis #iran #energie #voelkerrecht #weltpolitik #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Iran · Energie",
+      "titel": "Tankerangriffe bei Hormus: Ölpreis nahe 100 Dollar",
+      "rot": "Ölpreis nahe 100 Dollar"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was gemeldet wird",
+      "titel": "Fast täglich Angriffe auf Tanker.",
+      "text": "Seit dem 2. Oktober meldet die britische Schifffahrtsstelle UKMTO mindestens einen Angriff pro Tag in der Straße von Hormus oder im Golf von Aden. Am 6. Oktober wurden 12 Seeleute auf einem Tanker verletzt. Am Montag meldeten die Revolutionsgarden nach eigenen Angaben den dritten Tankerangriff in zwei Tagen.",
+      "quelle": "Al Jazeera, 6.10.2026; ZDFheute, 12.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Brent, 6.10.",
+      "zahl": "99,57 $",
+      "text": "So viel kostete ein Barrel Brent, vor dem Krieg waren es etwa 72 Dollar. Die G7 kündigten bis zu 100 Millionen Barrel aus strategischen Reserven an.",
+      "quelle": "Al Jazeera, 6.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Meerenge",
+      "titel": "Ein Fünftel von Öl und Gas",
+      "text": "Vor dem Krieg liefen rund 20 Prozent des weltweit gehandelten Rohöls und Flüssiggases durch die Meerenge. Laut Kpler gehen inzwischen etwa 40 Prozent der Exporte an ihr vorbei, vor allem über Saudi-Arabiens Pipeline ans Rote Meer.",
+      "quelle": "Al Jazeera, 6.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer sagt was",
+      "titel": "Iran, USA, Ölkonzern",
+      "punkte": [
+       {
+        "kopf": "Iran",
+        "text": "Es kontrolliere die Meerenge weiter, die Ölmengen seien „vernachlässigbar“."
+       },
+       {
+        "kopf": "USA",
+        "text": "Halten eine Blockade iranischer Häfen aufrecht."
+       },
+       {
+        "kopf": "Aramco-Chef",
+        "text": "„Das System ist bereits angespannt.“ Fast 3 Mrd. Barrel Angebot seit Februar verloren."
+       },
+       {
+        "kopf": "Lager",
+        "text": "Sie wieder aufzufüllen, kann laut Aramco-Chef bis zu zwei Jahre dauern."
+       }
+      ],
+      "quelle": "Al Jazeera, 6.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Völkerrecht",
+      "titel": "Handelsschiffe sind zivil",
+      "text": "Gezielte Angriffe auf Handelsschiffe und ihre Besatzungen sind nach humanitärem Völkerrecht grundsätzlich verboten, solange es zivile Schiffe sind. Das gilt für alle Seiten gleich."
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was wir nicht wissen",
+      "titel": "Offen bleibt",
+      "text": "Wie stark die Lage Sprit- und Heizkosten in Deutschland bewegt, haben wir nicht belegt. Der Ölpreis ist vom 6.10., aktuelle Kurse sind zu prüfen. Die Angaben der Revolutionsgarden sind ihre eigenen."
+     },
+     {
+      "typ": "meinung",
+      "text": "Wir sehen nur den Preis bei uns. Dahinter steckt eine Machtfrage: Welche Rolle muss Deutschland in der Weltpolitik spielen? Wer neue Partnerschaften aufbaut, bestehende überdenkt und die eigenen geografischen und strategischen Stärken einsetzt, wundert sich nicht nur über Preise, die ihn direkt treffen. Angriffe auf Handelsschiffe und Seeleute sind ein Völkerrechtsbruch.",
+      "handlung": "Frag bei jedem Preissprung: Wer entscheidet, und wo stehen wir?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Welche Rolle muss Deutschland in der Weltpolitik spielen?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "65.000 ohne Abschluss: Was die Zahl heißt und was nicht",
+    "caption": "Im Schuljahr 2024/25 verließen knapp 65.000 junge Menschen die Schule ohne ersten Abschluss, 8,4 Prozent, der höchste Wert seit rund 20 Jahren. Bildungsforscher warnen davor, alle als Abbrecher zu lesen. Das Kita-Gesetz sieht Sprach- und Entwicklungstests für alle Vierjährigen vor. Unsere Meinung: Sprache entwickelt sich im freien Raum, Menschen mit wenig Deutsch brauchen Räume zur Entfaltung, die Familiensprache ist eine Stärke.",
+    "hashtags": "#doytschlandtv #aktuell #bildung #schule #sprache #kita #integration #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Bildung · Schule",
+      "titel": "65.000 ohne Abschluss: Was die Zahl heißt und was nicht",
+      "rot": "65.000 ohne Abschluss"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Zahl",
+      "titel": "8,4 Prozent verlassen die Schule ohne Abschluss.",
+      "text": "Im Schuljahr 2024/25 verließen knapp 65.000 Schülerinnen und Schüler die allgemeinbildenden Schulen ohne ersten Abschluss. Das ist der höchste Wert seit rund 20 Jahren. 2014/15 waren es 47.400.",
+      "quelle": "Destatis laut ZDFheute und news4teachers, 9.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Naheliegende Lesart",
+      "behauptung": "Alle 65.000 sind Abbrecher.",
+      "labelB": "Die Einordnung",
+      "fakt": "Bildungsforscher Maaz warnt davor: Viele kommen von Förderschulen. Ministerin Prien sagt, viele holten den Abschluss später an beruflichen Schulen nach.",
+      "quelle": "ZDFheute, news4teachers, 9.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Ursachen",
+      "titel": "Sprache ist ein Faktor, nicht der einzige",
+      "text": "Der Lehrerverband nennt Sprachprobleme als einen Faktor unter mehreren. Eine Aufschlüsselung nach Staatsangehörigkeit liegt in unseren Quellen nicht vor, daher ziehen wir keine Schlüsse über Gruppen.",
+      "quelle": "news4teachers, 9.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Das Kita-Gesetz",
+      "titel": "Was der Entwurf vorsieht",
+      "punkte": [
+       {
+        "kopf": "Tests",
+        "text": "Sprach- und Entwicklungstests für alle Vierjährigen, auch ohne Kita-Besuch."
+       },
+       {
+        "kopf": "Personal",
+        "text": "Kitas mit vielen Kindern in schwierigen Lagen: bis zu 1,5 zusätzliche Stellen."
+       },
+       {
+        "kopf": "Kriterien",
+        "text": "Unter anderem Bedürftigkeit, nicht deutsche Familiensprache, auffällige Sprachentwicklung."
+       },
+       {
+        "kopf": "Geld",
+        "text": "Der Bund gibt bis 2034 insgesamt 9,25 Mrd. Euro, Start schrittweise ab 2027."
+       }
+      ],
+      "quelle": "ZDFheute, Oktober 2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was wir nicht wissen",
+      "titel": "Offen bleibt",
+      "text": "Wann der Bundestag den Entwurf berät, ist nicht belegt. Die Destatis-Mitteilung und den Gesetzentwurf selbst haben wir nicht gelesen, nur Berichte darüber."
+     },
+     {
+      "typ": "meinung",
+      "text": "Sprache entwickelt sich im freien Raum, auf der Straße, auf dem Spielplatz. Verbindlich verordnen lässt sie sich schwer. Menschen mit wenig Deutsch brauchen Räume, in denen sie sich entfalten können. Die Familiensprache ist dabei eine Stärke, kein Makel.",
+      "handlung": "Frag bei jeder Förderung: Schafft sie Räume zum Sprechen oder nur Tests?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie schaffen wir Räume, in denen Kinder Deutsch wirklich sprechen?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Azubis nennen deutlich häufiger Gewalt als Studierende",
+    "caption": "Laut einer Forsa-Umfrage im Auftrag der Unfallversicherung DGUV nennen Azubis häufiger Beschimpfungen (42 zu 23 Prozent), Mobbing (28 zu 12 Prozent) und Gewalt (14 zu 3 Prozent) als Studierende, erlebt oder beobachtet. Stichprobe und Methodik haben wir nicht gefunden. Unsere Meinung: Wer ausbildet, trägt Verantwortung für die Menschen. Die Betriebe stehen in der Pflicht.",
+    "hashtags": "#doytschlandtv #aktuell #ausbildung #azubi #mobbing #gewalt #arbeitsschutz #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Ausbildung · Arbeit",
+      "titel": "Azubis nennen deutlich häufiger Gewalt als Studierende",
+      "rot": "häufiger Gewalt"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Umfrage",
+      "titel": "Forsa im Auftrag der Unfallversicherung.",
+      "text": "Die Deutsche Gesetzliche Unfallversicherung (DGUV) ließ Azubis und Studierende befragen, ob sie Beschimpfungen, Mobbing oder Gewalt erlebt oder beobachtet haben. Stichprobe und Methodik haben wir nicht gefunden.",
+      "quelle": "dpa-AFX über onvista, 13.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Azubis zu Studierenden",
+      "titel": "Erlebt oder beobachtet",
+      "punkte": [
+       {
+        "kopf": "Beschimpfungen",
+        "text": "Azubis 42 Prozent, Studierende 23 Prozent."
+       },
+       {
+        "kopf": "Mobbing",
+        "text": "Langfristiges Ausgrenzen: Azubis 28 Prozent, Studierende 12 Prozent."
+       },
+       {
+        "kopf": "Gewalt",
+        "text": "Körperliche Angriffe: Azubis 14 Prozent, Studierende 3 Prozent."
+       }
+      ],
+      "quelle": "dpa-AFX über onvista, 13.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Auffällig",
+      "titel": "Mehr Schutzwissen, mehr Vorfälle",
+      "text": "91 Prozent der Azubis wurden über Unfall- und Gesundheitsschutz informiert, bei Studierenden 53 Prozent. 72 Prozent der Azubis fühlen sich gut vorbereitet, bei Studierenden 40 Prozent. Warum sie trotzdem mehr Vorfälle nennen, sagt die Umfrage nicht.",
+      "quelle": "dpa-AFX über onvista, 13.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was wir nicht wissen",
+      "titel": "Offen bleibt",
+      "text": "Stichprobe, Methodik und was die Befragten unter „Gewalt“ verstehen, steht nicht in der Meldung. Die Zahlen sind Angaben in einer Umfrage, keine Anzeigen. Die Primärquelle der DGUV haben wir nicht gefunden."
+     },
+     {
+      "typ": "meinung",
+      "text": "Wer ausbildet, trägt Verantwortung für die Menschen, nicht nur für die Arbeitskraft. Gewalt und Mobbing in der Ausbildung sind Sache der Betriebe. Die Betriebe stehen in der Pflicht.",
+      "handlung": "Wenn du ausbildest oder ausgebildet wirst: Wer ist im Betrieb die Ansprechperson?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wer schützt Azubis im Betrieb, wenn es kritisch wird?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Alberta stimmt am 19. Oktober über seine Zukunft in Kanada ab",
+    "caption": "Am 19. Oktober stimmt die kanadische Provinz Alberta ab: Soll Alberta Provinz Kanadas bleiben, oder soll der rechtliche Prozess für ein bindendes Referendum über die Abspaltung beginnen? Die Abstimmung ist nicht bindend. In allen Umfragen führt „Bleiben“. Unsere Meinung: Wenn eine Region fragt, ob sie dazugehören will, geht es um Zusammenhalt, auch bei uns.",
+    "hashtags": "#doytschlandtv #aktuell #alberta #kanada #referendum #zusammenhalt #abspaltung #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Kanada · Zusammenhalt",
+      "titel": "Alberta stimmt am 19. Oktober über seine Zukunft in Kanada ab",
+      "rot": "19. Oktober"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Abstimmung",
+      "titel": "Bleiben oder den Weg zur Abspaltung beginnen.",
+      "text": "Am 19.10. stimmen die Menschen in der kanadischen Provinz Alberta ab: Soll Alberta Provinz Kanadas bleiben, oder soll der rechtliche Prozess für ein bindendes Referendum über die Abspaltung beginnen? Die Abstimmung ist nicht bindend.",
+      "quelle": "Wikipedia-Übersicht; Angus Reid, Mai 2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Umfragen",
+      "zahl": "60–74 %",
+      "text": "wollen laut acht Umfragen zwischen Mai und August bleiben. 19 bis 35 Prozent sind für den Weg zur Abspaltung. Neuere Umfragen haben wir nicht. Die Hälfte der Befragten fand die Frage laut Angus Reid (Mai) verwirrend.",
+      "quelle": "Wikipedia-Übersicht; Angus Reid, Mai 2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Wie es dazu kam",
+      "titel": "Ein Gericht, eine Premierministerin",
+      "text": "Am 13. Mai kippte ein Gericht die Unterschriftensammlung der Separatisten, weil indigene Völker nicht konsultiert worden waren. Premierministerin Smith nannte das undemokratisch und nahm am 21. Mai die jetzige Frage auf den Stimmzettel.",
+      "quelle": "Wikipedia-Übersicht, 2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer wirbt wofür",
+      "titel": "Zwei Lager",
+      "punkte": [
+       {
+        "kopf": "Bleiben",
+        "text": "Unter anderem Harper, Kenney, Notley und Poilievre."
+       },
+       {
+        "kopf": "Abspaltung",
+        "text": "Alberta Prosperity Project, Independence Party, Wildrose Independence Party, Parti Québécois."
+       },
+       {
+        "kopf": "Verfassung",
+        "text": "Eine Abspaltung bräuchte eine Verfassungsänderung, einseitig ist sie nicht vorgesehen."
+       }
+      ],
+      "quelle": "Wikipedia-Übersicht, 2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was wir nicht wissen",
+      "titel": "Offen bleibt",
+      "text": "Wie Premierminister Carney zur Abstimmung steht, haben wir außer seinem Aufruf zur Einheit nicht belegt. Die Umfragen reichen bis August. Eine Primärquelle der Wahlbehörde haben wir nicht gelesen."
+     },
+     {
+      "typ": "meinung",
+      "text": "Eine Region fragt, ob sie dazugehören will. Das ist eine Warnung. Zusammenhalt entsteht nicht von selbst, gerade wenn sich Gesellschaften gespalten fühlen. In Deutschland kennen wir aus DDR-Zeiten, was Trennung bedeutet. Ein Blick auf unsere Bundesländer lohnt sich.",
+      "handlung": "Frag dich: Was hält unser Land zusammen, und was drängt Regionen auseinander?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Was hält ein Land zusammen?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Energie · Entlastung",
+    "titel": "Stromsteuer für alle: Was 81 Euro im Jahr bringen",
+    "rot": "81 Euro im Jahr",
+    "text": "Merz will die Stromsteuer für alle senken, beschlossen ist es nicht. Rund 6,75 Euro im Monat, bei Kosten von etwa 5,4 Mrd. Euro. Wer zahlt, ist offen. Karussell: Link in der Bio.",
+    "quelle": "Tagesspiegel, Handelsblatt, 12.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "EU · Autoindustrie",
+    "titel": "Verbrenner-Aus 2035: 90 statt 100 Prozent",
+    "rot": "90 statt 100 Prozent",
+    "text": "Die EU-Kommission will 2035 minus 90 statt minus 100 Prozent CO2. Merz und Macron wollen laut Berichten noch weiter lockern. Karussell: Link in der Bio.",
+    "quelle": "electrive, ZDFheute, 7. und 12.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Iran · Energie",
+    "titel": "Tankerangriffe bei Hormus: Ölpreis nahe 100 Dollar",
+    "rot": "Ölpreis nahe 100 Dollar",
+    "text": "Seit dem 2. Oktober fast täglich Angriffe auf Tanker. Brent lag am 6.10. bei 99,57 Dollar, vor dem Krieg bei etwa 72. Karussell: Link in der Bio.",
+    "quelle": "Al Jazeera, ZDFheute, 6. und 12.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Bildung · Schule",
+    "titel": "65.000 ohne Abschluss: Was die Zahl heißt und was nicht",
+    "rot": "65.000 ohne Abschluss",
+    "text": "8,4 Prozent verließen 2024/25 die Schule ohne ersten Abschluss, der höchste Wert seit rund 20 Jahren. Viele holen ihn später nach. Karussell: Link in der Bio.",
+    "quelle": "Destatis laut ZDFheute, 9.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Ausbildung · Arbeit",
+    "titel": "Azubis nennen deutlich häufiger Gewalt als Studierende",
+    "rot": "häufiger Gewalt",
+    "text": "Gewalt erlebt oder beobachtet: 14 Prozent der Azubis, 3 Prozent der Studierenden. Mehr zur Umfrage und was wir nicht wissen im Karussell, Link in der Bio.",
+    "quelle": "Forsa für DGUV, dpa-AFX, 13.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Kanada · Zusammenhalt",
+    "titel": "Alberta stimmt am 19. Oktober über seine Zukunft in Kanada ab",
+    "rot": "19. Oktober",
+    "text": "Bleiben oder den Weg zur Abspaltung beginnen: In allen Umfragen führt „Bleiben“. Die Abstimmung ist nicht bindend. Karussell: Link in der Bio.",
+    "quelle": "Wikipedia-Übersicht, Angus Reid, 2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-11",
   "morgen": {
    "titel": "Morning Briefing",
