@@ -472,6 +472,81 @@ window.BRIEFINGS = [
       "frage": "Was hält ein Land zusammen?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Neuer Arbeitsminister, alter Rentenstreit: Merz will Tempo",
+    "caption": "Nach dem Rücktritt von Bärbel Bas, die nach einem Trauerfall in ihrer Familie aufhörte, ist Alexander Schweitzer (SPD) neuer Arbeitsminister. Kanzler Merz fordert von ihm Tempo bei der Rente: Kabinett noch 2026, Bundestag im ersten Quartal 2027. Umstritten ist der Vorschlag der Rentenkommission, die abschlagsfreie Frührente nach 45 Beitragsjahren abzuschaffen. Unsere Meinung: Das ist falsch, und eine Rentenreform braucht Gründlichkeit statt Tempo ab Tag eins. Frührente nach 45 Jahren: behalten oder abschaffen?",
+    "hashtags": "#doytschlandtv #aktuell #rente #rentenreform #schweitzer #arbeitsminister #merz #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Rente · Koalition",
+      "titel": "Neuer Arbeitsminister, alter Rentenstreit: Merz will Tempo",
+      "rot": "alter Rentenstreit",
+      "bild": {
+       "url": "titel-rente.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Wechsel",
+      "titel": "Schweitzer folgt auf Bas.",
+      "text": "Bärbel Bas trat am Montag nach einem Trauerfall in ihrer Familie zurück, auch als SPD-Vorsitzende. Bundespräsident Steinmeier ernannte am Dienstag Alexander Schweitzer (SPD), früher Ministerpräsident von Rheinland-Pfalz, zum neuen Arbeitsminister. Steinmeier kritisierte dabei das Debattenklima, besonders in sozialen Medien.",
+      "quelle": "dpa-AFX, 13.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Der Zeitplan",
+      "zahl": "Q1 2027",
+      "text": "soll die Rentenreform in den Bundestag. Merz fordert, dass der Gesetzentwurf noch dieses Jahr ins Kabinett kommt. Die Vorschläge der Rentenkommission liegen seit Juni vor, ein Entwurf fehlt noch.",
+      "quelle": "dpa, 13.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Der Streitpunkt",
+      "titel": "Frührente nach 45 Jahren",
+      "punkte": [
+       {
+        "kopf": "Der Vorschlag",
+        "text": "Die Rentenkommission will den abschlagsfreien Renteneintritt nach 45 Beitragsjahren abschaffen. Auch mit Abschlägen wäre ein Renteneintritt vor 64 nicht mehr möglich."
+       },
+       {
+        "kopf": "Merz",
+        "text": "Er nennt das Ende dieser Frühverrentung gerechter."
+       },
+       {
+        "kopf": "Widerstand",
+        "text": "In der CDU gibt es Widerstand, mehrere Ministerpräsidenten wollen die Regelung erhalten."
+       }
+      ],
+      "quelle": "dpa, 13.10.2026; infranken.de (nach Bild), 13.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Mehr im Paket",
+      "titel": "Nicht nur die Frührente",
+      "text": "Die Kommission schlägt außerdem vor: Das Rentenalter soll über 67 hinaus steigen, der Nachhaltigkeitsfaktor ab 2031 wieder greifen, Selbstständige und Politiker sollen einzahlen, Beamte nicht.",
+      "quelle": "infranken.de (nach Bild), 13.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was wir nicht wissen",
+      "titel": "Offen bleibt",
+      "text": "Was im Referentenentwurf stehen wird, ist offen. Ob sich Union und SPD bei der Frührente einigen, ebenfalls."
+     },
+     {
+      "typ": "meinung",
+      "text": "Die Abschaffung der Frührente nach 45 Beitragsjahren halten wir für falsch. Eine Rentenreform betrifft Millionen Menschen. Sie braucht Gründlichkeit, nicht Tempo ab dem ersten Tag.",
+      "handlung": "Frag dich: Was ist für dich nach 45 Arbeitsjahren fair?"
+     },
+     {
+      "typ": "cta",
+      "frage": "Frührente nach 45 Jahren: behalten oder abschaffen?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -575,6 +650,23 @@ window.BRIEFINGS = [
      "karte": true,
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Rente · Koalition",
+    "titel": "Neuer Arbeitsminister: Merz will Tempo bei der Rente",
+    "rot": "Tempo bei der Rente",
+    "text": "",
+    "quelle": "dpa-AFX, 13.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-rente.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, kein Foto · Karussell: Link in der Bio"
     }
    }
   ]
