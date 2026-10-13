@@ -25,7 +25,6 @@
   document.documentElement.style.overflow = "hidden";
   var done = false, tm, idx = 0, tr = ov.querySelector(".pu-tr"), ds = ov.querySelectorAll(".pu-dots i");
   function go(i) { idx = i; tr.scrollTo({ left: i * tr.clientWidth, behavior: "smooth" }); for (var k = 0; k < ds.length; k++) ds[k].className = k === i ? "on" : ""; }
-  if (!rm) setTimeout(function () { if (!done) tm = setInterval(function () { go((idx + 1) % cards.length); }, 1700); }, 5200);
   function end() {
     if (done) return; done = true; clearInterval(tm);
     try { sessionStorage.setItem(KEY, "1"); } catch (e) {}
@@ -37,7 +36,6 @@
   ov.querySelector(".in-go").addEventListener("click", end); ov.querySelector(".in-sk").addEventListener("click", end);
   document.addEventListener("keydown", key);
   var s1 = ov.querySelector(".in-s1"), s2 = ov.querySelector(".in-s2");
-  setTimeout(function () { if (!done) s1.classList.add("go"); }, rm ? 2800 : 3300);
-  setTimeout(function () { if (!done) s2.classList.add("on"); }, rm ? 3400 : 3900);
-  setTimeout(function () { var g = ov.querySelector(".in-go"); if (g && !done) g.focus({ preventScroll: true }); }, rm ? 4000 : 4700);
+  setTimeout(function () { if (!done) s1.classList.add("go"); }, rm ? 1900 : 2200);
+  setTimeout(end, rm ? 2500 : 2900);
 })();

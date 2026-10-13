@@ -1,10 +1,10 @@
 /* Intro: Papierweiß, Story-Ring kommt langsam von oben, dann Name und Slogan */
 .in-ov{position:fixed;inset:0;z-index:99999;background:#f8f7f2;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1.4rem;opacity:1;transition:opacity .7s ease}
 .in-ov.out{opacity:0;pointer-events:none}
-.in-ring{width:6.5rem;height:6.5rem;border-radius:50%;padding:4px;background:conic-gradient(#b2231c,#e0457b,#b2231c);display:grid;place-items:center;transform:translateY(-70vh);opacity:0;animation:in-drop 1.3s cubic-bezier(.22,.8,.25,1) .1s forwards}
+.in-ring{width:6.5rem;height:6.5rem;border-radius:50%;padding:4px;background:conic-gradient(#b2231c,#e0457b,#b2231c);display:grid;place-items:center;transform:translateY(-70vh);opacity:0;animation:in-drop .9s cubic-bezier(.22,.8,.25,1) .05s forwards}
 .in-ring span{width:100%;height:100%;border-radius:50%;background:#0a0a0a;border:4px solid #f8f7f2;display:grid;place-items:center;color:#f8f7f2;font:700 2.7rem/1 "Bodoni Moda",Georgia,serif}
-.in-nm{width:min(15rem,62vw);height:auto;opacity:0;transform:translateY(10px);animation:in-up .6s ease 1.4s forwards}
-.in-sl{margin:0;font:600 .78rem/1.3 Inter,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#5e5b53;text-align:center;opacity:0;transform:translateY(10px);animation:in-up .6s ease 2s forwards}
+.in-nm{width:min(15rem,62vw);height:auto;opacity:0;transform:translateY(10px);animation:in-up .5s ease .8s forwards}
+.in-sl{margin:0;font:600 .78rem/1.3 Inter,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:#5e5b53;text-align:center;opacity:0;transform:translateY(10px);animation:in-up .5s ease 1.2s forwards}
 .in-so p{margin:0 0 .9rem;font:500 .92rem/1.35 Inter,system-ui,sans-serif;color:#5e5b53}
 .in-so .pu-b{margin-bottom:.8rem}
 .in-go{background:none;border:0;color:#5e5b53;font:inherit;font-size:.92rem;text-decoration:underline;text-underline-offset:3px;cursor:pointer;padding:.5rem}
@@ -15,8 +15,8 @@
 @keyframes in-up{to{opacity:1;transform:none}}
 @media (prefers-reduced-motion:reduce){
 .in-ring{transform:none;animation:in-fade .6s ease .1s forwards}
-.in-nm{transform:none;animation:in-fade .6s ease .9s forwards}
-.in-sl{transform:none;animation:in-fade .6s ease 1.5s forwards}
+.in-nm{transform:none;animation:in-fade .5s ease .5s forwards}
+.in-sl{transform:none;animation:in-fade .5s ease .9s forwards}
 }
 @keyframes in-fade{to{opacity:1}}
 
