@@ -492,3 +492,4 @@ a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
 .mw-s strong { font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase; color: #ff6b5e; }
 .mw-s p { margin: 0.2rem 0 0; font-size: 0.95rem; line-height: 1.5; color: #f1efe8; }
 #methode.mw .pil-links .link { color: #f8f7f2; }
+.hero .sub { margin-bottom: 1.8rem; }
