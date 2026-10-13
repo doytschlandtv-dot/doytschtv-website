@@ -7,14 +7,27 @@
   try { if (sessionStorage.getItem(KEY)) return; } catch (e) {}
   window.__dtvIntro = true;
   var ov = document.createElement("div"); ov.className = "in-ov"; ov.setAttribute("role", "dialog"); ov.setAttribute("aria-modal", "true"); ov.setAttribute("aria-label", "Willkommen bei DoytschlandTv");
-  ov.innerHTML = '<div class="in-ring" aria-hidden="true"><span>D</span></div><img class="in-nm" src="logo.png" alt="DoytschlandTv" width="136" height="25"><p class="in-sl">' + SLOGAN + '</p>' +
-    '<div class="in-so"><p>Folge uns auf unseren Social-Media-Kanälen</p><div class="pu-b"><a href="' + IG + '" target="_blank" rel="noopener">' + icoIG + 'Instagram</a><a href="' + TT + '" target="_blank" rel="noopener">' + icoTT + 'TikTok</a></div><button class="in-go" type="button">Weiter zur Startseite</button></div>' +
+  var cards = [
+    ["d", "Aufhänger", "Der Tag in einem Satz", "Wischen für die Einordnung"],
+    ["", "Was wir wissen", "Fakten, mit Quelle", "Jede Zahl belegt, jede Quelle genannt."],
+    ["", "Einordnung", "Was bedeutet das?", "Fakt und Meinung klar getrennt."],
+    ["d", "Unsere Meinung", "Klar gekennzeichnet", "Meinung, keine Nachricht."],
+    ["", "Dein Part", "Speichern. Teilen. Folgen.", "Jeden Tag ein Thema."]
+  ];
+  var track = cards.map(function (c) { return '<div class="pu-c ' + c[0] + '"><div><small>' + c[1] + '</small><b>' + c[2] + '</b></div><span>' + c[3] + '</span></div>'; }).join("");
+  var dots = cards.map(function (_, i) { return "<i" + (i ? "" : ' class="on"') + "></i>"; }).join("");
+  var rm = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
+  ov.innerHTML = '<div class="in-s1"><div class="in-ring" aria-hidden="true"><span>D</span></div><img class="in-nm" src="logo.png" alt="DoytschlandTv" width="136" height="25"><p class="in-sl">' + SLOGAN + '</p></div>' +
+    '<div class="in-s2"><div class="pu-ph in-ph" aria-hidden="true"><div class="pu-sc"><div class="pu-top"><i>D</i>doytschlandtv</div><div class="pu-tr">' + track + '</div><div class="pu-dots">' + dots + '</div></div></div>' +
+    '<div class="in-so"><p>Folge uns auf unseren Social-Media-Kanälen</p><div class="pu-b"><a href="' + IG + '" target="_blank" rel="noopener">' + icoIG + 'Instagram</a><a href="' + TT + '" target="_blank" rel="noopener">' + icoTT + 'TikTok</a></div><button class="in-go" type="button">Weiter zur Startseite</button></div></div>' +
     '<button class="in-sk" type="button">Überspringen</button>';
   document.body.insertBefore(ov, document.body.firstChild);
   document.documentElement.style.overflow = "hidden";
-  var done = false;
+  var done = false, tm, idx = 0, tr = ov.querySelector(".pu-tr"), ds = ov.querySelectorAll(".pu-dots i");
+  function go(i) { idx = i; tr.scrollTo({ left: i * tr.clientWidth, behavior: "smooth" }); for (var k = 0; k < ds.length; k++) ds[k].className = k === i ? "on" : ""; }
+  if (!rm) setTimeout(function () { if (!done) tm = setInterval(function () { go((idx + 1) % cards.length); }, 2200); }, 8800);
   function end() {
-    if (done) return; done = true;
+    if (done) return; done = true; clearInterval(tm);
     try { sessionStorage.setItem(KEY, "1"); } catch (e) {}
     ov.classList.add("out"); document.documentElement.style.overflow = "";
     document.removeEventListener("keydown", key);
@@ -23,5 +36,8 @@
   function key(e) { if (e.key === "Escape") end(); }
   ov.querySelector(".in-go").addEventListener("click", end); ov.querySelector(".in-sk").addEventListener("click", end);
   document.addEventListener("keydown", key);
-  setTimeout(function () { var g = ov.querySelector(".in-go"); if (g && !done) g.focus({ preventScroll: true }); }, 6200);
+  var s1 = ov.querySelector(".in-s1"), s2 = ov.querySelector(".in-s2");
+  setTimeout(function () { if (!done) s1.classList.add("go"); }, rm ? 5200 : 7000);
+  setTimeout(function () { if (!done) s2.classList.add("on"); }, rm ? 5900 : 7700);
+  setTimeout(function () { var g = ov.querySelector(".in-go"); if (g && !done) g.focus({ preventScroll: true }); }, rm ? 6600 : 8800);
 })();
