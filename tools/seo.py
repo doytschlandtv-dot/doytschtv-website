@@ -6,7 +6,7 @@ BASE = "https://doytschtv.de"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 NAME = "DoytschlandTv"
 PAGES = {
- "index": ("DoytschlandTv – Deutschland. Auf den Punkt.", "Nachrichten, Einordnung und Haltung: Jeden Morgen ein Thema aus Politik, Wirtschaft und Gesellschaft. Klar erklärt, mit Quellen, Meinung klar gekennzeichnet."),
+ "index": ("DoytschlandTv – Deutschland. Auf den Punkt.", "Nachrichten, Einordnung und Haltung zu Politik, Wirtschaft und Gesellschaft. Fakten und Meinung getrennt, mit Quellen."),
  "nachrichten": ("Nachrichten – DoytschlandTv", "Die wichtigsten Themen des Tages als kompakte Karussells: Politik, Wirtschaft, Gesellschaft. Fakten getrennt von Meinung, mit Quellen."),
  "briefing": ("Briefing – DoytschlandTv", "Morning Briefing und Tagesrückblick von DoytschlandTv: täglich zum Lesen. Was heute ansteht und was wirklich passiert ist."),
  "meinungen": ("Meinungen und Kolumnen – DoytschlandTv", "Hier sagen wir, was wir denken. Kolumnen klar als Meinung gekennzeichnet, mit Begründung, Fakten und Quellen. Die Sache zählt, nicht die Person."),

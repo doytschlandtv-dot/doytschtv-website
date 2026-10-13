@@ -147,7 +147,7 @@
   }
   size();
   var secs = items.map(build);
-  if (!secs.length) { var e = el("section", "f-item"); e.appendChild(el("p", "f-end", "Noch keine Karussells. Jeden Morgen neu.")); secs.push(e); }
+  if (!secs.length) { var e = el("section", "f-item"); e.appendChild(el("p", "f-end", "Noch keine Karussells. Bald mehr.")); secs.push(e); }
   var end = el("section", "f-item"), box = el("div", "f-end");
   box.appendChild(el("h2", null, "Das war's für heute."));
   var p = el("p", null, "Neue Karussells jeden Morgen, die Einordnung um 19 Uhr im Tagesrückblick. "); var l = el("a", null, "Zum Briefing"); l.href = "briefing.html"; p.appendChild(l); box.appendChild(p);
