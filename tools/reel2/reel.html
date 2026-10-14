@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><title>Reels Erklärt und Dossiers</title>
+<style>
+@font-face{font-family:"Inter";src:url(../../fonts/inter-latin-wght-normal.woff2);font-weight:100 900}
+@font-face{font-family:"Bodoni Moda";src:url(../../fonts/bodoni-moda-latin-opsz-normal.woff2);font-weight:400 900}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#f8f7f2}
+#st{position:relative;width:1080px;height:1920px;overflow:hidden;background:#f8f7f2;font-family:Inter,system-ui,sans-serif;color:#0a0a0a}
+.abs{position:absolute}
+.serif{font-family:"Bodoni Moda",Georgia,serif}
+.kick{font:700 32px/1 Inter;letter-spacing:.16em;text-transform:uppercase;color:#b2231c}
+.h1{font:700 104px/1.04 "Bodoni Moda",Georgia,serif;letter-spacing:-.01em}
+.chip{position:absolute;border-radius:26px;padding:26px 36px;font:700 50px/1.1 Inter;white-space:nowrap;will-change:transform}
+.chip.k{background:#0a0a0a;color:#f8f7f2}.chip.r{background:#b2231c;color:#fff}.chip.g{background:#e4e1d6;color:#0a0a0a}
+.card{position:absolute;left:70px;right:70px;border-radius:44px;padding:60px 64px}
+.num{font:700 230px/1 "Bodoni Moda",Georgia,serif;letter-spacing:-.02em;color:#b2231c}
+.lab{font:600 52px/1.2 Inter;margin-top:26px}
+.tt{font:700 34px/1.1 Inter;letter-spacing:.14em;text-transform:uppercase;color:#5e5b53;margin-top:44px}
+.row{display:flex;gap:26px;align-items:center;font:600 58px/1.15 Inter;opacity:0;margin:26px 0}
+.row u{text-decoration:none;font:700 64px/1 Inter;width:70px;flex:none;color:#b2231c}
+.bar{height:34px;border-radius:17px;background:#cfcdc4;margin:20px 0}
+.fld{display:inline-block;border:4px solid #0a0a0a;border-radius:18px;padding:12px 24px;font:700 38px/1 Inter;margin:8px 14px 8px 0;opacity:0}
+.stamp{position:absolute;font:700 64px/1 Inter;letter-spacing:.04em;padding:22px 40px;border-radius:20px;border:7px solid #b2231c;color:#b2231c;background:#f8f7f2;opacity:0;white-space:nowrap}
+#end{inset:0;background:#f8f7f2;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:50px;opacity:0}
+#end img{width:760px;height:auto}
+#end p.cl{font:700 34px/1.2 Inter;letter-spacing:.16em;text-transform:uppercase;color:#5e5b53}
+#end p.cta{font:600 92px/1.1 "Bodoni Moda",Georgia,serif;text-align:center;padding:0 80px}
+#end p.sm{font:500 40px/1.3 Inter;color:#3b3a36;text-align:center;padding:0 90px;margin-top:-20px}
+#end p.hd{font:700 44px Inter;color:#b2231c}
+.ring{width:200px;height:200px;border-radius:50%;padding:9px;background:conic-gradient(#b2231c,#e0457b,#b2231c);display:grid;place-items:center}
+.ring span{width:100%;height:100%;border-radius:50%;background:#0a0a0a;border:9px solid #f8f7f2;display:grid;place-items:center;color:#f8f7f2;font:700 84px/1 "Bodoni Moda",Georgia,serif}
+</style></head><body><div id="st"></div>
+<script>
+const MODE=new URLSearchParams(location.search).get("m")||"erklaert";
+const $=s=>document.querySelector(s);
+const cl=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const seg=(t,a,b)=>cl((t-a)/(b-a));
+const eo=x=>1-Math.pow(1-x,3), eio=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2, eb=x=>{const c=2.70158;return 1+c*Math.pow(x-1,3)+1.70158*Math.pow(x-1,2)};
+const ST=$("#st");
+const E=(h)=>{const d=document.createElement("div");d.innerHTML=h;ST.appendChild(d.firstElementChild);return ST.lastElementChild};
+const END=(cta,sm)=>E(`<div id="end" class="abs"><div class="ring"><span>D</span></div><img src="../../logo.png" alt="DoytschlandTv"><p class="cl">Deutschland. Auf den Punkt.</p><p class="cta">${cta}</p><p class="sm">${sm}</p><p class="hd">@doytschlandtv · doytschtv.de</p></div>`);
+const fade=(el,t,a,b,c,d)=>{el.style.opacity=Math.min(seg(t,a,b),1-seg(t,c,d))};
+const rise=(el,t,a,b,dy=40)=>{el.style.transform=`translateY(${(1-eo(seg(t,a,b)))*dy}px)`};
+let R;
+if(MODE==="erklaert"){
+ const words=[["Schwellenwert","k"],["Zweitstimme","r"],["Beitragssatz","g"],["Karenzzeit","k"],["Sondervermögen","r"],["Lobbyregister","g"],["Rentenniveau","k"],["Direktvergabe","r"],["Lesungen","g"],["Drehtür","k"],["Selbstauskunft","r"],["Überhangmandat","g"]];
+ let seed=11;const rnd=()=>(seed=(seed*16807)%2147483647)/2147483647;
+ const chips=words.map((w,i)=>{const e=E(`<div class="chip ${w[1]}">${w[0]}</div>`);e.style.left=(30+rnd()*480)+"px";return {e,y0:1960+i*150,rot:(rnd()-.5)*10,sp:1+rnd()*.7,dx:(rnd()-.5)*50}});
+ const a1=E(`<div class="abs h1" style="left:70px;right:70px;top:700px;opacity:0;background:#f8f7f2;padding:14px 30px;border-radius:24px;box-shadow:0 10px 40px rgba(0,0,0,.12);width:max-content;max-width:940px">Politik hat ihre<br>eigene Sprache.</div>`);
+ const a2=E(`<div class="abs h1" style="left:70px;top:1010px;opacity:0;color:#b2231c;background:#f8f7f2;padding:14px 30px;border-radius:24px;box-shadow:0 10px 40px rgba(0,0,0,.12)">Wir übersetzen.</div>`);
+ const data=[["18,6 %","Beitragssatz zur Rente 2026","So funktioniert die Rente"],["2","Stimmen pro Wähler","Was Wahlen wirklich entscheiden"],["329","Gesetze in der 20. Wahlperiode verkündet","Wie ein Gesetz entsteht"],["0,35 %","des BIP: Grenze für neue Schulden des Bundes","Schuldenbremse und Sondervermögen"]];
+ const bk=E(`<div class="abs kick" style="left:70px;top:230px;opacity:0">Erklärt · eine Zahl, eine Quelle</div>`);
+ const cards=data.map(d=>E(`<div class="card" style="top:620px;background:#fff;box-shadow:0 30px 80px rgba(0,0,0,.14);opacity:0"><div class="num">${d[0]}</div><div class="lab">${d[1]}</div><div class="tt">${d[2]}</div></div>`));
+ const c1=E(`<div class="abs h1" style="left:70px;right:70px;top:560px;opacity:0">11 Erklärstücke.<br><span style="color:#b2231c">Ohne Fachsprache.</span></div>`);
+ const rows=["3 bis 4 Minuten Lesezeit","Zahlen mit Quelle","Stand und Datum dabei"].map(x=>E(`<div class="row abs" style="left:70px;right:70px;top:0"><u>✓</u><span>${x}</span></div>`));
+ rows.forEach((r,i)=>r.style.top=(1000+i*140)+"px");
+ const end=END("Politik verstehen.<br>Ohne Vorwissen.","Erklärt auf doytschtv.de, Link in der Bio.");
+ R=t=>{
+  const aOn=t<6.2; chips.forEach(c=>{c.e.style.display=aOn?"block":"none";const y=c.y0-Math.pow(t,2.1)*88*c.sp;c.e.style.transform=`translate(${c.dx*t}px,${y}px) rotate(${c.rot}deg)`;c.e.style.opacity=1-eio(seg(t,5.0,5.9))});
+  a1.style.opacity=eo(seg(t,1.2,1.7))*(1-seg(t,5.0,5.6));rise(a1,t,1.2,1.7);
+  a2.style.opacity=eo(seg(t,3.0,3.5))*(1-seg(t,5.0,5.6));rise(a2,t,3.0,3.5);
+  fade(bk,t,6.0,6.5,14.4,14.9);
+  const slots=[[6.2,8.7],[8.7,11.2],[11.2,13.7],[13.7,16.2]];
+  cards.forEach((c,i)=>{const [a,b]=slots[i];const inn=eo(seg(t,a,a+.5)),out=eio(seg(t,b-.4,b));c.style.opacity=t>=a&&t<b?1:0;c.style.transform=`translateX(${(1-inn)*900-out*900}px) rotate(${(1-inn)*4}deg)`;});
+  c1.style.opacity=t>=16.2?Math.min(eo(seg(t,16.2,16.7)),1-seg(t,22.6,23.1)):0;rise(c1,t,16.2,16.7);
+  rows.forEach((r,i)=>{const a=17.2+i*.8;r.style.opacity=t>=a?Math.min(eo(seg(t,a,a+.3)),1-seg(t,22.6,23.1)):0;rise(r,t,a,a+.3,24)});
+  end.style.opacity=eo(seg(t,23.0,23.6));
+ };
+} else {
+ const q=E(`<div class="card" style="top:470px;background:#fff;box-shadow:0 30px 80px rgba(0,0,0,.14);opacity:0"><div class="kick" style="margin-bottom:10px">Aussage</div><div style="font:800 220px/1 Inter,sans-serif;color:#b2231c;height:130px">“</div><div class="bar" style="width:92%"></div><div class="bar" style="width:100%"></div><div class="bar" style="width:64%"></div><div style="margin-top:40px"><span class="fld">Wer</span><span class="fld">Datum</span><span class="fld">Ort</span><span class="fld">Quelle</span></div></div>`);
+ const flds=[...q.querySelectorAll(".fld")];
+ const t1=E(`<div class="abs h1" style="left:70px;right:70px;top:1260px;opacity:0">Wörtlich zitiert.<br><span style="color:#b2231c">Mit Quelle.</span></div>`);
+ const bk=E(`<div class="abs kick" style="left:70px;top:230px;opacity:0">Dossiers · so prüfen wir</div>`);
+ const src=["Statistiken","Gesetze","Gerichtsentscheidungen","Plenarprotokolle"].map((x,i)=>E(`<div class="row abs" style="left:70px;right:70px;top:${860+i*150}px"><u>✓</u><span>${x}</span></div>`));
+ const t2=E(`<div class="abs h1" style="left:70px;right:70px;top:470px;opacity:0">Abgleich mit<br>Primärquellen</div>`);
+ const t3=E(`<div class="abs h1" style="left:70px;right:70px;top:440px;opacity:0">Dann sagen wir klar, was Sache ist.</div>`);
+ const st=["Stimmt","Irreführend","Ohne Kontext","Falsch"].map((x,i)=>{const e=E(`<div class="stamp" style="left:${i%2?420:120}px;top:${860+i*170}px">${x}</div>`);e.dataset.r=(i%2?3:-3);return e});
+ const t4=E(`<div class="abs serif" style="left:70px;right:70px;top:1640px;font:600 74px/1.1 'Bodoni Moda',serif;opacity:0">Die Sache, nicht die Person.</div>`);
+ const end=END("Aussagen prüfen.<br>Quellen offen.","Dossiers auf doytschtv.de, Link in der Bio.");
+ R=t=>{
+  const aEnd=seg(t,5.6,6.2);
+  fade(bk,t,0.2,0.6,15.0,15.5);
+  q.style.opacity=eo(seg(t,0.3,1.0))*(1-aEnd);q.style.transform=`translateY(${(1-eo(seg(t,0.3,1.0)))*80-aEnd*200}px)`;
+  flds.forEach((f,i)=>{const a=1.6+i*.45;f.style.opacity=seg(t,a,a+.2);f.style.transform=`scale(${.8+.2*eb(seg(t,a,a+.35))})`});
+  t1.style.opacity=eo(seg(t,2.6,3.1))*(1-aEnd);rise(t1,t,2.6,3.1);
+  t2.style.opacity=Math.min(eo(seg(t,6.2,6.7)),1-seg(t,11.3,11.8));rise(t2,t,6.2,6.7);
+  src.forEach((r,i)=>{const a=7.0+i*.9;r.style.opacity=t>=a?Math.min(eo(seg(t,a,a+.3)),1-seg(t,11.3,11.8)):0;rise(r,t,a,a+.3,24)});
+  t3.style.opacity=Math.min(eo(seg(t,11.8,12.3)),1-seg(t,19.6,20.1));rise(t3,t,11.8,12.3);
+  st.forEach((s,i)=>{const a=12.9+i*.8;const k=eb(seg(t,a,a+.3));s.style.opacity=t>=a?1-seg(t,19.6,20.1):0;s.style.transform=`rotate(${s.dataset.r}deg) scale(${1.5-.5*k})`});
+  t4.style.opacity=Math.min(eo(seg(t,16.6,17.1)),1-seg(t,19.6,20.1));
+  end.style.opacity=eo(seg(t,20.0,20.6));
+ };
+}
+function render(t){R(t)}
+</script></body></html>
