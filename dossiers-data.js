@@ -280,5 +280,253 @@ window.DOSSIERS = [
    }
   ],
   "motiv": "paragraph"
+ },
+ {
+  "id": "islam-debatte",
+  "titel": "Muslime, Verbände und Antisemitismus in der Debatte",
+  "teaser": "Wir prüfen Aussagen und Zahlen in der Debatte über Islam, Verbände und Antisemitismus: wer was sagt, was belegt ist und was nur behauptet wird.",
+  "methode": [
+   "Wir trennen strikt: belegt, nur berichtet, offen. Aussagen geben wir wörtlich mit Datum, Ort und Quelle wieder, Positionen von Personen als deren Positionen, nicht als Tatsachen.",
+   "Grundlage sind Primärquellen wie Bundestags-Drucksachen, Verfassungsschutz- und Polizeistatistiken und Studien, dazu verlässliche Medienberichte. Vorwürfe ohne Beleg übernehmen wir nicht. Es gilt die Unschuldsvermutung.",
+   "Wir sprechen über Aussagen, Organisationen und Zahlen, nie über eine Religion oder Gruppe als Ganzes. Die Religion von Tätern erfasst keine amtliche Statistik, das sagen wir dazu, wo es wichtig ist."
+  ],
+  "folgen": [
+   {
+    "id": "guevercin-muslimische-szene-antisemitismus",
+    "datum": "2026-10-15",
+    "titel": "Eren Güvercin und „die muslimische Szene“: Was belegt ist, was nur behauptet wird und was die Zahlen zu Antisemitismus sagen",
+    "teaser": "Ein Publizist kritisiert Ditib und Milli Görüş, sein Buch hatte ein Plagiatsproblem, seine Organisation bekam Bundesmittel. Dazu die Frage, wen „die muslimische Szene“ meint und wie viel Antisemitismus von wem ausgeht.",
+    "aussage": {
+     "zitat": "Akteure in der muslimischen Szene, die Religion als Argumentationsgrundlage missbrauchen, um Antisemitismus zu legitimieren",
+     "wer": "Eren Güvercin, Publizist (laut stern-TV-Post, Ausschnitt)",
+     "datum": "15.10.2026",
+     "ort": "Ankündigung stern TV „Antisemitismus in Deutschland“, Instagram",
+     "urteil": "Zitat belegt, Begriff „Szene“ nicht definiert"
+    },
+    "kern": [
+     {
+      "z": "Wer er ist",
+      "l": "Publizist, Kritiker von Ditib und Milli Görüş, Mitgründer der Alhambra-Gesellschaft. Dass die Mehrheit der Muslime ihn kontrovers sieht, ist nicht belegt."
+     },
+     {
+      "z": "Geld",
+      "l": "Bundesförderung für zwei Alhambra-Projekte 2023: zusammen 266.599,35 € (Drucksache 20/9273). Andere Jahre und Spenden sind offen."
+     },
+     {
+      "z": "Plagiat",
+      "l": "Sein Ditib-Buch (C. H. Beck, 2025) wurde nach Plagiatshinweisen vorläufig nicht mehr ausgeliefert. Anonyme weitere Vorwürfe sind unbelegt."
+     },
+     {
+      "z": "„Szene“",
+      "l": "Kein Statistikbegriff. 38 % der Muslime fühlen sich von mindestens einem Verband vertreten (BAMF). Islamistisches Personenpotenzial 2024: 28.280."
+     },
+     {
+      "z": "Antisemitismus",
+      "l": "2024: 6.236 Straftaten, 48,4 % „rechts“, 31,1 % „ausländische Ideologie“. Die Religion der Täter erfasst keine Statistik."
+     },
+     {
+      "z": "„Importiert“?",
+      "l": "Die Forschung lehnt den Begriff ab: ein deutsches Problem mit langer Geschichte, israelbezogene Formen sind in Teilen der Zuwanderung aus der Region stärker."
+     }
+    ],
+    "abschnitte": [
+     {
+      "h": "Worum es geht",
+      "t": [
+       "Am 15. Oktober 2026 kündigte stern TV eine Sendung zu Antisemitismus in Deutschland an. Der Gast Eren Güvercin wird im Instagram-Post der Sendung so zitiert: Es gebe „Akteure in der muslimischen Szene, die Religion als Argumentationsgrundlage missbrauchen, um Antisemitismus zu legitimieren“. Wir kennen nur diesen Ausschnitt, nicht die ganze Sendung.",
+       "Daraus ergeben sich vier Fragen, die wir getrennt prüfen: Wer ist Güvercin, und was sagt er? Was weiß man über die Organisation, die er mitgegründet hat, auch über ihr Geld? Gibt es „die muslimische Szene“ überhaupt? Und wie viel Antisemitismus geht von wem aus, ist er „importiert“ oder ein deutsches Problem?",
+       "So lesen Sie das Dossier: Belegt heißt, wir haben eine Primärquelle oder eine verlässliche Zweitquelle gelesen. Nur berichtet heißt, ein Medium behauptet es ohne Beleg. Offen heißt, wir konnten es nicht prüfen. Positionen Güvercins geben wir als seine Positionen wieder, nicht als Tatsachen. Es geht um Aussagen und Zahlen, nicht um ein Urteil über eine Person und nie über eine Religion."
+      ]
+     },
+     {
+      "h": "Wer Eren Güvercin ist",
+      "t": [
+       "Güvercin ist Publizist, 1980 in Köln geboren, laut taz-Rezension zudem Buchhändler und Jurist. 2018 war er Mitglied der 4. Deutschen Islamkonferenz. 2012 erschien sein Buch „Neo-Moslems. Porträt einer deutschen Generation“ (Herder), 2025 „Ditib und der ferngesteuerte Islam in Deutschland“ (C. H. Beck). Er schreibt unter anderem für die Jüdische Allgemeine und ist laut MuslimDebate Projektleiter von „MuslimDebate 2.0“, Beirat im Forum für offene Religionspolitik und Mitgründer der Alhambra-Gesellschaft.",
+       "Sein Profil ist das eines Kritikers der großen Islamverbände aus muslimischer Perspektive. Dass er „über die Mehrheit der Muslime kontrovers“ gesehen wird, ist nach unserer Recherche nicht belegt. Belegt ist Kritik von Verbänden und einzelnen Medien. Eine Umfrage zur Haltung der Muslime zu ihm gibt es nicht, und die Daten zu den Verbänden (unten) zeigen, dass „die Verbände“ nicht für „die Muslime“ stehen."
+      ]
+     },
+     {
+      "h": "Seine Positionen (Wiedergabe)",
+      "t": [
+       "Zu Ditib: Laut taz und hpd (Rezensionen vom Februar 2025) lautet seine Kernthese, die Probleme der großen Verbände lägen in ihren Strukturen. Ditib sei auf Ankara ausgerichtet. Auch Islamrat, Zentralrat der Muslime, VIKZ und Milli Görüş sieht er kritisch. Er fordert eine „religionspolitische Zeitenwende“ und setzt auf einen „deutschen Islam“. Das sind seine Bewertungen, keine gerichtlich festgestellten Tatsachen.",
+       "Zu Antisemitismus: Im Oktober 2023 sagte er laut Jungle World (Ausgabe 42/2023), die Verbände versagten „auf ganzer Linie“, und nannte es beschämend, dass keiner die Hamas klar als Terrororganisation benenne. Laut Berliner Zeitung (3.8.2024) sprach er im Oktober 2023 am Brandenburger Tor. Seine Linie: Muslime tragen Verantwortung, Antisemitismus in den eigenen Gemeinschaften anzusprechen.",
+       "Gegenposition, soweit belegt: Am 16. Oktober 2023 verurteilten islamische Verbände in Nordrhein-Westfalen, darunter Ditib NRW, gemeinsam mit der Landesregierung die Hamas-Gräueltaten. Am 22. Dezember 2023 bekräftigte Ditib NRW in einer Zusatzerklärung das Existenzrecht Israels, ausgelöst durch öffentlich gewordene Äußerungen von Amtsträgern aus der Türkei (Pressemitteilung der Landesregierung). Das widerlegt Güvercins Aussage nicht, denn er sprach von einer klaren Benennung als Terrororganisation. Es zeigt aber, dass es Erklärungen gab. Eine vollständige Stellungnahme der Bundesverbände zu seinem Buch haben wir nicht gefunden."
+      ]
+     },
+     {
+      "h": "Alhambra-Gesellschaft: Was sie tut, woher das Geld kommt",
+      "t": [
+       "Die Alhambra-Gesellschaft e. V. wurde 2017 in Köln gegründet, ihr Sitz ist laut eigener Website Berlin. Sie versteht sich als Plattform für politische Bildung, Debatte und Kultur. Sie betreibt weder Moschee noch Gottesdienst. Formate sind unter anderem „Freitagsworte“, „Das Muslimische Quartett“ und „MuslimDebate 2.0“. Im Beirat saßen laut Wikipedia (Stand 2018) Engin Karahan, früher IGMG, und Murat Kayman, früher Ditib-Zentrale.",
+       "Geld, belegt: Laut Antwort der Bundesregierung (Bundestags-Drucksache 20/9273 vom 13.11.2023, Anlage 1) erhielt die Gesellschaft im Förderjahr 2023 zwei Bundesförderungen: 85.276,00 € für „Das unbequeme Gespräch mit einem Muslim/einer Muslimin“ und 181.323,35 € für „MuslimDebate 2.0 – Gesellschaft gemeinsam gestalten!“, zusammen 266.599,35 €. Die Bundesregierung betont in der Antwort, die Aufnahme in die Liste sei keine Einordnung der Träger als „islamisch“.",
+       "Geld, laut Eigenangabe: MuslimDebate 2.0 wird laut Alhambra-Website vom Bundesinnenministerium im Rahmen der Deutschen Islam Konferenz gefördert (Vorgängerprojekt 2020 bis 2022). Dazu kommt die Rolle als Praxispartnerin im BMBF-Verbundprojekt „D:Islam“ mit dem Berliner Institut für empirische Integrations- und Migrationsforschung (HU Berlin): drei Jahre, Gesamtförderung des Verbunds 701.481,61 €, der Anteil der Alhambra ist nicht genannt.",
+       "Einordnung: Bundesförderung für politische Bildung ist öffentlich und in der Drucksache nachlesbar. Sie sagt nichts über die Inhalte aus, und wir haben keinen Hinweis auf Unregelmäßigkeiten gefunden. Dass Kritiker die Staatsnähe infrage stellen, ist berichtet, aber nicht belegt. Offen sind die übrigen Förderjahre, Spenden, Mitgliedsbeiträge, Jahresberichte und ein möglicher Eintrag im Lobbyregister. Die Summe von 2023 steht deshalb für ein Jahr, nicht für die Gesamtfinanzierung."
+      ]
+     },
+     {
+      "h": "Die Kritik an Güvercin",
+      "t": [
+       "Belegt: Sein Buch von 2025 wurde nach Plagiatshinweisen vom Verlag C. H. Beck vorläufig nicht mehr ausgeliefert (hpd, Ergänzung vom 3.3.2025). Laut Verlagsstatement vom 28.2.2025, wie vom Deutsch-Türkischen Journal und NEX24 zitiert, gab es eine „nicht kenntlich gemachte Übernahme von Texten Dritter“. Nach hpd stammt ein Unterkapitel von Aydın Süer, Projektleiter bei der Alhambra, und war nicht als Fremdtext gekennzeichnet. Güvercin bedauerte laut hpd, den gegenteiligen Eindruck erweckt zu haben. Das berührt die Qualität des Buches, nicht automatisch dessen Thesen.",
+       "Nur berichtet: Das Deutsch-Türkische Journal zitiert anonyme Kritiker, die Vorwürfe zu seiner Vergangenheit und zu Kontakten erheben. Das Blatt legt dafür keine Belege vor, und Güvercin habe sich laut Bericht nicht geäußert. Wir geben diese Vorwürfe nicht weiter. Auch das Deutsch-Türkische Journal und NEX24 sind ihm gegenüber erkennbar kritisch eingestellt. Der Vorwurf, er sei ein „Hochstapler“, stammt aus einem Facebook-Beitrag der Journalistin Canan Topçu und ist nicht geprüft.",
+       "Kritik von Verbänden: Konservative Verbände und Teile türkischsprachiger Medien kritisieren die Alhambra-Gesellschaft, einige laut Wikipedia „kritisch bis diffamierend“ (Stand 2018). Bedrohungen gegen ihn sind laut Berliner Zeitung (3.8.2024) Thema. Das ist keine Einordnung seiner Thesen, sondern ein Hinweis darauf, wie aufgeladen die Debatte ist.",
+       "Offen: Das Original-Verlagsstatement haben wir nicht gelesen, ebenso keine Äußerung Süers. Ob das Buch inzwischen neu aufgelegt oder zurückgezogen wurde, haben wir nicht geprüft."
+      ]
+     },
+     {
+      "h": "Ditib und Milli Görüş: Was belegt ist",
+      "t": [
+       "Ditib betreut laut The Local rund 900 Gemeinden und wird dort als von Ankara kontrolliert beschrieben. Die Bindung an die türkische Religionsbehörde Diyanet ist auch der Kern von Güvercins Kritik. 2017 ermittelte die Bundesanwaltschaft gegen Ditib-Imame wegen des Verdachts, Anhänger der Gülen-Bewegung für die Türkei ausgespäht zu haben. Am 6.12.2017 wurde das Verfahren eingestellt: Die Beweise reichten nicht, um eine Weitergabe an türkische Stellen zu belegen (The Local, 6.12.2017). Eine Einstufung von Ditib als Beobachtungsobjekt des Bundesamts für Verfassungsschutz haben wir in den geprüften Quellen nicht gefunden. 2019 bestätigte die Bundesregierung eine Prüfung nicht (Drucksache 19/8167). Ob sich der Stand seither geändert hat, haben wir nicht abschließend geprüft.",
+       "Milli Görüş (IGMG): Laut Bundesregierung (Antwort vom 14.8.2025, Drucksache 21/1237) werden die regionalen IGMG-Strukturen unterschiedlich verfassungsfeindlich bewertet. Das gesamte islamistische Personenpotenzial wurde ab 2016 laut Anfrage um über 21.000 Personen niedriger angesetzt, begründet mit der Neubewertung der IGMG (2013: rund 31.000). Die Bundesregierung hält diese Neubewertung weiter für richtig. Die Bundeszentrale für politische Bildung nannte die Millî-Görüş-Bewegung 2018 unter den vom Verfassungsschutz beobachteten Organisationen.",
+       "Das heißt: Güvercins Kritik an Ditib und IGMG ist eine politische Bewertung, die sich auf Strukturen und Bindungen stützt. Gerichte oder Verfassungsschutz haben sie in dieser Form nach unseren Quellen nicht bestätigt, aber auch nicht widerlegt."
+      ]
+     },
+     {
+      "h": "Gibt es „die muslimische Szene“?",
+      "t": [
+       "Als statistischer Begriff nein. Die Studie „Muslimisches Leben in Deutschland 2020“ (BAMF, Stand 2019) zählt 5,3 bis 5,6 Millionen Muslime mit Migrationshintergrund, 6,4 bis 6,7 Prozent der Bevölkerung. Türkeistämmige sind die größte Gruppe, aber nicht mehr die absolute Mehrheit, an zweiter Stelle stehen Syrer. Die Studie erfasst Menschen mit Wurzeln in 23 muslimisch geprägten Ländern, Muslime ohne Migrationshintergrund sind darin nicht enthalten.",
+       "Die Vielfalt ist groß: 82 Prozent bezeichnen sich als eher oder sehr religiös (Christen ohne Migrationshintergrund: 55 Prozent). 39 Prozent beten täglich, 25 Prozent nie. Ein Kopftuch tragen rund 5 Prozent der alevitischen und 59 Prozent der ahmadiyyischen Frauen.",
+       "Organisationsgrad: 38 Prozent fühlen sich von mindestens einem von 13 abgefragten Islamverbänden ganz oder teilweise vertreten. Etwa jeder Fünfte fühlt sich von keinem vertreten, weitere 38 Prozent kennen die Verbände nicht. Bei Türkeistämmigen sagen 57 Prozent, sie seien vertreten, bei Menschen aus dem Nahen Osten 8 Prozent, und 79 Prozent von ihnen kennen keinen der Verbände. Daraus folgt: Verbandskritik ist nicht Kritik „der Muslime“, und die Verbände sprechen nicht für alle.",
+       "Eine „Szene“ im Sprachgebrauch der Sicherheitsbehörden meint etwas Engeres: den Islamismus. Der Verfassungsschutzbericht 2024 nennt ein islamistisches Personenpotenzial von 28.280 und erstmals 9.540 gewaltorientierte Personen (laut Bundesregierung, Drucksache 21/1237). Grob gerechnet sind das etwa ein halbes Prozent der in der BAMF-Studie erfassten Muslime. Das ist unsere Überschlagsrechnung aus zwei Quellen mit unterschiedlichem Zuschnitt, keine amtliche Zahl.",
+       "Zu Güvercins Satz: Er spricht von „Akteuren“, die Religion missbrauchen, nicht von „den Muslimen“. Das ist keine Verallgemeinerung auf alle, aber „Szene“ ist ein unscharfer Sammelbegriff, den die Sendung offenbar nicht definiert hat. Wen er konkret meint, wissen wir aus dem Ausschnitt nicht."
+      ]
+     },
+     {
+      "h": "Wie viel Antisemitismus, von wem? Die Zahlen",
+      "t": [
+       "Straftaten (Polizei, PMK-Statistik): 2024 zählte die Polizei 6.236 antisemitische Straftaten, der höchste Wert seit Beginn der Erfassung 2001. Davon wurden 48,4 Prozent (3.016) dem Bereich „rechts“ zugeordnet und 31,1 Prozent der „ausländischen Ideologie“ (Correctiv zu PMK 2024, vorgestellt 20.5.2025).",
+       "2025 (Antworten der Bundesregierung, Drucksachen 21/2853 und 21/4063): Q1 1.362, Q2 1.729 und Q3 1.809 Straftaten (nachgemeldet, zusammen 4.900), Q4 zunächst 829 (noch ohne Nachmeldungen). Im Q4 (erste Meldung) entfielen auf „rechts“ 348 Fälle (42,0 Prozent), „ausländische Ideologie“ 295 (35,6 Prozent), „religiöse Ideologie“ 97 (11,7 Prozent), „sonstige Zuordnung“ 61 und „links“ 28. Bei den Tatverdächtigen: 375, davon 165 rechts, 151 ausländische Ideologie, 19 religiöse Ideologie. Die Prozentwerte haben wir selbst aus den Tabellen berechnet. Die Gesamtjahreszahl der amtlichen PMK 2025 konnten wir nicht abrufen.",
+       "Wichtig: Diese Phänomenbereiche sind keine Religionszugehörigkeit. „Ausländische Ideologie“ umfasst auch nicht-islamische Gruppen, und das Innenministerium erfasst Staatsangehörigkeit oder Migrationshintergrund bei der Zuordnung nicht, so Correctiv. Bis 2023 wurden antisemitische Straftaten ohne klare Hinweise automatisch „rechts“ gezählt, seit 2024 landen unklare Fälle unter „sonstige Zuordnung“. Die Statistik zählt nur angezeigte Fälle beim ersten Verdacht. Eine EU-Umfrage (FRA 2023) kam zu dem Ergebnis, dass nicht einmal jede dritte Gewalttat der Polizei gemeldet wird.",
+       "Vorfälle (Meldestellen, RIAS): 2025 meldeten die Stellen 8.725 Vorfälle, auch nicht strafbare. 5.902 (68 Prozent) waren israelbezogen. 807 (9 Prozent) hatten einen rechtsextremen Hintergrund, so viele wie nie seit 2020. 166 (2 Prozent) wurden einem islamischen oder islamistischen Hintergrund zugeordnet. Bei 57 Prozent blieb der politische Hintergrund unbekannt, meist weil Täter nicht identifiziert wurden (RIAS-Jahresbericht 2025). Für 2019 bis 2023 kam RIAS auf 13.654 Vorfälle, davon 17 Prozent rechtsextrem und 2 Prozent islamisch oder islamistisch, bei 56 Prozent ohne eindeutige Zuordnung.",
+       "Unser Befund zur Frage „wie viele Fälle gehen von Muslimen aus“: Eine belastbare Zahl gibt es nicht, weil keine Statistik die Religion der Täter erfasst und bei vielen Fällen der Täter unbekannt ist. Belegt ist: Rechtsextreme und Menschen aus dem Umfeld von „ausländischer“ und „religiöser Ideologie“ begehen antisemitische Taten, beide Spektren sind in den Zahlen sichtbar. Wer eine Gruppe als Hauptursache benennt, geht über die Datenlage hinaus. Die Meldestellen sind nicht repräsentativ. Die Diaspora Alliance (Studie 2025) meint, RIAS überbetone israelbezogenen Antisemitismus und unterschätze rechtsextreme Taten, RIAS weist das zurück (Correctiv)."
+      ]
+     },
+     {
+      "h": "Importiert oder deutsch? Einstellungen und Geschichte",
+      "t": [
+       "Einstellungen, was Studien sagen: Die Antisemitismusforscherin Sina Arnold (TU Berlin) wertete für den Mediendienst Integration Studien von 2017 bis 2022 aus (April 2023). Muslime stimmen klassisch antisemitischen Aussagen häufiger zu als die Gesamtbevölkerung, bei „sekundärem“ Antisemitismus, also etwa der Relativierung des Holocaust, ähnlich oft. Die Zustimmung ist laut der Auswertung nicht primär an die Religion gebunden, sondern hängt mit konservativ-autoritären Einstellungen zusammen. Der Soziologe Heiko Beyer (Düsseldorf) fand in einer bundesweiten Studie (2024), dass Migrationshintergrund für sich genommen keinen Einfluss hat. Entscheidend sei, wie stark der Islam fundamentalistisch gedeutet wird. Der Berlin-Monitor 2019 zeigte, dass die Zustimmung mit der Aufenthaltsdauer sinkt.",
+       "Für die Gesamtbevölkerung nennt Arnold: 6 bis 7 Prozent stimmen klassisch antisemitischen Aussagen eindeutig zu, 15 bis 20 Prozent teilweise, über ein Drittel sekundärantisemitischen Aussagen, bis zu einem Fünftel israelbezogenen. Bei Menschen mit Migrationshintergrund aus Nicht-EU-Ländern, besonders Türkei und arabischen Staaten, sind die Werte beim israelbezogenen Antisemitismus höher. Eine NRW-Studie (Allensbach, 1.300 Befragte, März bis April 2024) fand in der Gesamtbevölkerung: religiös geprägten Antisemitismus bei 8 Prozent, modernen bei 24, Holocaust-Relativierung bei 19, israelbezogenen bei 14 Prozent. 47 Prozent wollen einen „Schlussstrich“ unter die NS-Vergangenheit.",
+       "Geschichte, nach Stefanie Schüler-Springorum (TU Berlin, 2020): 1946 lehnten 85 Prozent der Befragten die Rückkehr überlebender Juden nach Deutschland ab. Ein US-Bericht von 1947 stufte 18 Prozent der Deutschen als radikale und 21 Prozent als Antisemiten ein. Zwischen 1950 und 1983 sank die Zustimmung zu „besser keine Juden im Land“ von fast 40 auf 9 Prozent, die Zahl der Unentschiedenen stieg auf fast 50 Prozent, was sie als „Kommunikationslatenz“ liest. Die Mitte-Studien sahen ein geschlossen antisemitisches Weltbild bei 9,3 Prozent (2002) und 4,4 Prozent (2018), latente Zustimmung bei 20 bis 35 Prozent. Die PMK-Zahlen antisemitischer Delikte blieben zwischen 2001 und 2018 laut Correctiv etwa gleich, ein Anstieg direkt nach 2015 zeigt sich nicht.",
+       "Der Begriff „importierter Antisemitismus“: Bundeskanzler Merz sprach im Juni 2025 gegenüber Fox News von einer „Art importierten Antisemitismus“. Die Forschung lehnt den Begriff ab. Arnold nennt Antisemitismus „kein Problem ‚der Anderen‘, sondern ein deutsches“, RIAS sagt, er sei „kein nach Deutschland importiertes Problem“, Beyer sagt, der Begriff verschleiere verschiedene Formen und behindere die Analyse des politisch-islamischen Antisemitismus. Das Argument ist nicht, dass es unter Zugewanderten keinen gebe. Der Antisemitismus in Deutschland hat eine eigene, lange Geschichte, und israelbezogene Formen sind in Teilen der Zuwanderung aus der Region zusätzlich stärker ausgeprägt.",
+       "Und Güvercin? In den von uns geprüften Quellen finden wir keine Aussage von ihm, Antisemitismus sei „importiert“. Das stern-TV-Zitat spricht vom Missbrauch der Religion durch einzelne Akteure. Wer ihm das Narrativ „importiert“ zuschreibt, geht über das hinaus, was wir belegen können."
+      ]
+     },
+     {
+      "h": "Einordnung und was offen bleibt",
+      "t": [
+       "Belegt: Güvercin ist seit Jahren öffentlich als Kritiker von Ditib und anderen Verbänden aktiv, seine Alhambra-Gesellschaft hat 2023 Bundesmittel in Höhe von 266.599,35 € für zwei Projekte erhalten, und sein Buch von 2025 hatte ein dokumentiertes Plagiatsproblem. Seine Thesen zu Ditib sind eine politische Bewertung und weder bestätigt noch widerlegt.",
+       "Die Datenlage zu Antisemitismus spricht gegen einfache Antworten. Beide Spektren, rechtsextrem und islamistisch bzw. auslandsbezogen, sind sichtbar, keine Statistik erfasst die Religion der Täter, die Forschung sieht Antisemitismus als gesamtgesellschaftliches Problem mit besonderen Formen in Teilen der muslimischen Bevölkerung. Wer „die muslimische Szene“ sagt, sollte sagen, wer gemeint ist, und wer „importiert“ sagt, muss die lange Geschichte in Deutschland erklären.",
+       "Offen: Original-Verlagsstatement und aktueller Stand des Buches, weitere Förderjahre und Spenden der Alhambra, Lobbyregister, aktuelle Einstufung von Ditib durch den Verfassungsschutz, die amtliche PMK 2025 für das ganze Jahr und eine Aufschlüsselung der NRW-Studie nach Muslimen."
+      ]
+     }
+    ],
+    "quellen": [
+     {
+      "titel": "Bundestags-Drucksache 20/9273 (Bundesförderung, Anlage 1)",
+      "url": "https://dserver.bundestag.de/btd/20/092/2009273.pdf"
+     },
+     {
+      "titel": "taz: Rezension „Ditib und der ferngesteuerte Islam“, 16.2.2025",
+      "url": "https://taz.de/Deutsche-Islampolitik/!6066646/"
+     },
+     {
+      "titel": "hpd: Rezension und Ergänzung zum Plagiat, 19.2./3.3.2025",
+      "url": "https://hpd.de/artikel/islamverbaende-kritik-einwaende-eren-guevercin-22857"
+     },
+     {
+      "titel": "Deutsch-Türkisches Journal zu Güvercin",
+      "url": "https://dtj-online.de/tuerkei-und-islam-experte-eren-guevercin-im-abseits/"
+     },
+     {
+      "titel": "NEX24: Plagiatsvorwürfe, 1.3.2025",
+      "url": "https://nex24.news/2025/03/plagiatsvorwuerfe-gegen-islam-experten-eren-guevercin/"
+     },
+     {
+      "titel": "Jungle World 42/2023: Interview mit Güvercin",
+      "url": "https://jungle.world/print/pdf/node/82241"
+     },
+     {
+      "titel": "Berliner Zeitung, 3.8.2024: Interview mit Güvercin",
+      "url": "https://www.berliner-zeitung.de/article/islamismus-experte-guevercin-linke-aktivisten-antimuslimischen-rassismus-2239812"
+     },
+     {
+      "titel": "Alhambra-Gesellschaft (Wikipedia)",
+      "url": "https://de.wikipedia.org/wiki/Alhambra-Gesellschaft"
+     },
+     {
+      "titel": "Alhambra-Gesellschaft zu MuslimDebate 2.0, 2024",
+      "url": "https://alhambra-gesellschaft.de/2024/08/muslimdebate-2-0-engagement-fuer-eine-demokratische-politische-kultur/"
+     },
+     {
+      "titel": "Alhambra-Gesellschaft zu D:Islam, 2021",
+      "url": "https://alhambra-gesellschaft.de/2021/03/die-alhambra-gesellschaft-ist-praxispartnerin-beim-neuen-bim-projekt/"
+     },
+     {
+      "titel": "MuslimDebate: Profil Güvercin",
+      "url": "https://muslimdebate.de/team/eren-guevercin-projektleiter/"
+     },
+     {
+      "titel": "Land NRW: Ditib NRW zu Existenzrecht Israels, 22.12.2023",
+      "url": "https://www.land.nrw/pressemitteilung/ditib-nrw-bekennt-sich-zu-existenzrecht-israels-und-schutz-der-juden-nordrhein"
+     },
+     {
+      "titel": "The Local: Bundesanwaltschaft stellt Imam-Verfahren ein, 6.12.2017",
+      "url": "https://www.thelocal.de/20171206/federal-prosecutors-drop-turkish-imam-spying-probe-over-insufficient-evidence"
+     },
+     {
+      "titel": "Bundestags-Drucksache 19/8167 (Antwort zu Ditib, 2019)",
+      "url": "https://dserver.bundestag.de/btd/19/081/1908167.pdf"
+     },
+     {
+      "titel": "Bundestags-Drucksache 21/1237 (Antwort zum Verfassungsschutzbericht 2024)",
+      "url": "https://dserver.bundestag.de/btd/21/012/2101237.pdf"
+     },
+     {
+      "titel": "bpb: Islamismus im Staatsdienst, 2018",
+      "url": "https://www.bpb.de/politik/extremismus/islamismus/277036/islamismus-im-staatsdienst"
+     },
+     {
+      "titel": "BAMF: Muslimisches Leben in Deutschland 2020",
+      "url": "https://bamf.de/SharedDocs/Anlagen/DE/Forschung/Forschungsberichte/fb38-muslimisches-leben.pdf?__blob=publicationFile&v=15"
+     },
+     {
+      "titel": "Correctiv: Importierter Antisemitismus, 3.7.2025",
+      "url": "https://correctiv.org/faktencheck/hintergrund/2025/07/03/importierter-antisemitismus-warum-fachleute-merz-widersprechen/"
+     },
+     {
+      "titel": "Jüdische Allgemeine: PMK 2024, 20.5.2025",
+      "url": "https://www.juedische-allgemeine.de/politik/treiber-israelhass-politisch-motivierte-kriminalitaet-massiv-gestiegen/"
+     },
+     {
+      "titel": "Bundestags-Drucksache 21/2853 (antisemitische Straftaten Q3 2025)",
+      "url": "https://dserver.bundestag.de/btd/21/028/2102853.pdf"
+     },
+     {
+      "titel": "Bundestags-Drucksache 21/4063 (antisemitische Straftaten Q4 2025)",
+      "url": "https://dserver.bundestag.de/btd/21/040/2104063.pdf"
+     },
+     {
+      "titel": "RIAS Bundesverband: Jahresbericht 2025",
+      "url": "https://report-antisemitism.de/documents/17-06-26_RIAS_Bund_Jahresbericht_2025.pdf"
+     },
+     {
+      "titel": "ZDFheute zur RIAS-Studie Rechtsextremismus und Antisemitismus, 11.12.2024",
+      "url": "https://www.zdfheute.de/politik/deutschland/antisemitismus-vorfaelle-rias-studie-rechtsextremismus-100.html"
+     },
+     {
+      "titel": "Sonntagsblatt: Mediendienst-Expertise (Arnold u. a.), 22.4.2023",
+      "url": "https://www.sonntagsblatt.de/artikel/gesellschaft/religion-keine-ursache-studie-entlarvt-narrativ-vom-importierten"
+     },
+     {
+      "titel": "Land NRW: Antisemitismus-Studie NRW, 24.9.2024",
+      "url": "https://www.land.nrw/pressemitteilung/antisemitismus-nordrhein-westfalen-studie-zeigt-grosse-verbreitung-und-hohe"
+     },
+     {
+      "titel": "bpb/APuZ: Schüler-Springorum, Antisemitismus und Antisemitismusforschung, 19.6.2020",
+      "url": "https://www.bpb.de/shop/zeitschriften/apuz/311625/antisemitismus-und-antisemitismusforschung-ein-ueberblick/"
+     }
+    ],
+    "stand": "15.10.2026"
+   }
+  ],
+  "motiv": "pruefung"
  }
 ];
