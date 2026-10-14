@@ -1,5 +1,114 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-14",
+  "morgen": null,
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Polizei stoppt Wagen eines Hochzeitskorsos mit gezogenen Waffen: Was in Dortmund passiert ist",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Dortmund · Polizei",
+      "titel": "Polizei stoppt Hochzeitswagen mit gezogenen Waffen: Was in Dortmund passiert ist",
+      "rot": "mit gezogenen Waffen",
+      "bild": {
+       "url": "titel-hochzeitskorso.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Einsatz",
+      "titel": "Zeugenhinweis auf Schüsse, Zugriff am Ostwall.",
+      "text": "Freitagabend, 2. Oktober, gegen 19:07 Uhr: Ein Zeuge meldet, aus einem Auto seien Schüsse abgegeben worden. Die Polizei stoppt am Dortmunder Ostwall einen Wagen eines Hochzeitskorsos und nähert sich mit gezogenen Dienstwaffen. Der Einsatz dauert etwa 30 Minuten, zwei Fahrstreifen sind gesperrt. Niemand wird verletzt oder festgenommen.",
+      "quelle": "Ruhr Nachrichten, 3. und 5.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Das Ergebnis",
+      "zahl": "1",
+      "text": "Ermittlungsverfahren nach dem Waffengesetz, gegen einen 21-jährigen Dortmunder. Im Wagen stellt die Polizei eine Schreckschusswaffe mit PTB-Zeichen, ein Magazin und Munition sicher. Die übrigen Fahrzeuge des Korsos werden überprüft, weitere Verstöße gibt es nicht.",
+      "quelle": "Ruhr Nachrichten, 5.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Im Video-Titel",
+      "behauptung": "Polizei umstellt Hochzeitskorso mit gezogenen Waffen.",
+      "labelB": "Laut Ruhr Nachrichten",
+      "fakt": "Die Beamten stoppten einen Wagen des Korsos, nach einem Zeugenhinweis auf Schüsse aus diesem Auto. Die übrigen Fahrzeuge wurden kontrolliert, ohne Beanstandung.",
+      "quelle": "Ruhr Nachrichten, 3. und 5.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Warum die Waffen gezogen waren",
+      "titel": "Echt oder Schreckschuss: Das sieht man nicht.",
+      "text": "Die Beamten wussten bei der Annäherung nicht, ob es eine scharfe Waffe oder eine Schreckschusswaffe war. Aus Eigensicherung gingen sie mit gezogenen Dienstwaffen vor. Die Polizei sagt, jede Lage werde im Einzelfall bewertet, bei Hinweisen auf eine Schusswaffe gehe man mit größtmöglicher Vorsicht vor.",
+      "quelle": "Ruhr Nachrichten, 5.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Die Rechtslage",
+      "titel": "Schreckschusswaffen: Was erlaubt ist",
+      "punkte": [
+       {
+        "kopf": "Mitführen",
+        "text": "Außerhalb von Wohnung, Geschäftsräumen und Besitztum braucht man den Kleinen Waffenschein, auch im Auto."
+       },
+       {
+        "kopf": "Ohne Schein",
+        "text": "Geldstrafe oder Freiheitsstrafe bis zu drei Jahren."
+       },
+       {
+        "kopf": "Schießen",
+        "text": "In der Öffentlichkeit grundsätzlich verboten. Ausnahme: Notwehr."
+       },
+       {
+        "kopf": "Bußgeld",
+        "text": "Verstöße gegen das Schießverbot können bis zu 10.000 Euro kosten."
+       }
+      ],
+      "quelle": "Polizei Münster, Stadt Wiesbaden (Kleiner Waffenschein)"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Fair bleiben",
+      "titel": "Ein Verdacht ist kein Urteil.",
+      "text": "Gegen einen 21-Jährigen wird ermittelt, verurteilt ist niemand. Ein einzelner Wagen sagt nichts über Hochzeitsgesellschaften, ihre Herkunft oder Religion. Ob aus dem Auto tatsächlich geschossen wurde, klären die Ermittlungen.",
+      "quelle": "Ruhr Nachrichten, 5.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Gezogene Waffen bei Schussverdacht: Wo ist die Grenze?"
+     }
+    ],
+    "caption": "Am Freitag, 2. Oktober, stoppte die Polizei am Dortmunder Ostwall einen Wagen eines Hochzeitskorsos, nachdem ein Zeuge Schüsse aus dem Auto gemeldet hatte. Die Beamten gingen mit gezogenen Dienstwaffen vor, weil sie nicht wussten, ob die Waffe echt oder eine Schreckschusswaffe war. Gefunden wurde eine Schreckschusswaffe, gegen einen 21-Jährigen läuft ein Ermittlungsverfahren. Niemand wurde verletzt oder festgenommen, die übrigen Fahrzeuge wurden ohne Beanstandung kontrolliert. Ein Verdacht ist kein Urteil, und ein Einzelfall sagt nichts über eine ganze Gruppe. Quellen auf unserer Website, Link in der Bio. Gezogene Waffen bei Schussverdacht: Wo ist die Grenze?",
+    "hashtags": "#doytschlandtv #dortmund #polizei #hochzeitskorso #schreckschusswaffe #einordnung #nachrichten #faktencheck"
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Dortmund · Polizei",
+    "titel": "Hochzeitswagen gestoppt: Was wirklich passiert ist",
+    "rot": "was wirklich passiert ist",
+    "text": "",
+    "quelle": "Ruhr Nachrichten, 3. und 5.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-hochzeitskorso.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, kein Foto · Karussell: Link in der Bio"
+    }
+   }
+  ]
+ },
+ {
   "datum": "2026-10-13",
   "morgen": null,
   "abend": null,
