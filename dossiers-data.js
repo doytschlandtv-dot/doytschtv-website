@@ -434,7 +434,7 @@ window.DOSSIERS = [
        "4.5.2026: Güvercin machte laut Algemeiner (nicht unabhängig geprüft) auf Rednerauftritte bei den „Cultural Days“ von Ditib in Hamburg-Bergedorf aufmerksam. Von sechs angekündigten Rednern strich Ditib nach politischem Druck vier. Ditib erklärte, wer in den Gemeinden aktiv sei, dürfe nicht mit antisemitischen Positionen oder Hetze in Verbindung gebracht werden. Die Vorwürfe gegen die zwei verbliebenen Redner stützen sich auf deren Social-Media-Beiträge und auf Güvercins Angaben. Die Bundesregierung hatte Ditib im September 2025 aufgefordert, sich von Erdoğans israelfeindlicher Rhetorik zu distanzieren.",
        "15.10.2026 (stern TV): „Akteure in der muslimischen Szene“.",
        "Der Vergleich: 2023 sprach er von Antisemitismus als „sehr verbreitet“ unter Muslimen in Deutschland, 2026 von „Akteuren“, die Religion missbrauchen. Das sind zwei unterschiedliche Aussagen, die erste eine breite, die zweite eine engere. Die Daten stützen die breite nur teilweise: Zustimmung zu antisemitischen Aussagen ist unter Muslimen laut KAS-Studie deutlich häufiger als im Durchschnitt, bleibt aber in jeder abgefragten Aussage eine Minderheit, bei 7 bis 26 Prozent. „Sehr verbreitet“ ist eine Wertung ohne Zahl. Ob die engere Formulierung 2026 eine bewusste Präzisierung ist oder eine Verkürzung des Ausschnitts, wissen wir nicht. Frage an ihn: Welche Aussage gilt, und woran machst du „sehr verbreitet“ fest?",
-       "Wo er Recht behält, soweit geprüft: Dass Hamas-Relativierungen und antisemitische Inhalte bei Teilen des Verbandsumfelds und im Netz vorkommen, ist mit den von ihm genannten Fällen und mit Erklärungen von Ditib NRW (Dezember 2023) und Ditib (Streichung von vier Rednern, Mai 2026) in der Tendenz gestützt. Dass die Verbände die Hamas 2023 nicht klar als Terrororganisation benannten, haben wir nicht an den Originalerklärungen aller Verbände geprüft."
+       "Wo er Recht behält, soweit geprüft: Dass Hamas-Relativierungen und antisemitische Inhalte bei Teilen des Verbandsumfelds und im Netz vorkommen, ist mit den von ihm genannten Fällen und mit Erklärungen von Ditib NRW (Dezember 2023) und Ditib (Streichung von vier Rednern, Mai 2026) in der Tendenz gestützt. Geprüft haben wir auch seinen Satz, kein Verband benenne die Hamas klar als Terrororganisation. Nach den Berichten (epd und Jüdische Allgemeine vom 17.10.2023) verurteilten Ditib NRW, die Landesverbände des Zentralrats der Muslime, der VIKZ und die Islamische Religionsgemeinschaft NRW am 16.10.2023 die „Gräueltaten der Hamas“ „uneingeschränkt“, forderten die Freilassung der Geiseln und sprachen vom „Terror“. Das Wort „Terrororganisation“ kommt in den Berichten nicht vor. Auch die Erklärung des Koordinationsrats der Muslime (KRM) verurteilte laut Jungle World (2023/44) „Hamas-Terror“ gegen israelische Zivilisten, nannte aber nur Zivilisten und keine Soldaten. Der Zentralrat der Muslime wurde am 9.10.2023 für eine erste Erklärung kritisiert, die von einer „Gewaltspirale“ sprach (Jüdische Allgemeine, Kritik des Grünen-Politikers Danyal Bayaz). Unser Befund: Seine Aussage trifft in der Wortwahl zu, soweit die Berichte den Wortlaut wiedergeben. Es gab aber klare Verurteilungen der Hamas-Taten und des „Terrors“. Ob „Terrororganisation“ in den Originalen fehlt, haben wir nicht an den Originaltexten geprüft, nur an Berichten. Zu Islamrat und IGMG liegen uns nur Randhinweise vor, etwa ein Beitrag der IGMG-Jugend zu Saladin kurz nach dem Angriff (Jungle World 2023/44, nicht von uns geprüft)."
       ]
      },
      {
@@ -598,6 +598,22 @@ window.DOSSIERS = [
      {
       "titel": "Bertelsmann Stiftung, Religionsmonitor: Antisemitismus und Rassismus, 12/2023",
       "url": "https://www.bertelsmann-stiftung.de/de/unsere-projekte/religionsmonitor/projektnachrichten/antisemitismus-und-rassismus-der-nahost-krieg-offenbart-risse-in-der-deutschen-gesellschaft"
+     },
+     {
+      "titel": "Jüdische Allgemeine: Islam-Verbände dulden keinen Zuspruch für Hamas-Terror, 17.10.2023",
+      "url": "https://www.juedische-allgemeine.de/politik/islam-verbaende-dulden-keinen-zuspruch-fuer-hamas-terror/"
+     },
+     {
+      "titel": "epd/evangelisch.de: Islam-Verbände dulden keinen Zuspruch für Hamas-Terror, 17.10.2023",
+      "url": "https://www.evangelisch.de/inhalte/222076/17-10-2023/islam-verbaende-dulden-keinen-zuspruch-fuer-hamas-terror"
+     },
+     {
+      "titel": "Jüdische Allgemeine: Finanzminister kritisiert Zentralrat der Muslime, 9.10.2023",
+      "url": "https://www.juedische-allgemeine.de/politik/ihr-seid-lost-finanzminister-kritisiert-zentralrat-der-muslime-wegen-reaktion-auf-terror-in-israel/"
+     },
+     {
+      "titel": "Jungle World 2023/44: Fischer zu Verbänden und Hamas-Erklärungen",
+      "url": "https://jungle.world/print/pdf/node/82465"
      }
     ],
     "stand": "15.10.2026"
