@@ -12,7 +12,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Faktencheck · Kinderschutz",
       "titel": "Kinderehen: Wen betrifft es wirklich?",
-      "rot": "wirklich"
+      "rot": "wirklich",
+      "bild": {
+       "url": "titel-kinderehen.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -78,7 +83,13 @@ window.BRIEFINGS = [
     "rot": "wirklich",
     "text": "Acht aufgehobene Ehen in Baden-Württemberg, Beteiligte aus neun Ländern. Alle Zahlen im Karussell, Link in der Bio.",
     "quelle": "dpa; Bundesregierung, Drucksache 21/1058",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-kinderehen.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
    }
   ]
  },
