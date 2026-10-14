@@ -16,7 +16,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-hochzeitskorso.jpg",
        "fokus": 0.5,
-       "unter": "Illustration, kein Foto"
+       "unter": "Illustration, KI-generiert, kein Foto"
       }
      },
      {
@@ -108,7 +108,7 @@ window.BRIEFINGS = [
      "url": "titel-hochzeitskorso.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Illustration, kein Foto · Karussell: Link in der Bio"
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
     }
    }
   ]
