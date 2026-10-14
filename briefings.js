@@ -1,5 +1,95 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-15",
+  "morgen": null,
+  "abend": null,
+  "karussells": [
+   {
+    "thema": "Güvercin, „muslimische Szene“ und Antisemitismus",
+    "zusatz": true,
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Dossier",
+      "titel": "Wen meint „die muslimische Szene“? Was Eren Güvercin sagt, was belegt ist und was die Zahlen zeigen.",
+      "rot": "muslimische Szene",
+      "bild": {
+       "url": "dossier-guevercin.jpg",
+       "karte": true,
+       "unter": "Illustration, KI-generiert, kein Foto."
+      }
+     },
+     {
+      "typ": "zahl",
+      "zahl": "38 %",
+      "label": "fühlen sich von einem Islamverband vertreten",
+      "text": "Weitere 38 Prozent kennen die Verbände nicht. „Die Verbände“ sprechen nicht für „die Muslime“. Güvercin sprach bei stern TV von „Akteuren“, nicht von allen. Das islamistische Personenpotenzial lag 2024 bei 28.280 Personen.",
+      "quelle": "BAMF, Muslimisches Leben in Deutschland 2020; Drucksache 21/1237"
+     },
+     {
+      "typ": "zahl",
+      "zahl": "48,4 %",
+      "label": "antisemitische Straftaten 2024: „rechts“",
+      "text": "Insgesamt 6.236, so viele wie nie seit 2001. 31,1 Prozent wurden „ausländischer Ideologie“ zugeordnet. Die Religion der Täter erfasst keine Statistik, bei vielen Fällen ist der Täter unbekannt.",
+      "quelle": "PMK 2024, nach Correctiv, 20.5.2025"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Seine Aussage 2023",
+      "behauptung": "Antisemitismus und Israelfeindschaft seien „sehr verbreitet“ unter Muslimen in Deutschland.",
+      "labelB": "Was Umfragen zeigen",
+      "fakt": "7 bis 26 Prozent der Muslime stimmen antisemitischen Aussagen zu, im Durchschnitt 2 bis 6 Prozent. Deutlich häufiger, aber jeweils eine Minderheit.",
+      "quelle": "dpa, 12.10.2023; KAS-Studie, epd, 25.7.2023"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Importiert?",
+      "titel": "Ein deutsches Problem mit langer Geschichte",
+      "text": "1946 lehnten 85 Prozent der Befragten die Rückkehr überlebender Juden ab. 2022 stimmten 43 Prozent zu, Israels Politik sei im Prinzip dasselbe wie die Verbrechen der Nazis. Die Forschung lehnt „importiert“ ab. Israelbezogene Formen sind in Teilen der Zuwanderung aus der Region stärker.",
+      "quelle": "Schüler-Springorum, bpb 2020; Religionsmonitor 2023; Mediendienst 2023"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Gegenfrage",
+      "titel": "Staatsferne fordern, Bundesmittel erhalten?",
+      "text": "Güvercin kritisiert Ditib als staatsabhängig. Seine Alhambra-Gesellschaft erhielt 2023 Bundesmittel von 266.599,35 €, offen in einer Drucksache. Auch Ditib-Gliederungen erhielten Bundesmittel. Die Frage an ihn: Nennt er das bei Auftritten?",
+      "quelle": "Drucksachen 20/9273 und 18/12259"
+     },
+     {
+      "typ": "meinung",
+      "text": "Uns geht es um die Sache, nicht um Personen. Wer „Szene“ sagt, sollte sagen, wer gemeint ist. Was belegt ist, zeigen die Quellen.",
+      "handlung": "Das ganze Dossier mit allen Quellen: doytschtv.de/dossiers"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie viel Verantwortung tragen Gemeinschaften für Antisemitismus in ihren Reihen, und wer ist „die Gemeinschaft“?"
+     }
+    ],
+    "caption": "Bei stern TV sprach Eren Güvercin von „Akteuren in der muslimischen Szene“, die Religion missbrauchen, um Antisemitismus zu legitimieren. Wir haben geprüft: Nur 38 Prozent der Muslime fühlen sich von einem Verband vertreten. 2024 wurden 48,4 Prozent der antisemitischen Straftaten dem Bereich „rechts“ zugeordnet. Die Religion der Täter erfasst keine Statistik. Umfragen zeigen unter Muslimen deutlich mehr Zustimmung zu antisemitischen Aussagen als im Durchschnitt, aber jeweils eine Minderheit. Die Forschung nennt Antisemitismus ein deutsches Problem. Uns geht es um die Sache, nicht um Personen. Alle Quellen im Dossier auf doytschtv.de. Wie viel Verantwortung tragen Gemeinschaften, und wer ist „die Gemeinschaft“?",
+    "hashtags": "#doytschlandtv #antisemitismus #muslime #islam #ditib #faktencheck #dossier #einordnung #politik #zusammenhalt"
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Dossier",
+    "kicker": "Dossier · Debatte",
+    "titel": "Wen meint „die muslimische Szene“?",
+    "rot": "muslimische Szene",
+    "text": "Wie viele Muslime sind in Verbänden vertreten? Wie viel Antisemitismus geht von wem aus? Unser Dossier prüft Aussagen und Zahlen.",
+    "quelle": "BAMF 2020; PMK 2024; RIAS 2025",
+    "theme": "dark",
+    "bild": {
+     "url": "dossier-guevercin.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Dossier: doytschtv.de/dossiers"
+    }
+   }
+  ]
+ },
+ {
   "datum": "2026-10-14",
   "morgen": null,
   "abend": null,
