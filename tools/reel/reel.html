@@ -12,7 +12,7 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#f8f7f2}
 .card.k{background:#0a0a0a;color:#f8f7f2}.card.r{background:#b2231c;color:#fff}.card.g{background:#e4e1d6;color:#0a0a0a}
 .card small{display:block;font-weight:500;font-size:26px;opacity:.7;margin-top:12px}
 .big{font:700 96px/1.05 "Bodoni Moda",Georgia,serif;letter-spacing:-.01em}
-#tA1,#tA2{left:70px;right:70px;text-align:left}
+#tA1,#tA2{left:44px;right:auto;max-width:990px;display:table;text-align:left;background:#f8f7f2;padding:12px 28px;border-radius:22px;box-shadow:0 10px 40px rgba(0,0,0,.12)}
 .ring{width:240px;height:240px;border-radius:50%;padding:10px;background:conic-gradient(#b2231c,#e0457b,#b2231c);display:grid;place-items:center}
 .ring span{width:100%;height:100%;border-radius:50%;background:#0a0a0a;border:10px solid #f8f7f2;display:grid;place-items:center;color:#f8f7f2;font:700 100px/1 "Bodoni Moda",Georgia,serif}
 /* Szene B */
@@ -52,25 +52,26 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#f8f7f2}
 #end{inset:0;background:#f8f7f2;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:50px;opacity:0}
 #end img{width:760px;height:auto}
 #end p.cl{font:700 34px/1.2 Inter;letter-spacing:.16em;text-transform:uppercase;color:#5e5b53}
-#end p.cta{font:600 64px/1.1 "Bodoni Moda",Georgia,serif;text-align:center;padding:0 90px}
+#end p.cta{font:600 84px/1.1 "Bodoni Moda",Georgia,serif;text-align:center;padding:0 90px}
+#end p.sm{font:500 38px/1.3 Inter;color:#3b3a36;text-align:center;padding:0 90px;margin-top:-20px}
 #end p.hd{font:700 42px Inter;color:#b2231c}
 </style></head><body>
 <div id="st">
  <div id="A" class="abs" style="inset:0"></div>
- <div id="tA1" class="abs big" style="top:1010px;opacity:0">Alles ist laut.</div>
- <div id="tA2" class="abs big" style="top:1010px;opacity:0;color:#b2231c">Was stimmt?</div>
+ <div id="tA1" class="abs big" style="top:940px;opacity:0">Ungeprüft geteilt.</div>
+ <div id="tA2" class="abs big" style="top:1080px;opacity:0;color:#b2231c">So entstehen Feindbilder.</div>
  <div id="rg" class="abs" style="left:420px;top:500px;opacity:0"><div class="ring"><span>D</span></div></div>
  <div id="B" class="abs" style="inset:0;opacity:0">
   <div id="lab" class="abs">
-   <div class="lb" data-i="0"><small>Der Aufhänger</small><b>Ein Satz. Das Wichtigste.</b></div>
-   <div class="lb" data-i="1"><small>Was wir wissen</small><b>Behauptung und Fakt. Sauber getrennt, mit Quelle.</b></div>
-   <div class="lb" data-i="2"><small>Unsere Einordnung</small><b>Meinung? Klar als Meinung gekennzeichnet.</b></div>
+   <div class="lb" data-i="0"><small>Zuerst</small><b>Was ist passiert? Eine Zahl, ein Satz.</b></div>
+   <div class="lb" data-i="1"><small>Fakt oder Behauptung?</small><b>Du siehst es. Jede Quelle ist offen.</b></div>
+   <div class="lb" data-i="2"><small>Unsere Einordnung</small><b>Meinung steht als Meinung da.</b></div>
    <div class="lb" data-i="3"><small>Dein Part</small><b>Speichern. Teilen. Folgen.</b></div>
   </div>
   <div id="ph" class="abs"><div id="sc">
    <div id="bar"><i>D</i>doytschlandtv<span id="fol">Folgen</span></div>
    <div id="win"><div id="strip">
-     <img src="demo/folie-01.png"><img src="demo/folie-04.png"><img src="demo/folie-07.png"><img src="demo/folie-08.png">
+     <img src="demo/folie-03.png"><img src="demo/folie-04.png"><img src="demo/folie-07.png"><img src="demo/folie-08.png">
     </div>
     <div class="hl" id="hl1" style="left:26px;top:790px;width:330px;height:48px"></div>
     <div class="hl" id="hl2" style="left:24px;top:128px;width:398px;height:44px"></div>
@@ -89,12 +90,12 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#f8f7f2}
   </div><div id="rip"></div><div id="fing"></div></div>
  </div>
  <div id="C" class="abs" style="inset:0;opacity:0">
-  <div class="vs" id="vsA"><h3>Die typische Schlagzeile</h3>
+  <div class="vs" id="vsA"><h3>Einfach weitergeleitet</h3>
    <div class="row"><u>✕</u><span>Behauptung</span></div><div class="row"><u>✕</u><span>Keine Quelle</span></div><div class="row"><u>✕</u><span>Fakt und Meinung vermischt</span></div></div>
-  <div class="vs" id="vsB"><h3>DoytschlandTv</h3>
+  <div class="vs" id="vsB"><h3>Geprüft bei DoytschlandTv</h3>
    <div class="row"><u>✓</u>Fakt, mit Quelle</div><div class="row"><u>✓</u>Einordnung</div><div class="row"><u>✓</u>Meinung gekennzeichnet</div><div class="row"><u>✓</u>Sache, nicht Person</div></div>
  </div>
- <div id="end" class="abs"><div class="ring" id="er"><span>D</span></div><img src="../../logo.png" alt="DoytschlandTv"><p class="cl">Deutschland. Auf den Punkt.</p><p class="cta">Folge uns. Sag uns, was wir einordnen sollen.</p><p class="hd">@doytschlandtv</p></div>
+ <div id="end" class="abs"><div class="ring" id="er"><span>D</span></div><img src="../../logo.png" alt="DoytschlandTv"><p class="cl">Deutschland. Auf den Punkt.</p><p class="cta">Glaub nicht uns.<br>Prüf nach.</p><p class="sm">Sag uns, was wir einordnen sollen.</p><p class="hd">@doytschlandtv</p></div>
 </div>
 <script>
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
@@ -126,7 +127,7 @@ function render(t){
  cards.forEach(c=>{const y=c.y0-sp*c.sp; c.d.style.transform=`translate(${c.dx*t}px,${y}px) rotate(${c.rot*(1+t*.2)}deg)`;});
  const fadeA=1-eio(seg(t,5.1,5.9)); A.style.opacity=fadeA;
  const t1=eo(seg(t,1.4,1.9))*(1-seg(t,4.4,4.8)); $("#tA1").style.opacity=t1; $("#tA1").style.transform=`translateY(${(1-eo(seg(t,1.4,1.9)))*40}px)`;
- const t2=eo(seg(t,2.9,3.4))*(1-seg(t,4.4,4.8)); $("#tA2").style.opacity=t2; $("#tA2").style.top=(1010+130)+"px"; $("#tA2").style.transform=`translateY(${(1-eo(seg(t,2.9,3.4)))*40}px)`;
+ const t2=eo(seg(t,2.9,3.4))*(1-seg(t,4.4,4.8)); $("#tA2").style.opacity=t2; $("#tA2").style.transform=`translateY(${(1-eo(seg(t,2.9,3.4)))*40}px)`;
  // Ring
  const rg=$("#rg"); const drop=eo(seg(t,4.5,5.3)), open=eio(seg(t,5.5,6.3));
  rg.style.opacity=t>=4.5&&t<6.3?(seg(t,4.5,4.7)*(1-open)):0;
