@@ -76,15 +76,20 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Fair bleiben",
       "titel": "Ein Verdacht ist kein Urteil.",
-      "text": "Gegen einen 21-Jährigen wird ermittelt, verurteilt ist niemand. Ein einzelner Wagen sagt nichts über Hochzeitsgesellschaften, ihre Herkunft oder Religion. Ob aus dem Auto tatsächlich geschossen wurde, klären die Ermittlungen.",
+      "text": "Gegen einen 21-Jährigen wird ermittelt, verurteilt ist niemand. Ob aus dem Auto tatsächlich geschossen wurde, klären die Ermittlungen.",
       "quelle": "Ruhr Nachrichten, 5.10.2026"
      },
      {
+      "typ": "meinung",
+      "text": "Ein Autokorso ist eine alte Tradition, ein Gelenek. Er sollte aus Respekt andere nicht behindern. Schüsse gehören nicht dazu: nicht zeitgemäß, nicht nötig, kein Zeichen von Freude. Nach unserem Eindruck aus der Community lehnen die meisten das ab. Ein Einzelfall rechtfertigt keine Pauschalisierung.",
+      "handlung": "Freude zeigen geht auch ohne Schüsse und ohne andere zu behindern."
+     },
+     {
       "typ": "cta",
-      "frage": "Gezogene Waffen bei Schussverdacht: Wo ist die Grenze?"
+      "frage": "Hochzeitskorso: Wie zeigt man Freude, ohne andere zu stören?"
      }
     ],
-    "caption": "Am Freitag, 2. Oktober, stoppte die Polizei am Dortmunder Ostwall einen Wagen eines Hochzeitskorsos, nachdem ein Zeuge Schüsse aus dem Auto gemeldet hatte. Die Beamten gingen mit gezogenen Dienstwaffen vor, weil sie nicht wussten, ob die Waffe echt oder eine Schreckschusswaffe war. Gefunden wurde eine Schreckschusswaffe, gegen einen 21-Jährigen läuft ein Ermittlungsverfahren. Niemand wurde verletzt oder festgenommen, die übrigen Fahrzeuge wurden ohne Beanstandung kontrolliert. Ein Verdacht ist kein Urteil, und ein Einzelfall sagt nichts über eine ganze Gruppe. Quellen auf unserer Website, Link in der Bio. Gezogene Waffen bei Schussverdacht: Wo ist die Grenze?",
+    "caption": "Am Freitag, 2. Oktober, stoppte die Polizei am Dortmunder Ostwall einen Wagen eines Hochzeitskorsos, nachdem ein Zeuge Schüsse aus dem Auto gemeldet hatte. Die Beamten gingen mit gezogenen Dienstwaffen vor, weil sie nicht wussten, ob die Waffe echt oder eine Schreckschusswaffe war. Gefunden wurde eine Schreckschusswaffe, gegen einen 21-Jährigen läuft ein Ermittlungsverfahren. Niemand wurde verletzt oder festgenommen, die übrigen Fahrzeuge wurden ohne Beanstandung kontrolliert. Unsere Meinung ist gekennzeichnet: Ein Korso sollte andere nicht behindern, Schüsse gehören nicht zur Freude, und ein Einzelfall rechtfertigt keine Pauschalisierung. Quellen auf unserer Website, Link in der Bio. Hochzeitskorso: Wie zeigt man Freude, ohne andere zu stören?",
     "hashtags": "#doytschlandtv #dortmund #polizei #hochzeitskorso #schreckschusswaffe #einordnung #nachrichten #faktencheck"
    }
   ],
