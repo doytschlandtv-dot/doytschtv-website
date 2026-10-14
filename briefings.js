@@ -5,6 +5,74 @@ window.BRIEFINGS = [
   "abend": null,
   "karussells": [
    {
+    "zusatz": true,
+    "thema": "Kinderehen: Wen betrifft es wirklich? Faktencheck zu acht aufgehobenen Ehen in Baden-Württemberg",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Faktencheck · Kinderschutz",
+      "titel": "Kinderehen: Wen betrifft es wirklich?",
+      "rot": "wirklich",
+      "bild": {
+       "url": "titel-kinderehen.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Meldung",
+      "titel": "Acht aufgehobene Ehen, neun Herkunftsländer.",
+      "text": "In Baden-Württemberg wurden 2018 bis 2024 acht Ehen mit Minderjährigen aufgehoben. Die Beteiligten stammten aus Afghanistan, Rumänien, Moldawien, Syrien, Irak, Kroatien, Serbien, Pakistan und Deutschland. Die Männer waren meist deutlich älter als die Frauen. Die Zahlen stammen aus der Antwort des Innenministeriums auf eine AfD-Anfrage im Landtag.",
+      "quelle": "dpa, berichtet von echo24 und Wochenblatt-Reporter"
+     },
+     {
+      "typ": "zahl",
+      "label": "Bundesweit, Ende 2024",
+      "zahl": "279 in Kinderehen erfasst",
+      "text": "Ausländische Staatsangehörige im Alter von 16 und 17 Jahren, keine unter 16. Ukraine 124, Syrien 67, Afghanistan 20, Bulgarien 12, Guinea 10, 28 weitere Staaten zusammen 46. Erfasst sind nur ausländische Staatsangehörige.",
+      "quelle": "Bundesregierung, Bundestags-Drucksache 21/1058"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Die Größenordnung",
+      "titel": "Kinderschutz ist größer als Zwangsehen.",
+      "punkte": [
+       {
+        "kopf": "18.085 Kinder",
+        "text": "waren 2024 Opfer sexuellen Missbrauchs, rund 50 am Tag. Das Dunkelfeld ist größer."
+       },
+       {
+        "kopf": "Meist im Umfeld",
+        "text": "Rund 25 % der Fälle geschehen in der engsten Familie, weitere im sozialen Nahraum."
+       },
+       {
+        "kopf": "19,7 % ausländisch",
+        "text": "Anteil ausländischer Tatverdächtiger 2024. Rund 80 % hatten keine ausländische Staatsangehörigkeit."
+       }
+      ],
+      "quelle": "BMI/BKA Bundeslagebild 2024, UBSKM, ZDFheute"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Der AfD-Antrag im Bundestag",
+      "titel": "Was stimmt, was fehlt.",
+      "text": "Es gibt keine zentrale Erfassung von Kinderehen. Eine Studie zu fordern ist legitim. Der AfD-Antrag verlangt sie aber nur zu Zwangsverheiratung, nicht zu Missbrauch in Familien, Kitas, Schulen oder Kirchen. Allein die Kirchenstudien zählen fast 3.000 Beschuldigte: 1.670 katholische, mindestens 1.259 evangelische.",
+      "quelle": "Bundesregierung (Drs. 21/1058), AfD-Antrag (Drs. 21/6926), MHG- und ForuM-Studie"
+     },
+     {
+      "typ": "meinung",
+      "text": "Kinderschutz gilt für jedes Kind, in Familie, Kita, Schule und Kirche. Wer ihn auf eine Religion verengt, unterstellt Menschen Taten, die sie nie begangen haben. Unter solchen Meldungen sehen wir, wohin das führt: Hass."
+     },
+     {
+      "typ": "cta",
+      "frage": "Was braucht Kinderschutz am dringendsten?"
+     }
+    ],
+    "caption": "In Baden-Württemberg wurden von 2018 bis 2024 acht Ehen mit Minderjährigen aufgehoben, die Beteiligten kamen aus neun Ländern, darunter Deutschland. Bundesweit führt die Ukraine die Liste der in Kinderehen erfassten 16- und 17-Jährigen an. Kinderschutz ist größer als Zwangsehen: 18.085 Kinder waren 2024 Opfer sexuellen Missbrauchs, die meisten Taten geschehen im Umfeld der Kinder. Unsere Meinung ist gekennzeichnet: Kinderschutz gilt überall, und niemand darf wegen seiner Religion unter Verdacht gestellt werden. Quellen auf unserer Website, Link in der Bio. Was braucht Kinderschutz am dringendsten?",
+    "hashtags": "#doytschlandtv #kinderschutz #kinderehen #faktencheck #einordnung #nachrichten #politik #deutschland"
+   },
+   {
     "thema": "Güvercin, „muslimische Szene“ und Antisemitismus",
     "zusatz": true,
     "slides": [
@@ -70,6 +138,23 @@ window.BRIEFINGS = [
    }
   ],
   "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Kinderschutz · Faktencheck",
+    "titel": "Kinderehen: Wen betrifft es wirklich?",
+    "rot": "wirklich",
+    "text": "Acht aufgehobene Ehen in Baden-Württemberg, Beteiligte aus neun Ländern. Alle Zahlen im Karussell, Link in der Bio.",
+    "quelle": "dpa; Bundesregierung, Drucksache 21/1058",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-kinderehen.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
+    }
+   },
    {
     "zusatz": true,
     "art": "nachricht",
