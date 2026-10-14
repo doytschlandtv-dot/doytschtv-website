@@ -91,6 +91,166 @@ window.BRIEFINGS = [
     ],
     "caption": "Am Freitag, 2. Oktober, stoppte die Polizei am Dortmunder Ostwall einen Wagen eines Hochzeitskorsos, nachdem ein Zeuge Schüsse aus dem Auto gemeldet hatte. Die Beamten gingen mit gezogenen Dienstwaffen vor, weil sie nicht wussten, ob die Waffe echt oder eine Schreckschusswaffe war. Gefunden wurde eine Schreckschusswaffe, gegen einen 21-Jährigen läuft ein Ermittlungsverfahren. Niemand wurde verletzt oder festgenommen, die übrigen Fahrzeuge wurden ohne Beanstandung kontrolliert. Unsere Meinung ist gekennzeichnet: Ein Korso sollte andere nicht behindern, Schüsse gehören nicht zur Freude, und ein Einzelfall rechtfertigt keine Pauschalisierung. Quellen auf unserer Website, Link in der Bio. Hochzeitskorso: Wie zeigt man Freude, ohne andere zu stören?",
     "hashtags": "#doytschlandtv #dortmund #polizei #hochzeitskorso #schreckschusswaffe #einordnung #nachrichten #faktencheck"
+   },
+   {
+    "zusatz": true,
+    "thema": "Zuckersteuer: Kabinett billigt bis zu 32 Cent je Liter",
+    "caption": "Das Kabinett hat die Zuckersteuer auf den Weg gebracht. Sie soll am 1. Juli 2027 starten: 26 Cent je Liter bei 5 bis unter 8 Gramm Zucker je 100 ml, 32 Cent ab 8 Gramm. Reine Fruchtsäfte sind ausgenommen, kleine Hersteller bis eine Million Liter im Jahr sollen befreit werden. Der Bund rechnet mit 820 Millionen Euro im Jahr, das Geld soll eine Kürzung beim Gesundheitsfonds verringern. Ein Gesetz ist es noch nicht, und Union und SPD streiten weiter über die Details. Bei 32 Cent je Liter wäre eine 0,5-Liter-Flasche 16 Cent teurer, wenn die Steuer voll im Preis ankommt. Zuckersteuer: sinnvoller Anreiz oder unnötige Belastung?",
+    "hashtags": "#doytschlandtv #aktuell #zuckersteuer #gesundheit #verbraucher #bundesregierung #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Gesundheit · Steuer",
+      "titel": "Zuckersteuer: Kabinett billigt bis zu 32 Cent je Liter",
+      "rot": "bis zu 32 Cent je Liter"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Beschluss",
+      "titel": "Das Kabinett hat den Weg frei gemacht.",
+      "text": "Das Kabinett billigte eine Formulierungshilfe für die Regierungsfraktionen. Die Steuer soll am 1. Juli 2027 starten. Ein Gesetz ist das noch nicht: Der Bundestag muss beraten, und die EU-Kommission muss die Ausnahme für kleine Hersteller als staatliche Beihilfe genehmigen.",
+      "quelle": "ZDFheute (dpa, AFP), 14.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Je Liter",
+      "zahl": "26 / 32 Cent",
+      "text": "Zwei Stufen nach Zuckergehalt je 100 ml: 5 bis unter 8 Gramm kosten 26 Cent je Liter, ab 8 Gramm 32 Cent. Besteuert werden zum Beispiel Cola, Limonade, gesüßte Fruchtschorlen, Eistee, Sirup und Energydrinks. Reine Fruchtsäfte sind ausgenommen.",
+      "quelle": "ZDFheute (dpa, AFP), 14.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Entwurf Ende September",
+      "behauptung": "Drei Stufen: 26 Cent ab 5 g, 32 Cent ab 7 g, 38 Cent ab 10 g Zucker je 100 ml.",
+      "labelB": "Beschluss heute",
+      "fakt": "Zwei Stufen: 26 Cent ab 5 g, 32 Cent ab 8 g. Dazu mehr Ausnahmen: Kleine Hersteller bis eine Million Liter im Jahr sollen befreit werden.",
+      "quelle": "ZDFheute, 14.10.2026; Deutsches Ärzteblatt, 30.9.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Einnahmen",
+      "zahl": "820 Mio. Euro",
+      "text": "So viel soll die Steuer im Jahr bringen, bei voller Jahreswirkung. 2027 sind es wegen des Starts zur Jahresmitte 690 Millionen, 2031 dann 890 Millionen. Das Geld soll eine geplante Kürzung des Bundeszuschusses an den Gesundheitsfonds verringern.",
+      "quelle": "ZDFheute (dpa, AFP), 14.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Rechnung für dich",
+      "zahl": "16 Cent",
+      "text": "So viel teurer wäre eine 0,5-Liter-Flasche in der 32-Cent-Stufe, wenn die Steuer voll im Preis ankommt. Eine Flasche täglich wären rund 58 Euro im Jahr. Ob und wie viel Hersteller und Handel weitergeben, ist offen.",
+      "quelle": "eigene Rechnung nach ZDFheute, 14.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer streitet?",
+      "titel": "Vier Positionen",
+      "punkte": [
+       {
+        "kopf": "Finanzkommission Gesundheit",
+        "text": "Schlug die Abgabe vor, mit 32 Cent in der höchsten Stufe ab 8 g Zucker."
+       },
+       {
+        "kopf": "Kanzleramt",
+        "text": "Stoppte den Entwurf Anfang Oktober vorerst. In Regierungskreisen hieß es, er sei so nicht mehrheitsfähig."
+       },
+       {
+        "kopf": "Unions-Länderminister",
+        "text": "Neun Agrar- und Verbraucherschutzminister schrieben Merz einen Brief gegen die Steuer."
+       },
+       {
+        "kopf": "Klingbeil (SPD)",
+        "text": "Schloss im August aus, dass Light- und Zero-Produkte besteuert werden."
+       }
+      ],
+      "quelle": "ZDFheute, 14.10.2026; Deutsches Ärzteblatt, 30.9.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Wie es weitergeht",
+      "titel": "Noch kein Gesetz",
+      "text": "Der Bundestag muss beraten, und die EU-Kommission muss die Beihilfe für kleine Hersteller genehmigen. Ob Hersteller und Handel die Steuer an Kunden weitergeben, entscheidet sich erst im Preis."
+     },
+     {
+      "typ": "cta",
+      "frage": "Zuckersteuer: Sinnvoller Anreiz oder unnötige Belastung?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Nord-Stream-Prozess: Was in Hamburg beginnt",
+    "caption": "Vor dem Hanseatischen Oberlandesgericht in Hamburg beginnt der erste Prozess zu den Nord-Stream-Anschlägen. Angeklagt ist der Ukrainer Serhij K. Das Gericht sieht hinreichenden Tatverdacht für Kriegsverbrechen durch den Einsatz verbotener Methoden der Kriegsführung gegen zivile Objekte, außerdem für das Herbeiführen einer Sprengstoffexplosion, Zerstörung von Bauwerken und Störung öffentlicher Betriebe. 16 Termine sind bis zum 17. Dezember angesetzt. Es gibt kein Urteil, bis dahin gilt die Unschuldsvermutung. Was erwartest du vom Verfahren?",
+    "hashtags": "#doytschlandtv #aktuell #nordstream #prozess #hamburg #justiz #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Justiz · Hamburg",
+      "titel": "Nord Stream: Prozess um die Anschläge beginnt",
+      "rot": "Prozess um die Anschläge"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Prozess",
+      "titel": "Erster Prozess zu den Nord-Stream-Anschlägen.",
+      "text": "Vor dem Hanseatischen Oberlandesgericht Hamburg beginnt die Hauptverhandlung gegen den Ukrainer Serhij K. Bis zum 17. Dezember sind 16 Termine angesetzt, weitere im Januar und Februar 2027.",
+      "quelle": "beck-aktuell, 3.9.2026; news.de, 14.10.2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Vorwurf",
+      "titel": "Der Tatverdacht lautet auf Kriegsverbrechen.",
+      "text": "Nach vorläufiger Bewertung des Gerichts besteht hinreichender Verdacht, dass er als Mittäter beteiligt war: Einsatz verbotener Methoden der Kriegsführung durch Angriff auf zivile Objekte, dazu Herbeiführen einer Sprengstoffexplosion, Zerstörung von Bauwerken und Störung öffentlicher Betriebe.",
+      "quelle": "beck-aktuell, 3.9.2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Anklage",
+      "titel": "Was ihm die Ermittler vorwerfen",
+      "text": "Laut Ermittlern bestieg er mit sechs weiteren Beteiligten bis zum 8. September 2022 in Wiek auf Rügen die Segeljacht „Andromeda“. Nahe Bornholm sollen vier zeitgezündete Sprengladungen an den Pipelines angebracht worden sein, bei Tauchgängen bis 80 Meter. Er soll damals Offizier einer Spezialeinheit der ukrainischen Streitkräfte gewesen sein.",
+      "quelle": "Berliner Zeitung, Angaben der Ermittler"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wichtig zu wissen",
+      "titel": "Was gilt und was bisher bekannt ist",
+      "punkte": [
+       {
+        "kopf": "Unschuldsvermutung",
+        "text": "Es liegt kein Urteil vor. Bis zu einem Urteil gilt die Unschuldsvermutung."
+       },
+       {
+        "kopf": "Auslieferung",
+        "text": "Festnahme in Italien im August 2025, seit 27.11.2025 in Untersuchungshaft."
+       },
+       {
+        "kopf": "Mitbeschuldigter",
+        "text": "Wolodymyr Z. wurde am 19. August 2026 in Kroatien festgenommen. Ein Auslieferungsverfahren läuft."
+       },
+       {
+        "kopf": "Gericht",
+        "text": "Der Staatsschutzsenat des OLG Hamburg hat die Anklage zur Hauptverhandlung zugelassen."
+       }
+      ],
+      "quelle": "beck-aktuell, 3.9.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Der Zeitplan",
+      "zahl": "16 Termine",
+      "text": "Bis zum 17. Dezember 2026 sind 16 Verhandlungstage angesetzt. Weitere Termine sind für Januar und Februar 2027 vorgesehen.",
+      "quelle": "beck-aktuell, 3.9.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Ein Verfahren, kein Urteil",
+      "text": "Vor Gericht geht es um die Schuld eines einzelnen Angeklagten. Politische Bewertungen der Anschläge ersetzen kein Urteil."
+     },
+     {
+      "typ": "cta",
+      "frage": "Was erwartest du vom Nord-Stream-Prozess?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -110,6 +270,28 @@ window.BRIEFINGS = [
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
     }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Gesundheit · Steuer",
+    "titel": "Zuckersteuer: Kabinett billigt bis zu 32 Cent je Liter",
+    "rot": "bis zu 32 Cent je Liter",
+    "text": "Start soll der 1. Juli 2027 sein. Alle Zahlen im Karussell, Link in der Bio.",
+    "quelle": "ZDFheute (dpa, AFP), 14.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Justiz · Hamburg",
+    "titel": "Nord Stream: Prozess um die Anschläge beginnt",
+    "rot": "Prozess um die Anschläge",
+    "text": "Es gilt die Unschuldsvermutung. Alle Fakten im Karussell, Link in der Bio.",
+    "quelle": "beck-aktuell, 3.9.2026",
+    "theme": "dark"
    }
   ]
  },
