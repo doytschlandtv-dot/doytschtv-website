@@ -81,8 +81,8 @@ window.BRIEFINGS = [
      },
      {
       "typ": "meinung",
-      "text": "Ein Autokorso ist eine alte Tradition, ein Gelenek. Er sollte aus Respekt andere nicht behindern. Schüsse gehören nicht dazu: nicht zeitgemäß, nicht nötig, kein Zeichen von Freude. Nach unserem Eindruck aus der Community lehnen die meisten das ab. Ein Einzelfall rechtfertigt keine Pauschalisierung.",
-      "handlung": "Freude zeigen geht auch ohne Schüsse und ohne andere zu behindern."
+      "text": "Ein Autokorso gehört für viele zur Hochzeit. Aber auch Tradition verlangt Rücksicht: Wer feiert, sollte andere nicht behindern. Schüsse sind weder zeitgemäß noch notwendig und kein Ausdruck von Freude. Nach unserem Eindruck aus der Community lehnt die Mehrheit das ab. Ein Einzelfall rechtfertigt keine Pauschalisierung.",
+      "handlung": "Freude lässt sich auch ohne Schüsse und ohne Behinderung anderer zeigen."
      },
      {
       "typ": "cta",
