@@ -331,13 +331,17 @@ window.DOSSIERS = [
      {
       "z": "Widersprüche?",
       "l": "Kein eindeutiger Widerspruch belegt, aber drei Spannungen: „Akteure“ vs. ganze Verbände, Staatsferne vs. eigene Bundesförderung, Experte nach Plagiatsfall."
+     },
+     {
+      "z": "Sein Wortlaut",
+      "l": "2023: Antisemitismus „sehr verbreitet“ unter Muslimen. 2026: „Akteure“. Daten (KAS 2023): 7 bis 26 % der Muslime stimmen antisemitischen Aussagen zu, Durchschnitt 2 bis 6 %."
      }
     ],
     "abschnitte": [
      {
       "h": "Vorläufiger Stand",
       "t": [
-       "Dieses Dossier beruht auf einer kleinen Recherche und ist nicht abschließend. Das Buch von Güvercin ist nicht gelesen, die Förderung der Alhambra kennen wir nur für 2023, und seine Aussagen über die Jahre sind nicht systematisch verglichen. Bewertungen sind vorläufig."
+       "Dieses Dossier beruht auf einer kleinen Recherche und ist nicht abschließend. Das Buch von Güvercin ist nicht gelesen, die Förderung der Alhambra kennen wir nur für 2023, und seine Aussagen haben wir nur in einer Auswahl von 2023 bis 2026 verglichen. Bewertungen sind vorläufig."
       ]
      },
      {
@@ -415,9 +419,22 @@ window.DOSSIERS = [
       "t": [
        "Einstellungen, was Studien sagen: Die Antisemitismusforscherin Sina Arnold (TU Berlin) wertete für den Mediendienst Integration Studien von 2017 bis 2022 aus (April 2023). Muslime stimmen klassisch antisemitischen Aussagen häufiger zu als die Gesamtbevölkerung, bei „sekundärem“ Antisemitismus, also etwa der Relativierung des Holocaust, ähnlich oft. Die Zustimmung ist laut der Auswertung nicht primär an die Religion gebunden, sondern hängt mit konservativ-autoritären Einstellungen zusammen. Der Soziologe Heiko Beyer (Düsseldorf) fand in einer bundesweiten Studie (2024), dass Migrationshintergrund für sich genommen keinen Einfluss hat. Entscheidend sei, wie stark der Islam fundamentalistisch gedeutet wird. Der Berlin-Monitor 2019 zeigte, dass die Zustimmung mit der Aufenthaltsdauer sinkt.",
        "Für die Gesamtbevölkerung nennt Arnold: 6 bis 7 Prozent stimmen klassisch antisemitischen Aussagen eindeutig zu, 15 bis 20 Prozent teilweise, über ein Drittel sekundärantisemitischen Aussagen, bis zu einem Fünftel israelbezogenen. Bei Menschen mit Migrationshintergrund aus Nicht-EU-Ländern, besonders Türkei und arabischen Staaten, sind die Werte beim israelbezogenen Antisemitismus höher. Eine NRW-Studie (Allensbach, 1.300 Befragte, März bis April 2024) fand in der Gesamtbevölkerung: religiös geprägten Antisemitismus bei 8 Prozent, modernen bei 24, Holocaust-Relativierung bei 19, israelbezogenen bei 14 Prozent. 47 Prozent wollen einen „Schlussstrich“ unter die NS-Vergangenheit.",
+       "Zahlen zu Muslimen: Eine Studie der Konrad-Adenauer-Stiftung (Autor Dominik Hirndorf, Befragung Ende 2021 bis Frühjahr 2022, rund 5.500 Befragte ab 16 Jahren, mindestens 500 Muslime, berichtet vom epd am 25.7.2023) fand: 12 Prozent der Muslime stimmten zu, Juden seien „hinterhältig“ (Gesamtbevölkerung 4 Prozent), 26 Prozent, reiche Juden beherrschten die Welt (6 Prozent), und 7 Prozent akzeptierten Gewalt gegen Juden (2 Prozent). Das ist ein Vielfaches des Durchschnitts, aber in jeder Frage eine Minderheit. Der Religionsmonitor der Bertelsmann Stiftung (Befragung Juni und Juli 2022, 4.363 Befragte in Deutschland) zeigt für die Gesamtbevölkerung: 43 Prozent stimmten der Aussage zu, Israels Politik gegenüber den Palästinensern sei im Prinzip dasselbe wie die Verbrechen der Nazis an den Juden.",
        "Geschichte, nach Stefanie Schüler-Springorum (TU Berlin, 2020): 1946 lehnten 85 Prozent der Befragten die Rückkehr überlebender Juden nach Deutschland ab. Ein US-Bericht von 1947 stufte 18 Prozent der Deutschen als radikale und 21 Prozent als Antisemiten ein. Zwischen 1950 und 1983 sank die Zustimmung zu „besser keine Juden im Land“ von fast 40 auf 9 Prozent, die Zahl der Unentschiedenen stieg auf fast 50 Prozent, was sie als „Kommunikationslatenz“ liest. Die Mitte-Studien sahen ein geschlossen antisemitisches Weltbild bei 9,3 Prozent (2002) und 4,4 Prozent (2018), latente Zustimmung bei 20 bis 35 Prozent. Die PMK-Zahlen antisemitischer Delikte blieben zwischen 2001 und 2018 laut Correctiv etwa gleich, ein Anstieg direkt nach 2015 zeigt sich nicht.",
        "Der Begriff „importierter Antisemitismus“: Bundeskanzler Merz sprach im Juni 2025 gegenüber Fox News von einer „Art importierten Antisemitismus“. Die Forschung lehnt den Begriff ab. Arnold nennt Antisemitismus „kein Problem ‚der Anderen‘, sondern ein deutsches“, RIAS sagt, er sei „kein nach Deutschland importiertes Problem“, Beyer sagt, der Begriff verschleiere verschiedene Formen und behindere die Analyse des politisch-islamischen Antisemitismus. Das Argument ist nicht, dass es unter Zugewanderten keinen gebe. Der Antisemitismus in Deutschland hat eine eigene, lange Geschichte, und israelbezogene Formen sind in Teilen der Zuwanderung aus der Region zusätzlich stärker ausgeprägt.",
        "Und Güvercin? In den von uns geprüften Quellen finden wir keine Aussage von ihm, Antisemitismus sei „importiert“. Das stern-TV-Zitat spricht vom Missbrauch der Religion durch einzelne Akteure. Wer ihm das Narrativ „importiert“ zuschreibt, geht über das hinaus, was wir belegen können."
+      ]
+     },
+     {
+      "h": "Seine Aussagen im Lauf der Zeit (Auswahl)",
+      "t": [
+       "Wir haben öffentlich zugängliche Aussagen von 2023 bis 2026 gesichtet. Das ist eine Auswahl, kein vollständiges Archiv. Bezahlpflichtige Texte haben wir nicht umgangen.",
+       "12.10.2023 (dpa, über die Jüdische Allgemeine): Antisemitismus und Israelfeindschaft seien „sehr verbreitet“ unter Muslimen in Deutschland. Muslime müssten sich dem selbst stellen und gegen Hass aus der eigenen Gemeinschaft eintreten. Er kritisierte, dass Verbände die Hamas in ihren Erklärungen nicht als Terrororganisation benannten und den Angriff herunterspielten, und wollte das Thema in den Regierungsgesprächen mit den Verbänden nicht länger ausgespart sehen. Junge Muslime würden durch TikTok-Influencer und Kanäle extremistischer palästinensischer Gruppen geprägt.",
+       "Oktober 2023 (Jungle World 42/2023): Die Verbände versagten „auf ganzer Linie“. 26.11.2024 (Jüdische Allgemeine, Konferenz in Münster): Islamistische Influencer verbreiteten antisemitische Inhalte auf TikTok weitgehend ungehindert, die großen Verbände hätten diese Lücke gelassen und den Angriff vom 7. Oktober heruntergespielt, viele junge Muslime seien orientierungslos.",
+       "4.5.2026: Güvercin machte laut Algemeiner (nicht unabhängig geprüft) auf Rednerauftritte bei den „Cultural Days“ von Ditib in Hamburg-Bergedorf aufmerksam. Von sechs angekündigten Rednern strich Ditib nach politischem Druck vier. Ditib erklärte, wer in den Gemeinden aktiv sei, dürfe nicht mit antisemitischen Positionen oder Hetze in Verbindung gebracht werden. Die Vorwürfe gegen die zwei verbliebenen Redner stützen sich auf deren Social-Media-Beiträge und auf Güvercins Angaben. Die Bundesregierung hatte Ditib im September 2025 aufgefordert, sich von Erdoğans israelfeindlicher Rhetorik zu distanzieren.",
+       "15.10.2026 (stern TV): „Akteure in der muslimischen Szene“.",
+       "Der Vergleich: 2023 sprach er von Antisemitismus als „sehr verbreitet“ unter Muslimen in Deutschland, 2026 von „Akteuren“, die Religion missbrauchen. Das sind zwei unterschiedliche Aussagen, die erste eine breite, die zweite eine engere. Die Daten stützen die breite nur teilweise: Zustimmung zu antisemitischen Aussagen ist unter Muslimen laut KAS-Studie deutlich häufiger als im Durchschnitt, bleibt aber in jeder abgefragten Aussage eine Minderheit, bei 7 bis 26 Prozent. „Sehr verbreitet“ ist eine Wertung ohne Zahl. Ob die engere Formulierung 2026 eine bewusste Präzisierung ist oder eine Verkürzung des Ausschnitts, wissen wir nicht. Frage an ihn: Welche Aussage gilt, und woran machst du „sehr verbreitet“ fest?",
+       "Wo er Recht behält, soweit geprüft: Dass Hamas-Relativierungen und antisemitische Inhalte bei Teilen des Verbandsumfelds und im Netz vorkommen, ist mit den von ihm genannten Fällen und mit Erklärungen von Ditib NRW (Dezember 2023) und Ditib (Streichung von vier Rednern, Mai 2026) in der Tendenz gestützt. Dass die Verbände die Hamas 2023 nicht klar als Terrororganisation benannten, haben wir nicht an den Originalerklärungen aller Verbände geprüft."
       ]
      },
      {
@@ -561,6 +578,26 @@ window.DOSSIERS = [
      {
       "titel": "Jungle World 2023/07: Interview mit Güvercin zur Kampagne gegen die Alhambra",
       "url": "https://shop.jungle.world/print/pdf/node/78911"
+     },
+     {
+      "titel": "Jüdische Allgemeine (dpa): Islamexperte, pro-palästinensische Demonstrationen werden zunehmen, 12.10.2023",
+      "url": "https://www.juedische-allgemeine.de/politik/islamexperte-pro-palaestinensische-demonstrationen-werden-zunehmen"
+     },
+     {
+      "titel": "Jüdische Allgemeine: Was Experten zur antisemitischen Radikalisierung bei TikTok sagen, 26.11.2024",
+      "url": "https://www.juedische-allgemeine.de/kultur/was-experten-zur-antisemitischen-radikalisierung-bei-tiktok-sagen"
+     },
+     {
+      "titel": "Algemeiner: Ditib „Cultural Days“ Hamburg, 4.5.2026",
+      "url": "https://www.algemeiner.com/2026/05/04/germanys-main-mosque-network-under-fire-speakers-accused-antisemitic-incitement/"
+     },
+     {
+      "titel": "Jüdische Allgemeine (epd): KAS-Studie, Antisemitismus weiter verbreitet als im Bevölkerungsschnitt, 25.7.2023",
+      "url": "https://www.juedische-allgemeine.de/politik/studie-antisemitismus-deutlich-weiter-verbreitet-als-im-bevoelkerungsschnitt"
+     },
+     {
+      "titel": "Bertelsmann Stiftung, Religionsmonitor: Antisemitismus und Rassismus, 12/2023",
+      "url": "https://www.bertelsmann-stiftung.de/de/unsere-projekte/religionsmonitor/projektnachrichten/antisemitismus-und-rassismus-der-nahost-krieg-offenbart-risse-in-der-deutschen-gesellschaft"
      }
     ],
     "stand": "15.10.2026"
