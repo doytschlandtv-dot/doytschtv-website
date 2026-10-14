@@ -4,7 +4,7 @@ from playwright.sync_api import sync_playwright
 mode, out = sys.argv[1], pathlib.Path(sys.argv[2])
 dur = float(sys.argv[3]) if len(sys.argv) > 3 else 24.5
 fps = 30
-html = pathlib.Path(__file__).with_name("reel.html").resolve().as_uri() + "?m=" + mode
+html = pathlib.Path(__file__).with_name("reel2.html" if mode in ("e1","e2","d1","d2") else "reel.html").resolve().as_uri() + "?m=" + mode
 tmp = pathlib.Path(tempfile.mkdtemp())
 with sync_playwright() as p:
     b = p.chromium.launch(args=["--allow-file-access-from-files"])
