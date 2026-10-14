@@ -335,6 +335,12 @@ window.DOSSIERS = [
     ],
     "abschnitte": [
      {
+      "h": "Vorläufiger Stand",
+      "t": [
+       "Dieses Dossier beruht auf einer kleinen Recherche und ist nicht abschließend. Das Buch von Güvercin ist nicht gelesen, die Förderung der Alhambra kennen wir nur für 2023, und seine Aussagen über die Jahre sind nicht systematisch verglichen. Bewertungen sind vorläufig."
+      ]
+     },
+     {
       "h": "Worum es geht",
       "t": [
        "Am 15. Oktober 2026 kündigte stern TV eine Sendung zu Antisemitismus in Deutschland an. Der Gast Eren Güvercin wird im Instagram-Post der Sendung so zitiert: Es gebe „Akteure in der muslimischen Szene, die Religion als Argumentationsgrundlage missbrauchen, um Antisemitismus zu legitimieren“. Wir kennen nur diesen Ausschnitt, nicht die ganze Sendung.",
@@ -372,6 +378,7 @@ window.DOSSIERS = [
        "Belegt: Sein Buch von 2025 wurde nach Plagiatshinweisen vom Verlag C. H. Beck vorläufig nicht mehr ausgeliefert (hpd, Ergänzung vom 3.3.2025). Laut Verlagsstatement vom 28.2.2025, wie vom Deutsch-Türkischen Journal und NEX24 zitiert, gab es eine „nicht kenntlich gemachte Übernahme von Texten Dritter“. Nach hpd stammt ein Unterkapitel von Aydın Süer, Projektleiter bei der Alhambra, und war nicht als Fremdtext gekennzeichnet. Güvercin bedauerte laut hpd, den gegenteiligen Eindruck erweckt zu haben. Das berührt die Qualität des Buches, nicht automatisch dessen Thesen.",
        "Nur berichtet: Das Deutsch-Türkische Journal zitiert anonyme Kritiker, die Vorwürfe zu seiner Vergangenheit und zu Kontakten erheben. Das Blatt legt dafür keine Belege vor, und Güvercin habe sich laut Bericht nicht geäußert. Wir geben diese Vorwürfe nicht weiter. Auch das Deutsch-Türkische Journal und NEX24 sind ihm gegenüber erkennbar kritisch eingestellt. Der Vorwurf, er sei ein „Hochstapler“, stammt aus einem Facebook-Beitrag der Journalistin Canan Topçu und ist nicht geprüft.",
        "Kritik von Verbänden: Konservative Verbände und Teile türkischsprachiger Medien kritisieren die Alhambra-Gesellschaft, einige laut Wikipedia „kritisch bis diffamierend“ (Stand 2018). Bedrohungen gegen ihn sind laut Berliner Zeitung (3.8.2024) Thema. Das ist keine Einordnung seiner Thesen, sondern ein Hinweis darauf, wie aufgeladen die Debatte ist.",
+       "Seine Darstellung: Laut Jungle World (Ausgabe 2023/07, Interview mit Pascal Beck) wurde er nach der Kritik der Alhambra am AKP-Wahlkampf in deutschen Moscheen in einem türkischen Medium als „Fetö-Mitglied“ bezeichnet. Er schreibt die Kampagne Akteuren aus dem Umfeld der AKP-nahen Union Internationaler Demokraten zu und sieht darin den Versuch, Kritiker einzuschüchtern. Das ist seine Schilderung, eine Prüfung durch uns fehlt. Sie zeigt aber: Die Debatte um ihn ist von beiden Seiten aufgeladen, und anonyme Vorwürfe gegen ihn stammen teils aus Lagern, die er selbst kritisiert.",
        "Offen: Das Original-Verlagsstatement haben wir nicht gelesen, ebenso keine Äußerung Süers. Ob das Buch inzwischen neu aufgelegt oder zurückgezogen wurde, haben wir nicht geprüft."
       ]
      },
@@ -550,6 +557,10 @@ window.DOSSIERS = [
      {
       "titel": "Jüdische Allgemeine: Hamas-Anhänger bei staatlich gefördertem Verein, 3.7.2025",
       "url": "https://www.juedische-allgemeine.de/politik/hamas-anhaenger-tritt-bei-staatlich-gefoerdertem-verein-auf/"
+     },
+     {
+      "titel": "Jungle World 2023/07: Interview mit Güvercin zur Kampagne gegen die Alhambra",
+      "url": "https://shop.jungle.world/print/pdf/node/78911"
      }
     ],
     "stand": "15.10.2026"
