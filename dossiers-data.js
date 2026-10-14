@@ -616,7 +616,14 @@ window.DOSSIERS = [
       "url": "https://jungle.world/print/pdf/node/82465"
      }
     ],
-    "stand": "15.10.2026"
+    "stand": "15.10.2026",
+    "bild": {
+     "src": "dossier-guevercin.jpg",
+     "w": 1200,
+     "h": 896,
+     "alt": "KI-generierte Illustration im Schwarz-Weiß-Comicstil: ein Mann mit Brille und Bart am Rednerpult mit dem Zitat aus der Sendung, links eine Moschee, rechts eine Waage mit „Verbände“ und „Förderung“ und einem Fragezeichen",
+     "unter": "Illustration, KI-generiert, kein Foto."
+    }
    }
   ],
   "motiv": "pruefung"
