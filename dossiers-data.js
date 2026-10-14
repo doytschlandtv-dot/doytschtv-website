@@ -327,6 +327,10 @@ window.DOSSIERS = [
      {
       "z": "„Importiert“?",
       "l": "Die Forschung lehnt den Begriff ab: ein deutsches Problem mit langer Geschichte, israelbezogene Formen sind in Teilen der Zuwanderung aus der Region stärker."
+     },
+     {
+      "z": "Widersprüche?",
+      "l": "Kein eindeutiger Widerspruch belegt, aber drei Spannungen: „Akteure“ vs. ganze Verbände, Staatsferne vs. eigene Bundesförderung, Experte nach Plagiatsfall."
      }
     ],
     "abschnitte": [
@@ -407,6 +411,18 @@ window.DOSSIERS = [
        "Geschichte, nach Stefanie Schüler-Springorum (TU Berlin, 2020): 1946 lehnten 85 Prozent der Befragten die Rückkehr überlebender Juden nach Deutschland ab. Ein US-Bericht von 1947 stufte 18 Prozent der Deutschen als radikale und 21 Prozent als Antisemiten ein. Zwischen 1950 und 1983 sank die Zustimmung zu „besser keine Juden im Land“ von fast 40 auf 9 Prozent, die Zahl der Unentschiedenen stieg auf fast 50 Prozent, was sie als „Kommunikationslatenz“ liest. Die Mitte-Studien sahen ein geschlossen antisemitisches Weltbild bei 9,3 Prozent (2002) und 4,4 Prozent (2018), latente Zustimmung bei 20 bis 35 Prozent. Die PMK-Zahlen antisemitischer Delikte blieben zwischen 2001 und 2018 laut Correctiv etwa gleich, ein Anstieg direkt nach 2015 zeigt sich nicht.",
        "Der Begriff „importierter Antisemitismus“: Bundeskanzler Merz sprach im Juni 2025 gegenüber Fox News von einer „Art importierten Antisemitismus“. Die Forschung lehnt den Begriff ab. Arnold nennt Antisemitismus „kein Problem ‚der Anderen‘, sondern ein deutsches“, RIAS sagt, er sei „kein nach Deutschland importiertes Problem“, Beyer sagt, der Begriff verschleiere verschiedene Formen und behindere die Analyse des politisch-islamischen Antisemitismus. Das Argument ist nicht, dass es unter Zugewanderten keinen gebe. Der Antisemitismus in Deutschland hat eine eigene, lange Geschichte, und israelbezogene Formen sind in Teilen der Zuwanderung aus der Region zusätzlich stärker ausgeprägt.",
        "Und Güvercin? In den von uns geprüften Quellen finden wir keine Aussage von ihm, Antisemitismus sei „importiert“. Das stern-TV-Zitat spricht vom Missbrauch der Religion durch einzelne Akteure. Wer ihm das Narrativ „importiert“ zuschreibt, geht über das hinaus, was wir belegen können."
+      ]
+     },
+     {
+      "h": "Widerspruchsprüfung: Fünf Fragen an Güvercins Position",
+      "t": [
+       "Vorab: Wir prüfen, ob seine Aussagen und sein Handeln zusammenpassen. Absichten unterstellen wir nicht, und „Staatsgeld“ oder „Verlagsvertrag“ allein beweisen keine Agenda. Wo wir Spannungen sehen, stellen wir sie als Fragen. Die Fragen legen wir ihm und der Alhambra-Gesellschaft zur Stellungnahme vor, bevor etwas erscheint.",
+       "1. Einzelne Akteure oder ganze Organisationen? Belegt: Im stern-TV-Zitat spricht er von „Akteuren“. Seine Buchthese richtet sich laut taz und hpd auf die Strukturen der Verbände, nicht auf deren Mitglieder. Wir haben keine Aussage von ihm gefunden, die Gemeindemitglieder unter Verdacht stellt. Die Spannung: Er beschreibt Ditib im Buchtitel als „ferngesteuert“, eine Organisation mit rund 900 Gemeinden. Das ist eine Wertung über die Institution, kann aber bei Zuhörern auf die Mitglieder abfärben. Ob er im Buch klar zwischen Zentrale, Funktionären und Gemeindemitgliedern trennt, haben wir nicht vollständig geprüft. Frage an ihn: Wo ziehst du diese Linie, und sagst du sie auch in Talkshows?",
+       "2. Staatsferne fordern, Staatsgeld nehmen? Seine Kritik an Ditib lautet im Kern, der Verband sei nicht staatsunabhängig, sondern auf Ankara ausgerichtet. Die Alhambra-Gesellschaft erhielt 2023 Bundesmittel (266.599,35 €), MuslimDebate 2.0 läuft laut Eigenangabe über das Bundesinnenministerium im Rahmen der Islamkonferenz. Der Unterschied ist belegbar: Er kritisiert die Abhängigkeit von einem ausländischen Staat, die Alhambra wird vom deutschen Staat für Bildungsprojekte gefördert, offen in einer Bundestags-Drucksache. Die Spannung bleibt als Transparenzfrage: Wer sich über Förderung finanziert, ist von Antragsprogrammen und Laufzeiten abhängig. Wir haben keinen Beleg für inhaltliche Einflussnahme des Ministeriums gefunden. Frage an ihn: Nennst du bei Medienauftritten, dass dein Verein Bundesmittel erhält?",
+       "3. Ist Staatsförderung ein Zeichen politischer Nähe? Der Vergleich relativiert das. Auch Ditib-Gliederungen erhielten Bundesmittel, laut Bundesregierung (Drucksache 18/12259, Auswahl, 2008 bis 2017) etwa über das Familienministerium, das BAMF und die Bundeszentrale für politische Bildung, darunter 2016 rund 688.000 € im Programm „Menschen stärken Menschen“ gemeinsam mit 22 weiteren Trägern. 2017 stoppte der Bund die Auszahlung nach der Imam-Ermittlung kurz und setzte sie fort, weil er keinen Zusammenhang sah. Laut Antwort von 2022 (Drucksache 20/4189) erhält Ditib im Bundesprogramm „Demokratie leben!“ keine Förderung. Der Bund fördert also Kritiker und Verbände. Das spricht gegen eine einseitige „Agenda“, sagt aber nichts über die Qualität einzelner Projekte.",
+       "4. Praxis: Was er mit seiner Reichweite tut. Laut Jüdischer Allgemeiner (3.7.2025) machte er die Einladung eines Diyanet-Vertreters öffentlich, dem Hamas-Sympathien vorgeworfen werden, bei einem mit 250.000 € jährlich aus „Demokratie leben!“ geförderten Hamburger Verein. Der Verein sagte nach eigenen Angaben eine Veranstaltung ab und erklärte, die Informationen erst nachträglich erhalten zu haben, das Familienministerium bat um Stellungnahme. Das passt zu seiner Linie, auch Förderpraxis zu kontrollieren. Die Frage, die daraus folgt, ist die nach gleichen Maßstäben: Wer fördert, prüft er auch die Alhambra selbst mit demselben Maßstab? Dazu fehlen uns die Jahresberichte.",
+       "5. Seine Forderung an Muslime. Seine Linie: Muslime tragen Verantwortung, Antisemitismus in ihren Gemeinschaften anzusprechen. Das ist eine Forderung, keine Tatsachenbehauptung. Wir stellen drei Gegenfragen. Erstens die Verhältnismäßigkeit: Wenn nach Polizeizahlen 42 bis 48 Prozent der antisemitischen Straftaten dem Bereich „rechts“ zugeordnet werden, gilt die Forderung dann auch an die Mehrheitsgesellschaft, und fordert er das? Eine entsprechende Aussage haben wir nicht gefunden, das ist kein Beleg für einen Widerspruch, aber für eine offene Frage. Zweitens die Verantwortung: Eine kollektive Pflicht für eine Religionsgemeinschaft trifft auch die vielen Muslime, die mit Antisemitismus nichts zu tun haben, was konkret von ihnen verlangt wird, bleibt offen. Drittens die Wirkung: Die Wortwahl „Szene“ kann bei Hörern den Eindruck erzeugen, ein erkennbares Milieu sei zuständig. Die Zahlen oben zeigen, dass es als Gruppe so nicht greifbar ist.",
+       "Zwischenfazit: Einen eindeutigen Widerspruch können wir nach den geprüften Quellen nicht belegen. Es gibt drei Spannungen, die er beantworten sollte: der Unterschied zwischen „Akteuren“ und dem Urteil über ganze Verbände, die Kritik an Staatsnähe bei gleichzeitiger Bundesförderung des eigenen Vereins und der Anspruch als Experte nach dem Plagiatsfall. Zu Verlagen: Herder und C. H. Beck sind Publikumsverlage, ein Vertrag ist kein Beleg für politische Unterstützung, und Beck stoppte die Auslieferung nach den Plagiatshinweisen, es gab also keinen Schutz."
       ]
      },
      {
@@ -522,6 +538,18 @@ window.DOSSIERS = [
      {
       "titel": "bpb/APuZ: Schüler-Springorum, Antisemitismus und Antisemitismusforschung, 19.6.2020",
       "url": "https://www.bpb.de/shop/zeitschriften/apuz/311625/antisemitismus-und-antisemitismusforschung-ein-ueberblick/"
+     },
+     {
+      "titel": "Bundestags-Drucksache 18/12259 (Bundesförderung Ditib, 8.5.2017)",
+      "url": "https://dserver.bundestag.de/btd/18/122/1812259.pdf"
+     },
+     {
+      "titel": "Bundestags-Drucksache 20/4189 (Demokratie leben!, 25.10.2022)",
+      "url": "https://dserver.bundestag.de/btd/20/041/2004189.pdf"
+     },
+     {
+      "titel": "Jüdische Allgemeine: Hamas-Anhänger bei staatlich gefördertem Verein, 3.7.2025",
+      "url": "https://www.juedische-allgemeine.de/politik/hamas-anhaenger-tritt-bei-staatlich-gefoerdertem-verein-auf/"
      }
     ],
     "stand": "15.10.2026"
