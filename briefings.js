@@ -150,6 +150,11 @@ window.BRIEFINGS = [
       "quelle": "GIGA; touristik aktuell"
      },
      {
+      "typ": "meinung",
+      "text": "Das Verbot ist richtig und wichtig. Entscheidend ist aber, wer es kontrolliert und welche Maßnahmen wirklich helfen, damit Bahnhöfe sicherer werden.",
+      "handlung": "Frag bei jedem Verbot: Wer kontrolliert es, und was folgt daraus?"
+     },
+     {
       "typ": "cta",
       "frage": "Alkoholverbot am Bahnhof: Richtig oder zu weitgehend?"
      }
@@ -227,6 +232,11 @@ window.BRIEFINGS = [
       "labelB": "Vermieterseite",
       "fakt": "Haus und Grund lehnt den Entwurf ab. Abgeordnete der Union wollten bei der ersten Lesung im Juli vermieterfreundliche Änderungen.",
       "quelle": "dpa-AFX, 15.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Mehr Wohnraum entsteht durch Neubau. Damit er sich lohnt, braucht es weniger Bürokratie, geringere Baukosten und Förderungen. Sonst wird nicht gebaut.",
+      "handlung": "Frag bei jeder Wohnungspolitik: Entsteht dadurch eine neue Wohnung?"
      },
      {
       "typ": "cta",
@@ -325,6 +335,11 @@ window.BRIEFINGS = [
        }
       ],
       "quelle": "Bertelsmann Stiftung, 15.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Wir wollen Qualifikation fördern und den Zugang dazu unkomplizierter machen. So kommen mehr Menschen in die Kitas, die dafür qualifiziert sind.",
+      "handlung": "Frag bei jeder Kita-Debatte: Wie leicht kommt man an die Qualifikation?"
      },
      {
       "typ": "cta",
