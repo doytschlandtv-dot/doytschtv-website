@@ -413,6 +413,22 @@ window.BRIEFINGS = [
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto"
     }
+   },
+   {
+    "zusatz": true,
+    "art": "dossier",
+    "band": "Dossier",
+    "kicker": "Dossier · Lobby",
+    "titel": "Wer finanziert den Einfluss der Familienunternehmer?",
+    "rot": "finanziert",
+    "text": "Was Bilanz und Lobbyregister zeigen und was offen bleibt. Das ganze Dossier auf doytschtv.de, Link in der Bio.",
+    "quelle": "Lobbyregister, Jahresabschluss 2025",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-stiftung.jpg",
+     "fokus": 0.5,
+     "unter": "Karikatur, KI-generiert, kein Foto"
+    }
    }
   ]
  },
