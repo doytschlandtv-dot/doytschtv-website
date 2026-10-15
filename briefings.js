@@ -71,6 +71,251 @@ window.BRIEFINGS = [
     ],
     "caption": "In Baden-Württemberg wurden von 2018 bis 2024 acht Ehen mit Minderjährigen aufgehoben, die Beteiligten kamen aus neun Ländern, darunter Deutschland. Bundesweit führt die Ukraine die Liste der in Kinderehen erfassten 16- und 17-Jährigen an. Kinderschutz ist größer als Zwangsehen: 18.085 Kinder waren 2024 Opfer sexuellen Missbrauchs, die meisten Taten geschehen im Umfeld der Kinder. Unsere Meinung ist gekennzeichnet: Kinderschutz gilt überall, und niemand darf wegen seiner Religion unter Verdacht gestellt werden. Quellen auf unserer Website, Link in der Bio. Was braucht Kinderschutz am dringendsten?",
     "hashtags": "#doytschlandtv #kinderschutz #kinderehen #faktencheck #einordnung #nachrichten #politik #deutschland"
+   },
+   {
+    "zusatz": true,
+    "thema": "Alkoholverbot an Bahnhöfen: Was jetzt gilt",
+    "caption": "Die Bahn verbietet den Konsum von Alkohol an ihren Bahnhöfen, spätestens ab dem 15. Oktober an allen rund 5.400. Grundlage ist das Hausrecht. Verboten ist das Trinken im Bahnhofsbereich, erlaubt bleibt es, Verschlossenes mitzuführen und im Bahnhof zu kaufen. Restaurants, Cafés und Bars im Bahnhof sind ausgenommen, in den Zügen gilt das Verbot bisher nicht. Bei einem ersten Verstoß droht ein Platzverweis, bei Wiederholung ein Hausverbot. Die Bahn erwartet weniger Gewalt und weniger Müll, die Gewerkschaft der Polizei bezweifelt, dass genug Personal für Kontrollen da ist. Alkoholverbot am Bahnhof: Richtig oder zu weitgehend?",
+    "hashtags": "#doytschlandtv #aktuell #deutschebahn #bahnhof #alkoholverbot #alltag #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Bahn · Alltag",
+      "titel": "Alkoholverbot an Bahnhöfen: Was jetzt gilt",
+      "rot": "Was jetzt gilt"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Regel",
+      "titel": "Trinken im Bahnhof ist verboten.",
+      "text": "Die Bahn untersagt den Konsum alkoholischer Getränke auf ihren Bahnhöfen, bis spätestens 15. Oktober an allen. Etwa 30 Bahnhöfe, darunter Köln, München und Hamburg, waren schon alkoholfrei. Grundlage ist das Hausrecht der Bahn, die örtlichen Hausordnungen werden mit den Kommunen abgestimmt.",
+      "quelle": "touristik aktuell (Bahn-Mitteilung), 21.7.2026; Wochenblatt"
+     },
+     {
+      "typ": "zahl",
+      "label": "Wie viele Bahnhöfe",
+      "zahl": "5.400",
+      "text": "So viele Bahnhöfe betrifft die Regel nach Angaben der Bahn. Berlin Hauptbahnhof, Gesundbrunnen sowie Kiel und Braunschweig gingen am 1. September voran, alle übrigen sollten bis Mitte Oktober folgen.",
+      "quelle": "touristik aktuell (Bahn-Mitteilung), 21.7.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was heißt das für dich?",
+      "titel": "Erlaubt und verboten",
+      "punkte": [
+       {
+        "kopf": "Verboten",
+        "text": "Alkohol trinken im Bahnhofsbereich: Gebäude und teils Bahnsteige, Unterführungen, überdachte Außenbereiche, je nach Hausordnung auch Vorplätze."
+       },
+       {
+        "kopf": "Erlaubt",
+        "text": "Verschlossene Flaschen mitführen, im Bahnhof kaufen und im Gepäck transportieren."
+       },
+       {
+        "kopf": "Ausgenommen",
+        "text": "Restaurants, Cafés und Bars im Bahnhof dürfen weiter ausschenken."
+       },
+       {
+        "kopf": "Im Zug",
+        "text": "Das Verbot gilt bisher nur für Bahnhöfe, in Zügen wird weiter Alkohol ausgeschenkt und getrunken."
+       }
+      ],
+      "quelle": "GIGA; web.de; touristik aktuell"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Folgen",
+      "zahl": "Platzverweis",
+      "text": "Beim ersten Verstoß droht ein Platzverweis, bei Wiederholung ein Hausverbot, das auch die Züge dieses Bahnhofs betrifft. Wer ein gültiges Hausverbot missachtet, kann angezeigt werden. Kontrollieren sollen DB Sicherheit und Bundespolizei.",
+      "quelle": "GIGA; touristik aktuell"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Bahn",
+      "behauptung": "Alkoholfreie Bahnhöfe bringen weniger Gewalt und weniger Müll. Anlass war unter anderem ein Angriff auf einen Bahnmitarbeiter. Bahn-Chefin Palla spricht vom Schutz von Beschäftigten und Fahrgästen.",
+      "labelB": "Gewerkschaft der Polizei",
+      "fakt": "Für konsequente Kontrollen fehle Personal. Ein Verbot nur an Bahnhöfen sei ohne Verbot in den Zügen kaum durchzusetzen.",
+      "quelle": "touristik aktuell; GIGA"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Hausrecht, kein Gesetz",
+      "text": "Das Verbot beruht auf dem Hausrecht der Bahn, nicht auf einem Gesetz. Deshalb gibt es Platzverweis und Hausverbot statt Bußgeld, und die Regeln können je Bahnhof leicht abweichen. Zu alkoholfreiem Bier und Sekt hat sich die Bahn bisher nicht festgelegt.",
+      "quelle": "GIGA; touristik aktuell"
+     },
+     {
+      "typ": "cta",
+      "frage": "Alkoholverbot am Bahnhof: Richtig oder zu weitgehend?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Mieten: Angebotsmieten steigen wieder stärker, plus 1,2 Prozent im Quartal",
+    "caption": "Die Angebotsmieten in deutschen Städten sind im dritten Quartal um 1,2 Prozent gestiegen, so stark wie seit Anfang 2025 nicht. Das zeigt der Mietpreisindex GREIX des Kiel Instituts für Weltwirtschaft. Im Jahresvergleich sind es 3,7 Prozent, nach Abzug der Inflation 0,7 Prozent. Am stärksten zogen im Quartal Berlin (plus 2,1 Prozent) und Düsseldorf (plus 2,0 Prozent) an, im Jahresvergleich Hamburg mit 6,7 Prozent. Gemeint sind Preise in Inseraten, also neue Mietverträge, nicht laufende. Gleichzeitig wurden 2025 nur 206.600 Wohnungen fertiggestellt, 18 Prozent weniger als im Vorjahr. Mieten: Mehr Mieterschutz oder mehr Neubau, was hilft zuerst?",
+    "hashtags": "#doytschlandtv #aktuell #mieten #wohnen #mietpreise #greix #alltag #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Wohnen · Mieten",
+      "titel": "Angebotsmieten steigen wieder stärker: plus 1,2 Prozent im Quartal",
+      "rot": "plus 1,2 Prozent im Quartal"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Befund",
+      "titel": "Mieten ziehen schneller an.",
+      "text": "Die Angebotsmieten stiegen im dritten Quartal um 1,2 Prozent gegenüber dem zweiten. Das ist der stärkste Anstieg seit dem ersten Quartal 2025, im zweiten Quartal waren es 0,8 Prozent. Der Mietpreisindex GREIX des Kiel Instituts umfasst 37 Städte und Regionen. Angebotsmieten sind Preise in Inseraten, also neue Mietverträge.",
+      "quelle": "Kiel Institut (GREIX) via dpa-AFX, 15.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Im Jahresvergleich",
+      "zahl": "+3,7 %",
+      "text": "So viel höher liegen die Angebotsmieten als vor einem Jahr. Nach Abzug der Inflation bleiben 0,7 Prozent.",
+      "quelle": "Kiel Institut (GREIX) via dpa-AFX, 15.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wo es am stärksten steigt",
+      "titel": "Die acht größten Städte",
+      "punkte": [
+       {
+        "kopf": "Im Quartal",
+        "text": "Berlin plus 2,1 Prozent, Düsseldorf plus 2,0 Prozent."
+       },
+       {
+        "kopf": "Im Jahr",
+        "text": "Hamburg plus 6,7 Prozent, Düsseldorf und Köln je 5,4, München 4,8, Frankfurt 3,7, Berlin rund 1,4."
+       },
+       {
+        "kopf": "Außerhalb der Top 8",
+        "text": "Bochum, Augsburg und Mannheim legten im Jahr um 5 bis 6,3 Prozent zu."
+       }
+      ],
+      "quelle": "Kiel Institut (GREIX) via dpa-AFX und evangelisch.de, 15.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Preisniveau: Euro je m² kalt",
+      "zahl": "23,70",
+      "text": "So viel kostet der Quadratmeter kalt in München im Schnitt, der teuersten Großstadt. Bei 60 Quadratmetern wären das rund 1.422 Euro Kaltmiete. Frankfurt und Hamburg folgen auf den Plätzen zwei und drei.",
+      "quelle": "Kiel Institut (GREIX) via dpa-AFX; eigene Rechnung (60 × 23,70)"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Warum",
+      "titel": "Wohnungen fehlen",
+      "text": "2025 wurden 206.600 Wohnungen fertiggestellt, 18 Prozent weniger als im Vorjahr und der niedrigste Wert seit 2012. Das Ziel von 400.000 pro Jahr wurde verfehlt. Es fehlen geschätzt mehr als eine Million Wohnungen.",
+      "quelle": "dpa-AFX, 15.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Mieterschutz",
+      "behauptung": "Justizministerin Hubig (SPD) will Indexmieten, möblierte Wohnungen und Kurzzeitvermietung schärfer regeln.",
+      "labelB": "Vermieterseite",
+      "fakt": "Haus und Grund lehnt den Entwurf ab. Abgeordnete der Union wollten bei der ersten Lesung im Juli vermieterfreundliche Änderungen.",
+      "quelle": "dpa-AFX, 15.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Mieten: Mehr Mieterschutz oder mehr Neubau, was hilft zuerst?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Kita-Studie: 23 Prozent der Leitungen sehen Stellen unter nötigem Niveau",
+    "caption": "Die Bertelsmann Stiftung hat Kita-Leitungen zur Personalauswahl befragt. 23 Prozent sagen, dass Stellen unter dem Qualifikationsniveau ausgeschrieben wurden, das die Kita braucht. Bei Einstellungen gehen Kitas laut Befragung vor allem beim Fachwissen (56 Prozent) und bei der Reflexionsfähigkeit (40 Prozent) Kompromisse ein, um Teams zu entlasten (81 Prozent) und das Angebot zu sichern (76 Prozent). Wichtig: Die Teilnahme war freiwillig, es antworteten 4.782 Leitungen, rund 7,8 Prozent der etwa 61.000 Kitas. Die Stichprobe ist nicht repräsentativ. Kita-Personal: Qualifikation vor Platzzahl oder lieber jede Kraft?",
+    "hashtags": "#doytschlandtv #aktuell #kita #bildung #fachkraeftemangel #bertelsmann #familie #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Familie · Kita",
+      "titel": "Kita-Studie: 23 Prozent der Leitungen sehen Stellen unter nötigem Niveau",
+      "rot": "23 Prozent der Leitungen"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Studie",
+      "titel": "Kitas stellen mit Kompromissen ein.",
+      "text": "Die Bertelsmann Stiftung veröffentlichte am 15. Oktober eine Befragung der Universität Gießen unter 4.782 Kita-Leitungen (September und Oktober 2025). Die Teilnahme war freiwillig, die Stichprobe ist nicht repräsentativ. Sie deckt rund 7,8 Prozent der etwa 61.000 Kitas ab.",
+      "quelle": "Bertelsmann Stiftung, 15.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Kernzahl",
+      "zahl": "23 %",
+      "text": "So viele Leitungen sagen, dass Stellen unter dem Qualifikationsniveau ausgeschrieben wurden, das die Kita eigentlich braucht.",
+      "quelle": "Bertelsmann Stiftung, 15.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Kompromisse bei der Einstellung",
+      "zahl": "56 %",
+      "text": "So oft leidet laut Leitungen das Fachwissen, bei der Reflexionsfähigkeit sind es 40 Prozent. Als Gründe nennen sie die Entlastung des Teams (81 Prozent) und das Aufrechterhalten des Betreuungsangebots (76 Prozent).",
+      "quelle": "Bertelsmann Stiftung, 15.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Rolle der Träger",
+      "titel": "Zwischen Leitung und Träger",
+      "punkte": [
+       {
+        "kopf": "59 %",
+        "text": "sagen, dass vor jeder Einstellung ein persönliches Gespräch mit dem Träger stattfindet."
+       },
+       {
+        "kopf": "62 %",
+        "text": "sagen, dass der Träger die Entscheidung ganz der Leitung überlässt."
+       },
+       {
+        "kopf": "Etwa 10 %",
+        "text": "sagen, dass der Träger Personal einstellte, das die Leitung für ungeeignet hielt."
+       },
+       {
+        "kopf": "31 %",
+        "text": "sagen, dass auf erkannten Fortbildungsbedarf immer eine Fortbildung folgt."
+       }
+      ],
+      "quelle": "Bertelsmann Stiftung, 15.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Das Führungszeugnis",
+      "zahl": "93 %",
+      "text": "So viele Leitungen sagen, dass der Träger vor jeder Einstellung ein erweitertes Führungszeugnis geprüft hat. Das ist gesetzlich vorgeschrieben.",
+      "quelle": "Bertelsmann Stiftung, 15.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was die Studie zeigt",
+      "titel": "Eindrücke der Leitungen",
+      "text": "Die Zahlen beruhen auf Angaben freiwillig teilnehmender Leitungen. Sie sagen, wie diese die Einstellungspraxis erleben, und messen nicht die Betreuungsqualität in einzelnen Kitas.",
+      "quelle": "Bertelsmann Stiftung, 15.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Die Forderungen",
+      "titel": "Was die Stiftung vorschlägt",
+      "punkte": [
+       {
+        "kopf": "An die Träger",
+        "text": "Einstellung, Einarbeitung und Qualifizierung enger begleiten und mehr Zeit für den Austausch mit den Leitungen einplanen."
+       },
+       {
+        "kopf": "An die Politik",
+        "text": "Trägerverantwortung gesetzlich klarer fassen, bundesweite Standards für Fachberatung, Fortbildung und Leitungszeit, bessere Trägerfinanzierung, dauerhaftes Engagement des Bundes."
+       }
+      ],
+      "quelle": "Bertelsmann Stiftung, 15.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Kita-Personal: Qualifikation vor Platzzahl oder lieber jede Kraft?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -90,6 +335,39 @@ window.BRIEFINGS = [
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto · Karussell: Link in der Bio"
     }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Bahn · Alltag",
+    "titel": "Alkoholverbot an Bahnhöfen: Was jetzt gilt",
+    "rot": "Was jetzt gilt",
+    "text": "Trinken verboten, Mitführen erlaubt, Gastronomie ausgenommen. Alle Details im Karussell, Link in der Bio.",
+    "quelle": "touristik aktuell (Bahn-Mitteilung), GIGA",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Wohnen · Mieten",
+    "titel": "Angebotsmieten: plus 1,2 Prozent im Quartal",
+    "rot": "plus 1,2 Prozent im Quartal",
+    "text": "Stärkster Anstieg seit Anfang 2025. Alle Zahlen im Karussell, Link in der Bio.",
+    "quelle": "Kiel Institut (GREIX) via dpa-AFX, 15.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Familie · Kita",
+    "titel": "Kita-Studie: 23 Prozent der Leitungen sehen Stellen unter nötigem Niveau",
+    "rot": "23 Prozent der Leitungen",
+    "text": "Befragung nicht repräsentativ, 4.782 Leitungen. Alle Zahlen im Karussell, Link in der Bio.",
+    "quelle": "Bertelsmann Stiftung, 15.10.2026",
+    "theme": "dark"
    }
   ]
  },
