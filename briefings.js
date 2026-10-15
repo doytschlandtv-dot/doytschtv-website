@@ -82,7 +82,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Bahn · Alltag",
       "titel": "Alkoholverbot an Bahnhöfen: Was jetzt gilt",
-      "rot": "Was jetzt gilt"
+      "rot": "Was jetzt gilt",
+      "bild": {
+       "url": "titel-bahnhof.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -160,7 +165,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Wohnen · Mieten",
       "titel": "Angebotsmieten steigen wieder stärker: plus 1,2 Prozent im Quartal",
-      "rot": "plus 1,2 Prozent im Quartal"
+      "rot": "plus 1,2 Prozent im Quartal",
+      "bild": {
+       "url": "titel-mieten.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -234,7 +244,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Familie · Kita",
       "titel": "Kita-Studie: 23 Prozent der Leitungen sehen Stellen unter nötigem Niveau",
-      "rot": "23 Prozent der Leitungen"
+      "rot": "23 Prozent der Leitungen",
+      "bild": {
+       "url": "titel-kita.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -345,7 +360,12 @@ window.BRIEFINGS = [
     "rot": "Was jetzt gilt",
     "text": "Trinken verboten, Mitführen erlaubt, Gastronomie ausgenommen. Alle Details im Karussell, Link in der Bio.",
     "quelle": "touristik aktuell (Bahn-Mitteilung), GIGA",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-bahnhof.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    },
    {
     "zusatz": true,
@@ -356,7 +376,12 @@ window.BRIEFINGS = [
     "rot": "plus 1,2 Prozent im Quartal",
     "text": "Stärkster Anstieg seit Anfang 2025. Alle Zahlen im Karussell, Link in der Bio.",
     "quelle": "Kiel Institut (GREIX) via dpa-AFX, 15.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-mieten.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    },
    {
     "zusatz": true,
@@ -367,7 +392,12 @@ window.BRIEFINGS = [
     "rot": "23 Prozent der Leitungen",
     "text": "Befragung nicht repräsentativ, 4.782 Leitungen. Alle Zahlen im Karussell, Link in der Bio.",
     "quelle": "Bertelsmann Stiftung, 15.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-kita.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    }
   ]
  },
