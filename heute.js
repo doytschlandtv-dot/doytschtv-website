@@ -61,25 +61,24 @@
   var pv = document.getElementById("hc-prev"), nx = document.getElementById("hc-next");
   function step(d) { rail.scrollBy({ left: d * Math.min(rail.clientWidth * 0.8, 340), behavior: "smooth" }); }
   if (pv && nx && rail) { pv.onclick = function () { step(-1); }; nx.onclick = function () { step(1); }; }
-  /* Selbstlauf: die Karten ziehen langsam von selbst weiter, stoppen bei Berührung/Maus/Fokus und laufen nach kurzer Ruhe wieder an */
+  /* Selbstlauf: alle paar Sekunden springt die Leiste sanft um eine ganze Karte weiter (am Ende zurück an den Anfang).
+     Sobald jemand eingreift (Berühren, Wischen, Klicken, Tastatur), hört es für diesen Besuch ganz auf. */
   if (rail && !(window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches)) {
-    var paused = false, wait = 0, pos = 0, last = 0, SPEED = 28; /* Pixel pro Sekunde */
-    function hold(ms) { paused = true; clearTimeout(wait); wait = setTimeout(function () { paused = false; pos = rail.scrollLeft; last = 0; }, ms); }
-    ["pointerdown", "touchstart", "wheel", "keydown", "focusin"].forEach(function (ev) { rail.addEventListener(ev, function () { rail.style.scrollSnapType = ""; hold(6000); }, { passive: true }); });
-    rail.addEventListener("mouseenter", function () { paused = true; clearTimeout(wait); });
-    rail.addEventListener("mouseleave", function () { hold(1500); });
-    [pv, nx].forEach(function (b) { if (b) b.addEventListener("click", function () { rail.style.scrollSnapType = ""; hold(6000); }); });
-    rail.addEventListener("scroll", function () { if (paused) pos = rail.scrollLeft; }, { passive: true });
-    pos = rail.scrollLeft;
-    (function tick(t) {
-      var max = rail.scrollWidth - rail.clientWidth;
-      if (!paused && max > 8 && !document.hidden) {
-        if (last) pos += (t - last) / 1000 * SPEED;
-        last = t;
-        if (pos >= max - 1) { hold(2500); setTimeout(function () { rail.style.scrollSnapType = ""; rail.scrollTo({ left: 0, behavior: "smooth" }); }, 2500); pos = 0; }
-        else { rail.style.scrollSnapType = "none"; rail.scrollLeft = pos; }
-      } else last = 0;
-      requestAnimationFrame(tick);
-    })(0);
+    var timer = null, hover = false;
+    function stop() { clearInterval(timer); timer = null; }
+    ["pointerdown", "touchstart", "wheel", "keydown", "focusin"].forEach(function (ev) { rail.addEventListener(ev, stop, { passive: true }); });
+    [pv, nx].forEach(function (b) { if (b) b.addEventListener("click", stop); });
+    rail.addEventListener("mouseenter", function () { hover = true; });
+    rail.addEventListener("mouseleave", function () { hover = false; });
+    timer = setInterval(function () {
+      if (hover || document.hidden) return;
+      var cards = rail.querySelectorAll(".hc"), max = rail.scrollWidth - rail.clientWidth, cur = rail.scrollLeft, base = cards[0] ? cards[0].offsetLeft : 0;
+      if (max <= 8) return stop();
+      if (cur >= max - 4) { rail.scrollTo({ left: 0, behavior: "smooth" }); return; }
+      for (var q = 0; q < cards.length; q++) {
+        if (cards[q].offsetLeft - base > cur + 8) { rail.scrollTo({ left: Math.min(max, cards[q].offsetLeft - base), behavior: "smooth" }); return; }
+      }
+      rail.scrollTo({ left: 0, behavior: "smooth" });
+    }, 3500);
   }
 })();
