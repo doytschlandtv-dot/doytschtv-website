@@ -62,18 +62,18 @@
   function step(d) { rail.scrollBy({ left: d * Math.min(rail.clientWidth * 0.8, 340), behavior: "smooth" }); }
   if (pv && nx && rail) { pv.onclick = function () { step(-1); }; nx.onclick = function () { step(1); }; }
   /* Selbstlauf: alle paar Sekunden springt die Leiste sanft um eine ganze Karte weiter (am Ende zurück an den Anfang).
-     Sobald jemand eingreift (Berühren, Wischen, Klicken, Tastatur), hört es für diesen Besuch ganz auf. */
+     Greift jemand ein (Berühren, Wischen, Klicken, Tastatur), pausiert es kurz und läuft dann von der aktuellen Stelle weiter. */
   if (rail && !(window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches)) {
-    var timer = null, hover = false;
-    function stop() { clearInterval(timer); timer = null; }
-    ["pointerdown", "touchstart", "wheel", "keydown", "focusin"].forEach(function (ev) { rail.addEventListener(ev, stop, { passive: true }); });
-    [pv, nx].forEach(function (b) { if (b) b.addEventListener("click", stop); });
+    var timer = null, hover = false, until = 0;
+    function hold() { until = Date.now() + 6000; }
+    ["pointerdown", "touchstart", "touchmove", "wheel", "keydown", "focusin"].forEach(function (ev) { rail.addEventListener(ev, hold, { passive: true }); });
+    [pv, nx].forEach(function (b) { if (b) b.addEventListener("click", hold); });
     rail.addEventListener("mouseenter", function () { hover = true; });
-    rail.addEventListener("mouseleave", function () { hover = false; });
+    rail.addEventListener("mouseleave", function () { hover = false; hold(); });
     timer = setInterval(function () {
-      if (hover || document.hidden) return;
+      if (hover || document.hidden || Date.now() < until) return;
       var cards = rail.querySelectorAll(".hc"), max = rail.scrollWidth - rail.clientWidth, cur = rail.scrollLeft, base = cards[0] ? cards[0].offsetLeft : 0;
-      if (max <= 8) return stop();
+      if (max <= 8) return;
       if (cur >= max - 4) { rail.scrollTo({ left: 0, behavior: "smooth" }); return; }
       for (var q = 0; q < cards.length; q++) {
         if (cards[q].offsetLeft - base > cur + 8) { rail.scrollTo({ left: Math.min(max, cards[q].offsetLeft - base), behavior: "smooth" }); return; }
