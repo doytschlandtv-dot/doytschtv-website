@@ -1,5 +1,239 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-16",
+  "morgen": null,
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Notfallreform beschlossen: Ersteinschätzung über 112 und 116117, Zuzahlung steigt auf 15 Euro",
+    "caption": "Der Bundestag hat die Reform der Notfallversorgung beschlossen, im dritten Anlauf seit 2019. Künftig sollen die 112 und die 116117 digital verzahnt werden, und Patienten erhalten eine Ersteinschätzung, wohin sie gehören: Arztpraxis, Notdienstpraxis oder Notaufnahme. Dafür sollen an Kliniken integrierte Notfallzentren entstehen. Die Notfallrettung wird als Leistung der Krankenkassen verankert. Die Zuzahlung bei der Notfallrettung steigt von höchstens 10 auf 15 Euro. Das Gesetz soll 2027 in Kraft treten, der Bundesrat berät voraussichtlich am 20. November. Kritik kommt unter anderem von der Kassenärztlichen Bundesvereinigung und der Björn Steiger Stiftung. Notfallreform: Hilft die Ersteinschätzung oder wird es nur komplizierter?",
+    "hashtags": "#doytschlandtv #aktuell #notfallreform #notaufnahme #gesundheit #112 #116117 #alltag #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Gesundheit · Notfall",
+      "titel": "Notfallreform beschlossen: Wohin du im Notfall künftig geleitet wirst",
+      "rot": "Wohin du im Notfall künftig geleitet wirst",
+      "bild": {
+       "url": "titel-notfall.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Beschluss",
+      "titel": "Dritter Anlauf, jetzt klappt es.",
+      "text": "Der Bundestag hat am 15. Oktober die Reform der Notfallversorgung beschlossen, mit den Stimmen von CDU/CSU, SPD und Grünen. Linke und AfD enthielten sich. Nach 2019 und einem zweiten gescheiterten Versuch ist es der dritte Anlauf. Das Gesetz soll 2027 in Kraft treten, der Bundesrat berät voraussichtlich am 20. November.",
+      "quelle": "Ärzteblatt; Zeit; Tagesschau, 15.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was ändert sich?",
+      "titel": "Was du als Patient merkst",
+      "punkte": [
+       {
+        "kopf": "Ersteinschätzung",
+        "text": "Telefonisch, digital oder vor Ort wird eingeschätzt, welche Hilfe du brauchst."
+       },
+       {
+        "kopf": "112 und 116117",
+        "text": "Beide Nummern werden digital verzahnt. Bei Lebensgefahr bleibt die 112 direkt erreichbar."
+       },
+       {
+        "kopf": "Notfallzentren",
+        "text": "An Kliniken entstehen integrierte Notfallzentren. Nach der Einschätzung geht es in eine Praxis, eine Notdienstpraxis oder die Notaufnahme."
+       },
+       {
+        "kopf": "Rettungsdienst",
+        "text": "Die Notfallrettung wird als Leistung der Krankenkassen verankert, nicht mehr nur als Fahrtkosten."
+       }
+      ],
+      "quelle": "Tagesschau; Bundestag; Ärzteblatt, 15.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Euro Zuzahlung",
+      "zahl": "15",
+      "text": "Bei der Notfallrettung steigt die Zuzahlung von höchstens 10 auf 15 Euro. Es gelten die üblichen Befreiungsregeln. Nicht jeder Anruf bei der 112 kostet automatisch Geld, maßgeblich ist die erbrachte Leistung.",
+      "quelle": "Ärzteblatt, 13.10.2026; Björn Steiger Stiftung; kommunal.de"
+     },
+     {
+      "typ": "zahl",
+      "label": "Der Umbau",
+      "zahl": "750",
+      "text": "So viele integrierte Notfallzentren sollen an Krankenhäusern aufgebaut werden. Für die digitale Ausstattung stellt der Bund 225 Millionen Euro aus dem Sondervermögen bereit. Die Regierung erwartet langfristig Einsparungen bei den Kassen von gut 1,2 Milliarden Euro im Jahr.",
+      "quelle": "Tagesschau; Zeit, 15.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Regierung",
+      "behauptung": "Die Notaufnahmen werden entlastet. Patienten kommen mit der Ersteinschätzung an die passende Stelle, Rettungsdienste werden seltener unnötig gebunden.",
+      "labelB": "Kritiker",
+      "fakt": "Die Kassenärztliche Bundesvereinigung lehnt die verschärfte Meldepflicht für Praxistermine ab. KBV und Krankenhausgesellschaft warnen vor Doppelstrukturen. Die Björn Steiger Stiftung nennt die Zuzahlung ein falsches Signal.",
+      "quelle": "Ärzteblatt; KBV; Björn Steiger Stiftung, 15.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Ob es wirkt, entscheidet die Umsetzung",
+      "text": "Der Intensivmediziner Uwe Janssens warnt, ohne genug Personal, Abstimmung und gesicherte Finanzierung kämen Patienten weiter ungesteuert in die Kliniken. Vieles hängt an der Ersteinschätzung am Telefon und daran, wie schnell die Zentren entstehen.",
+      "quelle": "WDR; Ärzteblatt, 2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Notfallreform: Hilft die Ersteinschätzung oder wird es nur komplizierter?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Zuckersteuer im Kabinett, Plastiksteuer auf Eis: Wie stabil ist die Koalition?",
+    "caption": "Das Kabinett hat die Zuckersteuer auf den Weg gebracht: 26 Cent pro Liter bei mindestens 5 Gramm Zucker je 100 Milliliter, 32 Cent ab 8 Gramm, geplant ab dem 1. Juli 2027. Der Bund rechnet mit 690 Millionen Euro im ersten Jahr. Ausgenommen sind unter anderem gesüßte Getränke mit Süßungsmitteln, reine Säfte, alkoholfreies Bier und kleine Hersteller. Die Plastiksteuer hat die Regierung nach Widerstand aus der Union vorerst auf Eis gelegt. Dazu kommt der Rücktritt von Arbeitsministerin Bärbel Bas am Montag. Union und SPD haben nur zwölf Stimmen Mehrheit. Zuckersteuer: Sinnvoller Anreiz oder Griff in die Tasche?",
+    "hashtags": "#doytschlandtv #aktuell #zuckersteuer #plastiksteuer #koalition #bundesregierung #klingbeil #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Politik · Koalition",
+      "titel": "Zuckersteuer kommt, Plastiksteuer auf Eis: Wie stabil ist die Koalition?",
+      "rot": "Wie stabil ist die Koalition?",
+      "bild": {
+       "url": "titel-zucker.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Beschluss",
+      "titel": "Das Kabinett billigt die Zuckersteuer.",
+      "text": "Die Bundesregierung hat sich auf eine Formulierungshilfe für die Zuckergetränkesteuer geeinigt und sie im Kabinett beschlossen. Jetzt ist der Bundestag am Zug, die Fraktionen müssen sie einbringen. Zuvor hatten neun Unions-Fachminister der Länder in einem Brief an Kanzler Merz gegen die Steuer protestiert.",
+      "quelle": "t-online; Tagesschau; Handelsblatt, 14. bis 16.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Cent pro Liter",
+      "zahl": "26–32",
+      "text": "26 Cent bei mindestens 5 Gramm Zucker je 100 Milliliter, 32 Cent ab 8 Gramm. Start soll der 1. Juli 2027 sein. Eine Dose Cola würde laut BR statt 99 Cent rund 1,10 Euro kosten, wenn der Hersteller den Zuckergehalt nicht senkt.",
+      "quelle": "t-online; BR, 16.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer ist ausgenommen?",
+      "titel": "Nicht besteuert werden",
+      "punkte": [
+       {
+        "kopf": "Süßungsmittel",
+        "text": "Getränke mit Süßungsmitteln statt Zucker."
+       },
+       {
+        "kopf": "Säfte",
+        "text": "Reine Frucht- und Gemüsesäfte sowie Drinks auf Basis von Soja, Nüssen oder Getreide."
+       },
+       {
+        "kopf": "Alkoholfrei",
+        "text": "Alkoholfreies Bier, entsprechende Mischgetränke, alkoholfreier Wein und Schaumwein."
+       },
+       {
+        "kopf": "Kleine Hersteller",
+        "text": "Betriebe mit weniger als einer Million Litern pro Jahr."
+       }
+      ],
+      "quelle": "Handelsblatt; t-online, 15.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Millionen Euro im Jahr 2027",
+      "zahl": "690",
+      "text": "So viel soll die Steuer dem Bund 2027 einbringen, 2028 sind es rund 925 Millionen Euro. Das Geld soll helfen, die Beiträge zur Krankenversicherung stabil zu halten.",
+      "quelle": "t-online; Handelsblatt, 2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Der Streit",
+      "titel": "Warum die Koalition wackelt",
+      "punkte": [
+       {
+        "kopf": "Plastiksteuer",
+        "text": "Die Regierung hat sie nach Widerstand von rund zwei Dutzend Unionsabgeordneten vorerst auf Eis gelegt. Fraktionschef Thorsten Frei unterstützt deren Vorbehalte."
+       },
+       {
+        "kopf": "Haushalt",
+        "text": "Laut Medienberichten hat die SPD intern angekündigt, ohne die geplanten Einnahmen dem Haushalt 2027 nicht zuzustimmen."
+       },
+       {
+        "kopf": "Bas-Rücktritt",
+        "text": "Bärbel Bas trat am 12. Oktober als Arbeitsministerin und SPD-Co-Chefin zurück, auch wegen Angriffen aus der Koalition. Nachfolger ist Alexander Schweitzer."
+       }
+      ],
+      "quelle": "t-online; Handelsblatt; DW, 12. bis 16.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Mehrheit",
+      "zahl": "12",
+      "text": "So viele Stimmen mehr als nötig haben Union und SPD im Bundestag. Wenn Abgeordnete der Union bei einzelnen Steuern nicht mitgehen, kann die Koalition Gesetze nicht aus eigener Kraft beschließen.",
+      "quelle": "Handelsblatt, 15.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "SPD und Finanzminister",
+      "behauptung": "Klingbeil braucht die Einnahmen für den Haushalt und will die Steuern wie vereinbart umsetzen. Er will an der Koalition festhalten.",
+      "labelB": "Unionskritiker",
+      "fakt": "Der Wirtschaftsflügel hat Vorbehalte gegen mehrere der geplanten Steuern. Sie sehen Belastungen für Familien, Mittelstand und Verwaltung.",
+      "quelle": "Handelsblatt; Tagesschau, 15./16.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Es geht um mehr als Limonade",
+      "text": "Die Zuckersteuer ist beschlossen, aber noch nicht durchs Parlament. Ob Union und SPD die geplanten Einnahmen im Haushalt 2027 gemeinsam durchbringen, entscheidet sich in den kommenden Wochen.",
+      "quelle": "Handelsblatt, 15.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Zuckersteuer: Sinnvoller Anreiz oder Griff in die Tasche?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Gesundheit · Notfall",
+    "titel": "Notfallreform: Das ändert sich für dich",
+    "rot": "für dich",
+    "text": "Ersteinschätzung über 112 und 116117, Zuzahlung steigt auf 15 Euro. Alle Details im Karussell, Link in der Bio.",
+    "quelle": "Ärzteblatt; Tagesschau, 15.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-notfall.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Politik · Koalition",
+    "titel": "Zuckersteuer kommt, Plastiksteuer auf Eis",
+    "rot": "Plastiksteuer auf Eis",
+    "text": "26 bis 32 Cent pro Liter ab Juli 2027. Was dahinter steckt, im Karussell, Link in der Bio.",
+    "quelle": "t-online; Handelsblatt, 2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-zucker.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   }
+  ]
+ },
+ {
   "datum": "2026-10-15",
   "morgen": null,
   "abend": null,
