@@ -241,13 +241,26 @@
       foot(s.quelle);
     } else if (s.typ === "meinung") {
       lab(ctx, "Unsere Einordnung – Meinung", x, y, ac);
-      ctx.font = "400 240px " + PF; ctx.fillStyle = ac; ctx.fillText("„", x - 6, y + 10);
-      var qb = s.handlung ? 560 : 760;
-      var y5 = head(ctx, String(s.text || "").replace(/^[„“"]|[“"]$/g, ""), IS, 400, x, y + 300, mw, qb, 100, 54, 1.1, fg, null, ac, 0.01);
+      var qtxt = String(s.text || "").replace(/^[„“"]|[“"]$/g, ""), ty0;
+      if (img) {
+        var bh = 420, by = y + 64;
+        ctx.save(); rr(ctx, x, by, mw, bh, 14); ctx.clip();
+        var sc = Math.max(mw / img.width, bh / img.height), dw = img.width * sc, dh = img.height * sc;
+        var fy2 = (s.bild && s.bild.fokus != null) ? s.bild.fokus : 0.4;
+        ctx.drawImage(img, x + (mw - dw) / 2, by - Math.max(0, Math.min(dh - bh, dh * fy2 - bh / 2)), dw, dh);
+        ctx.restore();
+        if (s.bild && s.bild.unter) { ctx.font = "400 22px " + SANS; ctx.fillStyle = mu; ctx.fillText(s.bild.unter, x, by + bh + 10); }
+        ty0 = by + bh + 60;
+      } else {
+        ctx.font = "400 240px " + PF; ctx.fillStyle = ac; ctx.fillText("„", x - 6, y + 10);
+        ty0 = y + 300;
+      }
+      var qb = img ? (s.handlung ? 330 : 440) : (s.handlung ? 560 : 760);
+      var y5 = head(ctx, qtxt, IS, 400, x, ty0, mw, qb, img ? 74 : 100, img ? 44 : 54, 1.1, fg, null, ac, 0.01);
       if (s.handlung) {
-        ctx.fillStyle = T.soft; ctx.fillRect(x, y5 + 40, mw, 3);
-        lab(ctx, "Was du tun kannst", x, y5 + 76, ac);
-        head(ctx, s.handlung, SANS, 400, x, y5 + 130, mw, bottom - y5 - 140, 42, 28, 1.4, fg, null, ac, 0);
+        ctx.fillStyle = T.soft; ctx.fillRect(x, y5 + 30, mw, 3);
+        lab(ctx, "Was du tun kannst", x, y5 + 56, ac);
+        head(ctx, s.handlung, SANS, 400, x, y5 + 108, mw, bottom - y5 - 118, 40, 26, 1.4, fg, null, ac, 0);
       }
       ctx.font = "700 30px " + SANS; ctx.fillStyle = mu; ctx.fillText("MEINUNG, KEINE NACHRICHT", x, H - 110);
       counter();

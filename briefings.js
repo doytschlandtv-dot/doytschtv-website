@@ -82,6 +82,16 @@ window.BRIEFINGS = [
       "quelle": "WDR; Ärzteblatt, 2026"
      },
      {
+      "typ": "meinung",
+      "text": "Eine Ersteinschätzung ist richtig, denn nicht jede Wunde gehört in die Notaufnahme. Aber wer Hilfe braucht, darf nie an einem Preisschild oder einer Warteschleife scheitern.",
+      "handlung": "Merk dir die 116117 für den ärztlichen Bereitschaftsdienst und die 112 bei Lebensgefahr.",
+      "bild": {
+       "url": "titel-notfall-karikatur.jpg",
+       "fokus": 0.4,
+       "unter": "Karikatur, KI-generiert, kein Foto"
+      }
+     },
+     {
       "typ": "cta",
       "frage": "Notfallreform: Hilft die Ersteinschätzung oder wird es nur komplizierter?"
      }
@@ -190,6 +200,16 @@ window.BRIEFINGS = [
       "titel": "Es geht um mehr als Limonade",
       "text": "Die Zuckersteuer ist beschlossen, aber noch nicht durchs Parlament. Ob Union und SPD die geplanten Einnahmen im Haushalt 2027 gemeinsam durchbringen, entscheidet sich in den kommenden Wochen.",
       "quelle": "Handelsblatt, 15.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Ein Anreiz für weniger Zucker ist vernünftig. Aber eine Koalition, die erst beschließt und dann wackelt, verspielt Vertrauen. Verlässlichkeit ist wichtiger als jede Steuer.",
+      "handlung": "Schau auf das Etikett: Zucker pro 100 ml sagt mehr als der Preis.",
+      "bild": {
+       "url": "titel-zucker-karikatur.jpg",
+       "fokus": 0.4,
+       "unter": "Karikatur, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "cta",
