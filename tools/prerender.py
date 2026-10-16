@@ -74,9 +74,14 @@ def dossiers():
     return "".join(o)
 def heute():
     d = B[0]; it = []
-    for k in reversed(d.get("karussells") or []):
-        bi = (k["slides"][0].get("bild") or {}) if k.get("slides") else {}
-        it.append(("Nachrichten", k["thema"], "nachrichten.html#" + urllib.parse.quote(k["thema"], safe="~()*!.'"), bi.get("url"), bi.get("fokus"), bi.get("unter")))
+    import datetime
+    cut = (datetime.date.fromisoformat(d["datum"]) - datetime.timedelta(days=2)).isoformat()
+    WT = ["Mo.", "Di.", "Mi.", "Do.", "Fr.", "Sa.", "So."]
+    for dd in [x for x in B if x["datum"] >= cut]:
+        dt = datetime.date.fromisoformat(dd["datum"]); lab = f"{WT[dt.weekday()]}, {dt.day}.{dt.month}."
+        for k in reversed(dd.get("karussells") or []):
+            bi = (k["slides"][0].get("bild") or {}) if k.get("slides") else {}
+            it.append(("Nachrichten · " + lab, k["thema"], "nachrichten.html#" + urllib.parse.quote(k["thema"], safe="~()*!.'"), bi.get("url"), bi.get("fokus"), bi.get("unter")))
     if d.get("morgen"):
         t = d["morgen"].get("themen") or []
         it.append(("Morning Briefing" + (" · " + d["morgen"]["dauer"] if d["morgen"].get("dauer") else ""), (t[0] + (f" und {len(t)-1} weitere Themen" if len(t) > 1 else "")) if t else "Heute im Überblick", "briefing.html#" + d["datum"], "titel-briefing.jpg", None, "Illustration, KI-generiert, kein Foto"))
