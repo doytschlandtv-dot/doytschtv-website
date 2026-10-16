@@ -65,7 +65,7 @@
      Greift jemand ein (Berühren, Wischen, Klicken, Tastatur), pausiert es kurz und läuft dann von der aktuellen Stelle weiter. */
   if (rail && !(window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches)) {
     var timer = null, hover = false, until = 0;
-    function hold() { until = Date.now() + 6000; }
+    function hold() { until = Date.now() + 3000; }
     ["pointerdown", "touchstart", "touchmove", "wheel", "keydown", "focusin"].forEach(function (ev) { rail.addEventListener(ev, hold, { passive: true }); });
     [pv, nx].forEach(function (b) { if (b) b.addEventListener("click", hold); });
     rail.addEventListener("mouseenter", function () { hover = true; });
@@ -79,6 +79,6 @@
         if (cards[q].offsetLeft - base > cur + 8) { rail.scrollTo({ left: Math.min(max, cards[q].offsetLeft - base), behavior: "smooth" }); return; }
       }
       rail.scrollTo({ left: 0, behavior: "smooth" });
-    }, 3500);
+    }, 2500);
   }
 })();
