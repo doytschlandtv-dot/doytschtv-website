@@ -1,13 +1,16 @@
 # Launch DoytschlandTv, Sonntag 18.10.2026
 
 ## Reihenfolge
-1. Vormittag (ca. 9:00): Website sicher online, kurz selbst durchklicken (Start, Briefing, Dossier).
-2. 09:50 Instagram: Intro-Storys 1 bis 3 (intro-story-1 bis 3.png) direkt nacheinander. Danach:
-3. 10:00 Instagram: Karussell (folie-01 bis 06, PNG), Bildtext unten. Manuell posten.
-3. 10:05 Instagram: Story (story.png) mit Link-Sticker auf doytschtv.de.
-4. 10:10 TikTok: Foto-Karussell (folie-01 bis 06, JPG), Titel unten.
-5. Bio auf beiden Kanälen aktualisieren, vor dem ersten Post.
-6. 19:00 Tagesrückblick wie gewohnt, danach normaler Betrieb.
+1. Vormittag: Website kurz selbst durchklicken (Start, Briefing, Dossier). Bio auf beiden Kanälen aktualisieren.
+2. 10:00 Instagram: Karussell (folie-01 bis 06, PNG) mit Bildtext unten. Manuell posten.
+3. 10:15 Instagram: Reel 1 "Doytsch" (reel-1-doytsch.mp4).
+4. 10:30 Instagram: Story-Reihe "Wer wir sind" (launch-story-1 bis 7, PNG), Link-Sticker auf doytschtv.de bei Story 1 und 7.
+5. 10:30 TikTok: Foto-Karussell (folie-01 bis 06, JPG), Titel unten. Danach Reel 1.
+6. 13:00 Reel 2 "Prüf nach" (reel-2-pruef-nach.mp4) auf Instagram und TikTok.
+7. Nachmittag: die drei Intro-Storys (intro-story-1 bis 3) und die Launch-Story (story.png) als Erinnerung nachlegen.
+8. 19:00 Tagesrückblick wie gewohnt.
+
+Hinweis Musik: Die Reels nutzen dieselbe Hintergrundmusik wie das erste Werbevideo. Wenn du in der App einen eigenen oder trendenden Sound drüberlegen willst, geht das, die Texte laufen ohne Ton.
 
 ## Bio (Instagram, max. 150 Zeichen)
 DoytschlandTv | Nachrichten
