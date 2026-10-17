@@ -2,7 +2,8 @@
 
 ## Reihenfolge
 1. Vormittag (ca. 9:00): Website sicher online, kurz selbst durchklicken (Start, Briefing, Dossier).
-2. 10:00 Instagram: Karussell (folie-01 bis 06, PNG), Bildtext unten. Manuell posten.
+2. 09:50 Instagram: Intro-Storys 1 bis 3 (intro-story-1 bis 3.png) direkt nacheinander. Danach:
+3. 10:00 Instagram: Karussell (folie-01 bis 06, PNG), Bildtext unten. Manuell posten.
 3. 10:05 Instagram: Story (story.png) mit Link-Sticker auf doytschtv.de.
 4. 10:10 TikTok: Foto-Karussell (folie-01 bis 06, JPG), Titel unten.
 5. Bio auf beiden Kanälen aktualisieren, vor dem ersten Post.
