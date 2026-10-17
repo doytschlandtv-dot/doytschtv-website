@@ -280,5 +280,223 @@ window.DOSSIERS = [
    }
   ],
   "motiv": "paragraph"
+ },
+ {
+  "id": "lobby",
+  "titel": "Lobby und Einfluss",
+  "teaser": "Wer bezahlt politischen Einfluss, wie viel ist es, und was sagen Register, Bilanzen und Recherchen dazu?",
+  "methode": [
+   "Wir stützen uns auf Primärquellen wie das Lobbyregister des Bundestages, Bilanzen und Reden, und ordnen Recherchen Dritter ein, etwa von Medien und Organisationen. Jede Angabe nennt ihre Quelle.",
+   "Wir unterscheiden drei Dinge: Was ist belegt (Register, Bilanz, Rede), was ist nur berichtet (Recherchen Dritter, von uns nicht am Original geprüft), und was ist unsere Einordnung. Wo wir Lücken sehen, schreiben wir das dazu.",
+   "Lobbyismus ist legal und gehört zur Demokratie. Es geht um Transparenz, nicht um Vorwürfe. Wir stellen keine Rechtsverstöße fest, das tun Gerichte und Behörden. Die Gegenseite kommt immer mit ihrer Darstellung zu Wort."
+  ],
+  "folgen": [
+   {
+    "id": "stiftung-familienunternehmen-lobby",
+    "datum": "2026-10-17",
+    "titel": "Wer bezahlt den Einfluss der Familienunternehmer?",
+    "teaser": "Zwei Stiftungen, ein Team, rund 3,8 Millionen Euro Umsatz und Zugang bis zum Kanzler. Was Lobbyregister und Bilanz zeigen, was Recherchen berichten und was offen bleibt.",
+    "kern": [
+     {
+      "z": "Der Apparat",
+      "l": "Die Stiftung Familienunternehmen und Politik (SFUP) steht seit 2022 im Lobbyregister. 2025 gab sie laut Register rund 2,26 Millionen Euro für Interessenvertretung aus, mit 6,3 Vollzeitstellen. Ihr Umsatz lag laut Bilanz bei 3,78 Millionen Euro."
+     },
+     {
+      "z": "Zwei Stiftungen",
+      "l": "Die gemeinnützige Stiftung Familienunternehmen (SFU, seit 2002) und die SFUP (seit 2021, nicht gemeinnützig) haben laut Recherchen dasselbe Führungspersonal. Die Trennung ist rechtlich zulässig."
+     },
+     {
+      "z": "Wer zahlt, bleibt geheim",
+      "l": "Die Stiftung nennt rund 600 Förderer, veröffentlicht aber keine Liste, auch aus Datenschutzgründen. Panorama identifizierte 123 Firmen, 121 davon Großunternehmen. Im Lobbyregister stehen keine Namen von Geldgebern."
+     },
+     {
+      "z": "Zugang",
+      "l": "Die SFUP lud am 11.6.2026 zum „Tag des Familienunternehmens“ nach Berlin, Bundeskanzler Merz hielt die Rede. Wie viel Einfluss das Geld kauft, lässt sich mit öffentlichen Daten nicht messen."
+     }
+    ],
+    "abschnitte": [
+     {
+      "h": "Worum es geht",
+      "t": [
+       "Die Stiftung Familienunternehmen und Politik versteht sich als Stimme der Familienunternehmen in Berlin. Sie ist im Lobbyregister eingetragen, hat ein „Haus des Familienunternehmens“ am Pariser Platz und gibt Stellungnahmen zu Gesetzen ab. Das ist legal und im Register sichtbar.",
+       "Die Kritik richtet sich nicht gegen Lobbyarbeit an sich, sondern gegen drei Punkte: wer sie bezahlt, unter welchem Etikett das läuft und wer im Vergleich dazu keinen Zugang hat. Wichtig vorab: Vieles stammt aus Recherchen von Greenpeace und dem ARD-Magazin Panorama. Wir haben diese Angaben eingeordnet, aber nicht an Originalverträgen geprüft."
+      ]
+     },
+     {
+      "h": "Zwei Stiftungen, ein Team",
+      "t": [
+       "Die Stiftung Familienunternehmen (SFU) wurde 2002 gegründet, ist gemeinnützig und hat ihren Sitz in Stuttgart. 2021 kam die Stiftung Familienunternehmen und Politik (SFUP) dazu. Sie ist nicht gemeinnützig und im Lobbyregister eingetragen (R000083). Nach Greenpeace-Recherchen wollte man damit verhindern, dass politische Tätigkeit die Gemeinnützigkeit gefährdet. Anlass sei das Urteil des Bundesfinanzhofs im Fall Attac von 2019 gewesen. Das beruht auf Angaben von Greenpeace, die sich auf Aussagen der Stiftung beziehen.",
+       "Laut Lobbyregister bilden Rainer Kirchdörfer und Ulrich B. Stoll den Vorstand der SFUP, Geschäftsführer sind Stefan Heidbreder und David Deißner. Nach Recherchen sind Vorstand, Geschäftsführung und Kuratorium beider Stiftungen identisch.",
+       "Unsere Einordnung: Eine solche Trennung ist rechtlich zulässig und üblich. Politisch ist sie ein Gestaltungsmerkmal. Meinungsbildung (gemeinnützig, steuerbegünstigt) und Interessenvertretung (SFUP) laufen mit denselben Personen unter derselben Marke. Der Politikwissenschaftler Dieter Plehwe sagte Panorama, auch die gemeinnützige SFU betreibe Lobbyismus, nur eben über das Meinungsklima statt über direkten Zugang."
+      ]
+     },
+     {
+      "h": "Das Geld: Was Register und Bilanz zeigen",
+      "t": [
+       "Lobbyregister: Für 2025 nennt die SFUP Aufwendungen für Interessenvertretung von 2.260.001 bis 2.270.000 Euro und 6,3 Vollzeitstellen. Als Finanzierungsquelle steht dort „wirtschaftliche Tätigkeit“, ohne Betrag.",
+       "Bilanz 2025 (im Lobbyregister hinterlegt): Die Umsatzerlöse stiegen von 3,41 auf 3,78 Millionen Euro, der Jahresüberschuss nach Steuern lag bei rund 452.000 Euro. Die SFUP zahlt Steuern, weil sie nicht gemeinnützig ist. Die liquiden Mittel betrugen gut 3,1 Millionen Euro. Wofür die Rücklagen gedacht sind, steht nicht in den öffentlichen Unterlagen.",
+       "Unsere Rechnung: Der Gesamtaufwand vor Steuern liegt bei rund 3,2 Millionen Euro. Davon macht die Interessenvertretung laut Register etwa 2,3 Millionen aus. Rund eine Million Euro entfällt demnach auf Veranstaltungen, Verwaltung und Kommunikation. Eine Aufschlüsselung wird nicht veröffentlicht.",
+       "Nach Greenpeace-Angaben gab die SFUP in den Jahren 2022 bis 2024 laut Lobbyregister zusammen über 6,2 Millionen Euro in Deutschland aus, dazu über 1 Million Euro in der EU."
+      ]
+     },
+     {
+      "h": "Wer zahlt? Das Geheimnis um die Förderer",
+      "t": [
+       "Die Stiftung selbst spricht von rund 600 Förderern. Eine Liste veröffentlicht sie nicht. Geschäftsführer Deißner sagte Panorama, das dürfe man nicht, auch aus Datenschutzgründen. Formale Mitglieder gibt es nicht.",
+       "Panorama (ARD, 25.9.2025) identifizierte nach eigener Recherche 123 Firmen, die die Stiftung fördern oder bei denen es gravierende Hinweise darauf gibt. Nur zwei davon sind Unternehmen mit weniger als 50 Millionen Euro Jahresumsatz. Rossmann, Deichmann, die Würth-Gruppe, die Schwarz-Gruppe (Lidl, Kaufland) und Bertelsmann haben ihre Förderung bestätigt oder eingeräumt.",
+       "Greenpeace (September 2025) ordnet dem Netzwerk von SFU und SFUP 258 Unternehmen mit ihren Familien zu, mindestens 82 davon Milliardärsfamilien. Wichtig: Diese Zuordnung läuft über neun Kriterien wie Förderung, Kuratoriumsmitgliedschaft, Veranstaltungen oder Medienbeiträge. Eine Nennung heißt nicht, dass die Firma zahlt. Die Autoren betonen selbst, dass die Liste nicht repräsentativ ist.",
+       "Nach Greenpeace-Recherchen beträgt der Mindestbeitrag 13.000 Euro im Jahr, die SFUP finanziere sich über Dienstleistungsverträge mit Unternehmen. Das stützt sich auf interne Unterlagen und Gespräche mit Insidern. Wir konnten es nicht am Original prüfen."
+      ]
+     },
+     {
+      "h": "Die Transparenzlücke",
+      "t": [
+       "Unsere Einordnung: Wenn die Zahlungen in der Bilanz als Umsatzerlöse stehen, also als Entgelt für Leistungen, und nicht als Spenden oder Mitgliedsbeiträge, dann bleibt die Liste der Zahler legal verborgen. Das Lobbyregister verlangt die Nennung großer Geldgeber vor allem bei Zuwendungen und Beiträgen. Das ist die Deutung der Konstruktion. Ob sie bewusst gewählt ist, wissen wir nicht.",
+       "Offen ist auch: Das Register sagt, die Interessenvertretung erfolge „ausschließlich im eigenen Interesse“ und nicht im Auftrag Dritter. Nach Greenpeace-Angaben haben die Verträge aber die Positionierung der Interessen der zahlenden Firmen zum Gegenstand. Ob das rechtlich ein Widerspruch ist, kann ein Jurist klären. Wir stellen das nicht fest. Offen ist ebenfalls, wie die Zahlungen beim Zahler steuerlich behandelt werden."
+      ]
+     },
+     {
+      "h": "Zugang und Einfluss",
+      "t": [
+       "Die SFUP lud am 11.6.2026 zum „Tag des Familienunternehmens“ nach Berlin, Bundeskanzler Friedrich Merz hielt die Rede (Bundesregierung). Zugang ist kein Beleg für Einfluss, zeigt aber, dass Spitzenpolitik die Stiftung ernst nimmt.",
+       "Im Lobbyregister stehen für die SFUP 54 Regelungsvorhaben und 22 Stellungnahmen an Bundestag und Ministerien zwischen April 2024 und August 2026. Zentrales Thema ist die Erbschaftsteuer: Betriebsvermögen soll weiterhin ausgenommen bleiben, genannt werden auch Optionen bis zur Abschaffung. Das Register nennt auch Seitenwechsel: Eine betraute Person war bis 2021 Referent einer Bundestagsfraktion, eine bis 2024 wissenschaftliche Mitarbeiterin eines Abgeordneten. Beides ist zulässig und offengelegt.",
+       "Wirkung: Bei der Erbschaftsteuerreform 2016 lobte die Bundeskanzlerin laut LobbyControl die Arbeit der Stiftung öffentlich. Kritiker sehen darin einen Erfolg der Lobby. Ob und wie stark die Stiftung die Gesetzgebung bestimmt hat, ist nicht beweisbar, denn auch andere Verbände, Parteien und das Bundesverfassungsgericht wirkten mit. Wie viel Einfluss genau, lässt sich mit öffentlichen Daten nicht bestimmen. Sauber prüfen ließe es sich durch den Vergleich von Gesetzentwurf und Stellungnahme."
+      ]
+     },
+     {
+      "h": "Parteispenden aus dem Umfeld",
+      "t": [
+       "Greenpeace zählt für 2021 bis 2025 mindestens 4,5 Millionen Euro Parteispenden aus dem Netzwerk, davon rund 3,3 Millionen an CDU und CSU, 854.000 Euro an die FDP, 289.000 Euro an die Grünen und 50.000 Euro an die SPD.",
+       "Wichtig: Das sind Spenden von Familien und Unternehmen aus dem Umfeld, nicht der Stiftung selbst. Die Zuordnung hängt an der Methode von Greenpeace. Ein Zusammenhang mit Gesetzen ist eine Korrelation, kein Beleg dafür, dass Entscheidungen gekauft wurden."
+      ]
+     },
+     {
+      "h": "Die andere Seite",
+      "t": [
+       "Die Stiftung weist zurück, ihre Arbeit richte sich an „Superreiche“. Sie arbeite für Familienunternehmen und nenne rund 600 Förderer, darunter mittlere Unternehmen. Sie wirft Greenpeace eine eigene politische Agenda vor. Sie bestreitet nach Tagesschau-Angaben nicht, dass Milliardäre unter den Förderern sind.",
+       "Lobbyismus ist legal und Teil der Demokratie. Die SFUP ist registriert, legt Ausgaben und Stellungnahmen offen und führt eine Bilanz. Familienunternehmen sind laut Einleitungstext der Bundesregierung rund 90 Prozent der deutschen Unternehmen und erzielen etwa 37 Prozent der Umsätze. Das hängt allerdings an der Definition. Greenpeace und andere Kritiker sind selbst Interessenorganisationen mit eigenen Zielen."
+      ]
+     },
+     {
+      "h": "Was nicht belegt ist",
+      "t": [
+       "Nicht belegt sind Rechtsbruch, Bestechung, Geldflüsse an Politiker oder Absprachen. Nichts davon behaupten wir.",
+       "Offen sind: die Förderer und die Beträge je Firma, die Zahlungen zwischen SFU und SFUP, der Anhang zur Bilanz, die Satzung der SFUP und die aktuelle Kuratoriumsliste. Diese Unterlagen wollen wir bei Stiftungsaufsicht und Stiftung nachfordern und das Dossier dann ergänzen."
+      ]
+     },
+     {
+      "h": "Unsere Einordnung",
+      "t": [
+       "Ist das organisierter Einfluss auf Regierende? Im Wortsinn ja: ein professionell finanzierter Apparat mit rund 3,8 Millionen Euro Umsatz und direktem Zugang zur Spitze. Das ist legal. Der Kern der Kritik ist nicht, dass lobbyiert wird, sondern wer bezahlt, unter welchem Etikett und mit welchem Gefälle zu Gruppen ohne ein solches Budget. Dazu gehört die Frage, ob „Familienunternehmen“ nach Bäckerei klingt, wenn gefördert werden vor allem Konzerne."
+      ]
+     }
+    ],
+    "quellen": [
+     {
+      "titel": "Lobbyregister des Bundestages: Stiftung Familienunternehmen und Politik (R000083)",
+      "url": "https://www.lobbyregister.bundestag.de/suche/R000083/87356"
+     },
+     {
+      "titel": "Tagesschau/Panorama: Stiftung Familienunternehmen, Lobby für Superreiche (25.9.2025)",
+      "url": "https://www.tagesschau.de/investigativ/panorama/stiftung-familienunternehmen-lobbyismus-bertelsmann-schwarz-wuerth-100.html"
+     },
+     {
+      "titel": "Greenpeace: Der Club der Superreichen, Recherche zur Stiftung Familienunternehmen (September 2025)",
+      "url": "https://www.greenpeace.de/publikationen/sfu-recherche"
+     },
+     {
+      "titel": "Bundesregierung: Rede des Kanzlers beim Tag der Familienunternehmen (11.6.2026)",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/rede-kanzler-tag-der-familienunternehmen-2026-2439682"
+     },
+     {
+      "titel": "LobbyControl zur Erbschaftsteuerreform 2016",
+      "url": "https://www.lobbycontrol.de/wp-content/uploads/160921_PM_Erbschaftssteuer.pdf"
+     },
+     {
+      "titel": "Stiftung Familienunternehmen: Reaktion auf die Greenpeace-Recherche",
+      "url": "https://www.familienunternehmen.de/de/news/enthuellt-was-offen-da-liegt"
+     }
+    ],
+    "stand": "17.10.2026",
+    "bild": {
+     "src": "dossier-stiftung.jpg",
+     "w": 1280,
+     "h": 854,
+     "alt": "KI-generierte Karikatur: ein verschlossenes Gebäude mit der Aufschrift Stiftung Familienunternehmen, Überwachungskameras, Stacheldraht und Verbotsschildern, davor ein Pförtner mit Klemmbrett und ein kleiner Junge",
+     "unter": "Karikatur, KI-generiert, kein Foto."
+    },
+    "karussell": {
+     "thema": "Stiftung Familienunternehmen: Wer bezahlt den Einfluss?",
+     "slides": [
+      {
+       "typ": "hook",
+       "kicker": "Dossier · Lobby",
+       "titel": "Wer bezahlt den Einfluss der Familienunternehmer?",
+       "rot": "bezahlt",
+       "bild": {
+        "url": "dossier-stiftung.jpg",
+        "fokus": 0.5,
+        "unter": "Karikatur, KI-generiert, kein Foto"
+       }
+      },
+      {
+       "typ": "zahl",
+       "label": "Der Apparat",
+       "zahl": "3,8",
+       "text": "Millionen Euro Umsatz meldet die Stiftung Familienunternehmen und Politik für 2025. Rund 2,3 Millionen davon flossen laut Lobbyregister in Interessenvertretung, mit 6,3 Vollzeitstellen.",
+       "quelle": "Lobbyregister R000083, Bilanz 2025"
+      },
+      {
+       "typ": "fakten",
+       "label": "Die Konstruktion",
+       "titel": "Zwei Stiftungen, ein Team",
+       "text": "Die gemeinnützige Stiftung Familienunternehmen und die nicht gemeinnützige Stiftung Familienunternehmen und Politik haben laut Recherchen dasselbe Führungspersonal. Rechtlich zulässig, politisch ein Gestaltungsmerkmal.",
+       "quelle": "Lobbyregister; Greenpeace, 2025"
+      },
+      {
+       "typ": "zahl",
+       "label": "Die Förderer",
+       "zahl": "121",
+       "text": "von 123 Firmen, die Panorama als Förderer identifizierte, sind Großunternehmen mit über 50 Millionen Euro Umsatz. Eine Liste der rund 600 Förderer veröffentlicht die Stiftung nicht.",
+       "quelle": "Panorama/NDR, 25.9.2025"
+      },
+      {
+       "typ": "vergleich",
+       "labelA": "Das Etikett",
+       "behauptung": "„Familienunternehmen“ stehen laut Bundesregierung für rund 90 Prozent der Unternehmen in Deutschland.",
+       "labelB": "Die Förderer",
+       "fakt": "Unter den 123 identifizierten Förderern sind nur 2 kleine und mittlere Unternehmen.",
+       "quelle": "Bundesregierung, 11.6.2026; Panorama/NDR, 25.9.2025"
+      },
+      {
+       "typ": "fakten",
+       "label": "Transparenz",
+       "titel": "Entgelt statt Spende",
+       "text": "Laut Bilanz stehen die Einnahmen als Umsatzerlöse. Ob das die Nennung der Geldgeber im Lobbyregister umgeht, ist unsere Deutung der Konstruktion, kein Rechtsvorwurf.",
+       "quelle": "Lobbyregister, Bilanz 2025"
+      },
+      {
+       "typ": "einordnung",
+       "label": "Die andere Seite",
+       "titel": "Legal und offengelegt",
+       "text": "Die Stiftung sagt: Sie arbeite für Familienunternehmen, nicht für Superreiche, und sei im Lobbyregister eingetragen. Lobbyismus ist legal. Nicht belegt sind Rechtsbruch oder Geldflüsse an Politiker.",
+       "quelle": "Stiftung Familienunternehmen; Tagesschau"
+      },
+      {
+       "typ": "meinung",
+       "text": "Uns geht es um die Sache, nicht um Personen. Lobbyarbeit ist legal. Entscheidend ist, dass die Öffentlichkeit weiß, wer sie bezahlt.",
+       "handlung": "Das ganze Dossier mit allen Quellen: doytschtv.de/dossiers"
+      },
+      {
+       "typ": "cta",
+       "frage": "Sollten Geldgeber von Lobbyarbeit offengelegt werden müssen?"
+      }
+     ],
+     "caption": "Die Stiftung Familienunternehmen und Politik meldet für 2025 rund 3,8 Millionen Euro Umsatz und gab laut Lobbyregister rund 2,3 Millionen Euro für Interessenvertretung aus. Wer zahlt, bleibt geheim: Panorama identifizierte 123 Förderer, 121 davon Großunternehmen, eine Liste gibt es nicht. Lobbyismus ist legal, und die Stiftung weist zurück, für Superreiche zu arbeiten. Nicht belegt sind Rechtsbruch oder Geldflüsse an Politiker. Uns geht es um Transparenz, nicht um Personen. Das ganze Dossier mit allen Quellen auf doytschtv.de, Link in der Bio. Sollten Geldgeber von Lobbyarbeit offengelegt werden müssen?",
+     "hashtags": "#doytschlandtv #dossier #lobbyismus #familienunternehmen #lobbyregister #transparenz #erbschaftsteuer #politik #einordnung"
+    }
+   }
+  ],
+  "motiv": "paragraph"
  }
 ];
