@@ -42,11 +42,12 @@
       a.appendChild(left);
 
       var mid = el("div", "b-day-m");
-      var themen = d.morgen && d.morgen.themen ? d.morgen.themen.join(" · ") : "";
+      var themen = d.morgen && d.morgen.themen ? d.morgen.themen.join(" · ") : (d.abend && d.abend.themen ? d.abend.themen.join(" · ") : "");
+      var past = d.datum < todayIso();
       if (themen) mid.appendChild(el("p", "b-day-t", themen));
       var badges = el("div", "b-badges");
-      badges.appendChild(el("span", "b-badge" + (d.morgen ? " on" : ""), d.morgen ? "Morning Briefing" + (d.morgen.dauer ? " · " + d.morgen.dauer : "") : "Morning Briefing folgt"));
-      badges.appendChild(el("span", "b-badge" + (d.abend ? " on" : ""), d.abend ? "Tagesrückblick" + (d.abend.dauer ? " · " + d.abend.dauer : "") : "Tagesrückblick folgt um 19:00 Uhr"));
+      if (d.morgen || !past) badges.appendChild(el("span", "b-badge" + (d.morgen ? " on" : ""), d.morgen ? "Morning Briefing" + (d.morgen.dauer ? " · " + d.morgen.dauer : "") : "Morning Briefing folgt"));
+      if (d.abend || !past) badges.appendChild(el("span", "b-badge" + (d.abend ? " on" : ""), d.abend ? "Tagesrückblick" + (d.abend.dauer ? " · " + d.abend.dauer : "") : "Tagesrückblick folgt um 19:00 Uhr"));
       if (d.storys && d.storys.length) badges.appendChild(el("span", "b-badge on", "Storys · " + d.storys.length));
       if (d.karussells && d.karussells.length) badges.appendChild(el("span", "b-badge on", "Karussells · " + d.karussells.length));
       mid.appendChild(badges);
@@ -73,6 +74,12 @@
 
   function edition(ed, label, key, day) {
     var box = el("div", "b-ed");
+    if (!ed && day && day.datum < todayIso()) {
+      box.appendChild(el("p", "b-empty", key === "abend"
+        ? "Für diesen Tag gibt es keinen Tagesrückblick."
+        : "Für diesen Tag gibt es kein Morning Briefing."));
+      return box;
+    }
     if (!ed) {
       box.appendChild(el("p", "b-empty", key === "abend"
         ? "Der Tagesrückblick erscheint täglich um 19:00 Uhr."

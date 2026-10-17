@@ -2,7 +2,94 @@ window.BRIEFINGS = [
  {
   "datum": "2026-10-16",
   "morgen": null,
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Notfallreform beschlossen: Ersteinschätzung über 112 und 116117, Zuzahlung steigt auf 15 Euro",
+    "Zuckersteuer im Kabinett, Plastiksteuer auf Eis: Wie stabil ist die Koalition?"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Freitag, der sechzehnte Oktober. Das waren unsere Themen des Tages, kurz zusammengefasst.",
+    "Erstens: Notfallreform beschlossen: Ersteinschätzung über 112 und 116117, Zuzahlung steigt auf 15 Euro.",
+    "Der Bundestag hat die Reform der Notfallversorgung beschlossen, im dritten Anlauf seit 2019. Künftig sollen die 112 und die 116117 digital verzahnt werden, und Patienten erhalten eine Ersteinschätzung, wohin sie gehören: Arztpraxis, Notdienstpraxis oder Notaufnahme. Dafür sollen an Kliniken integrierte Notfallzentren entstehen. Die Notfallrettung wird als Leistung der Krankenkassen verankert. Die Zuzahlung bei der Notfallrettung steigt von höchstens 10 auf 15 Euro. Das Gesetz soll 2027 in Kraft treten, der Bundesrat berät voraussichtlich am 20. November. Kritik kommt unter anderem von der Kassenärztlichen Bundesvereinigung und der Björn Steiger Stiftung.",
+    "Zweitens: Zuckersteuer im Kabinett, Plastiksteuer auf Eis: Wie stabil ist die Koalition.",
+    "Das Kabinett hat die Zuckersteuer auf den Weg gebracht: 26 Cent pro Liter bei mindestens 5 Gramm Zucker je 100 Milliliter, 32 Cent ab 8 Gramm, geplant ab dem 1. Juli 2027. Der Bund rechnet mit 690 Millionen Euro im ersten Jahr. Ausgenommen sind unter anderem gesüßte Getränke mit Süßungsmitteln, reine Säfte, alkoholfreies Bier und kleine Hersteller. Die Plastiksteuer hat die Regierung nach Widerstand aus der Union vorerst auf Eis gelegt. Dazu kommt der Rücktritt von Arbeitsministerin Bärbel Bas am Montag. Union und SPD haben nur zwölf Stimmen Mehrheit.",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Ärzteblatt"
+    },
+    {
+     "titel": "Zeit"
+    },
+    {
+     "titel": "Tagesschau, 15.10.2026"
+    },
+    {
+     "titel": "Tagesschau"
+    },
+    {
+     "titel": "Bundestag"
+    },
+    {
+     "titel": "Ärzteblatt, 15.10.2026"
+    },
+    {
+     "titel": "Ärzteblatt, 13.10.2026"
+    },
+    {
+     "titel": "Björn Steiger Stiftung"
+    },
+    {
+     "titel": "kommunal.de"
+    },
+    {
+     "titel": "Zeit, 15.10.2026"
+    },
+    {
+     "titel": "KBV"
+    },
+    {
+     "titel": "Björn Steiger Stiftung, 15.10.2026"
+    },
+    {
+     "titel": "WDR"
+    },
+    {
+     "titel": "Ärzteblatt, 2026"
+    },
+    {
+     "titel": "t-online"
+    },
+    {
+     "titel": "Handelsblatt, 14. bis 16.10.2026"
+    },
+    {
+     "titel": "BR, 16.10.2026"
+    },
+    {
+     "titel": "Handelsblatt"
+    },
+    {
+     "titel": "t-online, 15.10.2026"
+    },
+    {
+     "titel": "Handelsblatt, 2026"
+    },
+    {
+     "titel": "DW, 12. bis 16.10.2026"
+    },
+    {
+     "titel": "Handelsblatt, 15.10.2026"
+    },
+    {
+     "titel": "Tagesschau, 15./16.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
@@ -246,7 +333,76 @@ window.BRIEFINGS = [
  {
   "datum": "2026-10-15",
   "morgen": null,
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Kinderehen: Wen betrifft es wirklich? Faktencheck zu acht aufgehobenen Ehen in Baden-Württemberg",
+    "Alkoholverbot an Bahnhöfen: Was jetzt gilt",
+    "Mieten: Angebotsmieten steigen wieder stärker, plus 1,2 Prozent im Quartal",
+    "Kita-Studie: 23 Prozent der Leitungen sehen Stellen unter nötigem Niveau"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Donnerstag, der fünfzehnte Oktober. Das waren unsere Themen des Tages, kurz zusammengefasst.",
+    "Erstens: Kinderehen: Wen betrifft es wirklich? Faktencheck zu acht aufgehobenen Ehen in Baden-Württemberg.",
+    "In Baden-Württemberg wurden von 2018 bis 2024 acht Ehen mit Minderjährigen aufgehoben, die Beteiligten kamen aus neun Ländern, darunter Deutschland. Bundesweit führt die Ukraine die Liste der in Kinderehen erfassten 16- und 17-Jährigen an. Kinderschutz ist größer als Zwangsehen: 18.085 Kinder waren 2024 Opfer sexuellen Missbrauchs, die meisten Taten geschehen im Umfeld der Kinder. Unsere Meinung ist gekennzeichnet: Kinderschutz gilt überall, und niemand darf wegen seiner Religion unter Verdacht gestellt werden. Quellen auf unserer Website, Link in der Bio.",
+    "Zweitens: Alkoholverbot an Bahnhöfen: Was jetzt gilt.",
+    "Die Bahn verbietet den Konsum von Alkohol an ihren Bahnhöfen, spätestens ab dem 15. Oktober an allen rund 5.400. Grundlage ist das Hausrecht. Verboten ist das Trinken im Bahnhofsbereich, erlaubt bleibt es, Verschlossenes mitzuführen und im Bahnhof zu kaufen. Restaurants, Cafés und Bars im Bahnhof sind ausgenommen, in den Zügen gilt das Verbot bisher nicht. Bei einem ersten Verstoß droht ein Platzverweis, bei Wiederholung ein Hausverbot. Die Bahn erwartet weniger Gewalt und weniger Müll, die Gewerkschaft der Polizei bezweifelt, dass genug Personal für Kontrollen da ist.",
+    "Drittens: Mieten: Angebotsmieten steigen wieder stärker, plus 1,2 Prozent im Quartal.",
+    "Die Angebotsmieten in deutschen Städten sind im dritten Quartal um 1,2 Prozent gestiegen, so stark wie seit Anfang 2025 nicht. Das zeigt der Mietpreisindex GREIX des Kiel Instituts für Weltwirtschaft. Im Jahresvergleich sind es 3,7 Prozent, nach Abzug der Inflation 0,7 Prozent. Am stärksten zogen im Quartal Berlin (plus 2,1 Prozent) und Düsseldorf (plus 2,0 Prozent) an, im Jahresvergleich Hamburg mit 6,7 Prozent. Gemeint sind Preise in Inseraten, also neue Mietverträge, nicht laufende. Gleichzeitig wurden 2025 nur 206.600 Wohnungen fertiggestellt, 18 Prozent weniger als im Vorjahr.",
+    "Viertens: Kita-Studie: 23 Prozent der Leitungen sehen Stellen unter nötigem Niveau.",
+    "Die Bertelsmann Stiftung hat Kita-Leitungen zur Personalauswahl befragt. 23 Prozent sagen, dass Stellen unter dem Qualifikationsniveau ausgeschrieben wurden, das die Kita braucht. Bei Einstellungen gehen Kitas laut Befragung vor allem beim Fachwissen (56 Prozent) und bei der Reflexionsfähigkeit (40 Prozent) Kompromisse ein, um Teams zu entlasten (81 Prozent) und das Angebot zu sichern (76 Prozent). Wichtig: Die Teilnahme war freiwillig, es antworteten 4.782 Leitungen, rund 7,8 Prozent der etwa 61.000 Kitas. Die Stichprobe ist nicht repräsentativ.",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "dpa, berichtet von echo24 und Wochenblatt-Reporter"
+    },
+    {
+     "titel": "Bundesregierung, Bundestags-Drucksache 21/1058"
+    },
+    {
+     "titel": "BMI/BKA Bundeslagebild 2024, UBSKM, ZDFheute"
+    },
+    {
+     "titel": "Bundesregierung (Drs. 21/1058), AfD-Antrag (Drs. 21/6926), MHG- und ForuM-Studie"
+    },
+    {
+     "titel": "touristik aktuell (Bahn-Mitteilung), 21.7.2026"
+    },
+    {
+     "titel": "Wochenblatt"
+    },
+    {
+     "titel": "GIGA"
+    },
+    {
+     "titel": "web.de"
+    },
+    {
+     "titel": "touristik aktuell"
+    },
+    {
+     "titel": "Kiel Institut (GREIX) via dpa-AFX, 15.10.2026"
+    },
+    {
+     "titel": "Kiel Institut (GREIX) via dpa-AFX und evangelisch.de, 15.10.2026"
+    },
+    {
+     "titel": "Kiel Institut (GREIX) via dpa-AFX"
+    },
+    {
+     "titel": "eigene Rechnung (60 × 23,70)"
+    },
+    {
+     "titel": "dpa-AFX, 15.10.2026"
+    },
+    {
+     "titel": "Bertelsmann Stiftung, 15.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
@@ -663,7 +819,58 @@ window.BRIEFINGS = [
  {
   "datum": "2026-10-14",
   "morgen": null,
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Polizei stoppt Wagen eines Hochzeitskorsos mit gezogenen Waffen: Was in Dortmund passiert ist",
+    "Zuckersteuer: Kabinett billigt bis zu 32 Cent je Liter",
+    "Nord-Stream-Prozess: Was in Hamburg beginnt"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Mittwoch, der vierzehnte Oktober. Das waren unsere Themen des Tages, kurz zusammengefasst.",
+    "Erstens: Polizei stoppt Wagen eines Hochzeitskorsos mit gezogenen Waffen: Was in Dortmund passiert ist.",
+    "Am Freitag, 2. Oktober, stoppte die Polizei am Dortmunder Ostwall einen Wagen eines Hochzeitskorsos, nachdem ein Zeuge Schüsse aus dem Auto gemeldet hatte. Die Beamten gingen mit gezogenen Dienstwaffen vor, weil sie nicht wussten, ob die Waffe echt oder eine Schreckschusswaffe war. Gefunden wurde eine Schreckschusswaffe, gegen einen 21-Jährigen läuft ein Ermittlungsverfahren. Niemand wurde verletzt oder festgenommen, die übrigen Fahrzeuge wurden ohne Beanstandung kontrolliert. Unsere Meinung ist gekennzeichnet: Ein Korso sollte andere nicht behindern, Schüsse gehören nicht zur Freude, und ein Einzelfall rechtfertigt keine Pauschalisierung. Quellen auf unserer Website, Link in der Bio.",
+    "Zweitens: Zuckersteuer: Kabinett billigt bis zu 32 Cent je Liter.",
+    "Das Kabinett hat die Zuckersteuer auf den Weg gebracht. Sie soll am 1. Juli 2027 starten: 26 Cent je Liter bei 5 bis unter 8 Gramm Zucker je 100 ml, 32 Cent ab 8 Gramm. Reine Fruchtsäfte sind ausgenommen, kleine Hersteller bis eine Million Liter im Jahr sollen befreit werden. Der Bund rechnet mit 820 Millionen Euro im Jahr, das Geld soll eine Kürzung beim Gesundheitsfonds verringern. Ein Gesetz ist es noch nicht, und Union und SPD streiten weiter über die Details. Bei 32 Cent je Liter wäre eine 0,5-Liter-Flasche 16 Cent teurer, wenn die Steuer voll im Preis ankommt.",
+    "Drittens: Nord-Stream-Prozess: Was in Hamburg beginnt.",
+    "Vor dem Hanseatischen Oberlandesgericht in Hamburg beginnt der erste Prozess zu den Nord-Stream-Anschlägen. Angeklagt ist der Ukrainer Serhij K. Das Gericht sieht hinreichenden Tatverdacht für Kriegsverbrechen durch den Einsatz verbotener Methoden der Kriegsführung gegen zivile Objekte, außerdem für das Herbeiführen einer Sprengstoffexplosion, Zerstörung von Bauwerken und Störung öffentlicher Betriebe. 16 Termine sind bis zum 17. Dezember angesetzt. Es gibt kein Urteil, bis dahin gilt die Unschuldsvermutung.",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Ruhr Nachrichten, 3. und 5.10.2026"
+    },
+    {
+     "titel": "Ruhr Nachrichten, 5.10.2026"
+    },
+    {
+     "titel": "Polizei Münster, Stadt Wiesbaden (Kleiner Waffenschein)"
+    },
+    {
+     "titel": "ZDFheute (dpa, AFP), 14.10.2026"
+    },
+    {
+     "titel": "ZDFheute, 14.10.2026"
+    },
+    {
+     "titel": "Deutsches Ärzteblatt, 30.9.2026"
+    },
+    {
+     "titel": "eigene Rechnung nach ZDFheute, 14.10.2026"
+    },
+    {
+     "titel": "beck-aktuell, 3.9.2026"
+    },
+    {
+     "titel": "news.de, 14.10.2026"
+    },
+    {
+     "titel": "Berliner Zeitung, Angaben der Ermittler"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
@@ -958,8 +1165,178 @@ window.BRIEFINGS = [
  },
  {
   "datum": "2026-10-13",
-  "morgen": null,
-  "abend": null,
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "81 Euro im Jahr: Was die Stromsteuer-Senkung für alle bringt",
+    "6 Billionen? Was beim Klimaziel wirklich on top kommt",
+    "65.000 ohne Abschluss: Was ein Sprachtest mit vier ändert",
+    "13, 15 oder gar keine Grenze? Das ist offen"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv, Dienstag, der dreizehnte Oktober. Vier Themen, fünf Minuten, damit du informiert in den Tag startest.",
+    "Erstens: 81 Euro im Jahr: Was die Stromsteuer-Senkung für alle bringt.",
+    "Kanzler Merz hat gestern nach der Klausur der CDU-Spitze angekündigt, die Stromsteuer für alle auf das europäische Mindestmaß zu senken. Laut ms-aktuell liegt der Satz bei 2,05 Cent je Kilowattstunde, der EU-Mindestsatz bei 0,10 Cent. Das wären 1,95 Cent weniger, mit Mehrwertsteuer rund 2,32 Cent. Bei 3.500 Kilowattstunden im Jahr sind das gut 81 Euro, wenn dein Anbieter voll weitergibt. Die Kosten wurden 2025 auf etwa 5,4 Milliarden Euro im Jahr geschätzt, eine ältere Zahl. Bezahlen will Merz laut ZDFheute aus Haushaltsspielräumen, wenn das Wachstum trägt. Seine Faustformel: Ein Prozentpunkt Wachstum bringt etwa 10 Milliarden Euro Steuern, davon 5 für den Bund. Geprüft haben wir sie nicht. Zeitpunkt, Gesetzentwurf und Einigung mit der SPD wurden bisher nicht gemeldet. Heute folgen die endgültigen Inflationszahlen für September. Vorläufig waren es 3,3 Prozent, Energie plus 14,9 Prozent.",
+    "Unsere Meinung: Entlastung bei den Energiekosten trifft fast jeden Haushalt, das ist gut. Ein Versprechen ohne Zeitplan und gesicherte Finanzierung ist aber noch keine Entlastung. Die Koalition sollte offen sagen, was zuerst kommt und wann.",
+    "Zweitens: 6 Billionen? Was beim Klimaziel wirklich on top kommt.",
+    "Prognos rechnet im Auftrag der staatlichen Förderbank KfW mit rund 6 Billionen Euro Investitionen bis 2045 für ein klimaneutrales Deutschland. Das sind im Schnitt etwa 290 Milliarden Euro im Jahr. Das ist ein Bruttowert, keine Rechnung, die obendrauf kommt. Gegenüber einer fossilen Referenz sind es laut KfW etwa 65 Milliarden Euro Mehrinvestition im Jahr, unter 2 Prozent der Wirtschaftsleistung. Andere Berichte nennen für diesen Mehrbedarf 145 Milliarden. Warum, konnten wir nicht klären. Der Staat trägt laut KfW rund 33 Milliarden im Jahr, knapp 12 Prozent. Bisher flossen 110 Milliarden im Jahr, die Lücke beträgt rund 180 Milliarden. Wir lasen die KfW-Mitteilung, nicht die Studie.",
+    "Unsere Meinung: Die Schlagzeile, das koste sechs Billionen, verkürzt. Entscheidend ist, wie viel davon zusätzlich ist und wer es trägt. Wir fordern ehrliche Zahlen. Und wenn Haushalte und Betriebe den größten Teil stemmen sollen, darf das Menschen mit kleinen Einkommen nicht überfordern.",
+    "Drittens: 65.000 ohne Abschluss: Was ein Sprachtest mit vier ändert.",
+    "Knapp 65.000 junge Menschen haben im Schuljahr 2024/25 die allgemeinbildenden Schulen ohne ersten Abschluss verlassen. Laut Statistischem Bundesamt sind das 8,4 Prozent, der höchste Wert seit über 20 Jahren. Der Bildungsforscher Kai Maaz mahnt: Ein erheblicher Teil kommt von Förderschulen, einige haben ihren Bildungsgang durchlaufen, aber keinen allgemeinen Abschluss bekommen. Als Ursache nennen Ministerium und Lehrerverband auch Sprachprobleme, Maaz soziale Benachteiligung. Das vom Kabinett gebilligte Kita-Gesetz sieht Sprach- und Entwicklungstests für alle Vierjährigen vor, auch ohne Kita-Besuch. Kitas mit vielen Kindern in schwierigen Lagen können bis zu 1,5 Stellen mehr bekommen. Kriterien sind laut ZDFheute finanzielle Bedürftigkeit, eine Familiensprache, die nicht Deutsch ist, oder auffällige Sprachentwicklung. Der Bund gibt bis 2034 insgesamt 9,25 Milliarden Euro, Start schrittweise ab 2027. Zur Staatsangehörigkeit fanden wir keine Aufschlüsselung.",
+    "Unsere Meinung: Früh zu fördern hilft Kindern, wenn aus dem Test ein Angebot wird und kein Stempel. Familien dürfen sich nicht beobachtet fühlen. Eine andere Familiensprache ist kein Mangel, und Deutsch lernen schließt sie nicht aus.",
+    "Viertens: 13, 15 oder gar keine Grenze? Das ist offen.",
+    "Griechenland will ab dem 1. Januar 2027 Kindern unter 15 den Zugang zu sozialen Medien sperren. Durchsetzen will es Athen über den europäischen Digital Services Act. Eine griechische Schülerumfrage ist Selbstauskunft und kein Ursachenbeleg. In Deutschland hat eine Expertenkommission am 24. Juni zwei Alternativen vorgelegt: ein Mindestalter von 13 mit Altersprüfung oder keine einheitliche Grenze, sondern Beschränkungen je Funktion, etwa bei algorithmischen Feeds. Ministerin Prien bevorzugt laut netzpolitik.org die 13. Die EU-Kommission hat im September den EU Kids Act vorgelegt: Verbot unter 13, eigene Konten ab 15. Parlament und Staaten beraten noch. Belegte Wirkungen auf das Wohlbefinden fanden wir nicht.",
+    "Unsere Meinung: Kinder brauchen Schutz vor Sog und Druck im Netz. Eine Altersprüfung darf aber nicht dazu führen, dass alle ihre Daten preisgeben müssen. Nationale Alleingänge helfen wenig. Wir wünschen uns klare Regeln, die Eltern und Schulen nicht allein lassen.",
+    "Das war dein Morning Briefing. Um 19 Uhr folgt unser Tagesrückblick. Alle Quellen findest du auf unserer Website. Einen guten Tag wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute: Stromsteuer-Absenkung, Merz und CDU",
+     "url": "https://www.zdfheute.de/politik/deutschland/stromsteuer-absenkung-minimum-merz-cdu-100.html"
+    },
+    {
+     "titel": "Stuttgarter Zeitung: Merz bestätigt Stromsteuer-Senkung für alle",
+     "url": "https://www.stuttgarter-zeitung.de/wirtschaft/merz-bestaetigt-stromsteuer-soll-fuer-alle-sinken-79560988.html"
+    },
+    {
+     "titel": "ms-aktuell: Stromsteuer-Senkung, Merz (12.10.)",
+     "url": "https://ms-aktuell.de/welt/stromsteuer-senkung-merz-12-10-2026/"
+    },
+    {
+     "titel": "Destatis: Inflationsrate September 2026 (vorläufig)",
+     "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_348_611.html"
+    },
+    {
+     "titel": "KfW-Mitteilung zur Klimastudie (via ad-hoc-news)",
+     "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ots-kfw-neue-kfw-studie-vier-wochen-vor-dem-start-der/70299517"
+    },
+    {
+     "titel": "Verkehrsrundschau: KfW-Studie, Klimaneutralität kostet sechs Billionen Euro",
+     "url": "https://www.verkehrsrundschau.de/nachrichten/recht-geld/kfw-studie-klimaneutralitaet-kostet-sechs-billionen-euro-3916023"
+    },
+    {
+     "titel": "onvista/dpa: 20-Jahres-Hoch bei Schulabgängern ohne Abschluss",
+     "url": "https://www.onvista.de/news/2026/10-09-roundup-20-jahres-hoch-bei-schulabgaengern-ohne-abschluss-0-10-26562365"
+    },
+    {
+     "titel": "ZDFheute: Neues Kita-Gesetz vom Kabinett gebilligt",
+     "url": "https://www.zdfheute.de/politik/deutschland/kita-kinder-gesetz-regierung-sprachtests-foerderung-100.html"
+    },
+    {
+     "titel": "Rhein-Zeitung/dpa: Griechenland, Social-Media-Verbot für U-15 kommt",
+     "url": "https://www.rhein-zeitung.de/deutschland-welt/panorama/griechenland-social-media-verbot-fuer-u-15-jaehrige-kommt_arid-4162041.html"
+    },
+    {
+     "titel": "netzpolitik.org: Empfehlungen der Expert*innen-Kommission",
+     "url": "https://netzpolitik.org/2026/jugendschutz-empfehlungen-expertinnen-kommission-schlaegt-alternativen-zum-social-media-verbot-vor/"
+    }
+   ]
+  },
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Stromsteuer für alle: Was 81 Euro im Jahr bringen",
+    "Verbrenner-Aus 2035: 90 statt 100 Prozent",
+    "Tankerangriffe bei Hormus: Ölpreis nahe 100 Dollar",
+    "65.000 ohne Abschluss: Was die Zahl heißt und was nicht",
+    "Azubis nennen deutlich häufiger Gewalt als Studierende",
+    "Alberta stimmt am 19. Oktober über seine Zukunft in Kanada ab",
+    "Neuer Arbeitsminister, alter Rentenstreit: Merz will Tempo"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Dienstag, der dreizehnte Oktober. Das waren unsere Themen des Tages, kurz zusammengefasst.",
+    "Erstens: Stromsteuer für alle: Was 81 Euro im Jahr bringen.",
+    "Kanzler Merz will die Stromsteuer für alle auf das EU-Mindestmaß senken. Beschlossen ist das nicht: Das CDU-Papier nennt es ein Ziel, ohne Zeitplan. Bei 3.500 kWh wären es rund 81 Euro im Jahr, etwa 6,75 Euro im Monat, wenn der Anbieter voll weitergibt. Das Finanzministerium bezifferte die Kosten 2025 auf rund 5,4 Milliarden Euro im Jahr. Unsere Meinung: Das spürt man nicht, das als Entlastung zu propagieren ist grotesk.",
+    "Zweitens: Verbrenner-Aus 2035: 90 statt 100 Prozent.",
+    "Die EU-Kommission will, dass neue Autos 2035 nur noch 90 statt 100 Prozent weniger CO2 ausstoßen als 2021. Die restlichen 10 Prozent sollen über kohlenstoffarmen Stahl und nachhaltige erneuerbare Kraftstoffe ausgeglichen werden können. Merz und Macron wollen laut FAZ und Handelsblatt noch weiter lockern, die Details sind offen. Unsere Meinung: Klima und Industrie gehören zusammen, gesichert wird beides durch Innovation und Wettbewerbsfähigkeit, nicht durch Gegenmaßnahmen, die Marktwirtschaft missachten.",
+    "Drittens: Tankerangriffe bei Hormus: Ölpreis nahe 100 Dollar.",
+    "Seit dem 2. Oktober meldet die britische Schifffahrtsstelle UKMTO mindestens einen Angriff pro Tag in der Straße von Hormus oder im Golf von Aden. Brent lag am 6. Oktober bei 99,57 Dollar, vor dem Krieg waren es etwa 72. Angriffe auf Handelsschiffe und Seeleute sind ein Völkerrechtsbruch. Unsere Meinung: Wir sehen nur den Preis bei uns, dahinter steckt die Frage, welche Rolle Deutschland in der Weltpolitik spielen muss.",
+    "Viertens: 65.000 ohne Abschluss: Was die Zahl heißt und was nicht.",
+    "Im Schuljahr 2024/25 verließen knapp 65.000 junge Menschen die Schule ohne ersten Abschluss, 8,4 Prozent, der höchste Wert seit rund 20 Jahren. Bildungsforscher warnen davor, alle als Abbrecher zu lesen. Das Kita-Gesetz sieht Sprach- und Entwicklungstests für alle Vierjährigen vor. Unsere Meinung: Sprache entwickelt sich im freien Raum, Menschen mit wenig Deutsch brauchen Räume zur Entfaltung, die Familiensprache ist eine Stärke.",
+    "Fünftens: Azubis nennen deutlich häufiger Gewalt als Studierende.",
+    "Laut einer Forsa-Umfrage im Auftrag der Unfallversicherung DGUV nennen Azubis häufiger Beschimpfungen (42 zu 23 Prozent), Mobbing (28 zu 12 Prozent) und Gewalt (14 zu 3 Prozent) als Studierende, erlebt oder beobachtet. Stichprobe und Methodik nennt die Meldung nicht. Unsere Meinung: Wer ausbildet, trägt Verantwortung für die Menschen. Die Betriebe stehen in der Pflicht.",
+    "Sechstens: Alberta stimmt am 19. Oktober über seine Zukunft in Kanada ab.",
+    "Am 19. Oktober stimmt die kanadische Provinz Alberta ab: Soll Alberta Provinz Kanadas bleiben, oder soll der rechtliche Prozess für ein bindendes Referendum über die Abspaltung beginnen? Die Abstimmung ist nicht bindend. In allen Umfragen führt „Bleiben“. Unsere Meinung: Wenn eine Region fragt, ob sie dazugehören will, geht es um Zusammenhalt, auch bei uns.",
+    "Siebtens: Neuer Arbeitsminister, alter Rentenstreit: Merz will Tempo.",
+    "Nach dem Rücktritt von Bärbel Bas, die nach einem Trauerfall in ihrer Familie aufhörte, ist Alexander Schweitzer (SPD) neuer Arbeitsminister. Kanzler Merz fordert von ihm Tempo bei der Rente: Kabinett noch 2026, Bundestag im ersten Quartal 2027. Umstritten ist der Vorschlag der Rentenkommission, die abschlagsfreie Frührente nach 45 Beitragsjahren abzuschaffen. Unsere Meinung: Das ist falsch, und eine Rentenreform braucht Gründlichkeit statt Tempo ab Tag eins.",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Tagesspiegel, Handelsblatt, ZDFheute, 12.10.2026"
+    },
+    {
+     "titel": "ms-aktuell, 12.10.2026"
+    },
+    {
+     "titel": "eigene Rechnung"
+    },
+    {
+     "titel": "Stuttgarter Zeitung, 3.7.2025"
+    },
+    {
+     "titel": "Tagesspiegel, 12.10.2026"
+    },
+    {
+     "titel": "Handelsblatt, Tagesspiegel, 12.10.2026"
+    },
+    {
+     "titel": "EU-Rat, Dok. 6639/26"
+    },
+    {
+     "titel": "ADAC, 17.12.2025"
+    },
+    {
+     "titel": "Akin Gump, Dez. 2025"
+    },
+    {
+     "titel": "electrive, 7.10.2026"
+    },
+    {
+     "titel": "ZDFheute, 12.10.2026"
+    },
+    {
+     "titel": "Al Jazeera, 6.10.2026"
+    },
+    {
+     "titel": "Destatis laut ZDFheute und news4teachers, 9.10.2026"
+    },
+    {
+     "titel": "ZDFheute, news4teachers, 9.10.2026"
+    },
+    {
+     "titel": "news4teachers, 9.10.2026"
+    },
+    {
+     "titel": "ZDFheute, Oktober 2026"
+    },
+    {
+     "titel": "dpa-AFX über onvista, 13.10.2026"
+    },
+    {
+     "titel": "Wikipedia-Übersicht"
+    },
+    {
+     "titel": "Angus Reid, Mai 2026"
+    },
+    {
+     "titel": "Wikipedia-Übersicht, 2026"
+    },
+    {
+     "titel": "dpa-AFX, 13.10.2026"
+    },
+    {
+     "titel": "dpa, 13.10.2026"
+    },
+    {
+     "titel": "infranken.de (nach Bild), 13.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
@@ -1627,6 +2004,112 @@ window.BRIEFINGS = [
     }
    }
   ]
+ },
+ {
+  "datum": "2026-10-12",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "2.000 Euro Gewinn, 5.275 Euro Abzug? Die Krypto-Steuerrechnung",
+    "Rente nach 45 Jahren: Wer sie nutzt und wer kaum",
+    "Zwei Ämter für ein Kind: Was der Entwurf für Familien ändert",
+    "Darf man Völkerrecht benennen? Die Rede, die Frankfurt beschäftigt"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv, Montag, der zwölfte Oktober. Vier Themen, fünf Minuten, damit du informiert in den Tag startest.",
+    "Erstens: 2.000 Euro Gewinn, 5.275 Euro Abzug? Die Krypto-Steuerrechnung.",
+    "Laut Referentenentwurf des Bundesfinanzministeriums soll die einjährige Haltefrist für Kryptowerte entfallen, die nach dem 31. Dezember 2026 gekauft werden. Altbestände behalten sie. Gewinne würden dann wie Kapitalerträge mit 25 Prozent plus Solidaritätszuschlag besteuert. Ab 2028 soll die Plattform die Steuer einbehalten. Kennt sie den Kaufpreis nicht, soll vorsorglich auf die Hälfte des Erlöses gerechnet werden. Ein Beispiel des Steuerberaters Matthias Steger: Du kaufst für 38.000 Euro und verkaufst für 40.000 Euro. Der Gewinn liegt bei 2.000 Euro, die Steuer bei knapp 530 Euro. Die Ersatzrechnung würde aber 5.275 Euro einbehalten, der Rest käme erst über die Steuererklärung zurück. Heute um 12 Uhr berät der Petitionsausschuss des Bundestags eine Petition für den Erhalt der Haltefrist, die 44.439 Menschen mitgezeichnet haben. Das Kabinett soll laut Berichten am Mittwoch entscheiden. Es ist ein Entwurf und kein Gesetz, bis dahin gilt die Haltefrist. Den Entwurfstext konnten wir nicht lesen.",
+    "Unsere Meinung: Wer nach den geltenden Regeln geplant hat, verdient Verlässlichkeit. Deshalb ist es richtig, dass Altbestände geschützt bleiben sollen. Gleiche Besteuerung wie bei Aktien lässt sich vertreten. Aber eine Ersatzregel, die im Beispiel das Zehnfache der echten Steuer einbehält, trifft Kleinanleger ohne lückenlose Kaufdaten. Hier sollte nachgebessert werden. Das ist keine Steuerberatung.",
+    "Zweitens: Rente nach 45 Jahren: Wer sie nutzt und wer kaum.",
+    "Die Alterssicherungskommission hat im Juni empfohlen, den abschlagsfreien Rentenbeginn nach 45 Beitragsjahren abzuschaffen, mit fünf Jahren Übergangsfrist und Vertrauensschutz. Laut Kommission nutzen sie häufiger Männer mit stabilen Erwerbsbiografien, seltener Frauen und Geringverdienende. Für Jahrgänge ab 1964 liegt die Grenze ohnehin bei 65, der Begriff Rente mit 63 stimmt nicht mehr. Gestern hat Unionsfraktionsvize Johannes Winkel den Vorschlag von SPD-Fraktionschef Matthias Miersch zurückgewiesen, Fraktionen und Länderchefs vor dem Kabinett stärker einzubinden. Die Koalition habe sich auf ein Gesamtpaket geeinigt. Miersch unterstützt die Abschaffung grundsätzlich, will aber Übergänge und Lösungen für körperlich harte Berufe prüfen. Kanzler Merz strebt laut ad-hoc-news einen Kabinettsbeschluss bis Weihnachten an. Beschlossen ist nichts, es gelten die bisherigen Regeln.",
+    "Unsere Meinung: Wer lange eingezahlt hat, verdient Verlässlichkeit. Und wer körperlich hart arbeitet, braucht eine Lösung, die im Alltag trägt. Zugleich bleibt die Fairness gegenüber Menschen mit brüchigen Erwerbsbiografien eine berechtigte Frage.",
+    "Drittens: Zwei Ämter für ein Kind: Was der Entwurf für Familien ändert.",
+    "Rund 440.000 junge Menschen erhalten Eingliederungshilfe, laut dem Behindertenbeauftragten Jürgen Dusel etwa 140.000 über die Jugendhilfe und 300.000 über die Sozialhilfe. Je nach Behinderung ist also ein anderes Amt zuständig. Der Bundestag hat am 8. Oktober den Regierungsentwurf zur Strukturreform der Kinder- und Jugendhilfe in erster Lesung beraten. Laut Familienministerium soll die Bildungsassistenz in Kita und Schule gestärkt werden, Einzelassistenz bleibt bei individuellem Bedarf, und Kommunen dürfen erproben, die Jugendhilfe zur zentralen Anlaufstelle zu machen. Ministerin Karin Prien betont, der Rechtsanspruch auf individuelle Hilfe bleibe uneingeschränkt bestehen. Dusel kritisiert, die versprochene Zusammenführung der Zuständigkeiten werde durch freiwillige Erprobung ersetzt, und Familien müssten nachweisen, dass das Angebot nicht reicht. Heute um 13 Uhr 30 beginnt dazu eine öffentliche Anhörung im Familienausschuss.",
+    "Unsere Meinung: Eltern von Kindern mit Behinderung tragen schon genug. Sie sollten nicht zwischen zwei Ämtern pendeln müssen. Ein Rechtsanspruch hilft wenig, wenn Familien erst die Lücken nachweisen müssen. Zugleich haben Kommunen berechtigte Fragen zu Kosten.",
+    "Viertens: Darf man Völkerrecht benennen? Die Rede, die Frankfurt beschäftigt.",
+    "Der Völkerrechtler Philippe Sands hat gestern in der Frankfurter Paulskirche den Friedenspreis des Deutschen Buchhandels erhalten. Laut hessenschau und Tagesspiegel kritisierte er das deutsche Schweigen zu Israel, Gaza und dem Westjordanland. Laut Tagesspiegel sprach er von Völkerstraftaten, die die Hamas am 7. Oktober 2023 begangen habe, und von solchen, die Israel begehe. Das Wort Genozid vermied er. Recht müsse universell gelten, auch unter Freunden. Bundespräsident Steinmeier klatschte laut beiden Berichten nicht. Der Tagesspiegel bezweifelt, dass die von Sands genannten Stimmen tatsächlich zum Schweigen gebracht werden. Ob einzelne Handlungen Völkerstraftaten sind, entscheiden Gerichte. Das bewerten wir nicht.",
+    "Unsere Meinung: Meinungsfreiheit gilt auch für unbequeme Reden, und das Völkerrecht gilt für alle Staaten gleich. Kritik an einer Regierung ist aber etwas anderes als Hass auf Juden, und der Schutz jüdischen Lebens in Deutschland bleibt unverhandelbar. Beides lässt sich vereinbaren, wenn wir zwischen militärischen Zielen und Zivilpersonen genau unterscheiden und Gerichte prüfen lassen, statt pauschal zu urteilen.",
+    "Das war dein Morning Briefing. Um 19 Uhr folgt unser Tagesrückblick. Alle Quellen findest du auf unserer Website. Einen guten Tag wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Bundestag: Öffentliche Anhörungen in der Sitzungswoche 12.–16. Oktober",
+     "url": "https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261006-oea-kw-42-1222640"
+    },
+    {
+     "titel": "CryptoTicker: Krypto-Haltefrist im Petitionsausschuss",
+     "url": "https://cryptoticker.io/de/krypto-haltefrist-petitionsausschuss-anhoerung/"
+    },
+    {
+     "titel": "CryptoTicker: Ersatzbemessung und Kabinettstermin",
+     "url": "https://cryptoticker.io/en/crypto-holding-period-cabinet-substitute-assessment/"
+    },
+    {
+     "titel": "ms-aktuell: Rente nach 45 Jahren, Union weist Mierschs Vorstoß zurück",
+     "url": "https://ms-aktuell.de/welt/rentenreform-miersch-winkel-11-10-2026/"
+    },
+    {
+     "titel": "ad-hoc-news: Merz strebt Kabinettsbeschluss bis Weihnachten an",
+     "url": "https://www.ad-hoc-news.de/wissenschaft/rente-nach-45-beitragsjahren-merz-strebt-kabinettsbeschluss-bis-weihnachten-an/70259751"
+    },
+    {
+     "titel": "Bundestag: Strukturreform der Kinder- und Jugendhilfe, erste Lesung",
+     "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw41-de-kinder-jugendhilfe-1217552"
+    },
+    {
+     "titel": "Bundestag: Öffentliche Anhörung zur Strukturreform",
+     "url": "https://www.bundestag.de/ausschuesse/a13_Bildung-Familie-Senioren-Frauen-und-Jugend/OeffentlicheSitzungen/1221656-1221656"
+    },
+    {
+     "titel": "BMBFSFJ: Gesetzentwurf zur Strukturreform verabschiedet",
+     "url": "https://www.bmbfsfj.bund.de/bmbfsfj/gesetzentwurf-zur-strukturreform-der-kinder-und-jugendhilfe-verabschiedet-292668"
+    },
+    {
+     "titel": "Behindertenbeauftragter: Pressemitteilung zur Strukturreform",
+     "url": "https://www.behindertenbeauftragter.de/SharedDocs/Pressemitteilungen/DE/AS/2026/PM9_Strukturreform_der_Kinder-_und_Jugendhilfe.html"
+    },
+    {
+     "titel": "hessenschau: Philippe Sands, Friedenspreis in Frankfurt verliehen",
+     "url": "https://hessenschau.de/kultur/buchmesse/philippe-sands-schweigen-ist-nicht-der-weg---friedenspreis-in-frankfurt-verliehen-v2,friedenspreis-168.html"
+    },
+    {
+     "titel": "Tagesspiegel: Friedenspreisrede von Philippe Sands",
+     "url": "https://www.tagesspiegel.de/kultur/friedenspreisrede-des-volkerrechtlers-philippe-sands-verbrechen-zum-schweigen-zu-bringen-ist-unanstandig-16149572.html"
+    }
+   ]
+  },
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Bärbel Bas tritt zurück",
+    "Die CDU will die Stromsteuer für alle senken",
+    "Krypto-Haltefrist: Die Anhörung im Bundestag",
+    "Was heute zu kurz kam"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Montag, der zwölfte Oktober. Was wirklich passiert ist, und was wir heute früh gesagt haben.",
+    "Erstens: Bärbel Bas tritt zurück.",
+    "Das stand heute früh in keinem unserer Themen, ist aber die Nachricht des Tages. Arbeitsministerin Bärbel Bas hat am Vormittag ihren sofortigen Rücktritt als Ministerin und als SPD-Co-Vorsitzende erklärt. Als Gründe nennt sie laut Tagesspiegel einen Trauerfall in ihrer Familie und öffentliche Angriffe, auch aus der Union. Die Union weist das zurück. Kanzler Merz äußerte Respekt, SPD-Chef Klingbeil nannte die Angriffe unanständig. Nachfolger soll laut Parteikreisen Alexander Schweitzer werden. Er hat sich laut Tagesspiegel gegen die Abschaffung der sogenannten Rente mit 63 ausgesprochen, ein Thema, das wir heute früh auf dem Zettel hatten. Offen sind die formelle Ernennung und die Nachfolge im SPD-Vorsitz.",
+    "Unsere Meinung: Harte Kritik an Gesetzentwürfen und Fristen gehört zur Demokratie. Ein Trauerfall verdient aber Anstand, in jeder Partei. Es geht um die Sache: Die Rentenreform braucht einen belastbaren Entwurf, und der Streit darüber sollte ohne Angriffe auf Personen geführt werden.",
+    "Zweitens: Die CDU will die Stromsteuer für alle senken.",
+    "Nach drei Wahlniederlagen hat die CDU-Spitze zwei Tage getagt. Am Nachmittag kündigte Kanzler Merz an, die Stromsteuer für alle auf das europäische Mindestmaß zu senken. Bezahlt werden soll das aus Spielräumen im Haushalt, wenn das Wachstum trägt. Laut Tagesspiegel kostet eine Senkung um zwei Cent je Kilowattstunde etwa fünf Komma vier Milliarden Euro im Jahr. Einen Zeitplan nannte Merz nicht. Klingbeil sagte, die Senkung müsse finanzierbar sein. Sie steht schon im Koalitionsvertrag. Das Papier enthält auch Vorschläge zu Gefährdern und zur Entwicklungshilfe. Den Wortlaut haben wir nicht gelesen.",
+    "Unsere Meinung: Entlastung bei den Energiekosten ist richtig. Ein altes Versprechen ohne Zeitplan schafft aber noch kein Vertrauen. Sicherheitspolitik muss sich am Grundgesetz und am Völkerrecht messen lassen, und Hilfe sollte nicht die Ärmsten treffen.",
+    "Drittens: Krypto-Haltefrist, die Anhörung im Bundestag.",
+    "Heute früh nannten wir die Anhörung im Petitionsausschuss und sagten, das Kabinett solle am Mittwoch entscheiden. Tatsächlich fand die Anhörung statt. Ein Vertreter des Finanzministeriums sagte, der Entwurf sei noch in der Abstimmung und der Ausgang bleibe abzuwarten. Die Haltefrist soll wegfallen, Gewinne sollen mit fünfundzwanzig Prozent besteuert werden. Petentin Nicole Nowak nannte Bitcoin eine langfristige Sparentscheidung. Ihr Berater fragte, warum Gold anders behandelt wird. Eine klare Antwort gab es laut Blocktrainer nicht. Eine Korrektur: Belegt ist nur, dass sich das Kabinett am Mittwoch mit dem Entwurf befasst, nicht, dass es ihn beschließt. Noch gilt die Haltefrist.",
+    "Unsere Meinung: Wer nach den bisherigen Regeln langfristig gespart hat, braucht Verlässlichkeit. Gleiche Besteuerung wie bei anderen Kapitalerträgen lässt sich vertreten, aber Kleinanleger dürfen nicht an fehlenden Belegen scheitern. Dass die Gold-Frage offen bleibt, ist eine Schwäche der Begründung. Das ist keine Steuerberatung.",
+    "Viertens: Was heute zu kurz kam.",
+    "Eine Auswertung der Bundesagentur für Arbeit, angefragt von der AfD-Fraktion: Rund eins Komma vier Millionen Menschen beziehen seit mindestens fünf Jahren Grundsicherung, zweiundsechzig Komma zwei Prozent davon sind Deutsche. Die Zahl der erwerbsfähigen Beziehenden sank im September um hundertfünfundvierzigtausend auf drei Komma sieben Millionen. Laut dpa-AFX nennt das Arbeitsmarktinstitut IAB geringe Qualifikation und Krankheit als häufige Hürden. Wir haben nur diese eine Meldung gelesen. Außerdem tagte der Familienausschuss rund eindreiviertel Stunden zur Jugendhilfe-Reform. Was die Sachverständigen sagten, konnten wir nicht belegen.",
+    "Unsere Meinung: Wer Hilfe braucht, muss sie bekommen. Leistungen im letzten Schritt ganz zu streichen, wie es die AfD vorschlägt, wirft nach unserer Einschätzung ernste Fragen zum Existenzminimum auf. Wir kritisieren den Vorschlag, nicht Menschen.",
+    "Morgen verhandelt Karlsruhe ein zweites Verfahren zur Erbschaftsteuer, es geht um Privilegien für Erben von Betriebsvermögen. Gestern nannten wir es eine Verfassungsbeschwerde, die Quellen sprechen nur von einem zweiten Verfahren. Am Mittwoch befasst sich das Kabinett mit der Krypto-Steuer. Alle Quellen findest du auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": []
+  },
+  "karussells": [],
+  "storys": []
  },
  {
   "datum": "2026-10-11",
