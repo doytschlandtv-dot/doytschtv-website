@@ -19,16 +19,16 @@ Ab dem 18. Oktober. Folge uns und prüf nach.
 
 ## Reel 2: Doytsch, wer wir sind (25 Sekunden)
 
-**0:00 bis 0:06 (Name)**
-Mein Großvater sagte nie „deutsch“. Er sagte: Doytsch. Deutsch mit Y. Eine neue Identität des Deutschseins.
+**0:00 bis 0:05 (Name)**
+Doytsch. Deutsch mit Y. Weil wir Deutschland aus einer anderen Perspektive sehen.
 
-**0:06 bis 0:12 (Wer wir sind)**
-Ein persönliches Projekt. Unabhängig, eigenfinanziert, ohne Konzern, ohne Partei. Ich mache das allein.
+**0:06 bis 0:10 (Wer wir sind)**
+Unabhängig. Eigenfinanziert. Keine Partei. Kein Konzern.
 
-**0:13 bis 0:20 (Maßstab)**
+**0:10 bis 0:21 (Maßstab)**
 Unser Maßstab: Grundgesetz, Menschenrechte, Völkerrecht. Für alle gleich. Wir kritisieren Entscheidungen, nicht Menschen.
 
-**0:20 bis 0:25 (Abschluss)**
+**0:21 bis 0:25 (Abschluss)**
 Nachrichten, Einordnung, Haltung. Deutschland. Auf den Punkt. Ab 18. Oktober.
 
 ## Reel 3: Interaktion, mach mit (25 Sekunden)
@@ -47,5 +47,5 @@ Sagt uns, was ihr sehen wollt. Wir hören zu.
 
 ## Bildtexte zu den Reels (Vorschlag)
 - Reel 1: Deutschland. Auf den Punkt. Ab 18. Oktober ist DoytschlandTv online. Folge uns und prüf nach. #nachrichten #deutschland #einordnung #doytschlandtv
-- Reel 2: Doytsch: so hat mein Großvater „deutsch“ gesagt. Heute ist es der Name unseres Projekts. Link in der Bio. #doytsch #deutschland #nachrichten #doytschlandtv
+- Reel 2: Doytsch: Deutschland aus einer anderen Perspektive. Unabhängig, eigenfinanziert, ohne Partei. Link in der Bio. #doytsch #deutschland #nachrichten #doytschlandtv
 - Reel 3: Welches Thema sollen wir als Nächstes einordnen? Schreib es in die Kommentare. #community #nachrichten #politik #doytschlandtv
