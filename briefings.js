@@ -270,7 +270,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "„Europa brennt“? Was die viralen Bilder zeigen und was nicht",
-    "caption": "In sozialen Netzwerken kursiert „Europa brennt“. Was davon belegt ist: In Frankreich gingen am Samstag laut Innenministerium 550.000 Menschen auf die Straße, die Veranstalter zählen 800.000. Premier Lecornu nennt rund 1.200 Festnahmen und 150 verletzte Polizisten. Auch in Spanien, Portugal, Italien, Belgien und Albanien wird protestiert, aber aus unterschiedlichen Gründen: Sprit und Löhne, Mieten, Bildung, die Regierung. Und die Zahlen hängen davon ab, wer zählt: In Madrid nannten die Behörden am 3. Oktober 70.000, die Veranstalter 500.000. Die Bilder werden schon politisch benutzt. Warum gehen in so vielen Ländern gleichzeitig Menschen gegen Preise und Kosten auf die Straße?",
+    "caption": "In sozialen Netzwerken kursiert „Europa brennt“. Was davon belegt ist: In Frankreich gingen am Samstag laut Innenministerium 550.000 Menschen auf die Straße, die Veranstalter zählen 800.000. Premier Lecornu nennt rund 1.200 Festnahmen und 150 verletzte Polizisten. Auch in Spanien, Portugal, Italien, Belgien und Albanien wird protestiert, aber aus unterschiedlichen Gründen: Sprit und Löhne, Mieten, Bildung, die Regierung. Und die Zahlen hängen davon ab, wer zählt: In Madrid nannten die Behörden am 3. Oktober 70.000, die Veranstalter 500.000. Dazu kursieren alte und falsch zugeordnete Videos, die Faktenchecks belegen, und die Bilder werden politisch benutzt. Wir stehen zum Recht zu demonstrieren, aber nicht zur Gewalt. Warum gehen in so vielen Ländern gleichzeitig Menschen gegen Preise und Kosten auf die Straße?",
     "hashtags": "#doytschlandtv #aktuell #europa #frankreich #proteste #einordnung #faktencheck #nachrichten",
     "slides": [
      {
@@ -327,14 +327,21 @@ window.BRIEFINGS = [
      },
      {
       "typ": "einordnung",
+      "label": "Falsche Bilder",
+      "titel": "Alt, falsch zugeordnet",
+      "text": "Faktenchecks von ZDFheute und AFP zu den Protesten in Frankreich: Ein Video mit 5,5 Millionen Aufrufen, das Paris als „Kriegsgebiet“ zeigt, stammt von März 2023. Ein Busbrand in Nîmes, als Folge von Migration dargestellt, war 2023 ein technischer Defekt. Jubel nach dem PSG-Finale lief als „Frankreich brennt“.",
+      "quelle": "ZDFheute, 14.10.2026; AFP/GADMO, 8.10.2026"
+     },
+     {
+      "typ": "einordnung",
       "label": "Wer die Bilder nutzt",
       "titel": "Sofort politisch aufgeladen",
-      "text": "US-Vizepräsident Vance machte aus dem Video des brennenden Rathauses von Limoges Kritik an der Migrationspolitik, Trump forderte Frankreich auf, die Grenzen zu schließen, Bruno Retailleau den Ausnahmezustand. Macron trennt Randalierer ausdrücklich von Demonstrierenden mit legitimen Forderungen.",
-      "quelle": "20 Minuten (dpa), 18.10.2026"
+      "text": "US-Vizepräsident Vance machte aus dem Video des brennenden Rathauses von Limoges Kritik an der Migrationspolitik, Trump forderte Frankreich auf, die Grenzen zu schließen, Bruno Retailleau den Ausnahmezustand. Der Aufruf zum Protesttag kursierte im Netz, ohne dass eine Organisation dahinter stand.",
+      "quelle": "20 Minuten (dpa), 18.10.2026; Tagesspiegel (dpa), 18.10.2026"
      },
      {
       "typ": "meinung",
-      "text": "Die Anliegen sind real: Sprit, Mieten, Schulen. Gewalt löst keines davon. Wer aus den Bildern einer Nacht „Europa brennt“ macht, liefert denen Stoff, die schon jetzt Grenzschließung und Ausnahmezustand fordern. Das nützt Rechtspopulisten, auch bei uns. Gründe und Gewalt gehören getrennt betrachtet."
+      "text": "Wir stehen zu Protest und zum Recht, zu demonstrieren, aber nicht mit Gewalt. Soziale Netzwerke verbreiten Bilder aus den Krawallen, oft alt oder falsch zugeordnet. Daraus werden Desinformation und Aufrufe, die Angst machen und Rechtspopulisten nützen, auch bei uns. Die Anliegen sind real: Sprit, Mieten, Schulen. Gründe und Gewalt gehören getrennt betrachtet."
      },
      {
       "typ": "cta",
