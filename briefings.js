@@ -34,7 +34,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Inland · Berlin",
       "titel": "Berlin: Linke, Grüne und SPD wollen große Wohnungskonzerne vergesellschaften",
-      "rot": "vergesellschaften"
+      "rot": "vergesellschaften",
+      "bild": {
+       "url": "titel-berlin.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -109,7 +114,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Ausland · USA, Russland",
       "titel": "Trump setzt neue Russland-Sanktionen aus",
-      "rot": "Russland-Sanktionen"
+      "rot": "Russland-Sanktionen",
+      "bild": {
+       "url": "titel-russland.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -263,7 +273,12 @@ window.BRIEFINGS = [
     "rot": "Enteignung",
     "text": "Zahlen, Zeitplan und Stimmen, im Karussell, Link in der Bio.",
     "quelle": "ZDFheute; Berliner Zeitung, 17.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-berlin.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    },
    {
     "zusatz": true,
@@ -274,7 +289,12 @@ window.BRIEFINGS = [
     "rot": "Sanktionen",
     "text": "Hintergründe und Reaktionen, im Karussell, Link in der Bio.",
     "quelle": "taz; Stuttgarter Zeitung (dpa), 17./18.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-russland.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    },
    {
     "zusatz": true,
