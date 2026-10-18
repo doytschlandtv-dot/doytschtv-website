@@ -92,7 +92,7 @@
       au.controls = true; au.preload = "none"; au.src = ed.audio;
       au.setAttribute("aria-label", label + " anhören");
       ap.appendChild(au);
-      ap.appendChild(el("p", "b-ki", "Hinweis: Diese Stimme ist KI-generiert (nach der Stimme des Gründers)."));
+      ap.appendChild(el("p", "b-ki", "Hinweis: Diese Stimme ist KI-generiert (nach der Stimme von Cengiz Bozkurt)."));
       box.appendChild(ap);
     }
     var tx = el("div", "b-text");
@@ -142,9 +142,9 @@
     sec1.appendChild(el("h2", "b-sec-h", "Morning Briefing" + (m && m.dauer ? " · " + m.dauer : "")));
     if (m) {
       var fig = el("figure", "b-host"), im = document.createElement("img");
-      im.src = "titel-briefing.jpg"; im.alt = "Illustration des Gründers"; im.width = 1050; im.height = 1439; im.loading = "lazy";
+      im.src = "titel-briefing.jpg"; im.alt = "Skizze von Cengiz Bozkurt"; im.width = 1050; im.height = 1439; im.loading = "lazy";
       fig.appendChild(im);
-      fig.appendChild(el("figcaption", null, "Illustration, KI-generiert, kein Foto"));
+      fig.appendChild(el("figcaption", null, "Cengiz Bozkurt · Illustration, KI-generiert, kein Foto"));
       sec1.appendChild(fig);
     }
     if (m && m.themen && m.themen.length) {
