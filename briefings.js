@@ -277,7 +277,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Ausland · Europa",
       "titel": "„Europa brennt“? Was die viralen Bilder zeigen und was nicht",
-      "rot": "„Europa brennt“?"
+      "rot": "„Europa brennt“?",
+      "bild": {
+       "url": "titel-europa.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -403,7 +408,12 @@ window.BRIEFINGS = [
     "rot": "„Europa brennt“?",
     "text": "Zahlen, Gründe und Gewalt in sechs Ländern, im Karussell, Link in der Bio.",
     "quelle": "ORF; dpa; Euronews, 18.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-europa.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    }
   ]
  },
