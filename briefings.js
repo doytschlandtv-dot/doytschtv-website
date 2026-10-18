@@ -1,5 +1,295 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-19",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Frankreich: Nach dem Protesttag 1.200 Festnahmen",
+    "Trump setzt neue Russland-Sanktionen aus",
+    "WDR will sein Angebot bis 2030 halbieren",
+    "Berlin: Grüne und SPD beraten über das Sondierungspapier",
+    "Alberta stimmt am 19. Oktober ab"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Montag, den 19. Oktober.",
+    "Gestern: Nach dem landesweiten Protesttag in Frankreich nennt die Regierung rund 1.200 Festnahmen und 150 verletzte Polizisten. Präsident Macron hat Konsequenzen angekündigt (ZDFheute, 18.10.).",
+    "Die USA haben neue Sanktionen gegen Russland kurz vor Inkrafttreten ausgesetzt. Präsident Trump nennt das nationales Interesse. Kritik kommt von Republikanern und Demokraten (taz, 18.10.).",
+    "Der WDR will die Zahl seiner Angebote bis 2030 von rund 600 auf 300 halbieren und Personal abbauen (ZDFheute, 17.10.).",
+    "Heute: In Berlin beraten die Grünen auf einem kleinen Parteitag und der SPD-Landesvorstand über das Sondierungspapier mit Vergesellschaftung ab 10.000 Wohnungen. Die Linke entscheidet am 31. Oktober (ZDFheute, 17.10.). Außerdem stimmt die kanadische Provinz Alberta ab, ob sie in Kanada bleiben oder den Weg zur Abspaltung beginnen soll. Die Abstimmung ist nicht bindend.",
+    "Diese Woche: Am Dienstag um 11:05 Uhr kommen die ZEW-Konjunkturerwartungen, am 25. Oktober endet die Sommerzeit (finanzen.at, Wochenvorschau).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Berlin: Linke, Grüne und SPD wollen große Wohnungskonzerne vergesellschaften",
+    "caption": "Linke, Grüne und SPD in Berlin haben ihre Sondierung abgeschlossen. Private Wohnungskonzerne mit mehr als 10.000 Wohnungen sollen gegen Entschädigung vergesellschaftet werden, die ersten 10.000 dürfen sie behalten. Nach Angaben der Linken wären rund 160.000 Wohnungen betroffen, die Entschädigung soll auf 16 Milliarden Euro gedeckelt werden. Grundlage ist Artikel 15 des Grundgesetzes, der in Deutschland noch nie angewendet wurde. Am Montag beraten Grüne und SPD, die Linke entscheidet am 31. Oktober. Die CDU nennt das Papier eine „Kapitulationserklärung“. Hilft Enteignung gegen steigende Mieten oder braucht es vor allem mehr Neubau?",
+    "hashtags": "#doytschlandtv #aktuell #berlin #mieten #wohnen #enteignung #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Inland · Berlin",
+      "titel": "Berlin: Linke, Grüne und SPD wollen große Wohnungskonzerne vergesellschaften",
+      "rot": "vergesellschaften"
+     },
+     {
+      "typ": "fakten",
+      "label": "Das Sondierungspapier",
+      "titel": "Enteignung ab 10.000 Wohnungen.",
+      "text": "Private Wohnungskonzerne mit mehr als 10.000 Wohnungen in Berlin sollen gegen Entschädigung vergesellschaftet werden. Die ersten 10.000 dürfen sie behalten. Genossenschaften und gemeinwohlorientierte Träger sind ausgenommen. Grundlage ist Artikel 15 des Grundgesetzes.",
+      "quelle": "ZDFheute, 17.10.2026; Berliner Zeitung, 17.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Der Umfang",
+      "zahl": "160.000 Wohnungen",
+      "text": "wären laut Linken-Politikerin Elif Eralp betroffen. Die Entschädigung soll auf 16 Milliarden Euro gedeckelt werden, die Überführung frühestens 2029 erfolgen.",
+      "quelle": "Berliner Zeitung, 17.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was sich ändern soll",
+      "titel": "Mieten, Bauen, Geld",
+      "punkte": [
+       {
+        "kopf": "Mieten",
+        "text": "In landeseigenen Wohnungen sollen die Mieten höchstens um 2 Prozent im Jahr steigen, laut Eralp betrifft das rund 400.000 Haushalte."
+       },
+       {
+        "kopf": "Bauen",
+        "text": "100.000 Baugenehmigungen bis 2031. SPD-Kandidat Krach spricht vom größten Wohnungsbauprogramm seit der Wiedervereinigung."
+       },
+       {
+        "kopf": "Zeitplan",
+        "text": "Ein Gesetzentwurf soll bis Mitte 2028 vorliegen."
+       },
+       {
+        "kopf": "Geld",
+        "text": "Mindestens 400 Millionen Euro im Jahr sollen aus höheren Steuern und Gebühren kommen. Welche, ist offen."
+       }
+      ],
+      "quelle": "Berliner Zeitung, 17.10.2026; ZDFheute, 17.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Elif Eralp (Linke)",
+      "behauptung": "Die Vergesellschaftung soll dazu führen, dass die Mieten nicht mehr steigen.",
+      "labelB": "Stefan Evers (CDU)",
+      "fakt": "Nennt das Papier eine „Kapitulationserklärung“ von SPD und Grünen und einen „Dammbruch“.",
+      "quelle": "ZDFheute, 17.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Wie es weitergeht",
+      "titel": "Noch nichts beschlossen",
+      "text": "Artikel 15 des Grundgesetzes wurde in Deutschland noch nie angewendet. Am Montag beraten die Grünen auf einem kleinen Parteitag, der SPD-Landesvorstand entscheidet voraussichtlich ebenfalls. Die Linke stimmt am 31. Oktober ab. Stimmen alle zu, könnten Koalitionsverhandlungen Anfang November beginnen. SPD-Kandidat Krach hatte im Wahlkampf Enteignungen abgelehnt und verteidigt nun den Kompromiss.",
+      "quelle": "ZDFheute, 17.10.2026; Berliner Zeitung, 17.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Enteignung baut keine einzige Wohnung und schreckt Investoren ab. Wer Mieter schützen will, sollte mehr bauen statt enteignen."
+     },
+     {
+      "typ": "cta",
+      "frage": "Hilft Enteignung gegen steigende Mieten oder braucht es vor allem mehr Neubau?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Trump setzt neue Russland-Sanktionen aus",
+    "caption": "Die USA haben neue Sanktionen gegen Russland kurz vor Inkrafttreten ausgesetzt. Präsident Trump nennt das „nationales Interesse“. Die Sanktionen beruhen auf einem Gesetz, das der Kongress mit überparteilicher Mehrheit beschlossen hatte. Kritik kommt von Republikanern und Demokraten, Senator Thom Tillis nennt den Schritt „mehr als unverantwortlich“. Hintergrund sind stark gestiegene Spritpreise im Iran-Krieg und ein „Diesel-Deal“ mit Russland, den Trump vor einer Woche angekündigt hat. Der Krieg in der Ukraine dauert seit mehr als vier Jahren. Sollte Europa seine Sanktionen gegen Russland aufrechterhalten, auch wenn die USA nachlassen?",
+    "hashtags": "#doytschlandtv #aktuell #usa #russland #ukraine #sanktionen #iran #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Ausland · USA, Russland",
+      "titel": "Trump setzt neue Russland-Sanktionen aus",
+      "rot": "Russland-Sanktionen"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was passiert ist",
+      "titel": "Kurz vor Inkrafttreten gestoppt.",
+      "text": "Präsident Trump hat neue Sanktionen gegen Russland ausgesetzt, die auf einem Gesetz des Kongresses beruhen. Der Kongress hatte es mit überparteilicher Mehrheit beschlossen. Trump begründet den Schritt mit dem „nationalen Interesse“ der USA. Bis auf Weiteres.",
+      "quelle": "Stuttgarter Zeitung (dpa), 17.10.2026; taz, 18.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Der Hintergrund",
+      "zahl": "mehr als 4 Jahre",
+      "text": "dauert der Krieg in der Ukraine. Die Sanktionen sollten Russlands Einnahmen senken und den Druck für ein Kriegsende erhöhen.",
+      "quelle": "taz, 18.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Der Zusammenhang",
+      "titel": "Sprit, Iran, Ukraine",
+      "punkte": [
+       {
+        "kopf": "Spritpreise",
+        "text": "Die Preise sind laut taz vor allem wegen des Iran-Kriegs stark gestiegen. In den USA stehen im November Zwischenwahlen an."
+       },
+       {
+        "kopf": "Diesel-Deal",
+        "text": "Vor einer Woche kündigte Trump einen Deal mit Russland an, der die Preise senken soll. Experten zweifeln: Die Menge ist klein."
+       },
+       {
+        "kopf": "Hormus",
+        "text": "Die Revolutionsgarden meldeten am Samstag erneut, ein Supertanker sei in der Straße von Hormus auf eine Seemine gefahren."
+       },
+       {
+        "kopf": "Ukraine",
+        "text": "Trump nannte Selenskyj in einem Interview „keinen guten Partner“. Laut Selenskyj ist der Starlink-Zugang der Ukraine weiter gedrosselt."
+       }
+      ],
+      "quelle": "taz, 18.10.2026; ZDFheute, 17.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Donald Trump",
+      "behauptung": "Die Aussetzung liegt im nationalen Interesse der USA.",
+      "labelB": "Thom Tillis (Republikaner, Senat)",
+      "fakt": "Nennt den Schritt „mehr als unverantwortlich“. Wer niedrigere Energiepreise wolle, solle den Konflikt mit dem Iran lösen.",
+      "quelle": "Stuttgarter Zeitung (dpa), 17.10.2026; taz, 18.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Reaktionen",
+      "titel": "Kritik aus beiden Parteien",
+      "text": "Auch der Republikaner Don Bacon sagt, Trump verlängere Russlands Krieg, statt ihn zu beenden. Der Demokrat Chuck Schumer spricht von einem „Deal mit dem Teufel“. Der Kongress hat nur begrenzte Möglichkeiten, dagegen vorzugehen, weil der Präsident bei der Umsetzung von Sanktionen weiten Spielraum hat.",
+      "quelle": "Stuttgarter Zeitung (dpa), 17.10.2026; taz, 18.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Kaum jemand kann nachvollziehen, welche Strategie die USA verfolgen: auf der einen Seite ein seit Jahren andauernder Krieg in der Ukraine, auf der anderen ein Angriffskrieg gegen den Iran. Beide treiben sich gegenseitig an, bei Spritpreisen, Sanktionen und Verhandlungen. Eine Spirale, die sich durch das eigene Handeln weiterdreht. Frieden ist die einzige Lösung."
+     },
+     {
+      "typ": "cta",
+      "frage": "Sollte Europa seine Russland-Sanktionen aufrechterhalten, auch wenn die USA nachlassen?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Montag, 19. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Montag, den 19. Oktober. Gestern: Nach dem Protesttag in Frankreich nennt die Regierung rund 1.200 Festnahmen, Trump hat neue Russland-Sanktionen ausgesetzt, der WDR will sein Angebot bis 2030 halbieren. Heute: In Berlin beraten Grüne und SPD über das Sondierungspapier, Alberta stimmt über seine Zukunft in Kanada ab, und am Dienstag kommen die ZEW-Konjunkturerwartungen. Welches Thema sollen wir morgen früh einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Mo., 19. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern",
+      "titel": "Drei Dinge",
+      "punkte": [
+       {
+        "kopf": "Frankreich",
+        "text": "Nach dem Protesttag nennt die Regierung rund 1.200 Festnahmen und 150 verletzte Polizisten. Präsident Macron kündigt Konsequenzen an."
+       },
+       {
+        "kopf": "USA",
+        "text": "Trump hat neue Russland-Sanktionen ausgesetzt. Kritik kommt von Republikanern und Demokraten."
+       },
+       {
+        "kopf": "WDR",
+        "text": "Der Sender will die Zahl seiner Angebote bis 2030 von rund 600 auf 300 halbieren."
+       }
+      ],
+      "quelle": "ZDFheute, 17./18.10.2026; taz, 18.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Berlin: Gremien am Montag",
+        "text": "Die Grünen beraten auf einem kleinen Parteitag, der SPD-Landesvorstand voraussichtlich ebenfalls. Die Linke entscheidet am 31. Oktober."
+       },
+       {
+        "kopf": "Alberta stimmt ab",
+        "text": "Am Montag, 19. Oktober: Soll die Provinz in Kanada bleiben oder den Weg zur Abspaltung beginnen? Nicht bindend."
+       },
+       {
+        "kopf": "ZEW am Dienstag",
+        "text": "Um 11:05 Uhr kommen die ZEW-Konjunkturerwartungen für Oktober."
+       },
+       {
+        "kopf": "Zeitumstellung",
+        "text": "Am 25. Oktober endet die Sommerzeit."
+       }
+      ],
+      "quelle": "ZDFheute, 17.10.2026; finanzen.at, Wochenvorschau"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "300 Angebote",
+      "text": "will der WDR bis 2030 noch haben, derzeit sind es rund 600. Auch Personal soll abgebaut werden.",
+      "quelle": "ZDFheute, 17.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir morgen früh einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Inland · Berlin",
+    "titel": "Berlin: Enteignung großer Wohnungskonzerne im Sondierungspapier",
+    "rot": "Enteignung",
+    "text": "Zahlen, Zeitplan und Stimmen, im Karussell, Link in der Bio.",
+    "quelle": "ZDFheute; Berliner Zeitung, 17.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Ausland · USA, Russland",
+    "titel": "Trump setzt neue Russland-Sanktionen aus",
+    "rot": "Sanktionen",
+    "text": "Hintergründe und Reaktionen, im Karussell, Link in der Bio.",
+    "quelle": "taz; Stuttgarter Zeitung (dpa), 17./18.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Mo., 19. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Frankreich, Russland-Sanktionen, Berlin und Alberta im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute; taz, 17./18.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-18",
   "morgen": {
    "titel": "Morning Briefing",
@@ -21,7 +311,32 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Frankreich: Landesweiter Protesttag endet mit schweren Krawallen",
+    "WDR will sein Angebot bis 2030 halbieren"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Sonntag, der achtzehnte Oktober. Das waren unsere Themen des Tages, kurz zusammengefasst.",
+    "Erstens: Frankreich. Beim landesweiten Protesttag gegen hohe Lebenshaltungskosten kam es zu schweren Krawallen. Nach Angaben der Regierung wurden rund 150 Polizisten verletzt und etwa 1.200 Menschen festgenommen, das Rathaus von Limoges brannte weitgehend aus. Präsident Macron hat Konsequenzen angekündigt. Die Zahlen können sich noch ändern.",
+    "Zweitens: WDR. Der Sender will die Zahl seiner Angebote bis 2030 von rund 600 auf 300 halbieren und zugleich Personal abbauen. Das Programm soll stärker auf digitale Formate setzen.",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 18.10.2026"
+    },
+    {
+     "titel": "ORF, 17.10.2026"
+    },
+    {
+     "titel": "ZDFheute, 17.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
