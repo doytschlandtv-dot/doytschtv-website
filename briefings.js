@@ -266,6 +266,81 @@ window.BRIEFINGS = [
       ]
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "„Europa brennt“? Was die viralen Bilder zeigen und was nicht",
+    "caption": "In sozialen Netzwerken kursiert „Europa brennt“. Was davon belegt ist: In Frankreich gingen am Samstag laut Innenministerium 550.000 Menschen auf die Straße, die Veranstalter zählen 800.000. Premier Lecornu nennt rund 1.200 Festnahmen und 150 verletzte Polizisten. Auch in Spanien, Portugal, Italien, Belgien und Albanien wird protestiert, aber aus unterschiedlichen Gründen: Sprit und Löhne, Mieten, Bildung, die Regierung. Und die Zahlen hängen davon ab, wer zählt: In Madrid nannten die Behörden am 3. Oktober 70.000, die Veranstalter 500.000. Die Bilder werden schon politisch benutzt. Warum gehen in so vielen Ländern gleichzeitig Menschen gegen Preise und Kosten auf die Straße?",
+    "hashtags": "#doytschlandtv #aktuell #europa #frankreich #proteste #einordnung #faktencheck #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Ausland · Europa",
+      "titel": "„Europa brennt“? Was die viralen Bilder zeigen und was nicht",
+      "rot": "„Europa brennt“?"
+     },
+     {
+      "typ": "fakten",
+      "label": "Frankreich",
+      "titel": "550.000 auf der Straße, schwere Gewalt.",
+      "text": "Am Samstag demonstrierten laut Innenministerium 550.000 Menschen, die Veranstalter zählen 800.000. Auslöser: hohe Spritpreise, niedrige Löhne, marode Schulen. Premier Lecornu nennt rund 1.200 Festnahmen und 150 verletzte Polizisten. In Limoges brannte das Rathaus weitgehend aus.",
+      "quelle": "ORF, 18.10.2026; Tagesspiegel (dpa), 18.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Spanien",
+      "zahl": "70.000 oder 500.000",
+      "text": "Menschen zählten am 3. Oktober in Madrid die Behörden (70.000) und die Veranstalter (500.000). Auslöser war die Zwangsräumung einer 87-Jährigen und die Ablehnung zweier Mieterschutz-Dekrete im Parlament am 2. Oktober.",
+      "quelle": "Euronews, 3.10.2026; ORF, 8.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Die Auslöser",
+      "titel": "Gleiche Bilder, andere Gründe",
+      "punkte": [
+       {
+        "kopf": "Frankreich",
+        "text": "Sprit, Löhne, Schulen. Die Regierung nennt die Gewalttäter linksextrem und gut organisiert."
+       },
+       {
+        "kopf": "Spanien, Portugal",
+        "text": "Mieten und Zwangsräumungen. In Porto räumte die Polizei ein Camp, laut Wohnbewegung 37 Verletzte."
+       },
+       {
+        "kopf": "Italien, Belgien",
+        "text": "Teuerung und Sparpläne bei der Bildung. In Mailand 25 Verletzte, davon 10 Polizisten."
+       },
+       {
+        "kopf": "Albanien",
+        "text": "Studierende fordern den Rücktritt von Premier Rama. Seit fünf Tagen Gewalt in Tirana."
+       }
+      ],
+      "quelle": "ORF, Euronews, ostbelgiendirekt.be, Oktober 2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Veranstalter",
+      "behauptung": "Frankreich: 800.000. Madrid: 500.000.",
+      "labelB": "Behörden",
+      "fakt": "Frankreich: 550.000. Madrid: 70.000. Wer zählt, bestimmt die Zahl.",
+      "quelle": "ORF, 18.10.2026; Euronews, 3.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Wer die Bilder nutzt",
+      "titel": "Sofort politisch aufgeladen",
+      "text": "US-Vizepräsident Vance machte aus dem Video des brennenden Rathauses von Limoges Kritik an der Migrationspolitik, Trump forderte Frankreich auf, die Grenzen zu schließen, Bruno Retailleau den Ausnahmezustand. Macron trennt Randalierer ausdrücklich von Demonstrierenden mit legitimen Forderungen.",
+      "quelle": "20 Minuten (dpa), 18.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Die Anliegen sind real: Sprit, Mieten, Schulen. Gewalt löst keines davon. Wer aus den Bildern einer Nacht „Europa brennt“ macht, liefert denen Stoff, die schon jetzt Grenzschließung und Ausnahmezustand fordern. Das nützt Rechtspopulisten, auch bei uns. Gründe und Gewalt gehören getrennt betrachtet."
+     },
+     {
+      "typ": "cta",
+      "frage": "Warum gehen in so vielen Ländern gleichzeitig Menschen gegen Preise und Kosten auf die Straße?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -310,6 +385,17 @@ window.BRIEFINGS = [
     "rot": "Das Wichtigste",
     "text": "Frankreich, Russland-Sanktionen, Berlin und Alberta im Karussell. Link in der Bio.",
     "quelle": "ZDFheute; taz, 17./18.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Ausland · Europa",
+    "titel": "„Europa brennt“? Was die Bilder zeigen",
+    "rot": "„Europa brennt“?",
+    "text": "Zahlen, Gründe und Gewalt in sechs Ländern, im Karussell, Link in der Bio.",
+    "quelle": "ORF; dpa; Euronews, 18.10.2026",
     "theme": "dark"
    }
   ]
