@@ -23,7 +23,7 @@ Ab dem 18. Oktober. Folge uns und prüf nach.
 Mein Großvater sagte nie „deutsch“. Er sagte: Doytsch. Deutsch mit Y. Eine neue Identität des Deutschseins.
 
 **0:06 bis 0:12 (Wer wir sind)**
-Ein persönliches Projekt. Unabhängig, eigenfinanziert, ohne Konzern, ohne Partei. Ich bin Cengiz, aus Witten.
+Ein persönliches Projekt. Unabhängig, eigenfinanziert, ohne Konzern, ohne Partei. Ich mache das allein.
 
 **0:13 bis 0:20 (Maßstab)**
 Unser Maßstab: Grundgesetz, Menschenrechte, Völkerrecht. Für alle gleich. Wir kritisieren Entscheidungen, nicht Menschen.

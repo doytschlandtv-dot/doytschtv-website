@@ -114,7 +114,7 @@
       var w = el("div", "b-audio"), au = document.createElement("audio");
       au.controls = true; au.preload = "none"; au.src = k.audio; au.setAttribute("aria-label", "Kolumne anhören");
       w.appendChild(au);
-      w.appendChild(el("p", "b-ki", "Hinweis: Diese Stimme ist KI-generiert (nach der Stimme von Cengiz Bozkurt)."));
+      w.appendChild(el("p", "b-ki", "Hinweis: Diese Stimme ist KI-generiert (nach der Stimme des Gründers)."));
       a.appendChild(w);
     }
     var secs = k.abschnitte;
