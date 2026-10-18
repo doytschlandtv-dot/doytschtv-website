@@ -14,7 +14,7 @@
       items.push({ k: "Nachrichten · " + dl(d.datum), t: k.thema, h: "nachrichten.html#" + encodeURIComponent(k.thema), img: b && b.url, y: b && b.fokus, u: b && b.unter });
     });
   });
-  if (day.morgen) {
+  if (day.morgen && !(day.karussells || []).some(function (k) { return /^Morning Briefing/.test(k.thema); })) {
     var th = day.morgen.themen || [];
     items.push({ k: "Morning Briefing" + (day.morgen.dauer ? " · " + day.morgen.dauer : ""), t: th.length ? th[0] + (th.length > 1 ? " und " + (th.length - 1) + " weitere Themen" : "") : "Heute im Überblick", h: "briefing.html#" + day.datum, img: "titel-briefing.jpg", u: "Illustration, KI-generiert, kein Foto" });
   }

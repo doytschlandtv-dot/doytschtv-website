@@ -26,7 +26,7 @@ Deutschland. Auf den Punkt.
 
 Ab heute ist DoytschlandTv online: Nachrichten, Einordnung und Haltung zu Politik, Wirtschaft und Gesellschaft. Fakten und Meinung sind getrennt, und zu jedem Thema gibt es Quellen.
 
-Jeden Morgen das Morning Briefing, jeden Abend um 19 Uhr der Tagesrückblick. Dazu Meinungen, Erklärstücke und Dossiers auf unserer Website.
+Jeden Morgen das Morning Briefing als Karussell, jeden Abend um 19 Uhr der Tagesrückblick. Dazu Meinungen, Erklärstücke und Dossiers auf unserer Website.
 
 Link in der Bio: doytschtv.de
 

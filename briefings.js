@@ -1,5 +1,311 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-18",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Berlin: Sondierung steht, Vergesellschaftung ab 10.000 Wohnungen",
+    "Frühstartrente beschlossen: 10 Euro im Monat für Kinder",
+    "Junge Union: Winkel bestätigt, Merz grenzt sich von der AfD ab",
+    "Facharzttermine: Frei fordert gleiche Chancen",
+    "Alberta stimmt am 19. Oktober ab"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Sonntag, den 18. Oktober.",
+    "Gestern: Linke, Grüne und SPD in Berlin haben ihre Sondierung abgeschlossen. Im Papier steht, dass private Wohnungskonzerne ab einem Bestand von 10.000 Wohnungen gegen Entschädigung enteignet werden können, die ersten 10.000 dürfen sie behalten. Die Grünen beraten am Montag auf einem kleinen Parteitag, die Linke entscheidet am 31. Oktober über Koalitionsverhandlungen (ZDFheute, 17.10.).",
+    "Der Bundestag hat die Frühstartrente beschlossen: Der Staat zahlt vom 6. bis 18. Geburtstag 10 Euro im Monat in ein Altersvorsorgedepot, zunächst für den Jahrgang 2020. Der Bundesrat muss noch zustimmen (Deutsche Handwerks Zeitung, 16.10.).",
+    "Johannes Winkel bleibt Chef der Jungen Union. Kanzler Merz grenzte sich beim Deutschlandtag von der AfD ab (ZDFheute, 17./18.10.).",
+    "Heute: Unionsfraktionschef Thorsten Frei fordert, dass alle Versicherten in vertretbarer Frist einen Facharzttermin bekommen. Konkrete Vorschläge nannte er nicht (dpa, 18.10.). Am Montag stimmt die kanadische Provinz Alberta ab, ob sie in Kanada bleiben oder den Weg zur Abspaltung beginnen soll. Die Abstimmung ist nicht bindend.",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Facharzttermine: Union will gleiche Chancen für Kassen- und Privatpatienten",
+    "caption": "Unionsfraktionschef Thorsten Frei fordert, dass alle Versicherten in vertretbarer Frist einen Facharzttermin bekommen. Manches am Nebeneinander von gesetzlicher und privater Versicherung werde als ungerecht empfunden oder sei es auch. Konkrete Vorschläge nannte er nicht, sie sollen aus dem Gesundheitsministerium kommen. Der GKV-Spitzenverband schlägt eine tagesaktuelle Terminplattform vor, auf der alle Praxen einen festen Anteil ihrer Termine einstellen. Die Frage nach dem Versicherungsstatus soll entfallen. Kanzler Merz hatte das schon als Gerechtigkeitsproblem bezeichnet. Termine nach Bedarf statt nach Versicherung: Wie sollte die Vergabe fair laufen?",
+    "hashtags": "#doytschlandtv #aktuell #facharzt #gesundheit #krankenkasse #arzttermin #gerechtigkeit #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Gesundheit · Termine",
+      "titel": "Facharzttermine: Union will gleiche Chancen für Kassen- und Privatpatienten",
+      "rot": "gleiche Chancen",
+      "bild": {
+       "url": "titel-facharzt.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Forderung",
+      "titel": "Termin in „vertretbarer Frist“.",
+      "text": "Unionsfraktionschef Thorsten Frei will, dass alle Versicherten in vertretbarer Frist einen Facharzttermin bekommen. Dem Kölner Stadt-Anzeiger sagte er, das Nebeneinander von privater und gesetzlicher Versicherung habe Vorteile, manches werde aber als ungerecht empfunden oder sei es tatsächlich. Konkrete Vorschläge nannte er nicht, sie soll der Gesundheitsminister vorlegen.",
+      "quelle": "dpa (Tagesspiegel), 18.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Schätzung der Kassen",
+      "zahl": "2 Wochen",
+      "text": "So viel länger warten gesetzlich Versicherte laut GKV-Spitzenverband. Eine Schätzung, keine Messung. Kanzler Merz sprach vor gut einem Monat von „Wochen und Monaten“.",
+      "quelle": "dpa-AFX, 18.10.2026; dpa (Tagesspiegel), 18.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Der Vorschlag der Kassen",
+      "titel": "Termine nach Bedarf",
+      "punkte": [
+       {
+        "kopf": "Eine Plattform",
+        "text": "Tagesaktuell, mit einem festen Anteil der Termine jeder Praxis."
+       },
+       {
+        "kopf": "Keine Statusfrage",
+        "text": "Die Frage nach gesetzlich oder privat soll bei der Vergabe entfallen."
+       },
+       {
+        "kopf": "Nach medizinischem Bedarf",
+        "text": "Wer es dringender braucht, soll früher drankommen, nicht wer privat versichert ist."
+       },
+       {
+        "kopf": "Privatpatienten bleiben",
+        "text": "Sie sollen weiter behandelt, aber nicht automatisch bevorzugt werden."
+       }
+      ],
+      "quelle": "GKV-Spitzenverband (Oliver Blatt) laut dpa-AFX, 18.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Kanzler Merz",
+      "behauptung": "Ein „Gerechtigkeitsproblem“, wenn sich der Eindruck verfestigt, dass Privatversicherte sofort alles bekommen und Gesetzliche Wochen oder Monate warten.",
+      "labelB": "GKV-Spitzenverband",
+      "fakt": "Termine nach Bedarf. Den Begriff „Zweiklassenmedizin“ lehnt der Verband ab: Die allermeisten Ärzte behandelten gesetzlich Versicherte gleich gut.",
+      "quelle": "dpa (Tagesspiegel), dpa-AFX, 18.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Wie es weitergeht",
+      "titel": "Noch kein Gesetzentwurf",
+      "text": "Es gibt bisher nur die Forderung und die Ankündigung von Vorschlägen. Parallel soll die FinanzKommission Gesundheit Vorschläge für eine große Reform der gesetzlichen Krankenversicherung vorlegen. Der Schätzerkreis erwartet, dass die GKV-Ausgaben von 370,1 auf 378,1 Milliarden Euro steigen. TK-Chef Jens Baas fordert sogar, private und gesetzliche Kasse zugunsten eines neuen Systems abzuschaffen.",
+      "quelle": "dpa-AFX, 18.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Termine nach Bedarf statt nach Versicherung: Wie sollte die Vergabe fair laufen?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Sonntag, 18. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Sonntag, den 18. Oktober. Gestern: Berlin hat die Sondierung abgeschlossen, mit Vergesellschaftung ab 10.000 Wohnungen im Papier. Die Frühstartrente ist beschlossen. Die Junge Union hat Johannes Winkel bestätigt, Kanzler Merz grenzte sich dort von der AfD ab. Heute und morgen: Frei fordert gleiche Chancen bei Facharztterminen, in Berlin beraten die Gremien über Koalitionsverhandlungen, und Alberta stimmt am Montag ab. Welches Thema sollen wir morgen früh einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · So., 18. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern",
+      "titel": "Drei Dinge",
+      "punkte": [
+       {
+        "kopf": "Berlin: Sondierung steht",
+        "text": "Linke, Grüne und SPD stellten ihr Papier vor, mit Vergesellschaftung großer Wohnungskonzerne ab 10.000 Wohnungen."
+       },
+       {
+        "kopf": "Frühstartrente beschlossen",
+        "text": "10 Euro im Monat vom Staat für Kinder vom 6. bis 18. Geburtstag. Der Bundesrat muss noch zustimmen."
+       },
+       {
+        "kopf": "Junge Union",
+        "text": "Johannes Winkel bleibt Chef. Kanzler Merz grenzte sich beim Deutschlandtag von der AfD ab."
+       }
+      ],
+      "quelle": "ZDFheute, 17./18.10.2026; Deutsche Handwerks Zeitung, 16.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und morgen",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Facharzttermine",
+        "text": "Unionsfraktionschef Frei fordert gleiche Chancen für Kassen- und Privatpatienten. Vorschläge sollen folgen."
+       },
+       {
+        "kopf": "Berlin: Gremien am Montag",
+        "text": "Die Grünen beraten auf einem kleinen Parteitag, der SPD-Landesvorstand voraussichtlich ebenfalls. Die Linke entscheidet am 31. Oktober."
+       },
+       {
+        "kopf": "Alberta stimmt ab",
+        "text": "Am Montag, 19. Oktober: Soll die Provinz in Kanada bleiben oder den Weg zur Abspaltung beginnen? Nicht bindend."
+       }
+      ],
+      "quelle": "dpa, 18.10.2026; ZDFheute, 17.10.2026; eigenes Karussell, 13.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "10.000 Wohnungen",
+      "text": "Ab diesem Bestand sollen private Wohnungskonzerne in Berlin gegen Entschädigung enteignet werden können. Die ersten 10.000 dürfen sie behalten.",
+      "quelle": "ZDFheute, 17.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir morgen früh einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Gesundheit · Termine",
+    "titel": "Facharzttermine: gleiche Chancen für alle?",
+    "rot": "gleiche Chancen",
+    "text": "Was Union und Kassen vorschlagen, im Karussell, Link in der Bio.",
+    "quelle": "dpa (Tagesspiegel), dpa-AFX, 18.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-facharzt.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · So., 18. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Berlin, Frühstartrente, Facharzttermine und Alberta im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute; dpa, 17./18.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
+  "datum": "2026-10-17",
+  "morgen": null,
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Berlin: Sondierungspapier sieht Vergesellschaftung ab 10.000 Wohnungen vor",
+    "caption": "Linke, Grüne und SPD in Berlin haben ihre Sondierung abgeschlossen und am 17. Oktober ein Papier vorgestellt. Kern: Private Wohnungskonzerne sollen ab einem Bestand von 10.000 Wohnungen gegen Entschädigung vergesellschaftet werden, die ersten 10.000 dürfen sie behalten. Dazu ein Neubauprogramm, kein Personalabbau bei der Polizei und ein gemeinsames Schutzversprechen für jüdisches Leben. Noch ist es kein Koalitionsvertrag: Die Gremien müssen zustimmen, die Linke entscheidet am 31. Oktober. Die CDU spricht von einem „Dammbruch“, die Linke will, dass die Mieten nicht weiter steigen. Vergesellschaftung großer Wohnungskonzerne: richtiger Hebel gegen steigende Mieten?",
+    "hashtags": "#doytschlandtv #aktuell #berlin #mieten #wohnen #vergesellschaftung #koalition #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Berlin · Koalition",
+      "titel": "Berlin: Sondierungspapier sieht Vergesellschaftung ab 10.000 Wohnungen vor",
+      "rot": "ab 10.000 Wohnungen",
+      "bild": {
+       "url": "titel-berlin.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Das Ergebnis",
+      "titel": "Linke, Grüne und SPD haben sondiert.",
+      "text": "Vier Wochen nach der Wahl vom 20. September haben die drei Parteien am 17. Oktober ihr Sondierungspapier vorgestellt. Ein Koalitionsvertrag ist das noch nicht: Die Parteigremien müssen zustimmen, die Linke entscheidet auf einem Parteitag am 31. Oktober. Koalitionsverhandlungen könnten Anfang November beginnen.",
+      "quelle": "ZDFheute; ORF (dpa), 17.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Vergesellschaftung",
+      "zahl": "10.000 Wohnungen",
+      "text": "Private Wohnungskonzerne sollen ab einem Bestand von 10.000 Wohnungen gegen Entschädigung enteignet werden. Die ersten 10.000 dürfen sie behalten. Genossenschaften und gemeinwohlorientierte Akteure sind ausgenommen. Ein Gesetzentwurf soll Mitte 2028 vorliegen, Grundlage ist Artikel 15 des Grundgesetzes.",
+      "quelle": "ZDFheute, 17.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Noch im Papier",
+      "titel": "Was sonst vereinbart ist",
+      "punkte": [
+       {
+        "kopf": "Wohnen",
+        "text": "Ein Neubauprogramm, „das größte der letzten Jahrzehnte“, so die Parteien."
+       },
+       {
+        "kopf": "Sicherheit",
+        "text": "Kein Personalabbau bei der Polizei. Der Verfassungsschutz bleibt, mit mehr Kontrolle."
+       },
+       {
+        "kopf": "Antisemitismus",
+        "text": "Ein gemeinsames Schutzversprechen für jüdisches Leben."
+       },
+       {
+        "kopf": "Alltag",
+        "text": "Handyverbot an Grundschulen, einmal im Jahr kostenlose Sperrmüllabholung."
+       }
+      ],
+      "quelle": "ZDFheute, 17.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Linke (Elif Eralp)",
+      "behauptung": "„Unser Ziel ist, dass durch die Vergesellschaftung die Mieten nicht weiter steigen.“",
+      "labelB": "CDU (Landeschef Stefan Evers)",
+      "fakt": "Ein „Dammbruch“, der das politische Gefüge zugunsten der Extreme verschiebe.",
+      "quelle": "ZDFheute, 17.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Hürden",
+      "titel": "Noch ist nichts beschlossen",
+      "text": "Die Gespräche waren überschattet von Antisemitismus-Vorwürfen gegen einzelne Linken-Mitglieder; die Linke distanzierte sich von der Abgeordneten Vanessa Emde. Die drei Parteien bekräftigten ihre gemeinsame Erklärung gegen Antisemitismus. Rechnerisch hätte das Bündnis 91 Sitze, 14 mehr als die absolute Mehrheit. Die Linke wurde am 20. September mit 25,7 Prozent stärkste Kraft, die SPD kam mit 12,1 Prozent auf ein historisch schlechtes Ergebnis.",
+      "quelle": "ZDFheute, 17.10.2026; Stuttgarter Zeitung (dpa), 14.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Vergesellschaftung großer Wohnungskonzerne: richtiger Hebel gegen steigende Mieten?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Berlin · Koalition",
+    "titel": "Berlin: Vergesellschaftung ab 10.000 Wohnungen",
+    "rot": "ab 10.000 Wohnungen",
+    "text": "Das steht im Sondierungspapier von Linke, Grünen und SPD. Mehr im Karussell, Link in der Bio.",
+    "quelle": "ZDFheute; ORF (dpa), 17.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-berlin.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   }
+  ]
+ },
+ {
   "datum": "2026-10-16",
   "morgen": null,
   "abend": {
@@ -293,6 +599,81 @@ window.BRIEFINGS = [
       "frage": "Zuckersteuer: Sinnvoller Anreiz oder Griff in die Tasche?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Frühstartrente beschlossen: 10 Euro im Monat vom Staat für Kinder ab 6",
+    "caption": "Der Bundestag hat die Frühstartrente beschlossen. Der Staat zahlt vom 6. bis zum 18. Geburtstag 10 Euro im Monat in ein Altersvorsorgedepot, insgesamt 1.440 Euro. Los geht es mit dem Jahrgang 2020, Kinder ab Jahrgang 2019 und älter gehen leer aus. Das Finanzministerium rechnet mit rund 53.000 Euro bis zur Rente, aber nur bei 7 Prozent Rendite im Jahr. Bei 5 Prozent wären es rund 19.000 Euro, vor Inflation. Der Bundesrat muss noch zustimmen, das Gesetz soll Anfang 2027 in Kraft treten. Würdest du für dein Kind zuzahlen?",
+    "hashtags": "#doytschlandtv #aktuell #fruehstartrente #rente #familie #kinder #geld #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Rente · Familie",
+      "titel": "Frühstartrente beschlossen: 10 Euro im Monat vom Staat für Kinder ab 6",
+      "rot": "10 Euro im Monat",
+      "bild": {
+       "url": "titel-fruehstartrente.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Beschluss",
+      "titel": "Der Bundestag hat zugestimmt.",
+      "text": "Der Staat zahlt vom 6. bis zum 18. Geburtstag 10 Euro im Monat in ein Altersvorsorgedepot. Ausgezahlt wird frühestens mit 65. Das Gesetz soll Anfang 2027 in Kraft treten, der Bundesrat muss noch zustimmen.",
+      "quelle": "Deutsche Handwerks Zeitung, 16.10.2026; Berliner Zeitung, 15.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Was der Staat zahlt",
+      "zahl": "1.440 Euro",
+      "text": "Das sind 10 Euro mal 12 Jahre, mehr zahlt der Staat nicht ein. Eltern und Großeltern dürfen bis zu 6.840 Euro im Jahr zuzahlen. Erträge bleiben bis zur Auszahlung steuerfrei. Die Förderung kostet den Bund 198 Millionen Euro im Jahr, bis 2030 steigend auf 411 Millionen.",
+      "quelle": "Berliner Zeitung, 15.10.2026; Deutsche Handwerks Zeitung, 16.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer bekommt es?",
+      "titel": "Nur ab Jahrgang 2020",
+      "punkte": [
+       {
+        "kopf": "Start 2026",
+        "text": "Kinder des Jahrgangs 2020, die in diesem Jahr Sechsjährigen. Ab 2027 kommt jedes Jahr ein Jahrgang dazu."
+       },
+       {
+        "kopf": "Ältere gehen leer aus",
+        "text": "Kinder des Jahrgangs 2019 oder früher erhalten keinen Zuschuss."
+       },
+       {
+        "kopf": "Kein Antrag, aber eine Wahl",
+        "text": "Eigenes Depot bei Bank oder Broker oder der Sammeltopf der Bundesbank, geplant ab 2028."
+       },
+       {
+        "kopf": "Wohin das Geld darf",
+        "text": "Nur in breit gestreute Aktien oder Aktienfonds, Kostendeckel 1 Prozent."
+       }
+      ],
+      "quelle": "Berliner Zeitung, 15.10.2026; Deutsche Handwerks Zeitung, 16.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Rechnung des Finanzministers",
+      "zahl": "53.000 Euro",
+      "text": "So viel kämen bis zur Rente zusammen, allein aus der Förderung. Das gilt aber nur bei 7 Prozent Rendite im Jahr. Bei 6 Prozent wären es gut 32.000 Euro, bei 5 Prozent rund 19.000 Euro, jeweils vor Inflation. Eine Garantie gibt es nicht.",
+      "quelle": "Berliner Zeitung, 15.10.2026; Deutsche Handwerks Zeitung, 16.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Kritik",
+      "titel": "Zweiklassensystem?",
+      "text": "Der Grünen-Abgeordnete Stefan Schmidt sagt, wer zuzahlen kann, schaffe sehr unterschiedliche Startbedingungen für Kinder. Er kritisiert auch, dass nicht abgerufenes Geld im staatlichen Sammeltopf bis zum 35. Geburtstag an den Staat zurückfalle. Die Linke-Abgeordnete Sarah Vollath sieht keine Chancengleichheit.",
+      "quelle": "Deutsche Handwerks Zeitung, 16.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Würdest du für dein Kind zur Frühstartrente zuzahlen?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -324,6 +705,22 @@ window.BRIEFINGS = [
     "theme": "dark",
     "bild": {
      "url": "titel-zucker.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Rente · Familie",
+    "titel": "Frühstartrente: 10 Euro im Monat vom Staat",
+    "rot": "10 Euro im Monat",
+    "text": "1.440 Euro insgesamt. Wer bekommt es und was ist realistisch? Karussell, Link in der Bio.",
+    "quelle": "Berliner Zeitung, 15.10.2026; Deutsche Handwerks Zeitung, 16.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-fruehstartrente.jpg",
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto"
     }

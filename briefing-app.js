@@ -24,7 +24,7 @@
     document.title = "Briefing – DoytschlandTv";
     var head = el("div", "pagehead");
     head.appendChild(el("h1", null, "Briefing"));
-    head.appendChild(el("p", null, "Morgens: Was heute ansteht. Abends: Was wirklich passiert ist. Zum Lesen und Hören."));
+    head.appendChild(el("p", null, "Morgens: Was heute ansteht. Abends: Was wirklich passiert ist. Zum Lesen."));
     root.appendChild(head);
     if (data.length) { var cur = el("a", "b-back", "‹ Zum aktuellen Briefing"); cur.href = "#"; root.appendChild(cur); }
 
