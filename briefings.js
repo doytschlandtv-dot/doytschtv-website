@@ -101,6 +101,158 @@ window.BRIEFINGS = [
    },
    {
     "zusatz": true,
+    "thema": "WDR will sein Angebot bis 2030 halbieren",
+    "caption": "Der WDR will die Zahl seiner Angebote bis 2030 von rund 600 auf etwa 300 reduzieren. 76 entfallen im ersten Schritt bis Ende 2027, darunter Frau tv, Menschen hautnah und WDR Story. Dazu kommen 133 weniger Stellen, mindestens 45 Prozent der Mittel sollen in digitale Angebote fließen. Der WDR nennt veränderte Mediennutzung, unsichere Finanzierung und steigende Kosten. Verdi warnt vor weniger Programmvielfalt. Weniger Angebote, mehr digital: Was soll der öffentlich-rechtliche Rundfunk für dich leisten?",
+    "hashtags": "#doytschlandtv #aktuell #wdr #rundfunk #oeffentlichrechtlich #medien #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Medien · WDR",
+      "titel": "WDR will sein Angebot bis 2030 halbieren",
+      "rot": "halbieren",
+      "bild": {
+       "url": "titel-wdr.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Plan",
+      "titel": "Von 600 auf 300 Angebote.",
+      "text": "Der WDR will die Zahl seiner Angebote bis 2030 von rund 600 auf etwa 300 verringern. Dazu zählen nicht nur Sendungen, sondern auch Radioreihen, Podcasts, Newsletter, Webseiten und einzelne Social-Media-Kanäle. Gleichzeitig sollen 80 bis 100 neue Formate entstehen.",
+      "quelle": "epd medien, 17.10.2026; Berliner Zeitung, 25.09.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Der erste Schritt",
+      "zahl": "76 Angebote",
+      "text": "entfallen bis Ende 2027. Weitere Entscheidungen will der WDR Anfang 2027 bekannt geben.",
+      "quelle": "epd medien, 17.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was betroffen ist",
+      "titel": "Fernsehen, Radio, Stellen",
+      "punkte": [
+       {
+        "kopf": "Fernsehen",
+        "text": "Frau tv, Menschen hautnah und WDR Story enden in ihrer jetzigen Form."
+       },
+       {
+        "kopf": "Radio",
+        "text": "Unter anderem Satire am Sonntag (WDR 4) und Ex & Pop (WDR 3)."
+       },
+       {
+        "kopf": "Stellen",
+        "text": "133 weniger bis 2030. Jede dritte durch Verrentung frei werdende Stelle bleibt unbesetzt."
+       },
+       {
+        "kopf": "Freie",
+        "text": "Der Einsatz freier Mitarbeitender soll sinken. Der WDR hat rund 4.000 Festangestellte und 2.500 arbeitnehmerähnliche Freie."
+       }
+      ],
+      "quelle": "Berliner Zeitung, 25.09.2026; epd medien, 17.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "WDR-Leitung",
+      "behauptung": "Die Mediennutzung verändert sich rasant, die Finanzierung ist ungewiss, die Kosten steigen. Deshalb weniger Angebote und mehr Kraft für digitale.",
+      "labelB": "Verdi",
+      "fakt": "Weniger Programmvielfalt. Die Rundfunkpolitik der Länder spare die Sender kaputt. Der WDR habe die Pläne nicht offen mit dem Rundfunkrat besprochen.",
+      "quelle": "Berliner Zeitung, 25.09.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Wie es weitergeht",
+      "titel": "Noch nicht alles entschieden",
+      "text": "Bis 2030 sollen mindestens 45 Prozent der Mittel in digitale Angebote fließen. Ab April 2027 konzentriert sich das lineare Fernsehen auf den Abend, „hier und heute“ und „Servicezeit“ werden zusammengelegt. Der Programmausschuss berät im November und gibt eine Empfehlung an den Rundfunkrat.",
+      "quelle": "epd medien, 17.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Weniger Angebote, mehr digital: Was soll der öffentlich-rechtliche Rundfunk für dich leisten?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Frankreich: Landesweiter Protesttag endet mit schweren Krawallen",
+    "caption": "Am 17. Oktober gingen in Frankreich laut Innenministerium 550.000 Menschen gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem auf die Straße, die Organisatoren sprechen von 800.000. Es kam zu schweren Ausschreitungen: In Limoges wurde das historische Rathaus weitgehend zerstört, in Lyon brannte die Touristeninformation, in Marseille und Bordeaux wurde geplündert. Laut Premier Lecornu gab es 1.200 Festnahmen und 150 verletzte Polizisten, später wurden höhere Zahlen genannt (1.800 Festnahmen, 500 verletzte Einsatzkräfte). Marine Le Pen sagt, Randalierer hätten die Proteste in Verruf gebracht, Jean-Luc Mélenchon betont, die meisten Demonstrationen seien friedlich geblieben. Wo endet legitimer Protest und wo beginnt Gewalt?",
+    "hashtags": "#doytschlandtv #aktuell #frankreich #proteste #lebenshaltungskosten #gelbwesten #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Ausland · Frankreich",
+      "titel": "Frankreich: Landesweiter Protesttag endet mit schweren Krawallen",
+      "rot": "schweren Krawallen",
+      "bild": {
+       "url": "titel-frankreich.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Anlass",
+      "titel": "Gegen hohe Preise und für bessere Schulen.",
+      "text": "Am 17. Oktober wurde in ganz Frankreich gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem demonstriert. Angefangen hatte es Mitte September mit Schülerprotesten für mehr Lehrkräfte und kleinere Klassen. Dazu kamen ehemalige Gelbwesten, Studierende, Klimaaktivisten und Landwirte.",
+      "quelle": "ZDFheute, 18.10.2026; vienna.at (APA), 15.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Teilnehmenden",
+      "zahl": "550.000 Menschen",
+      "text": "nennt das Innenministerium, davon 110.000 in Paris. Die Organisatoren sprechen von 800.000, die Gewerkschaft CGT von 500.000.",
+      "quelle": "ZDFheute, 18.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Die Bilanz",
+      "titel": "Zahlen steigen noch",
+      "punkte": [
+       {
+        "kopf": "Festnahmen",
+        "text": "Premier Lecornu nannte 1.200. Später hieß es 1.800 landesweit, davon 855 in Paris."
+       },
+       {
+        "kopf": "Verletzte",
+        "text": "Zuerst hieß es 150 Polizisten, später sprach der Innenminister vorläufig von 500 verletzten Polizisten und Feuerwehrleuten."
+       },
+       {
+        "kopf": "Schäden",
+        "text": "Limoges: Rathaus weitgehend zerstört. Lyon: Touristeninformation in Brand. Marseille und Bordeaux: Plünderungen."
+       },
+       {
+        "kopf": "Polizeigewalt",
+        "text": "In Saint-Étienne wurde ein Demonstrant durch eine Polizeigranate schwer verletzt."
+       }
+      ],
+      "quelle": "ZDFheute, 18.10.2026; ORF, 17.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Marine Le Pen (RN)",
+      "behauptung": "Randalierer haben die Demonstrationen in Verruf gebracht, die Forderungen wurden von der extremen Linken „gekapert“.",
+      "labelB": "Jean-Luc Mélenchon (LFI)",
+      "fakt": "Die meisten Demonstrationen verliefen friedlich. Er kritisiert die Medien für ihre Gewaltbilder.",
+      "quelle": "ZDFheute, 18.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Warum es Paris so beschäftigt",
+      "titel": "Ein Jahr vor der Wahl",
+      "text": "Im kommenden Jahr wird in Frankreich ein neuer Präsident gewählt, Macron darf nicht erneut antreten. Die Regierung fürchtet, dass aus dem Protesttag eine neue Gelbwestenbewegung wird, die 2019 wegen höherer Spritsteuern entstand. Ein Aufruf im Internet mit unklarem Urheber wirbt dafür. Premier Lecornu kündigte an, sich nicht einschüchtern zu lassen. Macron versprach rigorose Strafverfolgung.",
+      "quelle": "ZDFheute, 18.10.2026; ORF, 17.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wo endet legitimer Protest und wo beginnt Gewalt?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
     "thema": "Morning Briefing, Sonntag, 18. Oktober 2026",
     "caption": "Guten Morgen. Dein Morning Briefing für Sonntag, den 18. Oktober. Gestern: Berlin hat die Sondierung abgeschlossen, mit Vergesellschaftung ab 10.000 Wohnungen im Papier. Die Frühstartrente ist beschlossen. Die Junge Union hat Johannes Winkel bestätigt, Kanzler Merz grenzte sich dort von der AfD ab. Heute und morgen: Frei fordert gleiche Chancen bei Facharztterminen, in Berlin beraten die Gremien über Koalitionsverhandlungen, und Alberta stimmt am Montag ab. Welches Thema sollen wir morgen früh einordnen? Schreib es in die Kommentare.",
     "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
@@ -187,6 +339,38 @@ window.BRIEFINGS = [
     "theme": "dark",
     "bild": {
      "url": "titel-facharzt.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Medien · WDR",
+    "titel": "WDR: Halbiert sich das Programm?",
+    "rot": "Halbiert",
+    "text": "Was der Sender streicht und warum, im Karussell, Link in der Bio.",
+    "quelle": "epd medien, 17.10.2026; Berliner Zeitung, 25.09.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-wdr.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Ausland · Frankreich",
+    "titel": "Frankreich: Was hinter den Krawallen steckt",
+    "rot": "Krawallen",
+    "text": "Anlass, Zahlen und Stimmen, im Karussell, Link in der Bio.",
+    "quelle": "ZDFheute, ORF, 17./18.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-frankreich.jpg",
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto"
     }

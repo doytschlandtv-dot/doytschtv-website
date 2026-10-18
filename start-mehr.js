@@ -43,7 +43,7 @@
       sec.classList.add("mw");
       var wrap = sec.querySelector(".wrap");
       var box = n("div", "mw-box");
-      box.appendChild(n("p", "mw-lab", "So arbeiten wir, am Beispiel von heute"));
+      box.appendChild(n("p", "mw-lab", "So arbeiten wir, am Beispiel eines aktuellen Beitrags"));
       box.appendChild(n("h2", "mw-h", pick.k.thema));
       [["1", "Fakt", pick.f.text], ["2", "Einordnung", pick.e.text], ["3", "Haltung · Unsere Meinung", pick.m.text]].forEach(function (r) {
         var st = n("div", "mw-s"); st.appendChild(n("i", null, r[0])); st.appendChild(n("strong", null, r[1])); st.appendChild(n("p", null, cut(r[2], 190))); box.appendChild(st);
