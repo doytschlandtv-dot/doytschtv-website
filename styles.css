@@ -493,3 +493,13 @@ a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
 .mw-s p { margin: 0.2rem 0 0; font-size: 0.95rem; line-height: 1.5; color: #f1efe8; }
 #methode.mw .pil-links .link { color: #f8f7f2; }
 .hero .sub { margin-bottom: 1.8rem; }
+
+/* Launch-Block auf der Startseite (blendet sich nach data-bis selbst aus) */
+#launch { padding-block: clamp(2.5rem, 6vw, 4.5rem) 0; }
+#launch .head { margin-bottom: 1.5rem; }
+#launch .head h2 { font-size: clamp(1.8rem, 5vw, 2.8rem); }
+#launch .head p { font-size: 1.1rem; }
+#launch .step { border-left: 3px solid var(--accent); }
+#launch .step p { line-height: 1.55; }
+#launch .lq { margin-top: 1rem; border-left: 3px solid var(--accent); }
+#launch .lq em { display: block; margin-top: .6rem; font-style: normal; font-size: .85rem; font-weight: 600; color: var(--fg); }

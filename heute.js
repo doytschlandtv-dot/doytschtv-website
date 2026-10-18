@@ -36,6 +36,7 @@
       a.appendChild(tx); rail.appendChild(a);
     });
   }
+  var hh = document.getElementById("heute-h"); if (hh) hh.textContent = day.datum === new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/Berlin" }) ? "Heute im Blick" : "Zuletzt im Blick";
   if (head) head.textContent = new Date(day.datum + "T12:00:00").toLocaleDateString("de-DE", { weekday: "long", day: "numeric", month: "long", year: "numeric", timeZone: "Europe/Berlin" });
   if (tk) {
     var X = ((window.TICKER && window.TICKER.items) || []).filter(function (m) { var t = Date.parse(m.z); return !t || Date.now() - t < 864e5; });
