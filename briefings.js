@@ -6,7 +6,7 @@ window.BRIEFINGS = [
    "audio": null,
    "dauer": null,
    "themen": [
-    "Frankreich: Nach dem Protesttag 1.200 Festnahmen",
+    "Frankreich: Nach dem Protesttag rund 2.000 Festnahmen",
     "Trump setzt neue Russland-Sanktionen aus",
     "WDR will sein Angebot bis 2030 halbieren",
     "Berlin: Grüne und SPD beraten über das Sondierungspapier",
@@ -14,7 +14,7 @@ window.BRIEFINGS = [
    ],
    "text": [
     "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Montag, den 19. Oktober.",
-    "Gestern: Nach dem landesweiten Protesttag in Frankreich nennt die Regierung rund 1.200 Festnahmen und 150 verletzte Polizisten. Präsident Macron hat Konsequenzen angekündigt (ZDFheute, 18.10.).",
+    "Gestern: Nach dem landesweiten Protesttag in Frankreich nennt das Innenministerium rund 2.000 Festnahmen und etwa 600 verletzte Polizisten und Feuerwehrleute. Präsident Macron hat Demonstrationsverbote in Aussicht gestellt (ORF, 19.10.).",
     "Die USA haben neue Sanktionen gegen Russland kurz vor Inkrafttreten ausgesetzt. Präsident Trump nennt das nationales Interesse. Kritik kommt von Republikanern und Demokraten (taz, 18.10.).",
     "Der WDR will die Zahl seiner Angebote bis 2030 von rund 600 auf 300 halbieren und Personal abbauen (ZDFheute, 17.10.).",
     "Heute: In Berlin beraten die Grünen auf einem kleinen Parteitag und der SPD-Landesvorstand über das Sondierungspapier mit Vergesellschaftung ab 10.000 Wohnungen. Die Linke entscheidet am 31. Oktober (ZDFheute, 17.10.). Außerdem stimmt die kanadische Provinz Alberta ab, ob sie in Kanada bleiben oder den Weg zur Abspaltung beginnen soll. Die Abstimmung ist nicht bindend.",
@@ -187,7 +187,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "Morning Briefing, Montag, 19. Oktober 2026",
-    "caption": "Guten Morgen. Dein Morning Briefing für Montag, den 19. Oktober. Gestern: Nach dem Protesttag in Frankreich nennt die Regierung rund 1.200 Festnahmen, Trump hat neue Russland-Sanktionen ausgesetzt, der WDR will sein Angebot bis 2030 halbieren. Heute: In Berlin beraten Grüne und SPD über das Sondierungspapier, Alberta stimmt über seine Zukunft in Kanada ab, und am Dienstag kommen die ZEW-Konjunkturerwartungen. Welches Thema sollen wir morgen früh einordnen? Schreib es in die Kommentare.",
+    "caption": "Guten Morgen. Dein Morning Briefing für Montag, den 19. Oktober. Gestern: Nach dem Protesttag in Frankreich nennt das Innenministerium rund 2.000 Festnahmen, Trump hat neue Russland-Sanktionen ausgesetzt, der WDR will sein Angebot bis 2030 halbieren. Heute: In Berlin beraten Grüne und SPD über das Sondierungspapier, Alberta stimmt über seine Zukunft in Kanada ab, und am Dienstag kommen die ZEW-Konjunkturerwartungen. Welches Thema sollen wir morgen früh einordnen? Schreib es in die Kommentare.",
     "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
     "slides": [
      {
@@ -210,7 +210,7 @@ window.BRIEFINGS = [
       "punkte": [
        {
         "kopf": "Frankreich",
-        "text": "Nach dem Protesttag nennt die Regierung rund 1.200 Festnahmen und 150 verletzte Polizisten. Präsident Macron kündigt Konsequenzen an."
+        "text": "Nach dem Protesttag nennt das Innenministerium rund 2.000 Festnahmen und etwa 600 verletzte Polizisten und Feuerwehrleute. Präsident Macron stellt Demonstrationsverbote in Aussicht."
        },
        {
         "kopf": "USA",
@@ -221,7 +221,7 @@ window.BRIEFINGS = [
         "text": "Der Sender will die Zahl seiner Angebote bis 2030 von rund 600 auf 300 halbieren."
        }
       ],
-      "quelle": "ZDFheute, 17./18.10.2026; taz, 18.10.2026"
+      "quelle": "ZDFheute, 17./18.10.2026; ORF, 19.10.2026; taz, 18.10.2026"
      },
      {
       "typ": "betrifft",
@@ -270,7 +270,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "„Europa brennt“? Was die viralen Bilder zeigen und was nicht",
-    "caption": "In sozialen Netzwerken kursiert „Europa brennt“. Was davon belegt ist: In Frankreich gingen am Samstag laut Innenministerium 550.000 Menschen auf die Straße, die Veranstalter zählen 800.000. Premier Lecornu nennt rund 1.200 Festnahmen und 150 verletzte Polizisten. Auch in Spanien, Portugal, Italien, Belgien und Albanien wird protestiert, aber aus unterschiedlichen Gründen: Sprit und Löhne, Mieten, Bildung, die Regierung. Und die Zahlen hängen davon ab, wer zählt: In Madrid nannten die Behörden am 3. Oktober 70.000, die Veranstalter 500.000. Dazu kursieren alte und falsch zugeordnete Videos, die Faktenchecks belegen, und die Bilder werden politisch benutzt. Wir stehen zum Recht zu demonstrieren, aber nicht zur Gewalt. Warum gehen in so vielen Ländern gleichzeitig Menschen gegen Preise und Kosten auf die Straße?",
+    "caption": "In sozialen Netzwerken kursiert „Europa brennt“. Was davon belegt ist: In Frankreich gingen am Samstag laut Innenministerium 550.000 Menschen auf die Straße, die Veranstalter zählen 800.000. Das Innenministerium nennt rund 2.000 Festnahmen und etwa 600 verletzte Polizisten und Feuerwehrleute. Auch in Spanien, Portugal, Italien, Belgien und Albanien wird protestiert, aber aus unterschiedlichen Gründen: Sprit und Löhne, Mieten, Bildung, die Regierung. Und die Zahlen hängen davon ab, wer zählt: In Madrid nannten die Behörden am 3. Oktober 70.000, die Veranstalter 500.000. Dazu kursieren alte und falsch zugeordnete Videos, die Faktenchecks belegen, und die Bilder werden politisch benutzt. Wir stehen zum Recht zu demonstrieren, aber nicht zur Gewalt. Warum gehen in so vielen Ländern gleichzeitig Menschen gegen Preise und Kosten auf die Straße?",
     "hashtags": "#doytschlandtv #aktuell #europa #frankreich #proteste #einordnung #faktencheck #nachrichten",
     "slides": [
      {
@@ -288,8 +288,8 @@ window.BRIEFINGS = [
       "typ": "fakten",
       "label": "Frankreich",
       "titel": "550.000 auf der Straße, schwere Gewalt.",
-      "text": "Am Samstag demonstrierten laut Innenministerium 550.000 Menschen, die Veranstalter zählen 800.000. Auslöser: hohe Spritpreise, niedrige Löhne, marode Schulen. Premier Lecornu nennt rund 1.200 Festnahmen und 150 verletzte Polizisten. In Limoges brannte das Rathaus weitgehend aus.",
-      "quelle": "ORF, 18.10.2026; Tagesspiegel (dpa), 18.10.2026"
+      "text": "Am Samstag demonstrierten laut Innenministerium 550.000 Menschen, die Veranstalter zählen 800.000. Auslöser: hohe Spritpreise, niedrige Löhne, marode Schulen. Das Innenministerium nennt rund 2.000 Festnahmen und etwa 600 verletzte Polizisten und Feuerwehrleute. In Limoges brannte das Rathaus weitgehend aus.",
+      "quelle": "ORF, 19.10.2026; Tagesspiegel (dpa), 18.10.2026"
      },
      {
       "typ": "zahl",
@@ -353,6 +353,165 @@ window.BRIEFINGS = [
       "frage": "Warum gehen in so vielen Ländern gleichzeitig Menschen gegen Preise und Kosten auf die Straße?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Frankreich: Macron droht mit Demonstrationsverboten",
+    "caption": "Nach den schweren Ausschreitungen am Samstag hat Präsident Macron in einer Fernsehansprache angekündigt, dass Präfekten gemeinsam mit Bürgermeistern bestimmte Versammlungen notfalls verbieten können. Die Polizeiarbeit soll überprüft werden, und diese Woche sollen Schüler, Lehrer, Abgeordnete, Gewerkschaften und Wirtschaft Vorschläge erarbeiten. Das Innenministerium nennt rund 2.000 Festnahmen. Wir sagen: Gewalt muss verfolgt werden, aber ein Verbot beseitigt keine Ursache. Sollte ein Staat Demonstrationen verbieten dürfen, wenn Gewalt zu befürchten ist?",
+    "hashtags": "#doytschlandtv #aktuell #frankreich #macron #demonstrationsrecht #proteste #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Ausland · Frankreich",
+      "titel": "Frankreich: Macron droht mit Demonstrationsverboten",
+      "rot": "Demonstrationsverboten"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Ansprache",
+      "titel": "Verbote „notfalls“ möglich.",
+      "text": "In einer Fernsehansprache am Sonntagabend kündigte Macron an, dass Präfekten gemeinsam mit Bürgermeistern bestimmte Versammlungen verbieten können. Die Polizeiarbeit soll überprüft werden, auch ob Aufklärung und Vorbereitung versagt haben. Diese Woche sollen Schüler, Lehrer, Abgeordnete, Gewerkschaften und Wirtschaft Vorschläge erarbeiten.",
+      "quelle": "Stuttgarter Nachrichten (dpa), 18.10.2026; ORF, 19.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Der Samstag",
+      "zahl": "2.000",
+      "text": "Festnahmen nennt das Innenministerium ungefähr, 855 davon in Paris. Rund 600 Polizisten und Feuerwehrleute wurden verletzt. Die Behörden gehen von 500 bis 1.000 gewaltbereiten Personen aus. Zum Protest kamen laut Innenministerium 550.000 Menschen.",
+      "quelle": "ORF, 19.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Macron",
+      "behauptung": "Nichts rechtfertige die Gewalt. Verantwortlich seien linksextreme Gruppen und Kriminelle. Demonstrierende mit legitimen Forderungen dürfe man nicht mit Randalierern verwechseln.",
+      "labelB": "Jean-Luc Mélenchon (LFI)",
+      "fakt": "Die Regierung lasse die Probleme schwelen, die Jugend stecke in einer tiefen Krise. Man dürfe die Wahl zwischen Plünderern und Polizei nicht akzeptieren.",
+      "quelle": "ORF, 19.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was jetzt folgt",
+      "titel": "Neue Proteste am 5. November",
+      "text": "Für den 5. November sind neue Proteste angekündigt. Bruno Retailleau fordert den Ausnahmezustand, Marine Le Pen macht Linksextreme und Macron verantwortlich. Schon jetzt können Präfekten Demonstrationen verbieten, wenn sie eine Störung der öffentlichen Ordnung erwarten. Gerichte können das Verbot kippen.",
+      "quelle": "ORF, 19.10.2026; The Local France, 10.5.2023"
+     },
+     {
+      "typ": "meinung",
+      "text": "Gewalt muss konsequent verfolgt werden. Aber ein Demonstrationsverbot beseitigt keine der Ursachen: hohe Preise, niedrige Löhne, marode Schulen. Wer die Wut von mehr als einer halben Million Menschen ernst nimmt, muss dort ansetzen. Das Recht zu demonstrieren gehört dazu."
+     },
+     {
+      "typ": "cta",
+      "frage": "Sollte ein Staat Demonstrationen verbieten dürfen, wenn Gewalt zu befürchten ist?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "AfD will Kosten und Nutzen der Zuwanderung bilanzieren",
+    "caption": "Der Bundestag hat am 15. Oktober erstmals über den AfD-Antrag „Migrationsbilanz für Deutschland“ beraten. Genannt wurde die Zahl von mindestens 400 Milliarden Euro Kosten für 2016 bis 2025. Eine Prüfung zeigt: Das sind Brutto-Ausgaben, Steuern, Sozialbeiträge und Wertschöpfung sind nicht gegengerechnet. Die Studienlage ist uneinheitlich, und die Bundesagentur für Arbeit sagt, dass das Beschäftigungswachstum seit 2024 allein von ausländischen Beschäftigten getragen wird. Wir sagen: Zahlen gehören auf den Tisch, aber Menschen darf man nicht aufrechnen. Sollte der Staat regelmäßig bilanzieren, was Zuwanderung kostet und einbringt?",
+    "hashtags": "#doytschlandtv #aktuell #bundestag #afd #migration #faktencheck #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Inland · Bundestag",
+      "titel": "AfD will Kosten und Nutzen der Zuwanderung bilanzieren",
+      "rot": "bilanzieren"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Antrag",
+      "titel": "Bilanz per Gesetz.",
+      "text": "Der Bundestag beriet am 15. Oktober erstmals den AfD-Antrag 21/8549. Er fordert ein Gesetz für regelmäßige, wissenschaftliche Bewertungen der Folgen von Migration für die Sozialsysteme, jährliche Berichte an den Bundestag und eine Studie nach dänischem Vorbild. Der Antrag ging in die Ausschüsse.",
+      "quelle": "Deutscher Bundestag, 15.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl in der Debatte",
+      "zahl": "400 Mrd. Euro",
+      "text": "Migrationskosten für 2016 bis 2025 nannte der AfD-Abgeordnete Goßner, gestützt auf einen Beitrag in der Welt. Allein im Bundesanteil von 242,5 Mrd. Euro stecken rund 72,9 Mrd. für Fluchtursachenbekämpfung im Ausland.",
+      "quelle": "Bundestag, 15.10.2026; BT-Drs. 21/6280 (laut Politfacts)"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Was die Zahl misst",
+      "behauptung": "Brutto-Ausgaben von Bund, Ländern und Kommunen für Flucht und Migration, über zehn Jahre. Teile werden laut Prüfung doppelt gezählt.",
+      "labelB": "Was nicht darin steckt",
+      "fakt": "Steuern, Sozialbeiträge, Konsum und Wertschöpfung. Die Summe ist keine Nettobelastung.",
+      "quelle": "Politfacts, Realitätscheck zur 400-Milliarden-Rechnung"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Studienlage",
+      "titel": "Je nach Gruppe und Methode",
+      "text": "Eine vielzitierte niederländische Studie (IZA, Dezember 2024) sieht Arbeitsmigranten im Plus und Asylmigranten am stärksten im Minus, die Ergebnisse hängen von der Zuordnung öffentlicher Ausgaben ab. Für Deutschland rechnet Martin Werding (Bochum) mit einer Entlastung der Staatsfinanzen, Raffelhüschen (2024) mit höherer impliziter Verschuldung.",
+      "quelle": "IZA DP 17569; Mediendienst Integration, Werding 2025"
+     },
+     {
+      "typ": "zahl",
+      "label": "Der Arbeitsmarkt",
+      "zahl": "3,4 Mio.",
+      "text": "mehr Menschen im erwerbsfähigen Alter lebten 2024 unter Ausländern als 2014, bei Deutschen sank die Zahl um rund 3,9 Millionen. Seit 2024 kam das Beschäftigungswachstum laut Bundesagentur für Arbeit ausschließlich von ausländischen Beschäftigten.",
+      "quelle": "Bundesagentur für Arbeit, Presseinfo Nr. 25"
+     },
+     {
+      "typ": "meinung",
+      "text": "Zahlen zu Kosten und Integration gehören auf den Tisch, vollständig und mit den Einnahmen. Aber wer Menschen nach ihrem Nutzen bilanziert, macht aus Rechten eine Rechnung. Die Würde des Menschen ist unantastbar, auch dann, wenn jemand dem Staat nichts einbringt."
+     },
+     {
+      "typ": "cta",
+      "frage": "Sollte der Staat regelmäßig bilanzieren, was Zuwanderung kostet und einbringt?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Merz lädt zum Investitionsgipfel, Nvidia-Chef Huang kommt",
+    "caption": "Bundeskanzler Merz eröffnet in Berlin den ersten „Invest in Germany Summit“ mit rund 200 Konzernchefs und Investoren, Stargast ist Nvidia-Chef Jensen Huang. Die Bundesregierung will laut Handelsblatt einen dreistelligen Millionenbetrag in industrielle KI investieren. Gleichzeitig sind Deutschlands Investitionen von 2019 bis 2025 laut Allianz um 6,4 Prozent gefallen, in den USA stiegen sie um 20,2 Prozent. Unsere Einordnung: Ein Gipfel ersetzt keine Standortpolitik, und enge Bindung an einen US-Konzern schafft Abhängigkeit. Wie viel Abhängigkeit von US-Technologiekonzernen ist für Deutschland vertretbar?",
+    "hashtags": "#doytschlandtv #aktuell #merz #nvidia #investitionen #wirtschaft #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Wirtschaft · Berlin",
+      "titel": "Merz lädt zum Investitionsgipfel, Nvidia-Chef Huang kommt",
+      "rot": "Investitionsgipfel"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Gipfel",
+      "titel": "200 Chefs, ein Stargast.",
+      "text": "Beim ersten „Invest in Germany Summit“ in Berlin werden rund 200 internationale und deutsche Vorstandschefs von Konzernen, Banken und Fonds erwartet. Merz, Vizekanzler Klingbeil und das halbe Kabinett sind dabei. Die Regierung will mehr privates Kapital mobilisieren, Stargast ist Nvidia-Chef Jensen Huang.",
+      "quelle": "t-online (dpa), 19.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Nvidia-Partnerschaft",
+      "zahl": "dreistelliger Millionenbetrag",
+      "text": "will die Bundesregierung laut Handelsblatt in „Physical AI“ stecken: Roboter, autonome Fahrzeuge, automatisierte Fabriken, teils für Rechenkapazität in der KI-Cloud der Telekom. Nvidia schickt Ingenieure und Chips. Rund zwölf Unternehmen sollen mitmachen, darunter Siemens und Audi.",
+      "quelle": "ZDFheute (Handelsblatt), 19.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Ausgangslage",
+      "zahl": "−6,4 %",
+      "text": "sind Deutschlands Investitionen von 2019 bis 2025 gefallen. Im übrigen Euroraum stiegen sie um 6,7 Prozent, in den USA um 20,2 Prozent. Als Gründe nennt Allianz Research hohe Energiekosten, Steuern und Abgaben, Bürokratie und hohe Finanzierungskosten.",
+      "quelle": "Allianz Research, 16.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Abhängigkeit",
+      "titel": "Eine Frage der Souveränität",
+      "text": "Eine enge Bindung an einen US-Konzern wirft Fragen digitaler Souveränität auf. Huang sagt, entscheidend sei nicht, wer die Hardware baut, sondern wer Daten und Anwendungen kontrolliert, und was auf den Systemen laufe, solle in Deutschland genutzt werden. Das ist Huangs eigene Aussage.",
+      "quelle": "ZDFheute, 19.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Ein Gipfel ersetzt keine Standortpolitik. Solange Energiepreise, Genehmigungen und Bürokratie Investitionen bremsen, bleibt er Symbolpolitik. Und wer KI-Infrastruktur an einen US-Konzern bindet, macht sich von dessen Chips und Preisen abhängig."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie viel Abhängigkeit von US-Technologiekonzernen ist für Deutschland vertretbar?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -414,6 +573,39 @@ window.BRIEFINGS = [
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto"
     }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Ausland · Frankreich",
+    "titel": "Macron droht mit Demonstrationsverboten",
+    "rot": "Demonstrationsverboten",
+    "text": "Was angekündigt ist und was schon heute gilt, im Karussell, Link in der Bio.",
+    "quelle": "ORF; Stuttgarter Nachrichten (dpa), 18./19.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Inland · Bundestag",
+    "titel": "Was die 400-Milliarden-Zahl zur Migration misst",
+    "rot": "400-Milliarden-Zahl",
+    "text": "Antrag, Zahlen und Studienlage, im Karussell, Link in der Bio.",
+    "quelle": "Deutscher Bundestag; BA; IZA, 2024–2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Wirtschaft · Berlin",
+    "titel": "Merz-Gipfel: Nvidia kommt, Investitionen fehlen",
+    "rot": "Investitionen fehlen",
+    "text": "Zahlen, Partnerschaft und Abhängigkeit, im Karussell, Link in der Bio.",
+    "quelle": "t-online (dpa); ZDFheute; Allianz Research, 16.–19.10.2026",
+    "theme": "dark"
    }
   ]
  },
