@@ -530,44 +530,72 @@ window.BRIEFINGS = [
    },
    {
     "zusatz": true,
-    "thema": "Hofheim: Explosion an Dönerladen",
-    "caption": "In der Nacht zu Montag gegen 3:45 Uhr hat eine Explosion den Eingang des Imbisses „Umami Kebabkunst“ in Hofheim am Taunus schwer beschädigt. Niemand wurde verletzt. Die Polizei geht von einer vorsätzlichen Tat aus, Sprengstoffermittler und das LKA sind beteiligt. Täter und Motiv sind unklar, ob es einen Zusammenhang mit Explosionen vor Geschäften in Frankfurt und Offenbach gibt, ist offen. Wir sagen: Wer nachts einen Sprengsatz zündet, gefährdet Menschen. Spekulieren sollte man nicht, aufklären muss der Rechtsstaat. Was sollte gegen Sprengstoffanschläge auf Geschäfte getan werden?",
-    "hashtags": "#doytschlandtv #aktuell #hofheim #hessen #explosion #sicherheit #einordnung #nachrichten",
+    "thema": "Hofheim: Explosion an Dönerladen und die Serie im Rhein-Main-Gebiet",
+    "caption": "In der Nacht zu Montag hat eine Explosion den Eingang des Imbisses „Umami Kebabkunst“ in Hofheim am Taunus zerstört. Niemand wurde verletzt, die Polizei geht von Vorsatz aus. Ob die Tat zu den Explosionen und Brandanschlägen auf Geschäfte in Frankfurt und Offenbach gehört, ist offen. Wir zeigen die Chronik seit Juli 2025: von den Anschlägen auf Café und Pizzeria über Festnahmen und Urteil bis zu fünf Explosionen im September 2026. Ermittler sprechen von „Violence as a Service“: Jugendliche und junge Erwachsene werden online für Gewalttaten angeworben. Wir sagen: Das Ausmaß ist ernst, belegt ist aber nur, was Ermittler und Gerichte bestätigen. Was sollte der Staat gegen bezahlte Gewalt aus dem Netz tun?",
+    "hashtags": "#doytschlandtv #aktuell #hofheim #frankfurt #offenbach #hessen #explosion #sicherheit #einordnung #nachrichten",
     "slides": [
      {
       "typ": "hook",
-      "kicker": "Hessen · Hofheim",
-      "titel": "Hofheim: Explosion an Dönerladen, Polizei geht von Vorsatz aus",
+      "kicker": "Hessen · Rhein-Main",
+      "titel": "Explosion in Hofheim: Was über die Serie im Rhein-Main-Gebiet bekannt ist",
       "rot": "Explosion"
      },
      {
       "typ": "fakten",
-      "label": "Die Tat",
+      "label": "Hofheim, 19. Oktober",
       "titel": "Knall um 3:45 Uhr.",
-      "text": "In der Nacht zu Montag explodierte etwas am Eingang des Imbisses „Umami Kebabkunst“ in der Hattersheimer Straße im Zentrum von Hofheim. Glastüren wurden herausgerissen, Fenster zerbrachen, auch im Obergeschoss. Laut Polizei wurde niemand verletzt.",
+      "text": "Am Eingang des Imbisses „Umami Kebabkunst“ in der Hattersheimer Straße explodierte in der Nacht zu Montag ein Sprengsatz. Glastüren wurden herausgerissen, Fenster zerbrachen, auch im Obergeschoss. Niemand wurde verletzt. Die Polizei geht von Vorsatz aus, das LKA unterstützt. Täter und Motiv sind unbekannt.",
       "quelle": "hessenschau, 19.10.2026; news-stadt.de, 19.10.2026"
      },
      {
       "typ": "einordnung",
-      "label": "Die Ermittlungen",
-      "titel": "Vorsatz, aber kein Motiv.",
-      "text": "Die Polizei geht davon aus, dass der Sprengsatz absichtlich gezündet wurde. Sprengstoffermittler und Spurensicherung waren vor Ort, das LKA unterstützt. Zu Tätern und Motiv gibt es bisher keine Angaben, Verdächtige sind nicht genannt. Der Betreiber will am Mittwoch wieder öffnen.",
-      "quelle": "hessenschau, 19.10.2026; news-stadt.de, 19.10.2026"
+      "label": "Chronik 2025",
+      "titel": "Juli bis September: neun Taten.",
+      "text": "17. Juli: Explosion an einer Pizzeria in Offenbach. 29. Juli und 5. August: Brandanschläge auf ein Café in Frankfurt-Bockenheim, dazu Taten an Wohnhäusern in Taunusstein und Frankfurt-Zeilsheim. 7. September: Explosion an einem Kiosk in Neu-Isenburg, zwei Menschen leicht verletzt.",
+      "quelle": "hessenschau, 8.8.2025; hessenschau, 18.12.2025"
      },
      {
       "typ": "einordnung",
-      "label": "Der Zusammenhang",
-      "titel": "Ob es zusammenhängt, ist offen.",
-      "text": "In der Region gab es zuletzt mehrere Explosionen und Brandanschläge auf Geschäfte, etwa in Frankfurt und Offenbach. Für neun Fälle aus dem Sommer 2025 sitzen zwei junge Niederländer in Untersuchungshaft. Ob Hofheim damit zu tun hat, ist laut hessenschau völlig unklar.",
-      "quelle": "hessenschau, 19.10.2026; hessenschau (Serie Rhein-Main)"
+      "label": "Chronik 2025",
+      "titel": "Bis zum Jahresende.",
+      "text": "Ende Oktober: Explosion am Eingang eines Restaurants in Frankfurt. 18. Dezember: Explosion vor einer Shisha-Bar in Offenbach. Die Polizei kannte vorher einen Hinweis und verstärkte die Präsenz. Zwei Niederländer, 20 und 28, wurden auf der A3 gestellt und kamen in Untersuchungshaft.",
+      "quelle": "hessenschau, 18.12.2025"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Chronik 2026",
+      "titel": "Festnahme und Urteil.",
+      "text": "3. März: Ein 20-jähriger Niederländer wird als mutmaßlicher Kopf der Gruppe festgenommen. Er soll Täter angeworben, angeleitet und überwacht haben. 23. März: Das Landgericht Frankfurt verurteilt einen 15-Jährigen wegen versuchten Mordes und Brandstiftung zu 4 Jahren und 3 Monaten Jugendstrafe.",
+      "quelle": "hessenschau, 4.3.2026 und 23.3.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Chronik 2026",
+      "titel": "Fünf Explosionen in fünf Tagen.",
+      "text": "13. September: Sprengsätze in Offenbach und an einem Kiosk in Frankfurt-Sachsenhausen, ein 15-Jähriger wird festgenommen. 14. September: Eingangstür eines Mehrfamilienhauses in Bockenheim. 17. September: zwei Sprengsätze in Frankfurt, an einem Café und einer Shisha-Bar. Verletzte gab es laut Polizei nicht.",
+      "quelle": "t-online (dpa), 17.9.2026; ms-aktuell, 17.9.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Das Muster",
+      "titel": "„Violence as a Service“",
+      "text": "Ermittler sprechen von arbeitsteiliger Gewalt: Jugendliche und junge Erwachsene werden online angeworben, etwa über Snapchat, bekommen Geld versprochen, reisen für die Tat an und fahren zurück. Im Café-Fall waren es 3.000 Euro. Die Ermittler ordnen das der Organisierten Kriminalität zu, ein Auftraggeber ist bisher nicht benannt.",
+      "quelle": "hessenschau, 23.3.2026; hessenschau, 4.3.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Hofheim",
+      "titel": "Ob es dazugehört, ist offen.",
+      "text": "Für Hofheim gibt es keine Tatverdächtigen und keine Angaben zum Motiv. Ob die Tat mit den Explosionen in Frankfurt und Offenbach zusammenhängt, ist laut Polizei und Medienberichten unklar. Wer das schon jetzt behauptet, weiß mehr als die Ermittler.",
+      "quelle": "hessenschau, 19.10.2026"
      },
      {
       "typ": "meinung",
-      "text": "Wer nachts einen Sprengsatz an einem Geschäft zündet, gefährdet Menschenleben, auch wenn diesmal niemand verletzt wurde. Das Motiv ist offen, deshalb spekulieren wir nicht und machen niemanden verantwortlich. Aufklären muss der Rechtsstaat, konsequent und ohne Vorverurteilung."
+      "text": "Eine Serie, die seit mehr als einem Jahr läuft, mit Sprengsätzen vor Geschäften und Menschen in der Nähe, darf der Staat nicht als Einzelfälle behandeln. Aber auch hier gilt: Belegt ist nur, was Ermittler und Gerichte bestätigen. Für Hofheim heißt das abwarten, nicht spekulieren."
      },
      {
       "typ": "cta",
-      "frage": "Was sollte der Staat gegen Sprengstoffanschläge auf Geschäfte tun?"
+      "frage": "Was sollte der Staat gegen bezahlte Gewalt tun, die online angeworben wird?"
      }
     ]
    }
@@ -684,11 +712,11 @@ window.BRIEFINGS = [
     "zusatz": true,
     "art": "nachricht",
     "band": "Aktuell",
-    "kicker": "Hessen · Hofheim",
-    "titel": "Explosion an Dönerladen in Hofheim",
+    "kicker": "Hessen · Rhein-Main",
+    "titel": "Hofheim: Explosion an Dönerladen, die Chronik der Serie",
     "rot": "Explosion",
-    "text": "Was die Polizei bisher weiß und was offen ist, im Karussell, Link in der Bio.",
-    "quelle": "hessenschau; news-stadt.de, 19.10.2026",
+    "text": "Was bekannt ist und was offen bleibt, im Karussell, Link in der Bio.",
+    "quelle": "hessenschau; t-online (dpa), 2025/2026",
     "theme": "dark"
    }
   ]
