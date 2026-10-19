@@ -527,6 +527,49 @@ window.BRIEFINGS = [
       "frage": "Wie viel Abhängigkeit von US-Technologiekonzernen ist für Deutschland vertretbar?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Hofheim: Explosion an Dönerladen",
+    "caption": "In der Nacht zu Montag gegen 3:45 Uhr hat eine Explosion den Eingang des Imbisses „Umami Kebabkunst“ in Hofheim am Taunus schwer beschädigt. Niemand wurde verletzt. Die Polizei geht von einer vorsätzlichen Tat aus, Sprengstoffermittler und das LKA sind beteiligt. Täter und Motiv sind unklar, ob es einen Zusammenhang mit Explosionen vor Geschäften in Frankfurt und Offenbach gibt, ist offen. Wir sagen: Wer nachts einen Sprengsatz zündet, gefährdet Menschen. Spekulieren sollte man nicht, aufklären muss der Rechtsstaat. Was sollte gegen Sprengstoffanschläge auf Geschäfte getan werden?",
+    "hashtags": "#doytschlandtv #aktuell #hofheim #hessen #explosion #sicherheit #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Hessen · Hofheim",
+      "titel": "Hofheim: Explosion an Dönerladen, Polizei geht von Vorsatz aus",
+      "rot": "Explosion"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Tat",
+      "titel": "Knall um 3:45 Uhr.",
+      "text": "In der Nacht zu Montag explodierte etwas am Eingang des Imbisses „Umami Kebabkunst“ in der Hattersheimer Straße im Zentrum von Hofheim. Glastüren wurden herausgerissen, Fenster zerbrachen, auch im Obergeschoss. Laut Polizei wurde niemand verletzt.",
+      "quelle": "hessenschau, 19.10.2026; news-stadt.de, 19.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Ermittlungen",
+      "titel": "Vorsatz, aber kein Motiv.",
+      "text": "Die Polizei geht davon aus, dass der Sprengsatz absichtlich gezündet wurde. Sprengstoffermittler und Spurensicherung waren vor Ort, das LKA unterstützt. Zu Tätern und Motiv gibt es bisher keine Angaben, Verdächtige sind nicht genannt. Der Betreiber will am Mittwoch wieder öffnen.",
+      "quelle": "hessenschau, 19.10.2026; news-stadt.de, 19.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Der Zusammenhang",
+      "titel": "Ob es zusammenhängt, ist offen.",
+      "text": "In der Region gab es zuletzt mehrere Explosionen und Brandanschläge auf Geschäfte, etwa in Frankfurt und Offenbach. Für neun Fälle aus dem Sommer 2025 sitzen zwei junge Niederländer in Untersuchungshaft. Ob Hofheim damit zu tun hat, ist laut hessenschau völlig unklar.",
+      "quelle": "hessenschau, 19.10.2026; hessenschau (Serie Rhein-Main)"
+     },
+     {
+      "typ": "meinung",
+      "text": "Wer nachts einen Sprengsatz an einem Geschäft zündet, gefährdet Menschenleben, auch wenn diesmal niemand verletzt wurde. Das Motiv ist offen, deshalb spekulieren wir nicht und machen niemanden verantwortlich. Aufklären muss der Rechtsstaat, konsequent und ohne Vorverurteilung."
+     },
+     {
+      "typ": "cta",
+      "frage": "Was sollte der Staat gegen Sprengstoffanschläge auf Geschäfte tun?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -636,6 +679,17 @@ window.BRIEFINGS = [
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto"
     }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Hessen · Hofheim",
+    "titel": "Explosion an Dönerladen in Hofheim",
+    "rot": "Explosion",
+    "text": "Was die Polizei bisher weiß und was offen ist, im Karussell, Link in der Bio.",
+    "quelle": "hessenschau; news-stadt.de, 19.10.2026",
+    "theme": "dark"
    }
   ]
  },
