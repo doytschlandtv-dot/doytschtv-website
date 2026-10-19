@@ -420,7 +420,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Inland · Bundestag",
       "titel": "AfD will Kosten und Nutzen der Zuwanderung bilanzieren",
-      "rot": "bilanzieren"
+      "rot": "bilanzieren",
+      "bild": {
+       "url": "titel-migration.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
