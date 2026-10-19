@@ -366,7 +366,7 @@ window.BRIEFINGS = [
       "titel": "Frankreich: Macron droht mit Demonstrationsverboten",
       "rot": "Demonstrationsverboten",
       "bild": {
-       "url": "titel-frankreich.jpg",
+       "url": "titel-macron.jpg",
        "fokus": 0.5,
        "unter": "Illustration, KI-generiert, kein Foto"
       }
