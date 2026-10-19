@@ -538,7 +538,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Hessen · Rhein-Main",
       "titel": "Explosionen vor Geschäften: Was bekannt ist und was nicht",
-      "rot": "Explosionen vor Geschäften"
+      "rot": "Explosionen vor Geschäften",
+      "bild": {
+       "url": "titel-hofheim.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto vom Tatort"
+      }
      },
      {
       "typ": "fakten",
@@ -717,7 +722,12 @@ window.BRIEFINGS = [
     "rot": "Explosionen vor Geschäften",
     "text": "Hofheim, die Serie und die Lehre aus dem NSU, im Karussell, Link in der Bio.",
     "quelle": "hessenschau; t-online (dpa); WNOZ (dpa), 2025/2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-hofheim.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto vom Tatort"
+    }
    }
   ]
  },
