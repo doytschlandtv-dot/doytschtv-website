@@ -593,7 +593,12 @@ window.BRIEFINGS = [
     "rot": "Demonstrationsverboten",
     "text": "Was angekündigt ist und was schon heute gilt, im Karussell, Link in der Bio.",
     "quelle": "ORF; Stuttgarter Nachrichten (dpa), 18./19.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-macron.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    },
    {
     "zusatz": true,
@@ -604,7 +609,12 @@ window.BRIEFINGS = [
     "rot": "400-Milliarden-Zahl",
     "text": "Antrag, Zahlen und Studienlage, im Karussell, Link in der Bio.",
     "quelle": "Deutscher Bundestag; BA; IZA, 2024–2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-migration.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    },
    {
     "zusatz": true,
