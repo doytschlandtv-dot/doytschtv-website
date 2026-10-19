@@ -530,68 +530,68 @@ window.BRIEFINGS = [
    },
    {
     "zusatz": true,
-    "thema": "Hofheim: Explosion an Dönerladen und die Serie im Rhein-Main-Gebiet",
-    "caption": "In der Nacht zu Montag hat eine Explosion den Eingang des Imbisses „Umami Kebabkunst“ in Hofheim am Taunus zerstört. Niemand wurde verletzt, die Polizei geht von Vorsatz aus. Ob die Tat zu den Explosionen und Brandanschlägen auf Geschäfte in Frankfurt und Offenbach gehört, ist offen. Wir zeigen die Chronik seit Juli 2025: von den Anschlägen auf Café und Pizzeria über Festnahmen und Urteil bis zu fünf Explosionen im September 2026. Ermittler sprechen von „Violence as a Service“: Jugendliche und junge Erwachsene werden online für Gewalttaten angeworben. Wir sagen: Das Ausmaß ist ernst, belegt ist aber nur, was Ermittler und Gerichte bestätigen. Was sollte der Staat gegen bezahlte Gewalt aus dem Netz tun?",
-    "hashtags": "#doytschlandtv #aktuell #hofheim #frankfurt #offenbach #hessen #explosion #sicherheit #einordnung #nachrichten",
+    "thema": "Explosionen vor Geschäften: Hofheim und die Serie im Rhein-Main-Gebiet",
+    "caption": "In der Nacht zu Montag hat eine Explosion den Eingang des Imbisses „Umami Kebabkunst“ in Hofheim zerstört. Niemand wurde verletzt, die Polizei geht von Vorsatz aus, Täter und Motiv sind unbekannt. Seit Sommer 2025 gab es im Rhein-Main-Gebiet viele Sprengsätze und Brandanschläge auf Cafés, Bars und Kioske. Ermittler sprechen von „Violence as a Service“: Jugendliche werden online angeworben und bezahlt. Sie ordnen die Taten der Organisierten Kriminalität zu. Wir sagen: Das ist ernst genug, ohne Spekulation. Beim NSU wurde jahrelang im „Milieu“ ermittelt, bis die Wahrheit eine andere war. Deshalb gilt für Hofheim: alle Richtungen prüfen, Betroffene nicht verdächtigen. Wie siehst du das?",
+    "hashtags": "#doytschlandtv #aktuell #hofheim #frankfurt #hessen #explosion #nsu #sicherheit #einordnung #nachrichten",
     "slides": [
      {
       "typ": "hook",
       "kicker": "Hessen · Rhein-Main",
-      "titel": "Explosion in Hofheim: Was über die Serie im Rhein-Main-Gebiet bekannt ist",
-      "rot": "Explosion"
+      "titel": "Explosionen vor Geschäften: Was bekannt ist und was nicht",
+      "rot": "Explosionen vor Geschäften"
      },
      {
       "typ": "fakten",
       "label": "Hofheim, 19. Oktober",
       "titel": "Knall um 3:45 Uhr.",
-      "text": "Am Eingang des Imbisses „Umami Kebabkunst“ in der Hattersheimer Straße explodierte in der Nacht zu Montag ein Sprengsatz. Glastüren wurden herausgerissen, Fenster zerbrachen, auch im Obergeschoss. Niemand wurde verletzt. Die Polizei geht von Vorsatz aus, das LKA unterstützt. Täter und Motiv sind unbekannt.",
+      "text": "Am Eingang des Imbisses „Umami Kebabkunst“ explodierte in der Nacht zu Montag ein Sprengsatz. Glastüren wurden herausgerissen, Fenster zerbrachen, auch im Obergeschoss. Niemand wurde verletzt. Die Polizei geht von Vorsatz aus, das LKA unterstützt. Täter und Motiv sind unbekannt.",
       "quelle": "hessenschau, 19.10.2026; news-stadt.de, 19.10.2026"
      },
      {
       "typ": "einordnung",
-      "label": "Chronik 2025",
-      "titel": "Juli bis September: neun Taten.",
-      "text": "17. Juli: Explosion an einer Pizzeria in Offenbach. 29. Juli und 5. August: Brandanschläge auf ein Café in Frankfurt-Bockenheim, dazu Taten an Wohnhäusern in Taunusstein und Frankfurt-Zeilsheim. 7. September: Explosion an einem Kiosk in Neu-Isenburg, zwei Menschen leicht verletzt.",
-      "quelle": "hessenschau, 8.8.2025; hessenschau, 18.12.2025"
+      "label": "Die Chronik",
+      "titel": "Seit Sommer 2025.",
+      "text": "2025: Pizzeria Offenbach (17.7.), Café Bockenheim (29.7. und 5.8.), Kiosk Neu-Isenburg (7.9.), Shisha-Bar Offenbach (18.12.). 2026: Mutmaßlicher Kopf festgenommen (3.3.), 15-Jähriger zu 4 Jahren 3 Monaten Jugendstrafe verurteilt (23.3.), fünf Explosionen in Frankfurt und Offenbach vom 13. bis 17. September.",
+      "quelle": "hessenschau, 8.8.2025, 18.12.2025, 4.3. und 23.3.2026; t-online (dpa), 17.9.2026"
      },
      {
       "typ": "einordnung",
-      "label": "Chronik 2025",
-      "titel": "Bis zum Jahresende.",
-      "text": "Ende Oktober: Explosion am Eingang eines Restaurants in Frankfurt. 18. Dezember: Explosion vor einer Shisha-Bar in Offenbach. Die Polizei kannte vorher einen Hinweis und verstärkte die Präsenz. Zwei Niederländer, 20 und 28, wurden auf der A3 gestellt und kamen in Untersuchungshaft.",
-      "quelle": "hessenschau, 18.12.2025"
+      "label": "Die Orte",
+      "titel": "Es wird nichts erbeutet.",
+      "text": "Getroffen wurden Cafés, Bars, Shisha-Bars, Kioske, ein Imbiss und Hauseingänge, meist nachts, meist ohne Verletzte. Die Täter kennen die Opfer in der Regel nicht. Sie bekommen nur eine Adresse und müssen die Tat filmen. Bei einem Geldautomaten ginge es um Beute, hier offenbar um Einschüchterung.",
+      "quelle": "hessenschau, 17.3.2026; WNOZ (dpa), Hessisches LKA"
      },
      {
       "typ": "einordnung",
-      "label": "Chronik 2026",
-      "titel": "Festnahme und Urteil.",
-      "text": "3. März: Ein 20-jähriger Niederländer wird als mutmaßlicher Kopf der Gruppe festgenommen. Er soll Täter angeworben, angeleitet und überwacht haben. 23. März: Das Landgericht Frankfurt verurteilt einen 15-Jährigen wegen versuchten Mordes und Brandstiftung zu 4 Jahren und 3 Monaten Jugendstrafe.",
-      "quelle": "hessenschau, 4.3.2026 und 23.3.2026"
-     },
-     {
-      "typ": "einordnung",
-      "label": "Chronik 2026",
-      "titel": "Fünf Explosionen in fünf Tagen.",
-      "text": "13. September: Sprengsätze in Offenbach und an einem Kiosk in Frankfurt-Sachsenhausen, ein 15-Jähriger wird festgenommen. 14. September: Eingangstür eines Mehrfamilienhauses in Bockenheim. 17. September: zwei Sprengsätze in Frankfurt, an einem Café und einer Shisha-Bar. Verletzte gab es laut Polizei nicht.",
-      "quelle": "t-online (dpa), 17.9.2026; ms-aktuell, 17.9.2026"
-     },
-     {
-      "typ": "einordnung",
-      "label": "Das Muster",
+      "label": "Die Hintermänner",
       "titel": "„Violence as a Service“",
-      "text": "Ermittler sprechen von arbeitsteiliger Gewalt: Jugendliche und junge Erwachsene werden online angeworben, etwa über Snapchat, bekommen Geld versprochen, reisen für die Tat an und fahren zurück. Im Café-Fall waren es 3.000 Euro. Die Ermittler ordnen das der Organisierten Kriminalität zu, ein Auftraggeber ist bisher nicht benannt.",
-      "quelle": "hessenschau, 23.3.2026; hessenschau, 4.3.2026"
+      "text": "Jugendliche und junge Erwachsene werden online angeworben und bezahlt, im Café-Fall mit 3.000 Euro. Als mögliche Motive nennt das LKA Einschüchterung von Rivalen im Drogenhandel oder von Zeugen, Schutzgelderpressung und Rache. In Hessen zählte das LKA 2025 19 solcher Taten. Europol meldet 280 Festnahmen in einem Jahr.",
+      "quelle": "hessenschau, 17.3.2026; WNOZ (dpa); AP/WTOP, April 2026"
      },
      {
       "typ": "einordnung",
-      "label": "Hofheim",
-      "titel": "Ob es dazugehört, ist offen.",
-      "text": "Für Hofheim gibt es keine Tatverdächtigen und keine Angaben zum Motiv. Ob die Tat mit den Explosionen in Frankfurt und Offenbach zusammenhängt, ist laut Polizei und Medienberichten unklar. Wer das schon jetzt behauptet, weiß mehr als die Ermittler.",
-      "quelle": "hessenschau, 19.10.2026"
+      "label": "Auch anderswo",
+      "titel": "Köln und Kassel.",
+      "text": "In Köln und Nordrhein-Westfalen ließ eine Bande nach dem Diebstahl von rund 300 Kilogramm Cannabis Rivalen mit elf Sprengstoffanschlägen einschüchtern, 35 Verdächtige wurden ermittelt. In Kassel wurden Gastronomen erpresst und mit Brandsätzen angegriffen, fünf Verdächtige sitzen fest.",
+      "quelle": "Tagesspiegel, 23.1.2025; hessenschau, 13.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "NSU",
+      "behauptung": "Menschen, ausgewählt nach Herkunft, von einer festen rechtsextremen Gruppe ermordet, zehn Todesopfer.",
+      "labelB": "Heute, nach Ermittlerangaben",
+      "fakt": "Geschäftsräume, meist nachts, ohne Verletzte, von wechselnden bezahlten Tätern. Ein rechter Hintergrund wird in den Berichten nicht genannt."
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Lehre",
+      "titel": "Nicht wieder nur „Milieu“.",
+      "text": "Beim NSU suchten Ermittler jahrelang in der Organisierten Kriminalität und im Umfeld der Opfer. Familien wurden verdächtigt, ihre Hinweise auf Rechtsextreme kaum verfolgt. Der Bundestags-Untersuchungsausschuss kritisierte, dass daran festgehalten wurde, obwohl Spur um Spur ergebnislos blieb.",
+      "quelle": "bpb; Grundrechte-Report 2014 (Humanistische Union)"
      },
      {
       "typ": "meinung",
-      "text": "Eine Serie, die seit mehr als einem Jahr läuft, mit Sprengsätzen vor Geschäften und Menschen in der Nähe, darf der Staat nicht als Einzelfälle behandeln. Aber auch hier gilt: Belegt ist nur, was Ermittler und Gerichte bestätigen. Für Hofheim heißt das abwarten, nicht spekulieren."
+      "text": "Ermittler sehen ein Muster aus bezahlter Gewalt, und das ist ernst genug. Aber der NSU zeigt, was passiert, wenn man zu früh festlegt. Für Hofheim heißt das: alle Richtungen prüfen, die Betroffenen nicht verdächtigen und erst urteilen, wenn Ermittler und Gerichte es belegen."
      },
      {
       "typ": "cta",
@@ -713,10 +713,10 @@ window.BRIEFINGS = [
     "art": "nachricht",
     "band": "Aktuell",
     "kicker": "Hessen · Rhein-Main",
-    "titel": "Hofheim: Explosion an Dönerladen, die Chronik der Serie",
-    "rot": "Explosion",
-    "text": "Was bekannt ist und was offen bleibt, im Karussell, Link in der Bio.",
-    "quelle": "hessenschau; t-online (dpa), 2025/2026",
+    "titel": "Explosionen vor Geschäften: Was bekannt ist und was nicht",
+    "rot": "Explosionen vor Geschäften",
+    "text": "Hofheim, die Serie und die Lehre aus dem NSU, im Karussell, Link in der Bio.",
+    "quelle": "hessenschau; t-online (dpa); WNOZ (dpa), 2025/2026",
     "theme": "dark"
    }
   ]
