@@ -32,7 +32,7 @@ def slide_text(s):
 def nachrichten():
     o = []
     for d in B:
-        for k in d.get("karussells") or []:
+        for k in reversed(d.get("karussells") or []):
             o.append(f"<article><h2><a href=\"{beitrag_pfad(d['datum'], k['thema'])}\">{e(k['thema'])}</a></h2><p><em>{e(datum(d['datum']))}</em></p>")
             o.append("<ol>" + "".join("<li>" + e(" – ".join(slide_text(s))) + "</li>" for s in k["slides"]) + "</ol>")
             if k.get("caption"): o.append(f"<p>{e(k['caption'])}</p>")
