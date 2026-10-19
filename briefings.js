@@ -483,7 +483,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Wirtschaft · Berlin",
       "titel": "Merz lädt zum Investitionsgipfel, Nvidia-Chef Huang kommt",
-      "rot": "Investitionsgipfel"
+      "rot": "Investitionsgipfel",
+      "bild": {
+       "url": "titel-merz.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -625,7 +630,12 @@ window.BRIEFINGS = [
     "rot": "Investitionen fehlen",
     "text": "Zahlen, Partnerschaft und Abhängigkeit, im Karussell, Link in der Bio.",
     "quelle": "t-online (dpa); ZDFheute; Allianz Research, 16.–19.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-merz.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    }
   ]
  },
