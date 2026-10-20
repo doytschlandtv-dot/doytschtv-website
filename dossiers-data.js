@@ -512,7 +512,7 @@ window.DOSSIERS = [
     "id": "anwerbeabkommen-tuerkei-65-jahre",
     "datum": "2026-10-20",
     "titel": "65 Jahre Anwerbeabkommen: Was 1961 vereinbart wurde und was daraus wurde",
-    "teaser": "Von einem Notenwechsel am 30. Oktober 1961 bis heute: erst die Chronik mit Zahlen, Gesetzen und Ereignissen, dann ein Blick von innen. Dazu ein Blick von innen: drei Generationen, drei Zimmer.",
+    "teaser": "Von einem Notenwechsel am 30. Oktober 1961 bis heute: erst die Chronik mit Zahlen, Gesetzen und Ereignissen, dann ein Blick von innen. Dazu ein Blick von innen: drei Generationen, drei Räume.",
     "aussage": {
      "zitat": "Wir riefen Arbeitskräfte, und es kamen Menschen.",
      "wer": "Max Frisch, Schriftsteller",
@@ -614,19 +614,19 @@ window.DOSSIERS = [
       ]
      },
      {
-      "h": "Die drei Räume: Warum Großeltern, Eltern und Enkel dieselbe Geschichte verschieden erzählen",
+      "h": "Die drei Räume: Wie sich Identität über drei Generationen wandelt",
       "t": [
-       "Die Chronik zeigt, was geschah. Sie erklärt nicht, warum die Gastarbeiter, ihre Kinder und ihre Enkel dieselbe Geschichte so verschieden erleben. Dafür hilft ein einfaches Bild: drei Zimmer, durch die eine Familie nacheinander geht.",
-       "Jede Generation wächst in einem anderen Zimmer auf. Nicht weil sie andere Werte hätte, sondern weil das Zimmer anders eingerichtet ist: andere Zwänge, andere Möglichkeiten, andere Fragen, die man überhaupt stellen darf. Wir nennen diese Zimmer Räume.",
-       "Der erste Raum ist der Opferraum, das Zimmer der ersten Generation. Sie kam, um zu arbeiten. Ihr Satz: „Wir tragen heute, damit ihr morgen tragen könnt.“ Die Frage „Was will ich?“ hatte hier keinen Platz, das Eigene musste warten, damit die Kinder es besser haben. Der Preis war das Schweigen. Das Erbe: Fleiß und Loyalität. „Opfer“ meint hier nicht Schwäche, sondern Verzicht.",
-       "Der zweite Raum ist der Konfliktraum, das Zimmer der zweiten Generation, der Kinder. Zu Hause Türkisch, draußen Deutsch, und beides nie ganz sicher. Sie übersetzten Briefe und Behördengänge für ihre Eltern, schon als Kinder. Der Preis: Sie trugen früh Verantwortung und standen selten selbst im Mittelpunkt. Das Erbe: ein feines Gespür für Situationen und die Fähigkeit, Widersprüche auszuhalten.",
-       "Der dritte Raum ist der Syntheseraum, das Zimmer der dritten Generation, der Enkel. Sie sprechen die Sprache beider Welten und erleben ihre Herkunft nicht mehr nur als Last. Ihre Aufgabe: aus beidem etwas Eigenes bauen. Der Preis: Auch das ist Arbeit und Reibung, nicht automatisch Harmonie.",
-       "Das heißt nicht, dass die Enkel „besser integriert“ wären als ihre Eltern. Sie stehen auf den Schultern der beiden Generationen vor ihnen und leben in einer anderen Lage. Jeder Raum ist aus dem vorhergehenden hervorgegangen, keiner wäre ohne ihn denkbar."
+       "Die Chronik zeigt, was geschah. Das Drei-Räume-Modell beschreibt, was daraus für die Menschen wurde: wie sich Lebensumstände, Werte und Rolle in der Gesellschaft von der ersten Generation, den Gastarbeitern, über ihre Kinder bis zu den Enkeln gewandelt haben, hier am Beispiel der türkischen Arbeitsmigration in Deutschland.",
+       "Die Kernbotschaft: Die Nachkommen der Gastarbeiter sind nicht einfach „besser integriert“. Sie handeln in einem völlig anderen Raum. Die Entwicklung verläuft als zusammenhängender Generationenprozess, von der Entbehrung (Opferraum) über die Aushandlung (Konfliktraum) zur Mitgestaltung (Syntheseraum). Jeder Raum ist aus dem vorhergehenden hervorgegangen, keiner wäre ohne ihn denkbar.",
+       "Die Räume sind keine Zeitabschnitte, sondern Lagen mit eigenen Zwängen, Möglichkeiten und Fragen. Sie überlappen sich, und manche Familie lebt in allen dreien zugleich."
       ]
      },
      {
       "h": "Erster Raum, Opferraum: Arbeiten und schweigen",
       "t": [
+       "Kontext: Die erste Generation kam in ein fremdes Land, nicht zur Selbstverwirklichung, sondern aus wirtschaftlicher Notwendigkeit, um die Familie zu versorgen.",
+       "Lebensgefühl und Rolle: Der Alltag war von körperlich harter Arbeit, Entbehrung und oft prekären Lebensverhältnissen geprägt. Die Mehrheitsgesellschaft nahm sie vor allem als temporäre Arbeitskräfte wahr, nicht als gleichberechtigte Bürger.",
+       "Haltung: Pflichtidentität. Eigene Wünsche und Gefühle wurden zurückgestellt. Dahinter stand ein stilles Versprechen an die Nachkommen: „Wir tragen heute, damit ihr morgen tragen könnt.“",
        "„Die erste Generation der türkischen Gastarbeiter kam nicht nach Deutschland, um sich zu verwirklichen. Sie kam, um zu arbeiten. [...] Migration war für sie kein Projekt der Identitätsfindung, sondern eine Entscheidung unter Bedingungen der Notwendigkeit.“",
        "„Der Begriff ‚Gastarbeiter‘ trägt diese Ambivalenz bis heute in sich. Er suggeriert Gastfreundschaft, meint aber Funktion. Er klingt nach Einladung, beschreibt jedoch Austauschbarkeit. Wer als Gast kommt, bleibt nicht. Wer arbeitet, soll funktionieren.“",
        "„Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
@@ -644,6 +644,9 @@ window.DOSSIERS = [
      {
       "h": "Zweiter Raum, Konfliktraum: Zwischen den Welten übersetzen",
       "t": [
+       "Kontext: Die zweite Generation wuchs zwischen zwei Welten auf, den traditionellen Werten des Elternhauses und den Erwartungen der deutschen Gesellschaft.",
+       "Lebensgefühl und Rolle: Dauerhafte Zerrissenheit, Zugehörigkeit musste ständig neu verhandelt werden. Früh übersetzten die Kinder für ihre Eltern, bei Behörden, Ärzten und in der Schule, und lernten dabei, Situationen und Machtverhältnisse genau zu lesen.",
+       "Haltung: Eine ambivalente Identität. Hohe Übersetzungs- und Anpassungsfähigkeit, aber ein Dauerspannungsfeld zwischen der Loyalität zum Opfer der Eltern und dem Wunsch nach Aufstieg und Eigenständigkeit.",
        "„Viele kamen im Zuge der Familienzusammenführung erst Jahre später nach. [...] Sie lernten die Sprache der Herkunft, wuchsen in vertrauten sozialen Ordnungen auf, und kannten ihre Väter oft nur aus den Sommerferien. Manche vergaßen ihre Gesichter.“",
        "„Meine Mutter erzählte mir, dass sie bei ihrer Ankunft in Deutschland ihren Vater zunächst als einen fremden Mann wahrnahm. Er roch anders als in ihrer Vorstellung: nicht nach Sonne und Erde, sondern nach Metall, Schweiß und kaltem Zigarettenrauch.“",
        "„Mein Vater war ein sehr guter Schüler. [...] Er sollte den Geruch einer Flüssigkeit beschreiben. Auf Türkisch hätte er präzise Worte gefunden. Auf Deutsch blieb ihm nur eine ungenaue Formulierung: ‚stinkt nicht‘. Die Klasse lachte. Der Lehrer korrigierte nicht.“",
@@ -654,6 +657,9 @@ window.DOSSIERS = [
      {
       "h": "Dritter Raum, Syntheseraum: Aus beidem etwas Eigenes bauen",
       "t": [
+       "Kontext: Die dritte Generation ist hier geboren, aufgewachsen, ausgebildet und gesellschaftlich wie beruflich verankert.",
+       "Lebensgefühl und Rolle: Die Herkunftskultur ist kein Hindernis mehr, und die deutsche Gesellschaft kein fremder Raum, in den man sich erst hineinbeweisen muss. Die Einflüsse beider Welten gehören selbstverständlich zusammen.",
+       "Haltung: Gestaltungsidentität. Die mehrkulturelle Prägung gilt als Ressource. An die Stelle der Frage „Wer dürfen wir sein?“ tritt die Frage „Welche Verantwortung übernehmen wir für das Gemeinwesen?“",
        "„Die dritte Generation erlebt die Herkunftskultur nicht mehr primär als Verpflichtung oder Einschränkung, sondern als Ressource. Zugleich erlebt sie die deutsche Mehrheitsgesellschaft nicht als fremden Raum, in den man sich erst hineinbeweisen muss, sondern als selbstverständlichen sozialen Rahmen, als Heimat, die nicht nur bewohnt, sondern mitgestaltet werden darf. Sie navigiert nicht mehr zwischen Identitäten, sondern mit Identitäten.“",
        "Die dritte Generation erbt von der ersten den Antrieb, etwas zu leisten, und von der zweiten die Erfahrung, zwischen den Welten zu stehen. Daraus kann etwas Eigenes entstehen: Herkunft und Zugehörigkeit stehen nicht mehr gegeneinander. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
        "Das Modell ist eine Deutung, keine Statistik. Es beansprucht nicht, jede Familie zu beschreiben, und nicht jeder Angehörige der dritten Generation nutzt diesen Raum."
@@ -782,29 +788,29 @@ window.DOSSIERS = [
       {
        "typ": "fakten",
        "label": "Der Blick von innen",
-       "titel": "Drei Generationen, drei Zimmer.",
-       "text": "Die Chronik sagt, was geschah. Aber warum erzählen die Gastarbeiter, ihre Kinder und ihre Enkel dieselbe Geschichte so verschieden? Jede Generation wuchs in einem anderen Zimmer auf, mit eigenen Zwängen und eigenen Fragen. Wir nennen sie Räume.",
+       "titel": "Drei Generationen, drei Räume.",
+       "text": "Die Chronik sagt, was geschah. Das Drei-Räume-Modell beschreibt, wie sich Identität über drei Generationen wandelt: von der Entbehrung über die Aushandlung zur Mitgestaltung. Die Enkel sind nicht einfach besser integriert, sie handeln in einem anderen Raum.",
        "quelle": "Dossier, drei Räume"
       },
       {
        "typ": "einordnung",
        "label": "Opferraum · erste Generation",
        "titel": "Arbeiten und schweigen.",
-       "text": "Sie kamen, um zu arbeiten, nicht um sich zu verwirklichen. Das Eigene musste warten. „Wir tragen heute, damit ihr morgen tragen könnt.“ Für die Frage „Was will ich?“ war kein Platz.",
+       "text": "Sie kamen aus wirtschaftlicher Notwendigkeit, nicht zur Selbstverwirklichung. Für das Land waren sie Arbeitskräfte, nicht Bürger. Eigene Wünsche wurden zurückgestellt: „Wir tragen heute, damit ihr morgen tragen könnt.“",
        "quelle": "Dossier, drei Räume"
       },
       {
        "typ": "einordnung",
        "label": "Konfliktraum · zweite Generation",
        "titel": "Zwischen den Welten.",
-       "text": "Oft kamen die Kinder Jahre nach den Vätern. Zu Hause Türkisch, in der Schule Deutsch, und beides nie ganz sicher. Schon als Kinder übersetzten sie Briefe und Behördengänge. „Wer immer erklärt, kommt kaum dazu, sich zu fragen, was er eigentlich will.“",
+       "text": "Zerrissen zwischen Elternhaus und Gesellschaft. Schon als Kinder übersetzten sie bei Behörden, Ärzten und in der Schule. Das schärfte den Blick, doch Loyalität zu den Eltern und der Wunsch nach Aufstieg zogen in zwei Richtungen.",
        "quelle": "Dossier, drei Räume"
       },
       {
        "typ": "einordnung",
        "label": "Syntheseraum · dritte Generation",
        "titel": "Aus beidem etwas Eigenes.",
-       "text": "Die Enkel sprechen beide Welten und erleben ihre Herkunft nicht mehr nur als Last. Ihre Aufgabe: daraus etwas Eigenes bauen. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+       "text": "Hier geboren, ausgebildet, verankert. Die Herkunft ist kein Hindernis mehr, sondern Ressource. Statt „Wer dürfen wir sein?“ lautet die Frage: Welche Verantwortung übernehmen wir für das Gemeinwesen?",
        "quelle": "Dossier, drei Räume"
       },
       {

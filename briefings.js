@@ -198,29 +198,29 @@ window.BRIEFINGS = [
      {
       "typ": "fakten",
       "label": "Der Blick von innen",
-      "titel": "Drei Generationen, drei Zimmer.",
-      "text": "Die Chronik sagt, was geschah. Aber warum erzählen die Gastarbeiter, ihre Kinder und ihre Enkel dieselbe Geschichte so verschieden? Jede Generation wuchs in einem anderen Zimmer auf, mit eigenen Zwängen und eigenen Fragen. Wir nennen sie Räume.",
+      "titel": "Drei Generationen, drei Räume.",
+      "text": "Die Chronik sagt, was geschah. Das Drei-Räume-Modell beschreibt, wie sich Identität über drei Generationen wandelt: von der Entbehrung über die Aushandlung zur Mitgestaltung. Die Enkel sind nicht einfach besser integriert, sie handeln in einem anderen Raum.",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
       "label": "Opferraum · erste Generation",
       "titel": "Arbeiten und schweigen.",
-      "text": "Sie kamen, um zu arbeiten, nicht um sich zu verwirklichen. Das Eigene musste warten. „Wir tragen heute, damit ihr morgen tragen könnt.“ Für die Frage „Was will ich?“ war kein Platz.",
+      "text": "Sie kamen aus wirtschaftlicher Notwendigkeit, nicht zur Selbstverwirklichung. Für das Land waren sie Arbeitskräfte, nicht Bürger. Eigene Wünsche wurden zurückgestellt: „Wir tragen heute, damit ihr morgen tragen könnt.“",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
       "label": "Konfliktraum · zweite Generation",
       "titel": "Zwischen den Welten.",
-      "text": "Oft kamen die Kinder Jahre nach den Vätern. Zu Hause Türkisch, in der Schule Deutsch, und beides nie ganz sicher. Schon als Kinder übersetzten sie Briefe und Behördengänge. „Wer immer erklärt, kommt kaum dazu, sich zu fragen, was er eigentlich will.“",
+      "text": "Zerrissen zwischen Elternhaus und Gesellschaft. Schon als Kinder übersetzten sie bei Behörden, Ärzten und in der Schule. Das schärfte den Blick, doch Loyalität zu den Eltern und der Wunsch nach Aufstieg zogen in zwei Richtungen.",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
       "label": "Syntheseraum · dritte Generation",
       "titel": "Aus beidem etwas Eigenes.",
-      "text": "Die Enkel sprechen beide Welten und erleben ihre Herkunft nicht mehr nur als Last. Ihre Aufgabe: daraus etwas Eigenes bauen. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+      "text": "Hier geboren, ausgebildet, verankert. Die Herkunft ist kein Hindernis mehr, sondern Ressource. Statt „Wer dürfen wir sein?“ lautet die Frage: Welche Verantwortung übernehmen wir für das Gemeinwesen?",
       "quelle": "Dossier, drei Räume"
      },
      {
