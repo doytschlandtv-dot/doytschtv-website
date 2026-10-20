@@ -4,3 +4,4 @@ tools/video/*/*.mp4
 tools/video/*/woerter.json
 tools/video/*/*-vorschau.jpg
 frames_*/
+tools/video/*/musik*

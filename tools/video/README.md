@@ -28,6 +28,10 @@ Wörter werden gesprochen geschrieben; mit `gesprochen=Anzeige` steht im Unterti
 (z. B. `drei=3:45`, `zweitausendfünfundzwanzig=2025`); `fünfundvierzig=` wird nur gesprochen, nicht angezeigt.
 Satzzeichen (. ? !) bestimmen die Satzgrenzen, an denen die Zeiten an Sprechpausen einrasten.
 
+## Hintergrundmusik (optional)
+In `video.json` oben: `"musik": {"datei": "musik.mp3", "lautstaerke": 0.12}`. Die Datei liegt im Videoordner (nicht im Repo, .gitignore).
+Sie läuft in Schleife, wird unter der Stimme automatisch abgesenkt und blendet am Ende aus. Nur lizenzfreie/freigegebene Tracks verwenden.
+
 ## Regeln
 - Nur Belegtes im Video, Quellenzeile pro Szene; „Sprecherstimme: KI-generiert“ im Schluss.
 - Pro Tag höchstens ein ausgewähltes Karussell als Video.
