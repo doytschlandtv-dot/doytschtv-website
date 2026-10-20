@@ -14,7 +14,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Wirtschaft · Immobilien",
       "titel": "Bauzinsen so hoch wie seit 2009 nicht mehr",
-      "rot": "seit 2009"
+      "rot": "seit 2009",
+      "bild": {
+       "url": "titel-bauzinsen.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -95,7 +100,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Gesellschaft · Pflege",
       "titel": "Pflege zu Hause: Bis 2045 könnten 229.000 Vollzeitstellen fehlen",
-      "rot": "229.000 Vollzeitstellen"
+      "rot": "229.000 Vollzeitstellen",
+      "bild": {
+       "url": "titel-pflege.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -163,7 +173,12 @@ window.BRIEFINGS = [
     "rot": "seit 2009",
     "text": "Was das für deine Rate bedeutet, im Karussell, Link in der Bio.",
     "quelle": "Interhyp; dpa; Bundesbank, 20.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-bauzinsen.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    },
    {
     "zusatz": true,
@@ -174,7 +189,12 @@ window.BRIEFINGS = [
     "rot": "229.000",
     "text": "Vollzeitäquivalente, keine Köpfe. Zahlen und Empfehlungen im Karussell, Link in der Bio.",
     "quelle": "Bertelsmann Stiftung / Prognos, 20.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-pflege.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    }
   ]
  },
