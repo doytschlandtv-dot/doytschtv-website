@@ -1,5 +1,161 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-20",
+  "morgen": null,
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Bauzinsen so hoch wie seit 2009 nicht mehr",
+    "caption": "Die Bauzinsen sind auf dem höchsten Stand seit 2009. Laut Interhyp liegt der Durchschnitt für zehnjährige Immobilienkredite bei knapp 4,5 Prozent, im Mai waren es 3,9. Bei einem Darlehen von 400.000 Euro mit 2 Prozent Tilgung sind das rund 200 Euro mehr Rate im Monat (eigene Rechnung, Anfangsrate). Als Ursache nennt Interhyp den Iran-Konflikt und Inflationssorgen, die EZB hat die Leitzinsen angehoben. Am 29. Oktober entscheidet sie erneut. Sollte der Staat Käufer bei hohen Bauzinsen entlasten?",
+    "hashtags": "#doytschlandtv #aktuell #bauzinsen #immobilien #ezb #wirtschaft #nachrichten #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Wirtschaft · Immobilien",
+      "titel": "Bauzinsen so hoch wie seit 2009 nicht mehr",
+      "rot": "seit 2009"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Stand",
+      "titel": "Knapp 4,5 Prozent.",
+      "text": "Der Durchschnitt für zehnjährige Immobilienkredite liegt laut Interhyp bei knapp 4,5 Prozent. Das ist mehr als beim Zinshoch Ende 2023 (gut 4,4 Prozent). Bundesbank-Daten zu Wohnungsbaukrediten bestätigen den Vergleich mit 2009.",
+      "quelle": "Interhyp, dpa, 20.10.2026; Bundesbank"
+     },
+     {
+      "typ": "zahl",
+      "label": "Seit Mai",
+      "zahl": "3,9 → 4,5 %",
+      "text": "Im Mai lag der Durchschnitt bei 3,9 Prozent. Seitdem ist er um rund 0,6 Prozentpunkte gestiegen.",
+      "quelle": "Interhyp, dpa, 20.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was heißt das für mich?",
+      "titel": "Rund 150 bis 200 Euro mehr im Monat",
+      "punkte": [
+       {
+        "kopf": "Laut Interhyp",
+        "text": "Der jüngste Zinsanstieg bedeutet bei einer durchschnittlichen Finanzierung fast 200 Euro mehr Monatsrate."
+       },
+       {
+        "kopf": "Nachgerechnet",
+        "text": "Anfangsrate bei 2 Prozent Tilgung: 300.000 Euro von 1.475 auf 1.625 Euro (+150). 400.000 Euro von 1.967 auf 2.167 Euro (+200)."
+       }
+      ],
+      "quelle": "Interhyp (Utecht); eigene Rechnung: Darlehen × (Zins + Tilgung) ÷ 12"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Die Ursache",
+      "titel": "Krieg, Inflation, EZB",
+      "text": "Interhyp-Chef Jörg Utecht verweist auf den Iran-Konflikt und die daraus folgenden Inflationssorgen. Die EZB hat die Leitzinsen angehoben, in diesem Jahr zweimal, der Einlagensatz liegt bei 2,5 Prozent. Das schlägt auf die Bauzinsen durch.",
+      "quelle": "dpa; Euronews, 20.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Der Ausblick",
+      "titel": "Wann sinken sie wieder?",
+      "text": "Erst bei einer nachhaltigen Lösung des Konflikts, sagt Utecht. Darauf deute aktuell wenig hin. In einer Interhyp-Bankenumfrage erwarten 60 Prozent der Banken in 6 bis 12 Monaten sinkende Zinsen, 40 Prozent weiter steigende. Die EZB entscheidet am 29. Oktober erneut.",
+      "quelle": "dpa; Euronews, 20.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Sollte der Staat Käufer bei hohen Bauzinsen entlasten, oder muss sich der Markt anpassen?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Pflege zu Hause: Bis 2045 könnten 229.000 Vollzeitstellen fehlen",
+    "caption": "Die Bertelsmann Stiftung hat mit Prognos berechnet, wie Pflege von Angehörigen die Erwerbsarbeit beeinflusst: 2045 könnten dem Arbeitsmarkt 229.000 Vollzeitäquivalente fehlen, 2026 sind es geschätzt 184.000. Wichtig: Das sind Vollzeitäquivalente, keine Köpfe, und eine Modellrechnung bei gleichbleibendem Verhalten. Rund 6 Millionen Menschen sind pflegebedürftig, drei Viertel werden zu Hause von Angehörigen betreut, 63 Prozent der Pflegenden sind Frauen. Was würde Berufstätigen mit Pflegeaufgaben am meisten helfen?",
+    "hashtags": "#doytschlandtv #aktuell #pflege #pflegendeangehörige #arbeitsmarkt #bertelsmann #nachrichten #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Gesellschaft · Pflege",
+      "titel": "Pflege zu Hause: Bis 2045 könnten 229.000 Vollzeitstellen fehlen",
+      "rot": "229.000 Vollzeitstellen"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Studie",
+      "titel": "Pflege kostet Arbeitszeit.",
+      "text": "Die Bertelsmann Stiftung hat mit Prognos berechnet, wie sich die Pflege von Angehörigen auf die Erwerbsarbeit auswirkt. Für 2045 ergibt die Modellrechnung 229.000 Vollzeitäquivalente, die dem Arbeitsmarkt fehlen. Für 2026 werden 184.000 geschätzt, 2045 wären es fast 25 Prozent mehr.",
+      "quelle": "Bertelsmann Stiftung / Prognos, 20.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Was die Zahl ist",
+      "behauptung": "Eine Modellrechnung der Arbeitszeit, die durch Pflege fehlt, umgerechnet auf Vollzeit. Sie nimmt an, dass Pflegeverhalten und Erwerbsverhalten gleich bleiben.",
+      "labelB": "Was sie nicht ist",
+      "fakt": "Keine Zählung von 229.000 verlorenen Jobs und keine Vorhersage. Betroffen sind deutlich mehr Menschen, weil viele ihre Stunden nur reduzieren.",
+      "quelle": "Bertelsmann Stiftung / Prognos"
+     },
+     {
+      "typ": "zahl",
+      "label": "Wer pflegt",
+      "zahl": "4,6 Mio.",
+      "text": "Menschen pflegten 2023 Angehörige, 8,7 Prozent der Erwerbsbevölkerung. 2045 wären es 13,3 Prozent. Heute sind rund 6 Millionen Menschen pflegebedürftig, drei Viertel werden zu Hause von Angehörigen betreut.",
+      "quelle": "Bertelsmann Stiftung / Prognos, 20.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wen es trifft",
+      "titel": "Vor allem Frauen und Vielpflegende",
+      "punkte": [
+       {
+        "kopf": "Frauen",
+        "text": "63 Prozent der Pflegenden sind Frauen, sie pflegen rund sechs Stunden pro Woche mehr als Männer. 2045 könnten rund 580.000 Frauen deshalb weniger oder gar nicht arbeiten."
+       },
+       {
+        "kopf": "Wer viel pflegt",
+        "text": "Der Verlust an Arbeitszeit stammt fast vollständig von Menschen, die mehr als 10 Stunden pro Woche pflegen."
+       }
+      ],
+      "quelle": "Bertelsmann Stiftung / Prognos, 2023 und Modellrechnung 2045"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was die Studie empfiehlt",
+      "titel": "Entlastung statt Rückschritt",
+      "text": "Studienautorin Michaela Hermann: „Wir dürfen den wachsenden Pflegebedarf nicht mit Rückschritten bei der Gleichstellung bezahlen.“ Empfohlen: Familienpflegegeld und Familienbudget (im Koalitionsvertrag angekündigt) partnerschaftlich ausrichten, Tages- und Kurzzeitpflege leichter zugänglich machen, Prävention. Arbeitgeber: flexible Zeiten, Homeoffice, Hilfe beim Wiedereinstieg.",
+      "quelle": "Bertelsmann Stiftung, 20.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Was würde berufstätigen Pflegenden am meisten helfen?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Wirtschaft · Immobilien",
+    "titel": "Bauzinsen so hoch wie seit 2009 nicht mehr",
+    "rot": "seit 2009",
+    "text": "Was das für deine Rate bedeutet, im Karussell, Link in der Bio.",
+    "quelle": "Interhyp; dpa; Bundesbank, 20.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Gesellschaft · Pflege",
+    "titel": "Pflege zu Hause: Was die Zahl 229.000 wirklich meint",
+    "rot": "229.000",
+    "text": "Vollzeitäquivalente, keine Köpfe. Zahlen und Empfehlungen im Karussell, Link in der Bio.",
+    "quelle": "Bertelsmann Stiftung / Prognos, 20.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-19",
   "morgen": {
    "titel": "Morning Briefing",
