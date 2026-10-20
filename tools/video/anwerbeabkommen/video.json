@@ -14,7 +14,13 @@
     "Y",
     "Linie",
     "Familien",
-    "Jahrzehnte"
+    "Jahrzehnte",
+    "Deutsche",
+    "Zufall",
+    "Weg",
+    "2000",
+    "2024",
+    "1992"
   ],
   "scenes": [
     {
@@ -106,7 +112,34 @@
     },
     {
       "kind": "ablauf",
-      "text": "Und was geschah in den Menschen? Die erste Generation arbeitete und schwieg. Die Kinder übersetzten zwischen den Welten. Die Enkel bauen etwas Eigenes.",
+      "text": "Kanzler Merz sagt: Aus Gastarbeitern wurden Einwanderer, irgendwann Deutsche. Doch irgendwann ist kein Datum. Neunzehnhundertzweiundneunzig=1992 brennt es in Mölln. Zweitausend=2000 werden Kinder mit der Geburt Deutsche. Zweitausendvierundzwanzig=2024 darf man die Herkunft behalten.",
+      "titel": "Irgendwann [Deutsche]?",
+      "knoten": [
+        {
+          "t": "1992 und 1993",
+          "s": "Mölln und Solingen",
+          "cue": "1992"
+        },
+        {
+          "t": "2000",
+          "s": "Geburt als Deutsche",
+          "cue": "2000"
+        },
+        {
+          "t": "2024",
+          "s": "Herkunft darf bleiben",
+          "cue": "2024"
+        }
+      ],
+      "marke": {
+        "t": "Kein Zufall",
+        "cue": "Datum"
+      },
+      "quelle": "Merz laut dpa, 20.10.2026; bpb; asyl.net"
+    },
+    {
+      "kind": "ablauf",
+      "text": "Und was geschah in den Menschen? Es war ein Weg, kein Zufall. Die erste Generation arbeitete und schwieg. Die Kinder übersetzten zwischen den Welten. Die Enkel bauen etwas Eigenes.",
       "titel": "Drei [Räume]",
       "knoten": [
         {
@@ -126,7 +159,7 @@
         }
       ],
       "marke": {
-        "t": "Drei Generationen",
+        "t": "Ein Weg über Generationen",
         "cue": "Eigenes"
       },
       "quelle": "Dossier: Drei Räume"
@@ -147,11 +180,11 @@
     {
       "kind": "schluss",
       "untertitel": false,
-      "text": "Für mich ist die dritte Generation auch die Generation Y. Ein Y hat zwei Arme und eine Linie. Wie nennst du dich? Schreib es in die Kommentare.",
+      "text": "Für mich ist die dritte Generation auch die Generation Y. Ein Y hat zwei Arme und eine Linie. Wie viel Doytsch bist du? Schreib es in die Kommentare.",
       "kicker": "Mein Wort",
       "aussage": "Generation [Y]:<br>zwei Herkünfte, [eine Linie.]",
-      "frage": "Wie nennst du dich?",
-      "frage_cue": "Wie",
+      "frage": "Wie viel Doytsch?",
+      "frage_cue": "viel",
       "cta": "Schreib es in die Kommentare ↓",
       "cta_cue": "Schreib",
       "hinweis": " "
