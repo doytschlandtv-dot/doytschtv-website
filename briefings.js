@@ -7,7 +7,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "Bauzinsen so hoch wie seit 2009 nicht mehr",
-    "caption": "Die Bauzinsen sind auf dem höchsten Stand seit 2009. Laut Interhyp liegt der Durchschnitt für zehnjährige Immobilienkredite bei knapp 4,5 Prozent, im Mai waren es 3,9. Bei einem Darlehen von 400.000 Euro mit 2 Prozent Tilgung sind das rund 200 Euro mehr Rate im Monat (eigene Rechnung, Anfangsrate). Als Ursache nennt Interhyp den Iran-Konflikt und Inflationssorgen, die EZB hat die Leitzinsen angehoben. Am 29. Oktober entscheidet sie erneut. Sollte der Staat Käufer bei hohen Bauzinsen entlasten?",
+    "caption": "Die Bauzinsen sind auf dem höchsten Stand seit 2009: Laut Interhyp liegen sie bei knapp 4,5 Prozent, im Mai waren es 3,9. Bei 400.000 Euro Darlehen und 2 Prozent Tilgung sind das rund 200 Euro mehr Rate im Monat (eigene Rechnung). Besonders heikel: Von 2026 bis 2031 stehen laut Branchenstudie rund 555 Milliarden Euro Anschlussfinanzierungen an. Unser Rechenbeispiel: 300.000 Euro, 1 Prozent Zins, 750 Euro Rate. Nach zehn Jahren bei 4,5 Prozent sind es rund 1.283 Euro. Wir meinen: Abfedern kann am Ende nur der Staat. Sollte er Käufer bei hohen Bauzinsen entlasten, oder muss sich der Markt anpassen?",
     "hashtags": "#doytschlandtv #aktuell #bauzinsen #immobilien #ezb #wirtschaft #nachrichten #einordnung",
     "slides": [
      {
@@ -61,6 +61,25 @@ window.BRIEFINGS = [
       "quelle": "dpa; Euronews, 20.10.2026"
      },
      {
+      "typ": "zahl",
+      "label": "Anschlussfinanzierungen",
+      "zahl": "555 Mrd. Euro",
+      "text": "Laut einer Branchenstudie müssen von 2026 bis 2031 Anschlussfinanzierungen in dieser Höhe neu verhandelt werden. Laut BaFin-Befragung (2024) braucht knapp die Hälfte der Eigentümer bald eine. Kredite aus 2015 bis 2020 hatten oft 1,0 bis 1,5 Prozent Zins.",
+      "quelle": "t-online, 15.9.2026 (Branchenstudie, BaFin-Befragung 2024)"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Rate 2016 bis 2026",
+      "behauptung": "300.000 Euro, 1 Prozent Zins, 2 Prozent Tilgung: 750 Euro im Monat. Restschuld nach zehn Jahren: rund 236.900 Euro.",
+      "labelB": "Anschluss bei 4,5 Prozent",
+      "fakt": "Mit 2 Prozent Tilgung rund 1.283 Euro, also 533 Euro mehr. Allein die Zinsen (rund 888 Euro) lägen über der alten Rate.",
+      "quelle": "Eigene Rechnung mit den genannten Annahmen"
+     },
+     {
+      "typ": "meinung",
+      "text": "Beim Abfedern bleibt am Ende nur der Staat. Neubau ist für Privatleute kaum noch zu stemmen, und wer in der Niedrigzinsphase finanziert hat, kann bei der Anschlussfinanzierung ins Rutschen geraten. Der Staat muss gezielt fördern und seine eigene Finanzpolitik in den Griff bekommen."
+     },
+     {
       "typ": "cta",
       "frage": "Sollte der Staat Käufer bei hohen Bauzinsen entlasten, oder muss sich der Markt anpassen?"
      }
@@ -69,7 +88,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "Pflege zu Hause: Bis 2045 könnten 229.000 Vollzeitstellen fehlen",
-    "caption": "Die Bertelsmann Stiftung hat mit Prognos berechnet, wie Pflege von Angehörigen die Erwerbsarbeit beeinflusst: 2045 könnten dem Arbeitsmarkt 229.000 Vollzeitäquivalente fehlen, 2026 sind es geschätzt 184.000. Wichtig: Das sind Vollzeitäquivalente, keine Köpfe, und eine Modellrechnung bei gleichbleibendem Verhalten. Rund 6 Millionen Menschen sind pflegebedürftig, drei Viertel werden zu Hause von Angehörigen betreut, 63 Prozent der Pflegenden sind Frauen. Was würde Berufstätigen mit Pflegeaufgaben am meisten helfen?",
+    "caption": "Die Bertelsmann Stiftung hat mit Prognos berechnet, wie Pflege von Angehörigen die Erwerbsarbeit beeinflusst: 2045 könnten dem Arbeitsmarkt 229.000 Vollzeitäquivalente fehlen, 2026 sind es geschätzt 184.000. Wichtig: Das sind Vollzeitäquivalente, keine Köpfe, und eine Modellrechnung bei gleichbleibendem Verhalten. Rund 6 Millionen Menschen sind pflegebedürftig, drei Viertel werden zu Hause von Angehörigen betreut, 63 Prozent der Pflegenden sind Frauen. Wir meinen: Pflege braucht ein Gesamtkonzept, Arbeitgeber, Staat und Angehörige müssen zusammenwirken. Was würde berufstätigen Pflegenden am meisten helfen?",
     "hashtags": "#doytschlandtv #aktuell #pflege #pflegendeangehörige #arbeitsmarkt #bertelsmann #nachrichten #einordnung",
     "slides": [
      {
@@ -122,6 +141,10 @@ window.BRIEFINGS = [
       "titel": "Entlastung statt Rückschritt",
       "text": "Studienautorin Michaela Hermann: „Wir dürfen den wachsenden Pflegebedarf nicht mit Rückschritten bei der Gleichstellung bezahlen.“ Empfohlen: Familienpflegegeld und Familienbudget (im Koalitionsvertrag angekündigt) partnerschaftlich ausrichten, Tages- und Kurzzeitpflege leichter zugänglich machen, Prävention. Arbeitgeber: flexible Zeiten, Homeoffice, Hilfe beim Wiedereinstieg.",
       "quelle": "Bertelsmann Stiftung, 20.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Pflege braucht ein Gesamtkonzept statt Stückwerk, mit Mehrgenerationenhäusern und anderen Wohnformen, die sie alltagstauglich machen. Sie ist Teil unserer Pflicht gegenüber den Älteren und beginnt in der Familie. Arbeitgeber müssen Rücksicht nehmen, der Staat muss unterstützen, und die Angehörigen müssen selbst Initiative zeigen."
      },
      {
       "typ": "cta",
