@@ -498,5 +498,152 @@ window.DOSSIERS = [
    }
   ],
   "motiv": "paragraph"
+ },
+ {
+  "id": "migration",
+  "titel": "Migration und Zusammenleben",
+  "teaser": "Wie kamen Menschen nach Deutschland, was wurde aus ihnen, und was sagen Zahlen, Gerichte und Studien dazu? Dazu persönliche Perspektiven, die wir klar als solche kennzeichnen.",
+  "methode": [
+   "Wir stützen uns auf Bundeszentralen und Landeszentralen für politische Bildung, Statistikämter, Forschungsinstitute und Medienberichte und nennen jede Quelle.",
+   "Wo Quellen sich widersprechen, zeigen wir die Spanne. Wertungen sind als unsere Einordnung gekennzeichnet, persönliche Texte als persönliche Sicht."
+  ],
+  "folgen": [
+   {
+    "id": "anwerbeabkommen-tuerkei-65-jahre",
+    "datum": "2026-10-20",
+    "titel": "65 Jahre Anwerbeabkommen: Was 1961 vereinbart wurde und was daraus wurde",
+    "teaser": "Ein Notenwechsel vom 30. Oktober 1961, rund 870.000 Arbeitskräfte und zwei Jahre, die zu Jahrzehnten wurden. Zahlen und Fakten zum Abkommen mit der Türkei, ergänzt um persönliche Auszüge aus einem Buchmanuskript über drei Generationen.",
+    "aussage": {
+     "zitat": "Wir riefen Arbeitskräfte, und es kamen Menschen.",
+     "wer": "Max Frisch, Schriftsteller",
+     "datum": "1965",
+     "url": "https://docenti.unimc.it/d.minni/teaching/2023/29088/files/materiale-didattico-14.11.23/Die%20ersten%20Gastarbeiter%20-%20Bundesrepublik%20I%20_%20Zeitklicks.pdf",
+     "urteil": "Belegt, 1965 formuliert"
+    },
+    "kern": [
+     {
+      "z": "867.000",
+      "l": "Menschen kamen bis zum Anwerbestopp 1973 aus der Türkei. Rund 80 Prozent arbeiteten in der Industrie und am Bau. Wie viele bis dahin zurückkehrten, geben die Quellen unterschiedlich an: 240.000 bis 500.000."
+     },
+     {
+      "z": "Zwei Jahre",
+      "l": "Das Abkommen sah höchstens zwei Jahre Aufenthalt und keinen Familiennachzug vor. Auf Druck der Arbeitgeber und der türkischen Regierung fielen beide Beschränkungen 1964."
+     },
+     {
+      "z": "23.11.1973",
+      "l": "Anwerbestopp nach der Ölkrise. Danach gewann der Familiennachzug an Gewicht: Laut Bundeszentrale für politische Bildung kamen 53 Prozent der türkischstämmigen Einwohner auf diesem Weg."
+     },
+     {
+      "z": "3,1 Mio.",
+      "l": "Menschen mit türkischem Migrationshintergrund leben heute in Deutschland (Stand 2025), etwa 1,7 Millionen davon mit deutscher Staatsangehörigkeit."
+     }
+    ],
+    "abschnitte": [
+     {
+      "h": "Worum es geht",
+      "t": [
+       "Am 30. Oktober 1961 schlossen die Bundesrepublik und die Türkei das Abkommen über die „Vermittlung türkischer Arbeitnehmer“. Es war ein Notenwechsel zwischen Auswärtigem Amt und türkischer Botschaft, keine feierliche Unterzeichnung, und galt rückwirkend ab dem 1. September 1961. Zum 65. Jahrestag findet am Dienstag, 20. Oktober 2026, ein Festakt in Berlin statt, bei dem Bundeskanzler Merz eine Rede hält.",
+       "Dieses Dossier trägt belegte Zahlen zusammen und trennt Tatsachen von Wertungen. Zusätzlich enthält es zwei Abschnitte aus einem Buchmanuskript des Betreibers dieser Seite, Cengiz Bozkurt. Sie sind ausdrücklich als persönliche Sicht gekennzeichnet und keine Nachricht."
+      ]
+     },
+     {
+      "h": "Warum es das Abkommen gab",
+      "t": [
+       "Die Bundesrepublik erlebte ein Wirtschaftswunder: 1960 standen rund 650.000 offene Stellen etwa 150.000 Arbeitsuchenden gegenüber. Aus Italien (Abkommen 1955), Spanien und Griechenland kamen bereits Arbeitskräfte, um Lohnsteigerungen zu begrenzen wurde in strukturschwächeren Regionen angeworben. Arbeitgeber holten Türkinnen und Türken teils auf eigene Faust, das Abkommen sollte diese Zuwanderung steuern.",
+       "Die Türkei hatte hohe Arbeitslosigkeit, 80 Prozent der Bevölkerung lebten von der Landwirtschaft, und sie hoffte auf Überweisungen aus Deutschland. Außenpolitisch spielte auch die NATO-Mitgliedschaft eine Rolle. Die türkische Seite drängte schon im Dezember 1960 darauf, nicht hinter Griechenland zurückgesetzt zu werden."
+      ]
+     },
+     {
+      "h": "Wie die Anwerbung ablief",
+      "t": [
+       "Die Vorauswahl fand in Istanbul statt. Die ärztliche Untersuchung erlebten viele als erniedrigend, unter anderem wegen der Entkleidung bis auf die Unterwäsche. Laut einer Zeitzeugin kamen auf jede benötigte Arbeitskraft etwa zehn Bewerber. Zeitweise standen über eine Million Ausreisewillige auf Wartelisten, mit Wartezeiten von bis zu sieben Jahren."
+      ]
+     },
+     {
+      "h": "Wer kam und was sie taten",
+      "t": [
+       "Bis 1973 kamen rund 867.000 Menschen aus der Türkei. Rund 80 Prozent arbeiteten im produzierenden Gewerbe und am Bau, meist als Angelernte oder Hilfsarbeiter. Der Anteil der Frauen wird unterschiedlich angegeben: Das Zentrum für Türkeistudien nennt 21 Prozent (ZDFheute), die Landeszentrale für politische Bildung Baden-Württemberg rund ein Drittel.",
+       "Die Überweisungen in die Türkei stiegen laut Landeszentrale von 8 Millionen US-Dollar (1964) auf rund 1,2 Milliarden US-Dollar (1973)."
+      ]
+     },
+     {
+      "h": "1964 und 1973: Aus zwei Jahren wurden Jahrzehnte",
+      "t": [
+       "Das Rotationsprinzip sollte dafür sorgen, dass Arbeitskräfte nach zwei Jahren ausgetauscht werden. Arbeitgeber wollten die eingearbeiteten Beschäftigten aber behalten. Am 30. September 1964 strich ein zweites Abkommen die Zwei-Jahres-Grenze und ermöglichte den Familiennachzug, der überwiegend aber erst nach dem Anwerbestopp stattfand.",
+       "Am 23. November 1973 stoppte die Bundesregierung die Anwerbung. Danach kamen vermehrt Frauen und Kinder: Zwischen 1974 und 1979 verdoppelte sich die Zahl der unter 15-Jährigen aus der Türkei auf rund 420.000. 1974 lebten etwa 1,0 Millionen türkische Staatsangehörige in Deutschland, 1998 waren es 2,1 Millionen (bpb). In den 1970er-Jahren konzentrierte sich die Politik darauf, den Stopp zu halten und die Rückkehr zu fördern. Die Bundeszentrale für politische Bildung sieht darin und im Fehlen einer aktiven Integrationspolitik in den 1980ern eine Ursache für dauerhafte Nachteile."
+      ]
+     },
+     {
+      "h": "Was die Integrationsbeauftragte sagt, und was belegt ist",
+      "t": [
+       "Natalie Pawlik, Integrationsbeauftragte der Bundesregierung, sagte laut Berichten der Rheinischen Post, viele türkeistämmige Menschen erlebten weiterhin Benachteiligungen bei Wohnungssuche, Bewerbungen und in der Schule. Wörtliche Zitate und Zahlen nennen die Berichte nicht.",
+       "Belegt ist für den Wohnungsmarkt: Im Nationalen Diskriminierungs- und Rassismusmonitor (DeZIM, Dezember 2025, 9.512 Befragte) gaben 35 Prozent der muslimischen Befragten an, wegen Diskriminierung keine Einladung zu einer Besichtigung erhalten zu haben, bei nicht rassistisch markierten Personen waren es 11 Prozent. In einem Feldexperiment mit identischen Bewerbungen lag die Einladungsquote bei deutsch klingenden Namen bei 22 Prozent, bei Namen aus der Region Nordafrika, Naher Osten und Türkei bei 16 Prozent. Türkeistämmige werden in dem Bericht nicht gesondert ausgewiesen."
+      ]
+     },
+     {
+      "h": "Aus dem Manuskript: Der Koffer",
+      "t": [
+       "Persönliche Sicht, keine Nachricht. Der Autor beschreibt seinen Großvater, der Ende der 1960er-Jahre als Arbeiter nach Deutschland kam:",
+       "„Mein Großvater sagte oft: ‚Ich kam mit einem Koffer, mein Sohn.‘ Lange blieb das in meinem Kopf ein schlichtes Bild: ein Mann um die dreißig, ein Koffer in der Hand. Heute, da ich selbst in diesem Alter bin, wirkt der Satz anders. Ich sehe nicht zuerst den Koffer, ich frage mich, was er in seinem Herzen trug.“",
+       "„Wenn ich mir vorstelle, wie er in Dortmund ausstieg, sehe ich einen Bahnhof, der ihm nichts versprach, und eine Welt, die ihn nicht fragte, wer er war, sondern wozu er taugt.“",
+       "„In Deutschland war er für viele nie deutsch genug gewesen, ein Gast, der zu lange blieb. Und hier, in der Türkei, war er zu deutsch geworden, um einfach nur Mustafa zu sein.“ (Das Zitat spielt auf den Ausruf bei seiner Beerdigung in der Türkei an: „Almancı“, „der Deutsche“.)"
+      ]
+     },
+     {
+      "h": "Aus dem Manuskript: Drei Räume, drei Generationen",
+      "t": [
+       "Persönliche Sicht, keine Nachricht. Im Manuskript beschreibt der Autor die Geschichte der türkischen Einwanderung als Abfolge dreier „Räume“, in denen Identität jeweils anders entsteht: der Opferraum der ersten Generation (Pflicht, Entbehrung, „Wir tragen heute, damit ihr morgen tragen könnt“), der Konfliktraum der zweiten (zwischen Herkunft und Ankunft, Übersetzen zwischen den Welten) und der Syntheseraum der dritten (Herkunft und Zugehörigkeit nicht mehr als Gegensatz, Identität als Gestaltungsraum).",
+       "Das ist eine These, keine Statistik. Sie nimmt für sich nicht in Anspruch, jede Biografie zu beschreiben, und das Manuskript betont selbst, dass nicht jeder Angehörige der dritten Generation diesen Raum nutzt. Das Buch ist noch in Arbeit."
+      ]
+     },
+     {
+      "h": "Unsere Einordnung",
+      "t": [
+       "Belegt ist: Das Abkommen war als befristete Lösung geplant und wurde schon 1964 auf Wunsch der Arbeitgeber geöffnet. Die Zahlen zu Rückkehr und Frauenanteil unterscheiden sich je nach Quelle, deshalb nennen wir die Spannen. Strittig ist, wie viel Integrationspolitik damals fehlte und wie viel heute gelingt: Die Bundeszentrale für politische Bildung sieht langfristige Nachteile durch frühe Versäumnisse, die Integrationsbeauftragte sagt, Integrationspolitik habe aus Fehlern gelernt, und fordert dauerhaft finanzierte Strukturen. Beides lässt sich nebeneinander stellen. Wer Menschen als Arbeitskräfte holt, bekommt Bürger. Das Grundgesetz kennt diese Unterscheidung nicht."
+      ]
+     }
+    ],
+    "quellen": [
+     {
+      "titel": "ZDFheute, 20.10.2026: 65 Jahre Türkei-Anwerbeabkommen",
+      "url": "https://www.zdfheute.de/politik/deutschland/tuerkei-anwerbeabkommen-65-jahre-gastarbeiter-deutschland-100.html"
+     },
+     {
+      "titel": "Landeszentrale für politische Bildung Baden-Württemberg: Anwerbeabkommen Türkei",
+      "url": "https://www.lpb-bw.de/anwerbeabkommen-tuerkei"
+     },
+     {
+      "titel": "Bundeszentrale für politische Bildung: Deutsch-türkisches Anwerbeabkommen",
+      "url": "https://www.bpb.de/kurz-knapp/taegliche-dosis-politik/514810/deutsch-tuerkisches-anwerbeabkommen"
+     },
+     {
+      "titel": "Bundeszentrale für politische Bildung (Stefan Luft, 2014): Die Anwerbung türkischer Arbeitnehmer und ihre Folgen",
+      "url": "https://www.bpb.de/themen/europa/tuerkei/184981/die-anwerbung-tuerkischer-arbeitnehmer-und-ihre-folgen/"
+     },
+     {
+      "titel": "Bundeskanzler: Festakt zum 65. Jubiläum des Anwerbeabkommens",
+      "url": "https://www.bundeskanzler.de/bk-de/aktuelles/teilnahme-am-festakt-zum-65-jubilaeum-des-deutsch-tuerkischen-anwerbeabkommens-2457296"
+     },
+     {
+      "titel": "ad-hoc-news / Rheinische Post, 20.10.2026: Pawlik kritisiert Rassismus nach 65 Jahren",
+      "url": "https://www.ad-hoc-news.de/politik/anwerbeabkommen-pawlik-kritisiert-rassismus-nach-65-jahren/70367395"
+     },
+     {
+      "titel": "DeZIM-Institut, 8.12.2025: NaDiRa-Bericht „Gewohnt ungleich“ (Pressemitteilung)",
+      "url": "https://www.rassismusmonitor.de/fileadmin/user_upload/NaDiRa/Publikationen/Wohnenbericht/PM_Nadira_Wohnbericht.pdf"
+     },
+     {
+      "titel": "Zeitklicks: Die ersten Gastarbeiter (Frisch-Zitat, 1965)",
+      "url": "https://docenti.unimc.it/d.minni/teaching/2023/29088/files/materiale-didattico-14.11.23/Die%20ersten%20Gastarbeiter%20-%20Bundesrepublik%20I%20_%20Zeitklicks.pdf"
+     },
+     {
+      "titel": "Istanbul Berlin: Cem Karaca (Album „Die Kanaken“, Lied „Es kamen Menschen an“)",
+      "url": "https://www.istanbulberlin.com/en-de/cem-karaca/"
+     }
+    ],
+    "stand": "20.10.2026"
+   }
+  ],
+  "motiv": "koffer"
  }
 ];
