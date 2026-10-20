@@ -237,6 +237,83 @@ window.BRIEFINGS = [
       "frage": "Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "„Und irgendwann: Deutsche.“ Wie viel Doytsch sind wir?",
+    "caption": "Kanzler Merz sagte zum 65. Jahrestag des Anwerbeabkommens: „Aus den ‚Gastarbeitern‘ wurden nach und nach Einwanderer. Und irgendwann: Deutsche.“ Das Wort „irgendwann“ klingt, als sei es von selbst passiert. Es gab Stationen: 1964, 1973, Mölln und Solingen, 2000, 2024. Und es war ein Weg über drei Generationen, kein Zufall: Opferraum, Konfliktraum, Syntheseraum. Mein Großvater sagte „Doytsch“. Wie viel Doytsch bist du? Das ganze Dossier: Link in der Bio.",
+    "hashtags": "#doytschlandtv #merz #anwerbeabkommen #gastarbeiter #integration #deutschtürken #doytsch #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Einordnung · Rede zum Jubiläum",
+      "titel": "„Irgendwann: Deutsche.“ Aber wann genau?",
+      "rot": "wann genau",
+      "bild": {
+       "url": "titel-anwerbeabkommen.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Kanzler Merz, 20. Oktober 2026",
+      "titel": "Ein Satz, der hängen bleibt.",
+      "text": "Beim Festakt zum 65. Jahrestag des Anwerbeabkommens nannte Merz die Migration aus der Türkei eine Erfolgsgeschichte: „Aus den ‚Gastarbeitern‘ wurden nach und nach Einwanderer. Und irgendwann: Deutsche.“",
+      "quelle": "dpa/Tagesspiegel; Bundeskanzler.de, 20.10.2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was daran zählt",
+      "titel": "Die Anerkennung ist deutlich.",
+      "text": "Merz nannte Mölln, Solingen, den NSU und Hanau, sagte, die Angst vor dem Fremden sei „Gift“, und bezeichnete „Remigration“ als Unwort. Er erwartet auch, dass Zugewanderte demokratische Regeln wie die Gleichberechtigung achten.",
+      "quelle": "dpa/Tagesspiegel, 20.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Unsere Frage",
+      "titel": "„Irgendwann“ ist kein Datum.",
+      "text": "Das Wort klingt, als sei es von selbst passiert. Doch niemand wird einfach so Deutscher. Dazwischen liegen Entscheidungen, Gesetze und Nächte, in denen Zugehörigkeit gebrannt hat.",
+      "quelle": "Dossier, Chronik"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die Stationen",
+      "titel": "Es gab Daten, keinen Zufall.",
+      "text": "1964: Zwei-Jahres-Grenze fällt. 1973: Anwerbestopp, die Familien bleiben. 1992 und 1993: Mölln und Solingen. 2000: Kinder ausländischer Eltern können mit der Geburt Deutsche werden. 2024: Mehrstaatigkeit bei Einbürgerung zulässig.",
+      "quelle": "bpb; asyl.net; Dossier, Chronik"
+     },
+     {
+      "typ": "zahl",
+      "label": "Millionen mit deutschem Pass",
+      "zahl": "1,7",
+      "text": "Rund 3,1 Millionen Menschen in Deutschland haben türkischen Migrationshintergrund, etwa 1,7 Millionen davon die deutsche Staatsangehörigkeit. Für manche ist „irgendwann“ also schon da, für andere noch nicht.",
+      "quelle": "Dossier, Chronik heute (Zahlen laut ZDFheute/bpb)"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Deutsch auf dem Papier",
+      "behauptung": "Der Pass sagt: dazugehörig. Seit 2024 darf man dafür die Herkunft behalten.",
+      "labelB": "Deutsch im Alltag",
+      "fakt": "35 Prozent der muslimischen Befragten bekamen laut DeZIM keine Einladung zur Wohnungsbesichtigung, bei nicht rassistisch markierten Personen waren es 11 Prozent. Türkeistämmige sind dort nicht gesondert ausgewiesen.",
+      "quelle": "DeZIM, NaDiRa-Bericht, Dezember 2025"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Drei Räume",
+      "titel": "Es war ein Weg, kein Zufall.",
+      "text": "Die Eltern arbeiteten und schwiegen, die Kinder übersetzten und standen dazwischen, die Enkel bauen Eigenes. Jeder Raum ging aus dem vorherigen hervor, keiner wäre ohne ihn denkbar.",
+      "quelle": "Dossier, drei Räume"
+     },
+     {
+      "typ": "meinung",
+      "text": "Wir sind nicht „irgendwann“ Deutsche geworden. Wir sind es Stück für Stück geworden, und nicht alle gleich weit. Mein Großvater sagte „Doytsch“. Vielleicht ist das die ehrlichste Antwort auf Merz’ Satz: nicht mehr nur Almancı, noch nicht überall selbstverständlich Deutsch. Etwas Eigenes. Das ist mein Wort."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie viel Doytsch bist du? Ab wann hast du dich deutsch gefühlt, oder noch nicht?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -281,6 +358,22 @@ window.BRIEFINGS = [
     "rot": "Jahrzehnte",
     "text": "Chronik und drei Räume im Karussell, Dossier: Link in der Bio.",
     "quelle": "bpb; LpB Baden-Württemberg; 20.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-anwerbeabkommen.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Einordnung",
+    "kicker": "Merz zum Anwerbeabkommen",
+    "titel": "„Und irgendwann: Deutsche.“ Wie viel Doytsch sind wir?",
+    "rot": "Doytsch",
+    "text": "Wann wird man deutsch? Karussell und Dossier: Link in der Bio.",
+    "quelle": "dpa/Tagesspiegel; Bundeskanzler.de; 20.10.2026",
     "theme": "dark",
     "bild": {
      "url": "titel-anwerbeabkommen.jpg",

@@ -614,6 +614,15 @@ window.DOSSIERS = [
       ]
      },
      {
+      "h": "„Und irgendwann: Deutsche“: Ein Satz und sein Weg",
+      "t": [
+       "Zum 65. Jahrestag sagte Bundeskanzler Friedrich Merz bei einem Festakt in Berlin laut dpa: „Aus den ‚Gastarbeitern‘ wurden nach und nach Einwanderer. Und irgendwann: Deutsche.“ Er nannte die Migration aus der Türkei eine Erfolgsgeschichte, erinnerte an Mölln, Solingen, den NSU und Hanau und sagte, die Angst vor dem Fremden sei „Gift“. Zugleich erwartet er von Zugewanderten, demokratische Regeln wie die Gleichberechtigung von Frauen und Männern zu achten.",
+       "Der Satz stimmt in der Richtung. Er verschweigt aber, wie viel zwischen „Gastarbeiter“ und „Deutsche“ liegt. „Irgendwann“ war kein Datum, sondern eine Folge von Stationen: 1964 fiel die Zwei-Jahres-Grenze, 1973 stoppte der Bund die Anwerbung und die Familien blieben, 1992 und 1993 brannte es in Mölln und Solingen, 2000 öffnete das Staatsangehörigkeitsrecht den Weg zur Geburt als Deutsche, 2024 wurde Mehrstaatigkeit bei der Einbürgerung zulässig.",
+       "Auch heute ist „Deutsch“ nicht für alle dasselbe. Von rund 3,1 Millionen Menschen mit türkischem Migrationshintergrund haben etwa 1,7 Millionen die deutsche Staatsangehörigkeit. Der Pass klärt die Frage auf dem Papier. Im Alltag, bei der Wohnungssuche oder der Bewerbung, bleibt sie messbar offen.",
+       "Und es war ein Weg über Generationen, nicht einfach ein Zeitablauf. Was dieser Weg für die Menschen bedeutete, beschreibt das Drei-Räume-Modell: Entbehrung, Aushandlung, Mitgestaltung. Jeder Raum ging aus dem vorherigen hervor."
+      ]
+     },
+     {
       "h": "Die drei Räume: Wie sich Identität über drei Generationen wandelt",
       "t": [
        "Die Chronik zeigt, was geschah. Das Drei-Räume-Modell beschreibt, was daraus für die Menschen wurde: wie sich Lebensumstände, Werte und Rolle in der Gesellschaft von der ersten Generation, den Gastarbeitern, über ihre Kinder bis zu den Enkeln gewandelt haben, hier am Beispiel der türkischen Arbeitsmigration in Deutschland.",
@@ -740,6 +749,14 @@ window.DOSSIERS = [
      {
       "titel": "Jüdische Allgemeine: 25 Jahre nach dem ersten NSU-Mordanschlag",
       "url": "https://www.juedische-allgemeine.de/politik/der-schmerz-wird-immer-groesser-25-jahre-nach-dem-ersten-nsu-mordanschlag/"
+     },
+     {
+      "titel": "Tagesspiegel/dpa, 20.10.2026: Merz lobt türkische Gastarbeiter-Migration als Erfolgsgeschichte",
+      "url": "https://www.tagesspiegel.de/politik/dpa-die-angst-vor-dem-fremden-ist-gift-merz-lobt-turkische-gastarbeiter-migration-als-erfolgsgeschichte-16181473.html"
+     },
+     {
+      "titel": "Bundeskanzler.de, 20.10.2026: 65 Jahre deutsch-türkisches Anwerbeabkommen",
+      "url": "https://www.bundeskanzler.de/bk-de/aktuelles/deutsch-tuerkisches-anwerbeabkommen-2457728"
      },
      {
       "titel": "ad-hoc-news / Rheinische Post, 20.10.2026: Pawlik kritisiert Rassismus nach 65 Jahren",
