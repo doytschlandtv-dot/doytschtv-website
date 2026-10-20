@@ -197,30 +197,30 @@ window.BRIEFINGS = [
      },
      {
       "typ": "fakten",
-      "label": "Der Blickwechsel",
-      "titel": "Drei Generationen, drei Fragen.",
-      "text": "Bis hier die Chronik: was geschah. Jetzt der Blick von innen. Jede Generation lebte unter anderen Bedingungen und musste deshalb eine andere Frage beantworten. Erste: Wie bestehen wir? Zweite: Wohin gehöre ich? Dritte: Was mache ich daraus? Wir nennen das die drei Räume.",
+      "label": "Der Blick von innen",
+      "titel": "Drei Generationen, drei Zimmer.",
+      "text": "Die Chronik sagt, was geschah. Aber warum erzählen die Gastarbeiter, ihre Kinder und ihre Enkel dieselbe Geschichte so verschieden? Jede Generation wuchs in einem anderen Zimmer auf, mit eigenen Zwängen und eigenen Fragen. Wir nennen sie Räume.",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
       "label": "Opferraum · erste Generation",
-      "titel": "Die Pflicht.",
-      "text": "Die Frage: Wie bestehen wir? Wer arbeitet, soll funktionieren, das Eigene muss warten. Das Selbst definiert sich über Pflicht. Das stille Versprechen: „Wir tragen heute, damit ihr morgen tragen könnt.“",
+      "titel": "Arbeiten und schweigen.",
+      "text": "Sie kamen, um zu arbeiten, nicht um sich zu verwirklichen. Das Eigene musste warten. „Wir tragen heute, damit ihr morgen tragen könnt.“ Für die Frage „Was will ich?“ war kein Platz.",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
       "label": "Konfliktraum · zweite Generation",
-      "titel": "Die Übersetzung.",
-      "text": "Die Frage: Wohin gehöre ich? Zwischen Eltern, Schule und Land übersetzen die Kinder für die Erwachsenen. Das schärft den Blick und kostet Kraft: „Wer immer erklärt, kommt kaum dazu, sich zu fragen, was er eigentlich will.“",
+      "titel": "Zwischen den Welten.",
+      "text": "Oft kamen die Kinder Jahre nach den Vätern. Zu Hause Türkisch, in der Schule Deutsch, und beides nie ganz sicher. Schon als Kinder übersetzten sie Briefe und Behördengänge. „Wer immer erklärt, kommt kaum dazu, sich zu fragen, was er eigentlich will.“",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
       "label": "Syntheseraum · dritte Generation",
-      "titel": "Die Gestaltung.",
-      "text": "Die Frage: Was mache ich daraus? Herkunft und Zugehörigkeit stehen nicht mehr gegeneinander. Aber auch hier gibt es Reibung: „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+      "titel": "Aus beidem etwas Eigenes.",
+      "text": "Die Enkel sprechen beide Welten und erleben ihre Herkunft nicht mehr nur als Last. Ihre Aufgabe: daraus etwas Eigenes bauen. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
       "quelle": "Dossier, drei Räume"
      },
      {
