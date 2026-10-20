@@ -172,7 +172,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Dossier · Migration und Zusammenleben",
       "titel": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
-      "rot": "Jahrzehnte"
+      "rot": "Jahrzehnte",
+      "bild": {
+       "url": "titel-anwerbeabkommen.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -276,7 +281,12 @@ window.BRIEFINGS = [
     "rot": "Jahrzehnte",
     "text": "Chronik und drei Räume im Karussell, Dossier: Link in der Bio.",
     "quelle": "bpb; LpB Baden-Württemberg; 20.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-anwerbeabkommen.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    }
   ]
  },

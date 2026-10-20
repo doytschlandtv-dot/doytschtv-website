@@ -762,7 +762,12 @@ window.DOSSIERS = [
        "typ": "hook",
        "kicker": "Dossier · Migration und Zusammenleben",
        "titel": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
-       "rot": "Jahrzehnte"
+       "rot": "Jahrzehnte",
+       "bild": {
+        "url": "titel-anwerbeabkommen.jpg",
+        "fokus": 0.5,
+        "unter": "Illustration, KI-generiert, kein Foto"
+       }
       },
       {
        "typ": "fakten",
@@ -822,6 +827,13 @@ window.DOSSIERS = [
        "frage": "Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders?"
       }
      ]
+    },
+    "bild": {
+     "src": "titel-anwerbeabkommen.jpg",
+     "w": 1280,
+     "h": 720,
+     "alt": "Illustration in Schwarz-Weiß mit rotem Akzent: Ein Mann in Mantel und Schiebermütze geht mit einem Koffer von hinten gesehen über einen Bahnsteig, die Gleise laufen in den Dunst.",
+     "unter": "Illustration, KI-generiert, kein Foto."
     }
    }
   ],
