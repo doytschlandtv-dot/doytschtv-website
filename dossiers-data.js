@@ -512,7 +512,7 @@ window.DOSSIERS = [
     "id": "anwerbeabkommen-tuerkei-65-jahre",
     "datum": "2026-10-20",
     "titel": "65 Jahre Anwerbeabkommen: Was 1961 vereinbart wurde und was daraus wurde",
-    "teaser": "Ein Notenwechsel vom 30. Oktober 1961, rund 870.000 Arbeitskräfte und zwei Jahre, die zu Jahrzehnten wurden. Zahlen und Fakten zum Abkommen mit der Türkei, ergänzt um persönliche Auszüge aus einem Buchmanuskript über drei Generationen.",
+    "teaser": "Von einem Notenwechsel am 30. Oktober 1961 bis in die Gegenwart: Zahlen, Gesetze und Ereignisse, erzählt entlang der Chronologie. Dazu Auszüge aus einem Buchmanuskript, das drei Generationen als drei Räume beschreibt: Opferraum, Konfliktraum, Syntheseraum.",
     "aussage": {
      "zitat": "Wir riefen Arbeitskräfte, und es kamen Menschen.",
      "wer": "Max Frisch, Schriftsteller",
@@ -523,83 +523,139 @@ window.DOSSIERS = [
     "kern": [
      {
       "z": "867.000",
-      "l": "Menschen kamen bis zum Anwerbestopp 1973 aus der Türkei. Rund 80 Prozent arbeiteten in der Industrie und am Bau. Wie viele bis dahin zurückkehrten, geben die Quellen unterschiedlich an: 240.000 bis 500.000."
+      "l": "Menschen kamen zwischen 1961 und 1973 aus der Türkei. Rund 500.000 Rückwanderungen wurden im selben Zeitraum registriert, ein Teil davon Pendelmigration (bpb)."
      },
      {
       "z": "Zwei Jahre",
-      "l": "Das Abkommen sah höchstens zwei Jahre Aufenthalt und keinen Familiennachzug vor. Auf Druck der Arbeitgeber und der türkischen Regierung fielen beide Beschränkungen 1964."
+      "l": "So lange sollte der Aufenthalt höchstens dauern, ohne Familiennachzug. Schon 1964 fielen beide Grenzen, auf Druck der Arbeitgeber."
      },
      {
       "z": "23.11.1973",
-      "l": "Anwerbestopp nach der Ölkrise. Danach gewann der Familiennachzug an Gewicht: Laut Bundeszentrale für politische Bildung kamen 53 Prozent der türkischstämmigen Einwohner auf diesem Weg."
+      "l": "Anwerbestopp. Danach kamen vor allem Frauen und Kinder: 53 Prozent der türkischstämmigen Einwohner kamen laut bpb über den Familiennachzug."
      },
      {
       "z": "3,1 Mio.",
-      "l": "Menschen mit türkischem Migrationshintergrund leben heute in Deutschland (Stand 2025), etwa 1,7 Millionen davon mit deutscher Staatsangehörigkeit."
+      "l": "Menschen mit türkischem Migrationshintergrund leben heute in Deutschland (Stand 2025), rund 1,7 Millionen davon mit deutscher Staatsangehörigkeit."
      }
     ],
     "abschnitte": [
      {
       "h": "Worum es geht",
       "t": [
-       "Am 30. Oktober 1961 schlossen die Bundesrepublik und die Türkei das Abkommen über die „Vermittlung türkischer Arbeitnehmer“. Es war ein Notenwechsel zwischen Auswärtigem Amt und türkischer Botschaft, keine feierliche Unterzeichnung, und galt rückwirkend ab dem 1. September 1961. Zum 65. Jahrestag findet am Dienstag, 20. Oktober 2026, ein Festakt in Berlin statt, bei dem Bundeskanzler Merz eine Rede hält.",
-       "Dieses Dossier trägt belegte Zahlen zusammen und trennt Tatsachen von Wertungen. Zusätzlich enthält es zwei Abschnitte aus einem Buchmanuskript des Betreibers dieser Seite, Cengiz Bozkurt. Sie sind ausdrücklich als persönliche Sicht gekennzeichnet und keine Nachricht."
+       "Am 30. Oktober 1961 schlossen die Bundesrepublik und die Türkei das Abkommen über die „Vermittlung türkischer Arbeitnehmer“. Aus einem Papier über Arbeitskräfte wurde die Geschichte von Familien, Kindern und Enkeln. Dieses Dossier erzählt sie in der Reihenfolge, in der sie geschehen ist.",
+       "Es besteht aus zwei Stimmen. Die eine liefert belegte Zahlen, Gesetze und Ereignisse mit Quellen. Die andere ist persönlich: Der Betreiber dieser Seite, Cengiz Bozkurt, Enkel eines Arbeiters der ersten Stunde, beschreibt in einem Buchmanuskript drei Generationen als drei „Räume“, in denen Identität jeweils anders entsteht. Den Opferraum der ersten, den Konfliktraum der zweiten und den Syntheseraum der dritten Generation. Die persönlichen Passagen sind jeweils ausdrücklich markiert. Sie sind Deutung, keine Statistik.",
+       "Dies ist der Auftakt der Reihe „Migration und Zusammenleben“. Weitere Passagen aus dem Buch sollen folgen."
       ]
      },
      {
-      "h": "Warum es das Abkommen gab",
+      "h": "Die Zeitleiste auf einen Blick",
       "t": [
-       "Die Bundesrepublik erlebte ein Wirtschaftswunder: 1960 standen rund 650.000 offene Stellen etwa 150.000 Arbeitsuchenden gegenüber. Aus Italien (Abkommen 1955), Spanien und Griechenland kamen bereits Arbeitskräfte, um Lohnsteigerungen zu begrenzen wurde in strukturschwächeren Regionen angeworben. Arbeitgeber holten Türkinnen und Türken teils auf eigene Faust, das Abkommen sollte diese Zuwanderung steuern.",
-       "Die Türkei hatte hohe Arbeitslosigkeit, 80 Prozent der Bevölkerung lebten von der Landwirtschaft, und sie hoffte auf Überweisungen aus Deutschland. Außenpolitisch spielte auch die NATO-Mitgliedschaft eine Rolle. Die türkische Seite drängte schon im Dezember 1960 darauf, nicht hinter Griechenland zurückgesetzt zu werden."
+       "30. Oktober 1961: Notenwechsel zwischen Auswärtigem Amt und türkischer Botschaft, gültig ab 1. September 1961.",
+       "30. September 1964: Ein zweites Abkommen streicht die Zwei-Jahres-Grenze.",
+       "23. November 1973: Die Bundesregierung stoppt die Anwerbung. 1973 arbeiteten rund 605.000 türkische Arbeitnehmer in der Bundesrepublik.",
+       "1974 bis 1979: Frauen und Kinder kommen nach. Die Zahl der unter 15-Jährigen aus der Türkei verdoppelt sich auf rund 420.000.",
+       "1983 bis 1984: Arbeitslose Ausländer erhalten bei Rückkehr eine Hilfe von 10.500 D-Mark, die gezahlten Rentenbeiträge werden erstattet.",
+       "1992 und 1993: Brandanschläge in Mölln (3 Tote) und Solingen (5 Tote).",
+       "1. Januar 2000: Das Staatsangehörigkeitsrecht ermöglicht Kindern ausländischer Eltern unter bestimmten Voraussetzungen den Erwerb mit der Geburt. Im selben Jahr, am 9. September, wird Enver Şimşek erschossen, das erste Opfer der NSU-Mordserie.",
+       "2011: Der NSU fliegt auf.",
+       "27. Juni 2024: Die Reform des Staatsangehörigkeitsrechts erlaubt Mehrstaatigkeit bei der Einbürgerung.",
+       "20. Oktober 2026: 65. Jahrestag, Festakt in Berlin."
       ]
      },
      {
-      "h": "Wie die Anwerbung ablief",
+      "h": "1961: Eine Lücke im Arbeitsmarkt",
       "t": [
-       "Die Vorauswahl fand in Istanbul statt. Die ärztliche Untersuchung erlebten viele als erniedrigend, unter anderem wegen der Entkleidung bis auf die Unterwäsche. Laut einer Zeitzeugin kamen auf jede benötigte Arbeitskraft etwa zehn Bewerber. Zeitweise standen über eine Million Ausreisewillige auf Wartelisten, mit Wartezeiten von bis zu sieben Jahren."
+       "Die Bundesrepublik erlebte ein Wirtschaftswunder: 1960 standen rund 650.000 offene Stellen etwa 150.000 Arbeitsuchenden gegenüber. Aus Italien (Abkommen 1955), Spanien und Griechenland kamen schon Arbeitskräfte. Arbeitgeber holten Türkinnen und Türken teils auf eigene Faust, das Abkommen sollte diese Zuwanderung ordnen. Es war ein Notenwechsel, keine feierliche Unterzeichnung.",
+       "Die Türkei hatte hohe Arbeitslosigkeit, 80 Prozent der Menschen lebten von der Landwirtschaft, und sie hoffte auf Überweisungen aus Deutschland. Außenpolitisch spielte die NATO-Mitgliedschaft eine Rolle. Die türkische Seite drängte schon im Dezember 1960, nicht hinter Griechenland zurückgesetzt zu werden.",
+       "Vorgesehen war ein Rotationsprinzip: höchstens zwei Jahre, dann Austausch, kein Familiennachzug. Das Wort „Gast“ im Wort „Gastarbeiter“ meinte genau das."
       ]
      },
      {
-      "h": "Wer kam und was sie taten",
+      "h": "Istanbul: Auswahl, Untersuchung, Warten",
       "t": [
-       "Bis 1973 kamen rund 867.000 Menschen aus der Türkei. Rund 80 Prozent arbeiteten im produzierenden Gewerbe und am Bau, meist als Angelernte oder Hilfsarbeiter. Der Anteil der Frauen wird unterschiedlich angegeben: Das Zentrum für Türkeistudien nennt 21 Prozent (ZDFheute), die Landeszentrale für politische Bildung Baden-Württemberg rund ein Drittel.",
-       "Die Überweisungen in die Türkei stiegen laut Landeszentrale von 8 Millionen US-Dollar (1964) auf rund 1,2 Milliarden US-Dollar (1973)."
+       "Die Vorauswahl fand in Istanbul statt. Die ärztliche Untersuchung erlebten viele als erniedrigend, unter anderem weil sie sich bis auf die Unterwäsche ausziehen mussten. Laut einer Zeitzeugin kamen auf jede benötigte Arbeitskraft etwa zehn Bewerber. Zeitweise standen über eine Million Ausreisewillige auf Wartelisten, mit Wartezeiten von bis zu sieben Jahren."
+      ]
+     },
+     {
+      "h": "Der erste Raum: Opferraum (1961 bis 1973)",
+      "t": [
+       "Bis 1973 kamen rund 867.000 Menschen aus der Türkei. Etwa 80 Prozent arbeiteten im produzierenden Gewerbe und am Bau, meist als Angelernte oder Hilfsarbeiter. Etwa jeder Fünfte war eine Frau (21 Prozent laut Zentrum für Türkeistudien, andere Quellen nennen bis zu einem Drittel). Die Überweisungen in die Türkei stiegen von 8 Millionen US-Dollar (1964) auf rund 1,2 Milliarden US-Dollar (1973).",
+       "Persönliche Sicht, keine Nachricht. Aus dem Buchmanuskript von Cengiz Bozkurt:",
+       "„Die erste Generation der türkischen Gastarbeiter kam nicht nach Deutschland, um sich zu verwirklichen. Sie kam, um zu arbeiten. [...] Migration war für sie kein Projekt der Identitätsfindung, sondern eine Entscheidung unter Bedingungen der Notwendigkeit.“",
+       "„Der Begriff ‚Gastarbeiter‘ trägt diese Ambivalenz bis heute in sich. Er suggeriert Gastfreundschaft, meint aber Funktion. Er klingt nach Einladung, beschreibt jedoch Austauschbarkeit. Wer als Gast kommt, bleibt nicht. Wer arbeitet, soll funktionieren.“",
+       "„Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
+       "Das ist der Kern dessen, was das Manuskript Opferraum nennt: Identität als Pflicht. Das Selbst definiert sich weniger über Wünsche als über die Erfüllung notwendiger Aufgaben, Arbeit ist die Quelle von Würde, und die Hoffnung wird auf die Kinder verlagert. „Opfer“ meint hier nicht Schwäche, sondern Verzicht. Das Manuskript betont ausdrücklich: Der Opferraum ist kein Ort der Lähmung, sondern der Ursprung einer besonderen Leistungsnorm."
+      ]
+     },
+     {
+      "h": "Der Koffer",
+      "t": [
+       "Persönliche Sicht, keine Nachricht. Aus dem Buchmanuskript von Cengiz Bozkurt:",
+       "„Mein Großvater sagte oft: ‚Ich kam mit einem Koffer, mein Sohn.‘ Lange blieb das in meinem Kopf ein schlichtes Bild: ein Mann um die dreißig, ein Koffer in der Hand. Heute, da ich selbst in diesem Alter bin, wirkt der Satz anders. Ich sehe nicht zuerst den Koffer, ich frage mich, was er in seinem Herzen trug.“",
+       "„Wenn ich mir vorstelle, wie er in Dortmund ausstieg, sehe ich einen Bahnhof, der ihm nichts versprach, und eine Welt, die ihn nicht fragte, wer er war, sondern wozu er taugt.“",
+       "„Der Koffer war klein, abgewetzt, schwerer, als sein Inhalt vermuten ließ. Und doch trug er mehr als Hemden und ein paar persönliche Dinge. Er trug Erwartungen. Er trug ein Rückkehrversprechen. Er trug die stille Hoffnung, dass dieses Opfer eines Tages Sinn ergeben würde, im Leben der Kinder, nicht unbedingt im eigenen.“"
       ]
      },
      {
       "h": "1964 und 1973: Aus zwei Jahren wurden Jahrzehnte",
       "t": [
-       "Das Rotationsprinzip sollte dafür sorgen, dass Arbeitskräfte nach zwei Jahren ausgetauscht werden. Arbeitgeber wollten die eingearbeiteten Beschäftigten aber behalten. Am 30. September 1964 strich ein zweites Abkommen die Zwei-Jahres-Grenze und ermöglichte den Familiennachzug, der überwiegend aber erst nach dem Anwerbestopp stattfand.",
-       "Am 23. November 1973 stoppte die Bundesregierung die Anwerbung. Danach kamen vermehrt Frauen und Kinder: Zwischen 1974 und 1979 verdoppelte sich die Zahl der unter 15-Jährigen aus der Türkei auf rund 420.000. 1974 lebten etwa 1,0 Millionen türkische Staatsangehörige in Deutschland, 1998 waren es 2,1 Millionen (bpb). In den 1970er-Jahren konzentrierte sich die Politik darauf, den Stopp zu halten und die Rückkehr zu fördern. Die Bundeszentrale für politische Bildung sieht darin und im Fehlen einer aktiven Integrationspolitik in den 1980ern eine Ursache für dauerhafte Nachteile."
+       "Arbeitgeber wollten die eingearbeiteten Beschäftigten behalten. Am 30. September 1964 strich ein zweites Abkommen die Zwei-Jahres-Grenze. Der Familiennachzug wurde möglich, fand aber überwiegend erst später statt.",
+       "Am 23. November 1973 stoppte die Bundesregierung die Anwerbung, nach der Ölkrise. Damit endete der Zuzug von Arbeitskräften, aber nicht die Einwanderung. Wer jetzt zurückfuhr, konnte nicht mehr ohne Weiteres wiederkommen. Viele blieben deshalb und holten die Familie nach. 53 Prozent der türkischstämmigen Einwohner kamen laut Bundeszentrale für politische Bildung über den Familiennachzug. Zwischen 1974 und 1979 verdoppelte sich die Zahl der unter 15-Jährigen aus der Türkei auf rund 420.000."
       ]
      },
      {
-      "h": "Was die Integrationsbeauftragte sagt, und was belegt ist",
+      "h": "Der zweite Raum: Konfliktraum (1970er bis 1990er)",
       "t": [
-       "Natalie Pawlik, Integrationsbeauftragte der Bundesregierung, sagte laut Berichten der Rheinischen Post, viele türkeistämmige Menschen erlebten weiterhin Benachteiligungen bei Wohnungssuche, Bewerbungen und in der Schule. Wörtliche Zitate und Zahlen nennen die Berichte nicht.",
-       "Belegt ist für den Wohnungsmarkt: Im Nationalen Diskriminierungs- und Rassismusmonitor (DeZIM, Dezember 2025, 9.512 Befragte) gaben 35 Prozent der muslimischen Befragten an, wegen Diskriminierung keine Einladung zu einer Besichtigung erhalten zu haben, bei nicht rassistisch markierten Personen waren es 11 Prozent. In einem Feldexperiment mit identischen Bewerbungen lag die Einladungsquote bei deutsch klingenden Namen bei 22 Prozent, bei Namen aus der Region Nordafrika, Naher Osten und Türkei bei 16 Prozent. Türkeistämmige werden in dem Bericht nicht gesondert ausgewiesen."
+       "Die Politik jener Jahre konzentrierte sich darauf, den Anwerbestopp zu halten und die Rückkehr zu fördern. 1983 bis 1984 galt eine Rückkehrhilfe von 10.500 D-Mark für arbeitslose Ausländer, die gezahlten Rentenbeiträge wurden erstattet. Eine aktive Integrationspolitik fehlte weitgehend. Die Bundeszentrale für politische Bildung sieht darin eine Ursache für dauerhafte Nachteile.",
+       "Für die Kinder war das keine Politik, sondern Alltag. Sie kamen oft Jahre nach den Vätern, kamen in Vorbereitungsklassen und wuchsen in einem Haushalt auf, in dem alles nur „auf Zeit“ war.",
+       "Persönliche Sicht, keine Nachricht. Aus dem Buchmanuskript von Cengiz Bozkurt:",
+       "„Viele kamen im Zuge der Familienzusammenführung erst Jahre später nach. [...] Sie lernten die Sprache der Herkunft, wuchsen in vertrauten sozialen Ordnungen auf, und kannten ihre Väter oft nur aus den Sommerferien. Manche vergaßen ihre Gesichter.“",
+       "„Meine Mutter erzählte mir, dass sie bei ihrer Ankunft in Deutschland ihren Vater zunächst als einen fremden Mann wahrnahm. Er roch anders als in ihrer Vorstellung: nicht nach Sonne und Erde, sondern nach Metall, Schweiß und kaltem Zigarettenrauch.“",
+       "„Mein Vater war ein sehr guter Schüler. [...] Er sollte den Geruch einer Flüssigkeit beschreiben. Auf Türkisch hätte er präzise Worte gefunden. Auf Deutsch blieb ihm nur eine ungenaue Formulierung: ‚stinkt nicht‘. Die Klasse lachte. Der Lehrer korrigierte nicht.“",
+       "„Kompetenz war vorhanden, doch sie fand keinen sicheren Ausdruck.“ Später wollte der Vater eine Ausbildung beim Elektrohändler, doch der Großvater wollte Sicherheit, also ThyssenKrupp. „Mein Vater beugte sich. Nicht aus Überzeugung, sondern aus Loyalität, gegenüber dem Opfer seines Vaters.“ Jahre später sagte er dem Sohn: „Wenn wir alle nur Arbeiter werden, werden wir dem Opfer deines Opas nicht gerecht. Wenn du studierst, kann dein Sohn vielleicht einmal mehr.“",
+       "Der Konfliktraum, so das Manuskript, ist kein Ort der Rebellion, sondern der inneren Spannung. Die zweite Generation lernte früh, zu übersetzen, in Sprache und Kultur, bei Behörden und Briefen. „Wer ständig vermittelt, steht selten selbst im Zentrum. Wer immer erklärt, kommt kaum dazu, sich zu fragen, was er eigentlich will.“ Seine Ressource ist die Fähigkeit zur Übersetzung, sein Preis ist Überforderung."
       ]
      },
      {
-      "h": "Aus dem Manuskript: Der Koffer",
+      "h": "1990er: Wenn Zugehörigkeit brennt",
       "t": [
-       "Persönliche Sicht, keine Nachricht. Der Autor beschreibt seinen Großvater, der Ende der 1960er-Jahre als Arbeiter nach Deutschland kam:",
-       "„Mein Großvater sagte oft: ‚Ich kam mit einem Koffer, mein Sohn.‘ Lange blieb das in meinem Kopf ein schlichtes Bild: ein Mann um die dreißig, ein Koffer in der Hand. Heute, da ich selbst in diesem Alter bin, wirkt der Satz anders. Ich sehe nicht zuerst den Koffer, ich frage mich, was er in seinem Herzen trug.“",
-       "„Wenn ich mir vorstelle, wie er in Dortmund ausstieg, sehe ich einen Bahnhof, der ihm nichts versprach, und eine Welt, die ihn nicht fragte, wer er war, sondern wozu er taugt.“",
-       "„In Deutschland war er für viele nie deutsch genug gewesen, ein Gast, der zu lange blieb. Und hier, in der Türkei, war er zu deutsch geworden, um einfach nur Mustafa zu sein.“ (Das Zitat spielt auf den Ausruf bei seiner Beerdigung in der Türkei an: „Almancı“, „der Deutsche“.)"
+       "In der Nacht zum 23. November 1992 legten Rechtsextreme in Mölln einen Brandanschlag auf von türkischen Familien bewohnte Häuser. Bahide Arslan (51), Ayşe Yilmaz (14) und Yeliz Arslan (10) starben, neun Menschen wurden verletzt. Am 29. Mai 1993 starben bei einem Brandanschlag in Solingen fünf Frauen und Mädchen der Familie Genç: Gürsün İnce (27), Hatice Genç (18), Gülüstan Öztürk (12), Hülya Genç (9) und Saime Genç (4).",
+       "Für eine Generation, die gerade versuchte, in diesem Land anzukommen, waren das Daten, die sich einbrannten. Sie zeigen, was „Dazwischen“ auch heißen kann."
       ]
      },
      {
-      "h": "Aus dem Manuskript: Drei Räume, drei Generationen",
+      "h": "2000 bis 2011: Papier und Misstrauen",
       "t": [
-       "Persönliche Sicht, keine Nachricht. Im Manuskript beschreibt der Autor die Geschichte der türkischen Einwanderung als Abfolge dreier „Räume“, in denen Identität jeweils anders entsteht: der Opferraum der ersten Generation (Pflicht, Entbehrung, „Wir tragen heute, damit ihr morgen tragen könnt“), der Konfliktraum der zweiten (zwischen Herkunft und Ankunft, Übersetzen zwischen den Welten) und der Syntheseraum der dritten (Herkunft und Zugehörigkeit nicht mehr als Gegensatz, Identität als Gestaltungsraum).",
-       "Das ist eine These, keine Statistik. Sie nimmt für sich nicht in Anspruch, jede Biografie zu beschreiben, und das Manuskript betont selbst, dass nicht jeder Angehörige der dritten Generation diesen Raum nutzt. Das Buch ist noch in Arbeit."
+       "Zum 1. Januar 2000 trat ein neues Staatsangehörigkeitsrecht in Kraft: Kinder ausländischer Eltern können unter bestimmten Voraussetzungen mit der Geburt Deutsche werden.",
+       "Im selben Jahr, am 9. September 2000, wurde Enver Şimşek in Nürnberg erschossen. Er starb zwei Tage später. Es war der erste Mord der NSU-Serie, der bis 2007 zehn Menschen zum Opfer fielen, die meisten türkischer oder griechischer Herkunft. Die Ermittler suchten Motive im Umfeld der Familien oder im Drogenmilieu, Medien prägten das Wort „Döner-Morde“. Semiya Şimşek sagte später: „In den elf Jahren bis zur Aufklärung war mein Vater ein potenzieller Verbrecher.“ 2011 flog der NSU auf."
+      ]
+     },
+     {
+      "h": "Der dritte Raum: Syntheseraum (heute)",
+      "t": [
+       "Heute leben rund 3,1 Millionen Menschen mit türkischem Migrationshintergrund in Deutschland, etwa 1,7 Millionen davon mit deutscher Staatsangehörigkeit. Seit dem 27. Juni 2024 ist bei der Einbürgerung Mehrstaatigkeit zulässig: Man muss die Herkunft nicht mehr abgeben, um dazuzugehören.",
+       "Zugleich bleibt Ungleichheit messbar. Im Nationalen Diskriminierungs- und Rassismusmonitor (DeZIM, Dezember 2025, 9.512 Befragte) gaben 35 Prozent der muslimischen Befragten an, wegen Diskriminierung keine Einladung zu einer Wohnungsbesichtigung erhalten zu haben, bei nicht rassistisch markierten Personen waren es 11 Prozent. In einem Feldexperiment mit identischen Bewerbungen lag die Einladungsquote bei deutsch klingenden Namen bei 22 Prozent, bei Namen aus der Region Nordafrika, Naher Osten und Türkei bei 16 Prozent. Türkeistämmige werden dort nicht gesondert ausgewiesen. Integrationsbeauftragte Natalie Pawlik sagte laut Rheinischer Post, viele türkeistämmige Menschen erlebten weiterhin Benachteiligungen bei Wohnungssuche, Bewerbungen und in der Schule.",
+       "Persönliche Sicht, keine Nachricht. Aus dem Buchmanuskript von Cengiz Bozkurt:",
+       "„Die dritte Generation erlebt die Herkunftskultur nicht mehr primär als Verpflichtung oder Einschränkung, sondern als Ressource. Zugleich erlebt sie die deutsche Mehrheitsgesellschaft nicht als fremden Raum, in den man sich erst hineinbeweisen muss, sondern als selbstverständlichen sozialen Rahmen, als Heimat, die nicht nur bewohnt, sondern mitgestaltet werden darf. Sie navigiert nicht mehr zwischen Identitäten, sondern mit Identitäten.“",
+       "Die dritte Generation erbt von der ersten den Leistungs- und Verantwortungsimpuls, von der zweiten die Erfahrung des Dazwischen. Daraus entsteht, was das Manuskript Gestaltungsidentität nennt: Herkunft und Zugehörigkeit stehen nicht mehr in Konkurrenz. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+       "Der Weg führt, so das Modell, vom Überleben über die Aushandlung zur Gestaltung. „Jeder Raum ist aus dem vorhergehenden hervorgegangen; keiner wäre ohne ihn denkbar.“ Das ist eine These, keine Statistik. Sie beansprucht nicht, jede Biografie zu beschreiben, und das Manuskript betont selbst, dass nicht jeder Angehörige der dritten Generation diesen Raum nutzt."
       ]
      },
      {
       "h": "Unsere Einordnung",
       "t": [
-       "Belegt ist: Das Abkommen war als befristete Lösung geplant und wurde schon 1964 auf Wunsch der Arbeitgeber geöffnet. Die Zahlen zu Rückkehr und Frauenanteil unterscheiden sich je nach Quelle, deshalb nennen wir die Spannen. Strittig ist, wie viel Integrationspolitik damals fehlte und wie viel heute gelingt: Die Bundeszentrale für politische Bildung sieht langfristige Nachteile durch frühe Versäumnisse, die Integrationsbeauftragte sagt, Integrationspolitik habe aus Fehlern gelernt, und fordert dauerhaft finanzierte Strukturen. Beides lässt sich nebeneinander stellen. Wer Menschen als Arbeitskräfte holt, bekommt Bürger. Das Grundgesetz kennt diese Unterscheidung nicht."
+       "Belegt ist: Das Abkommen war als befristete Lösung gedacht und wurde schon 1964 auf Wunsch der Arbeitgeber geöffnet. Der Anwerbestopp von 1973 beendete den Zuzug, aber nicht die Einwanderung. Strittig ist, wie viel Integrationspolitik damals fehlte und wie viel heute gelingt: Die Bundeszentrale für politische Bildung sieht langfristige Nachteile durch frühe Versäumnisse, die Integrationsbeauftragte sagt, Integrationspolitik habe aus Fehlern gelernt, und fordert dauerhaft finanzierte Strukturen.",
+       "Das Drei-Räume-Modell ist eine Deutung. Es hilft, Erfahrungen zu ordnen: Warum Eltern Sicherheit über Wünsche stellten, warum Kinder übersetzten und warum Enkel anders sprechen. Es ersetzt keine Zahlen und keine Einzelschicksale. Und doch fasst es zusammen, was Frisch 1965 in einem Satz sagte. Wer Menschen als Arbeitskräfte holt, bekommt Bürger. Das Grundgesetz kennt diese Unterscheidung nicht."
+      ]
+     },
+     {
+      "h": "Zum Schluss: Almancı",
+      "t": [
+       "Persönliche Sicht, keine Nachricht. Aus dem Buchmanuskript von Cengiz Bozkurt:",
+       "„Jahrzehnte später stand ich in den staubigen Straßen seines Heimatviertels in der Türkei. Mein Großvater war verstorben, nicht in der Fremde, nicht in einem sterilen Krankenhausbett in Deutschland, sondern hier, wo seine Reise begonnen hatte. [...] Er war angekommen, bevor er ging.“",
+       "„Dann zerriss die Sela die Stille. Die Lautsprecher knackten, und die Stimme des Imams verkündete seinen Tod. ‚Almancı Mustafa Bozkurt vefat etmiştir.‘ Dieses Wort traf mich härter, als ich es erwartet hätte. Almancı. Der Deutsche.“",
+       "„In Deutschland war er für viele nie deutsch genug gewesen, ein Gast, der zu lange blieb. Und hier, in der Türkei, war er zu deutsch geworden, um einfach nur Mustafa zu sein. In einem einzigen Wort schloss sich der Kreis: Der Mann, der mit einem Koffer kam, wurde bis zuletzt über sein Dazwischen benannt.“",
+       "„Der Koffer war nie nur Gepäck. Er war Symbol. Für das Provisorische, das dauerhaft wurde.“"
       ]
      }
     ],
@@ -621,8 +677,24 @@ window.DOSSIERS = [
       "url": "https://www.bpb.de/themen/europa/tuerkei/184981/die-anwerbung-tuerkischer-arbeitnehmer-und-ihre-folgen/"
      },
      {
-      "titel": "Bundeskanzler: Festakt zum 65. Jubiläum des Anwerbeabkommens",
-      "url": "https://www.bundeskanzler.de/bk-de/aktuelles/teilnahme-am-festakt-zum-65-jubilaeum-des-deutsch-tuerkischen-anwerbeabkommens-2457296"
+      "titel": "Virtuelles Migrationsmuseum: Rückkehrhilfe (Glossar)",
+      "url": "https://virtuelles-migrationsmuseum.org/en/Glossar/repatriation-grant/"
+     },
+     {
+      "titel": "Bundeszentrale für politische Bildung: 29. Mai 1993, Brandanschlag in Solingen",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/161980/29-mai-1993-brandanschlag-in-solingen/"
+     },
+     {
+      "titel": "Bundeszentrale für politische Bildung: Vor 30 Jahren, Brandanschlag in Mölln",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/515451/vor-30-jahren-rechtsextremer-brandanschlag-in-moelln/"
+     },
+     {
+      "titel": "asyl.net: Staatsangehörigkeit (Reform 2000 und 2024)",
+      "url": "https://www.asyl.net/themen/staatsangehoerigkeit-und-einbuergerung/staatsangehoerigkeit"
+     },
+     {
+      "titel": "Jüdische Allgemeine: 25 Jahre nach dem ersten NSU-Mordanschlag",
+      "url": "https://www.juedische-allgemeine.de/politik/der-schmerz-wird-immer-groesser-25-jahre-nach-dem-ersten-nsu-mordanschlag/"
      },
      {
       "titel": "ad-hoc-news / Rheinische Post, 20.10.2026: Pawlik kritisiert Rassismus nach 65 Jahren",
@@ -637,8 +709,7 @@ window.DOSSIERS = [
       "url": "https://docenti.unimc.it/d.minni/teaching/2023/29088/files/materiale-didattico-14.11.23/Die%20ersten%20Gastarbeiter%20-%20Bundesrepublik%20I%20_%20Zeitklicks.pdf"
      },
      {
-      "titel": "Istanbul Berlin: Cem Karaca (Album „Die Kanaken“, Lied „Es kamen Menschen an“)",
-      "url": "https://www.istanbulberlin.com/en-de/cem-karaca/"
+      "titel": "Bozkurt, Cengiz: Manuskript „Untersuchung“ (unveröffentlicht), Kapitel 3 bis 5"
      }
     ],
     "stand": "20.10.2026"
