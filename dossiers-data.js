@@ -512,7 +512,7 @@ window.DOSSIERS = [
     "id": "anwerbeabkommen-tuerkei-65-jahre",
     "datum": "2026-10-20",
     "titel": "65 Jahre Anwerbeabkommen: Was 1961 vereinbart wurde und was daraus wurde",
-    "teaser": "Von einem Notenwechsel am 30. Oktober 1961 bis in die Gegenwart: Zahlen, Gesetze und Ereignisse, erzählt entlang der Chronologie. Dazu Auszüge aus einem Buchmanuskript, das drei Generationen als drei Räume beschreibt: Opferraum, Konfliktraum, Syntheseraum.",
+    "teaser": "Von einem Notenwechsel am 30. Oktober 1961 bis heute: erst die Chronik mit Zahlen, Gesetzen und Ereignissen, dann ein Blick von innen. Drei Räume, drei Generationen: Opferraum, Konfliktraum, Syntheseraum.",
     "aussage": {
      "zitat": "Wir riefen Arbeitskräfte, und es kamen Menschen.",
      "wer": "Max Frisch, Schriftsteller",
@@ -542,13 +542,14 @@ window.DOSSIERS = [
      {
       "h": "Worum es geht",
       "t": [
-       "Am 30. Oktober 1961 schlossen die Bundesrepublik und die Türkei das Abkommen über die „Vermittlung türkischer Arbeitnehmer“. Aus einem Papier über Arbeitskräfte wurde die Geschichte von Familien, Kindern und Enkeln. Dieses Dossier erzählt sie in der Reihenfolge, in der sie geschehen ist.",
-       "Es besteht aus zwei Stimmen. Die eine liefert belegte Zahlen, Gesetze und Ereignisse mit Quellen. Die andere ist persönlich: Der Betreiber dieser Seite, Cengiz Bozkurt, Enkel eines Arbeiters der ersten Stunde, beschreibt in einem Buchmanuskript drei Generationen als drei „Räume“, in denen Identität jeweils anders entsteht. Den Opferraum der ersten, den Konfliktraum der zweiten und den Syntheseraum der dritten Generation. Die persönlichen Passagen sind jeweils ausdrücklich markiert. Sie sind Deutung, keine Statistik.",
-       "Dies ist der Auftakt der Reihe „Migration und Zusammenleben“. Weitere Passagen aus dem Buch sollen folgen."
+       "Am 30. Oktober 1961 schlossen die Bundesrepublik und die Türkei das Abkommen über die „Vermittlung türkischer Arbeitnehmer“. Aus einem Papier über Arbeitskräfte wurde die Geschichte von Familien, Kindern und Enkeln.",
+       "Dieses Dossier betrachtet sie aus zwei Richtungen. Von außen: Was ist geschehen, Jahr für Jahr, mit Zahlen, Gesetzen und Ereignissen. Von innen: Was ist in den Menschen geschehen. Dafür unterscheidet das Dossier drei Räume, in denen Identität jeweils nach einer anderen Logik entsteht: den Opferraum der ersten Generation, den Konfliktraum der zweiten und den Syntheseraum der dritten.",
+       "Die Räume sind keine Zeitabschnitte. Sie folgen nicht der Chronik, sondern der Frage, was Zugehörigkeit für die jeweilige Generation bedeutete. Sie überlappen sich, und manche Familie lebte in allen dreien zugleich. Die Räume sind eine Deutung, keine Statistik. Passagen in Ich-Form stammen vom Betreiber dieser Seite, dem Enkel eines Arbeiters der ersten Stunde.",
+       "Dies ist der Auftakt der Reihe „Migration und Zusammenleben“."
       ]
      },
      {
-      "h": "Die Zeitleiste auf einen Blick",
+      "h": "Chronik: Die Zeitleiste auf einen Blick",
       "t": [
        "30. Oktober 1961: Notenwechsel zwischen Auswärtigem Amt und türkischer Botschaft, gültig ab 1. September 1961.",
        "30. September 1964: Ein zweites Abkommen streicht die Zwei-Jahres-Grenze.",
@@ -563,7 +564,7 @@ window.DOSSIERS = [
       ]
      },
      {
-      "h": "1961: Eine Lücke im Arbeitsmarkt",
+      "h": "Chronik 1961: Eine Lücke im Arbeitsmarkt",
       "t": [
        "Die Bundesrepublik erlebte ein Wirtschaftswunder: 1960 standen rund 650.000 offene Stellen etwa 150.000 Arbeitsuchenden gegenüber. Aus Italien (Abkommen 1955), Spanien und Griechenland kamen schon Arbeitskräfte. Arbeitgeber holten Türkinnen und Türken teils auf eigene Faust, das Abkommen sollte diese Zuwanderung ordnen. Es war ein Notenwechsel, keine feierliche Unterzeichnung.",
        "Die Türkei hatte hohe Arbeitslosigkeit, 80 Prozent der Menschen lebten von der Landwirtschaft, und sie hoffte auf Überweisungen aus Deutschland. Außenpolitisch spielte die NATO-Mitgliedschaft eine Rolle. Die türkische Seite drängte schon im Dezember 1960, nicht hinter Griechenland zurückgesetzt zu werden.",
@@ -571,74 +572,88 @@ window.DOSSIERS = [
       ]
      },
      {
-      "h": "Istanbul: Auswahl, Untersuchung, Warten",
+      "h": "Chronik 1961 bis 1973: Istanbul, Auswahl, Arbeit",
       "t": [
-       "Die Vorauswahl fand in Istanbul statt. Die ärztliche Untersuchung erlebten viele als erniedrigend, unter anderem weil sie sich bis auf die Unterwäsche ausziehen mussten. Laut einer Zeitzeugin kamen auf jede benötigte Arbeitskraft etwa zehn Bewerber. Zeitweise standen über eine Million Ausreisewillige auf Wartelisten, mit Wartezeiten von bis zu sieben Jahren."
+       "Die Vorauswahl fand in Istanbul statt. Die ärztliche Untersuchung erlebten viele als erniedrigend, unter anderem weil sie sich bis auf die Unterwäsche ausziehen mussten. Laut einer Zeitzeugin kamen auf jede benötigte Arbeitskraft etwa zehn Bewerber. Zeitweise standen über eine Million Ausreisewillige auf Wartelisten, mit Wartezeiten von bis zu sieben Jahren.",
+       "Bis 1973 kamen rund 867.000 Menschen aus der Türkei. Etwa 80 Prozent arbeiteten im produzierenden Gewerbe und am Bau, meist als Angelernte oder Hilfsarbeiter. Etwa jeder Fünfte war eine Frau (21 Prozent laut Zentrum für Türkeistudien, andere Quellen nennen bis zu einem Drittel). Die Überweisungen in die Türkei stiegen von 8 Millionen US-Dollar (1964) auf rund 1,2 Milliarden US-Dollar (1973)."
       ]
      },
      {
-      "h": "Der erste Raum: Opferraum (1961 bis 1973)",
-      "t": [
-       "Bis 1973 kamen rund 867.000 Menschen aus der Türkei. Etwa 80 Prozent arbeiteten im produzierenden Gewerbe und am Bau, meist als Angelernte oder Hilfsarbeiter. Etwa jeder Fünfte war eine Frau (21 Prozent laut Zentrum für Türkeistudien, andere Quellen nennen bis zu einem Drittel). Die Überweisungen in die Türkei stiegen von 8 Millionen US-Dollar (1964) auf rund 1,2 Milliarden US-Dollar (1973).",
-       "Persönliche Sicht, keine Nachricht. Aus dem Buchmanuskript von Cengiz Bozkurt:",
-       "„Die erste Generation der türkischen Gastarbeiter kam nicht nach Deutschland, um sich zu verwirklichen. Sie kam, um zu arbeiten. [...] Migration war für sie kein Projekt der Identitätsfindung, sondern eine Entscheidung unter Bedingungen der Notwendigkeit.“",
-       "„Der Begriff ‚Gastarbeiter‘ trägt diese Ambivalenz bis heute in sich. Er suggeriert Gastfreundschaft, meint aber Funktion. Er klingt nach Einladung, beschreibt jedoch Austauschbarkeit. Wer als Gast kommt, bleibt nicht. Wer arbeitet, soll funktionieren.“",
-       "„Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
-       "Das ist der Kern dessen, was das Manuskript Opferraum nennt: Identität als Pflicht. Das Selbst definiert sich weniger über Wünsche als über die Erfüllung notwendiger Aufgaben, Arbeit ist die Quelle von Würde, und die Hoffnung wird auf die Kinder verlagert. „Opfer“ meint hier nicht Schwäche, sondern Verzicht. Das Manuskript betont ausdrücklich: Der Opferraum ist kein Ort der Lähmung, sondern der Ursprung einer besonderen Leistungsnorm."
-      ]
-     },
-     {
-      "h": "Der Koffer",
-      "t": [
-       "Persönliche Sicht, keine Nachricht. Aus dem Buchmanuskript von Cengiz Bozkurt:",
-       "„Mein Großvater sagte oft: ‚Ich kam mit einem Koffer, mein Sohn.‘ Lange blieb das in meinem Kopf ein schlichtes Bild: ein Mann um die dreißig, ein Koffer in der Hand. Heute, da ich selbst in diesem Alter bin, wirkt der Satz anders. Ich sehe nicht zuerst den Koffer, ich frage mich, was er in seinem Herzen trug.“",
-       "„Wenn ich mir vorstelle, wie er in Dortmund ausstieg, sehe ich einen Bahnhof, der ihm nichts versprach, und eine Welt, die ihn nicht fragte, wer er war, sondern wozu er taugt.“",
-       "„Der Koffer war klein, abgewetzt, schwerer, als sein Inhalt vermuten ließ. Und doch trug er mehr als Hemden und ein paar persönliche Dinge. Er trug Erwartungen. Er trug ein Rückkehrversprechen. Er trug die stille Hoffnung, dass dieses Opfer eines Tages Sinn ergeben würde, im Leben der Kinder, nicht unbedingt im eigenen.“"
-      ]
-     },
-     {
-      "h": "1964 und 1973: Aus zwei Jahren wurden Jahrzehnte",
+      "h": "Chronik 1964 und 1973: Aus zwei Jahren wurden Jahrzehnte",
       "t": [
        "Arbeitgeber wollten die eingearbeiteten Beschäftigten behalten. Am 30. September 1964 strich ein zweites Abkommen die Zwei-Jahres-Grenze. Der Familiennachzug wurde möglich, fand aber überwiegend erst später statt.",
        "Am 23. November 1973 stoppte die Bundesregierung die Anwerbung, nach der Ölkrise. Damit endete der Zuzug von Arbeitskräften, aber nicht die Einwanderung. Wer jetzt zurückfuhr, konnte nicht mehr ohne Weiteres wiederkommen. Viele blieben deshalb und holten die Familie nach. 53 Prozent der türkischstämmigen Einwohner kamen laut Bundeszentrale für politische Bildung über den Familiennachzug. Zwischen 1974 und 1979 verdoppelte sich die Zahl der unter 15-Jährigen aus der Türkei auf rund 420.000."
       ]
      },
      {
-      "h": "Der zweite Raum: Konfliktraum (1970er bis 1990er)",
+      "h": "Chronik 1970er und 1980er: Stopp halten, Rückkehr fördern",
       "t": [
        "Die Politik jener Jahre konzentrierte sich darauf, den Anwerbestopp zu halten und die Rückkehr zu fördern. 1983 bis 1984 galt eine Rückkehrhilfe von 10.500 D-Mark für arbeitslose Ausländer, die gezahlten Rentenbeiträge wurden erstattet. Eine aktive Integrationspolitik fehlte weitgehend. Die Bundeszentrale für politische Bildung sieht darin eine Ursache für dauerhafte Nachteile.",
-       "Für die Kinder war das keine Politik, sondern Alltag. Sie kamen oft Jahre nach den Vätern, kamen in Vorbereitungsklassen und wuchsen in einem Haushalt auf, in dem alles nur „auf Zeit“ war.",
-       "Persönliche Sicht, keine Nachricht. Aus dem Buchmanuskript von Cengiz Bozkurt:",
-       "„Viele kamen im Zuge der Familienzusammenführung erst Jahre später nach. [...] Sie lernten die Sprache der Herkunft, wuchsen in vertrauten sozialen Ordnungen auf, und kannten ihre Väter oft nur aus den Sommerferien. Manche vergaßen ihre Gesichter.“",
-       "„Meine Mutter erzählte mir, dass sie bei ihrer Ankunft in Deutschland ihren Vater zunächst als einen fremden Mann wahrnahm. Er roch anders als in ihrer Vorstellung: nicht nach Sonne und Erde, sondern nach Metall, Schweiß und kaltem Zigarettenrauch.“",
-       "„Mein Vater war ein sehr guter Schüler. [...] Er sollte den Geruch einer Flüssigkeit beschreiben. Auf Türkisch hätte er präzise Worte gefunden. Auf Deutsch blieb ihm nur eine ungenaue Formulierung: ‚stinkt nicht‘. Die Klasse lachte. Der Lehrer korrigierte nicht.“",
-       "„Kompetenz war vorhanden, doch sie fand keinen sicheren Ausdruck.“ Später wollte der Vater eine Ausbildung beim Elektrohändler, doch der Großvater wollte Sicherheit, also ThyssenKrupp. „Mein Vater beugte sich. Nicht aus Überzeugung, sondern aus Loyalität, gegenüber dem Opfer seines Vaters.“ Jahre später sagte er dem Sohn: „Wenn wir alle nur Arbeiter werden, werden wir dem Opfer deines Opas nicht gerecht. Wenn du studierst, kann dein Sohn vielleicht einmal mehr.“",
-       "Der Konfliktraum, so das Manuskript, ist kein Ort der Rebellion, sondern der inneren Spannung. Die zweite Generation lernte früh, zu übersetzen, in Sprache und Kultur, bei Behörden und Briefen. „Wer ständig vermittelt, steht selten selbst im Zentrum. Wer immer erklärt, kommt kaum dazu, sich zu fragen, was er eigentlich will.“ Seine Ressource ist die Fähigkeit zur Übersetzung, sein Preis ist Überforderung."
+       "Für die Kinder war das keine Politik, sondern Alltag. Sie kamen oft Jahre nach den Vätern, kamen in Vorbereitungsklassen und wuchsen in einem Haushalt auf, in dem alles nur „auf Zeit“ war."
       ]
      },
      {
-      "h": "1990er: Wenn Zugehörigkeit brennt",
+      "h": "Chronik 1990er: Wenn Zugehörigkeit brennt",
       "t": [
        "In der Nacht zum 23. November 1992 legten Rechtsextreme in Mölln einen Brandanschlag auf von türkischen Familien bewohnte Häuser. Bahide Arslan (51), Ayşe Yilmaz (14) und Yeliz Arslan (10) starben, neun Menschen wurden verletzt. Am 29. Mai 1993 starben bei einem Brandanschlag in Solingen fünf Frauen und Mädchen der Familie Genç: Gürsün İnce (27), Hatice Genç (18), Gülüstan Öztürk (12), Hülya Genç (9) und Saime Genç (4).",
        "Für eine Generation, die gerade versuchte, in diesem Land anzukommen, waren das Daten, die sich einbrannten. Sie zeigen, was „Dazwischen“ auch heißen kann."
       ]
      },
      {
-      "h": "2000 bis 2011: Papier und Misstrauen",
+      "h": "Chronik 2000 bis 2011: Papier und Misstrauen",
       "t": [
        "Zum 1. Januar 2000 trat ein neues Staatsangehörigkeitsrecht in Kraft: Kinder ausländischer Eltern können unter bestimmten Voraussetzungen mit der Geburt Deutsche werden.",
        "Im selben Jahr, am 9. September 2000, wurde Enver Şimşek in Nürnberg erschossen. Er starb zwei Tage später. Es war der erste Mord der NSU-Serie, der bis 2007 zehn Menschen zum Opfer fielen, die meisten türkischer oder griechischer Herkunft. Die Ermittler suchten Motive im Umfeld der Familien oder im Drogenmilieu, Medien prägten das Wort „Döner-Morde“. Semiya Şimşek sagte später: „In den elf Jahren bis zur Aufklärung war mein Vater ein potenzieller Verbrecher.“ 2011 flog der NSU auf."
       ]
      },
      {
-      "h": "Der dritte Raum: Syntheseraum (heute)",
+      "h": "Chronik heute: Zahlen und Ungleichheit",
       "t": [
        "Heute leben rund 3,1 Millionen Menschen mit türkischem Migrationshintergrund in Deutschland, etwa 1,7 Millionen davon mit deutscher Staatsangehörigkeit. Seit dem 27. Juni 2024 ist bei der Einbürgerung Mehrstaatigkeit zulässig: Man muss die Herkunft nicht mehr abgeben, um dazuzugehören.",
-       "Zugleich bleibt Ungleichheit messbar. Im Nationalen Diskriminierungs- und Rassismusmonitor (DeZIM, Dezember 2025, 9.512 Befragte) gaben 35 Prozent der muslimischen Befragten an, wegen Diskriminierung keine Einladung zu einer Wohnungsbesichtigung erhalten zu haben, bei nicht rassistisch markierten Personen waren es 11 Prozent. In einem Feldexperiment mit identischen Bewerbungen lag die Einladungsquote bei deutsch klingenden Namen bei 22 Prozent, bei Namen aus der Region Nordafrika, Naher Osten und Türkei bei 16 Prozent. Türkeistämmige werden dort nicht gesondert ausgewiesen. Integrationsbeauftragte Natalie Pawlik sagte laut Rheinischer Post, viele türkeistämmige Menschen erlebten weiterhin Benachteiligungen bei Wohnungssuche, Bewerbungen und in der Schule.",
-       "Persönliche Sicht, keine Nachricht. Aus dem Buchmanuskript von Cengiz Bozkurt:",
+       "Zugleich bleibt Ungleichheit messbar. Im Nationalen Diskriminierungs- und Rassismusmonitor (DeZIM, Dezember 2025, 9.512 Befragte) gaben 35 Prozent der muslimischen Befragten an, wegen Diskriminierung keine Einladung zu einer Wohnungsbesichtigung erhalten zu haben, bei nicht rassistisch markierten Personen waren es 11 Prozent. In einem Feldexperiment mit identischen Bewerbungen lag die Einladungsquote bei deutsch klingenden Namen bei 22 Prozent, bei Namen aus der Region Nordafrika, Naher Osten und Türkei bei 16 Prozent. Türkeistämmige werden dort nicht gesondert ausgewiesen. Integrationsbeauftragte Natalie Pawlik sagte laut Rheinischer Post, viele türkeistämmige Menschen erlebten weiterhin Benachteiligungen bei Wohnungssuche, Bewerbungen und in der Schule."
+      ]
+     },
+     {
+      "h": "Die drei Räume: Ein Modell von innen",
+      "t": [
+       "Die Chronik sagt, was geschah. Sie sagt nicht, wie es sich anfühlte, und warum Eltern, Kinder und Enkel dieselbe Geschichte so verschieden erzählen. Dafür gibt es drei Räume. Ein Raum ist hier keine Zeit und kein Ort, sondern eine Konstellation: Welche Aufgabe hat das Selbst, welche Ressource trägt es, welche Rolle hat die Generation für die Gesellschaft?",
+       "Der Opferraum ist funktional und kollektiv: Pflichtidentität, Ressource Arbeitsmoral und Solidarität, Lage von Mangel und geringer Teilhabe. Der Konfliktraum ist ambivalent: Zugehörigkeit muss immer neu ausgehandelt werden, die Ressource ist die Übersetzung, die Lage von Dualität und begrenzten Optionen. Der Syntheseraum ist integrativ und handlungsorientiert: Gestaltungsidentität, Ressource Bildung und Anschlussfähigkeit, Lage einer sich öffnenden Gesellschaft.",
+       "Jeder Raum ist aus dem vorhergehenden hervorgegangen; keiner wäre ohne ihn denkbar. Es ist ein Weg vom Überleben über die Aushandlung zur Gestaltung."
+      ]
+     },
+     {
+      "h": "Erster Raum: Opferraum, die Pflicht",
+      "t": [
+       "„Die erste Generation der türkischen Gastarbeiter kam nicht nach Deutschland, um sich zu verwirklichen. Sie kam, um zu arbeiten. [...] Migration war für sie kein Projekt der Identitätsfindung, sondern eine Entscheidung unter Bedingungen der Notwendigkeit.“",
+       "„Der Begriff ‚Gastarbeiter‘ trägt diese Ambivalenz bis heute in sich. Er suggeriert Gastfreundschaft, meint aber Funktion. Er klingt nach Einladung, beschreibt jedoch Austauschbarkeit. Wer als Gast kommt, bleibt nicht. Wer arbeitet, soll funktionieren.“",
+       "„Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
+       "Das ist der Kern des Opferraums: Identität als Pflicht. Das Selbst definiert sich weniger über Wünsche als über die Erfüllung notwendiger Aufgaben, Arbeit ist die Quelle von Würde, und die Hoffnung wird auf die Kinder verlagert. „Opfer“ meint hier nicht Schwäche, sondern Verzicht. Der Opferraum ist kein Ort der Lähmung, sondern der Ursprung einer besonderen Leistungsnorm."
+      ]
+     },
+     {
+      "h": "Der Koffer",
+      "t": [
+       "„Mein Großvater sagte oft: ‚Ich kam mit einem Koffer, mein Sohn.‘ Lange blieb das in meinem Kopf ein schlichtes Bild: ein Mann um die dreißig, ein Koffer in der Hand. Heute, da ich selbst in diesem Alter bin, wirkt der Satz anders. Ich sehe nicht zuerst den Koffer, ich frage mich, was er in seinem Herzen trug.“",
+       "„Wenn ich mir vorstelle, wie er in Dortmund ausstieg, sehe ich einen Bahnhof, der ihm nichts versprach, und eine Welt, die ihn nicht fragte, wer er war, sondern wozu er taugt.“",
+       "„Der Koffer war klein, abgewetzt, schwerer, als sein Inhalt vermuten ließ. Und doch trug er mehr als Hemden und ein paar persönliche Dinge. Er trug Erwartungen. Er trug ein Rückkehrversprechen. Er trug die stille Hoffnung, dass dieses Opfer eines Tages Sinn ergeben würde, im Leben der Kinder, nicht unbedingt im eigenen.“"
+      ]
+     },
+     {
+      "h": "Zweiter Raum: Konfliktraum, die Übersetzung",
+      "t": [
+       "„Viele kamen im Zuge der Familienzusammenführung erst Jahre später nach. [...] Sie lernten die Sprache der Herkunft, wuchsen in vertrauten sozialen Ordnungen auf, und kannten ihre Väter oft nur aus den Sommerferien. Manche vergaßen ihre Gesichter.“",
+       "„Meine Mutter erzählte mir, dass sie bei ihrer Ankunft in Deutschland ihren Vater zunächst als einen fremden Mann wahrnahm. Er roch anders als in ihrer Vorstellung: nicht nach Sonne und Erde, sondern nach Metall, Schweiß und kaltem Zigarettenrauch.“",
+       "„Mein Vater war ein sehr guter Schüler. [...] Er sollte den Geruch einer Flüssigkeit beschreiben. Auf Türkisch hätte er präzise Worte gefunden. Auf Deutsch blieb ihm nur eine ungenaue Formulierung: ‚stinkt nicht‘. Die Klasse lachte. Der Lehrer korrigierte nicht.“",
+       "„Kompetenz war vorhanden, doch sie fand keinen sicheren Ausdruck.“ Später wollte der Vater eine Ausbildung beim Elektrohändler, doch der Großvater wollte Sicherheit, also ThyssenKrupp. „Mein Vater beugte sich. Nicht aus Überzeugung, sondern aus Loyalität, gegenüber dem Opfer seines Vaters.“ Jahre später sagte er dem Sohn: „Wenn wir alle nur Arbeiter werden, werden wir dem Opfer deines Opas nicht gerecht. Wenn du studierst, kann dein Sohn vielleicht einmal mehr.“",
+       "Der Konfliktraum ist kein Ort der Rebellion, sondern der inneren Spannung. Die zweite Generation lernte früh, zu übersetzen, in Sprache und Kultur, bei Behörden und Briefen. „Wer ständig vermittelt, steht selten selbst im Zentrum. Wer immer erklärt, kommt kaum dazu, sich zu fragen, was er eigentlich will.“ Seine Ressource ist die Fähigkeit zur Übersetzung, sein Preis ist Überforderung."
+      ]
+     },
+     {
+      "h": "Dritter Raum: Syntheseraum, die Gestaltung",
+      "t": [
        "„Die dritte Generation erlebt die Herkunftskultur nicht mehr primär als Verpflichtung oder Einschränkung, sondern als Ressource. Zugleich erlebt sie die deutsche Mehrheitsgesellschaft nicht als fremden Raum, in den man sich erst hineinbeweisen muss, sondern als selbstverständlichen sozialen Rahmen, als Heimat, die nicht nur bewohnt, sondern mitgestaltet werden darf. Sie navigiert nicht mehr zwischen Identitäten, sondern mit Identitäten.“",
-       "Die dritte Generation erbt von der ersten den Leistungs- und Verantwortungsimpuls, von der zweiten die Erfahrung des Dazwischen. Daraus entsteht, was das Manuskript Gestaltungsidentität nennt: Herkunft und Zugehörigkeit stehen nicht mehr in Konkurrenz. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
-       "Der Weg führt, so das Modell, vom Überleben über die Aushandlung zur Gestaltung. „Jeder Raum ist aus dem vorhergehenden hervorgegangen; keiner wäre ohne ihn denkbar.“ Das ist eine These, keine Statistik. Sie beansprucht nicht, jede Biografie zu beschreiben, und das Manuskript betont selbst, dass nicht jeder Angehörige der dritten Generation diesen Raum nutzt."
+       "Die dritte Generation erbt von der ersten den Leistungs- und Verantwortungsimpuls, von der zweiten die Erfahrung des Dazwischen. Daraus entsteht, was hier Gestaltungsidentität heißt: Herkunft und Zugehörigkeit stehen nicht mehr in Konkurrenz. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+       "Der Weg führt, so das Modell, vom Überleben über die Aushandlung zur Gestaltung. „Jeder Raum ist aus dem vorhergehenden hervorgegangen; keiner wäre ohne ihn denkbar.“ Das ist eine These, keine Statistik. Sie beansprucht nicht, jede Biografie zu beschreiben, und nicht jeder Angehörige der dritten Generation diesen Raum nutzt."
       ]
      },
      {
@@ -651,7 +666,6 @@ window.DOSSIERS = [
      {
       "h": "Zum Schluss: Almancı",
       "t": [
-       "Persönliche Sicht, keine Nachricht. Aus dem Buchmanuskript von Cengiz Bozkurt:",
        "„Jahrzehnte später stand ich in den staubigen Straßen seines Heimatviertels in der Türkei. Mein Großvater war verstorben, nicht in der Fremde, nicht in einem sterilen Krankenhausbett in Deutschland, sondern hier, wo seine Reise begonnen hatte. [...] Er war angekommen, bevor er ging.“",
        "„Dann zerriss die Sela die Stille. Die Lautsprecher knackten, und die Stimme des Imams verkündete seinen Tod. ‚Almancı Mustafa Bozkurt vefat etmiştir.‘ Dieses Wort traf mich härter, als ich es erwartet hätte. Almancı. Der Deutsche.“",
        "„In Deutschland war er für viele nie deutsch genug gewesen, ein Gast, der zu lange blieb. Und hier, in der Türkei, war er zu deutsch geworden, um einfach nur Mustafa zu sein. In einem einzigen Wort schloss sich der Kreis: Der Mann, der mit einem Koffer kam, wurde bis zuletzt über sein Dazwischen benannt.“",
@@ -707,9 +721,6 @@ window.DOSSIERS = [
      {
       "titel": "Zeitklicks: Die ersten Gastarbeiter (Frisch-Zitat, 1965)",
       "url": "https://docenti.unimc.it/d.minni/teaching/2023/29088/files/materiale-didattico-14.11.23/Die%20ersten%20Gastarbeiter%20-%20Bundesrepublik%20I%20_%20Zeitklicks.pdf"
-     },
-     {
-      "titel": "Bozkurt, Cengiz: Manuskript „Untersuchung“ (unveröffentlicht), Kapitel 3 bis 5"
      }
     ],
     "stand": "20.10.2026"
