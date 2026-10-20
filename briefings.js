@@ -196,22 +196,29 @@ window.BRIEFINGS = [
       "quelle": "bpb, Anwerbung türkischer Arbeitnehmer und ihre Folgen"
      },
      {
-      "typ": "einordnung",
-      "label": "Erster Raum: Opferraum",
-      "titel": "Die Pflicht.",
-      "text": "Die Chronik sagt, was geschah. Die drei Räume sagen, wie es sich anfühlte. Die erste Generation kam, um zu arbeiten: „Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
+      "typ": "fakten",
+      "label": "Der Blickwechsel",
+      "titel": "Und was geschah in den Menschen?",
+      "text": "Bis hier die Chronik: was geschah. Jetzt der Blick von innen. Drei Räume, drei Generationen, drei Arten, Zugehörigkeit zu erleben: Opferraum, Konfliktraum, Syntheseraum. Keine Zeitabschnitte, sondern Erfahrungswelten, die sich überlappen.",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
-      "label": "Zweiter Raum: Konfliktraum",
+      "label": "Opferraum · erste Generation",
+      "titel": "Die Pflicht.",
+      "text": "Sie kam, um zu arbeiten, nicht, um sich zu verwirklichen. Identität hieß Pflicht. „Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
+      "quelle": "Dossier, drei Räume"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Konfliktraum · zweite Generation",
       "titel": "Die Übersetzung.",
       "text": "Die Kinder kamen oft Jahre später, lernten Sprache als Risiko und übersetzten für ihre Eltern. „Wer ständig vermittelt, steht selten selbst im Zentrum.“",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
-      "label": "Dritter Raum: Syntheseraum",
+      "label": "Syntheseraum · dritte Generation",
       "titel": "Die Gestaltung.",
       "text": "Herkunft und Zugehörigkeit stehen nicht mehr in Konkurrenz. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
       "quelle": "Dossier, drei Räume"
