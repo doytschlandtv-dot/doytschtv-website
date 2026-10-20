@@ -671,6 +671,16 @@ window.DOSSIERS = [
        "„In Deutschland war er für viele nie deutsch genug gewesen, ein Gast, der zu lange blieb. Und hier, in der Türkei, war er zu deutsch geworden, um einfach nur Mustafa zu sein. In einem einzigen Wort schloss sich der Kreis: Der Mann, der mit einem Koffer kam, wurde bis zuletzt über sein Dazwischen benannt.“",
        "„Der Koffer war nie nur Gepäck. Er war Symbol. Für das Provisorische, das dauerhaft wurde.“"
       ]
+     },
+     {
+      "h": "Doytsch, mit Y",
+      "t": [
+       "Drei Räume, drei Wörter für denselben Menschen. Im Opferraum hieß er Gastarbeiter, ein Wort über seine Funktion. Im Konfliktraum hieß er Almancı, ein Wort über sein Dazwischen. Und im Syntheseraum?",
+       "Mein Großvater sprach das Wort „deutsch“ als „Doytsch“ aus. So sagen wir es hier, mit y. Seine Enkel gehören zur Generation Y, grob den Jahrgängen der 1980er und 1990er. Ein Y, das man auch „Why“ lesen kann: Es ist die Generation, die fragt. Warum sind wir hier? Wem gehört dieses Land? Wer darf sagen, wer deutsch ist?",
+       "Und das Y hat zwei Arme, die in einem Strich zusammenlaufen. Zwei Herkünfte, eine Linie.",
+       "Der Mann mit dem Koffer wurde bis zuletzt „Almancı“ genannt. Seine Enkel nennen sich selbst anders: nicht weniger deutsch, sondern Doytsch, deutsch mit der Stimme der Großväter.",
+       "Wie nennt ihr euch: Almancı, Deutsch, Doytsch, oder ganz anders? Schreibt es uns."
+      ]
      }
     ],
     "quellen": [
