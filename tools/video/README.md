@@ -3,6 +3,8 @@
 Aus einem Skript und einer Sprecherstimme wird ein animiertes Video im DoytschlandTv-Look
 (dunkel, Creme, Rot, Playfair Display + Inter, Wort-für-Wort-Untertitel, Quellenzeile, Fortschrittslinie).
 
+Einmalig: `pip install espeakng-loader librosa` (Wortzeiten per DTW; ohne die Pakete nutzt das Skript eine gröbere Schätzung).
+
 ## Ablauf pro Video
 1. Ordner anlegen: `tools/video/<thema>/` mit `video.json` (Vorlage: `hofheim/video.json`).
 2. Sprechtext gesamt (alle Szenen aneinander) in ElevenLabs sprechen lassen (Modell eleven_v4, Stimme Konrad Fichte),

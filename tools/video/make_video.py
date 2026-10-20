@@ -12,6 +12,7 @@ Ergebnis: <ordner>/<name>.mp4 (nicht im Repo, siehe .gitignore)
 """
 import sys, os, re, json, subprocess, threading, http.server, functools, shutil, tempfile
 
+LEAD = 0.10  # Sekunden: Untertitel erscheinen minimal vor dem gesprochenen Wort
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, '..', '..'))
 
@@ -47,6 +48,31 @@ def tokenize(text):
     return toks
 
 
+def syl(w):
+    """Grobe Silbenzahl (deutsch): Vokalgruppen; Sprechdauer ~ Silben, nicht Buchstaben."""
+    n = len(re.findall(r'(?:ei|au|eu|äu|ie|[aeiouäöüy])+', w.lower()))
+    return max(1, n) * 3 + len(w) * 0.5
+
+
+def energy_gaps(path, rel_db=32, min_gap=0.03):
+    """Kleine Lücken zwischen Wörtern/Sätzen aus der Lautstärkehüllkurve (10-ms-Raster): [(Mitte, Länge)]."""
+    import numpy as np
+    raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', path, '-ac', '1', '-ar', '16000', '-f', 's16le', '-'], capture_output=True).stdout
+    x = np.frombuffer(raw, dtype=np.int16).astype(float) / 32768
+    n = len(x) // 160
+    db = 20 * np.log10(np.sqrt((x[:n * 160].reshape(n, 160) ** 2).mean(1)) + 1e-6)
+    low = db < db.max() - rel_db
+    gaps, st = [], None
+    for i, v in enumerate(low):
+        if v and st is None:
+            st = i
+        if not v and st is not None:
+            if (i - st) / 100 >= min_gap:
+                gaps.append(((st + i) / 200, (i - st) / 100))
+            st = None
+    return gaps
+
+
 def align(cfg, audio):
     """Verteilt die Wörter über die reine Sprechzeit; Satzgrenzen rasten auf die nächste Sprechpause ein.
     Gibt (Wörter, Szenengrenzen) zurück."""
@@ -56,6 +82,21 @@ def align(cfg, audio):
     for i, sc in enumerate(cfg['scenes']):
         for w, d, p in tokenize(sc['text']):
             toks.append((i, w, d, p))
+    try:  # bevorzugt: wortgenaue Zeiten per DTW gegen eine eSpeak-Sprechprobe (siehe dtw_align.py)
+        sys.path.insert(0, HERE)
+        import dtw_align
+        tt = dtw_align.word_times([t[1] for t in toks], audio)
+        W = [dict(w=w, d=d, p=p, t0=round(max(0.0, a - LEAD), 3), t1=round(b, 3), sc=sc) for (sc, w, d, p), (a, b) in zip(toks, tt)]
+        B = [0.0]
+        for i in range(1, len(cfg['scenes'])):
+            t0 = next(x for x in W if x['sc'] == i)['t0'] + LEAD
+            near = [(a + b) / 2 for a, b in sil if abs(b - t0) < 0.35]
+            B.append(round(near[0] if near else t0 - 0.08, 3))
+        B.append(round(tot, 3))
+        print('Zeiten: DTW')
+        return W, B
+    except Exception as ex:
+        print('DTW nicht verfügbar (%s), nutze Schätzung' % ex)
     # Sprechintervalle
     iv, cur = [], 0.0
     for a, b in sil:
@@ -66,9 +107,9 @@ def align(cfg, audio):
         iv.append((cur, tot))
     speech = sum(y - x for x, y in iv)
 
-    def at(sp):
+    def at(sp, start=False):
         for x, y in iv:
-            if sp <= y - x:
+            if sp < y - x - 1e-9 or (not start and sp <= y - x):
                 return x + sp
             sp -= y - x
         return iv[-1][1]
@@ -82,28 +123,40 @@ def align(cfg, audio):
                 acc += t - x
         return acc
 
-    wt = [max(2, len(w)) for _, w, _, _ in toks]
+    wt = [syl(w) for _, w, _, _ in toks]
     cum = [0]
     for k in wt:
         cum.append(cum[-1] + k)
     total = cum[-1]
     # Satzenden: Index des letzten Tokens je Satz
-    ends = [k for k, (_, _, _, p) in enumerate(toks) if re.search(r'[.?!]', p)]
+    # Anker: Satzenden (hart) und Kommas/Doppelpunkte (weich); jeder rastet auf eine Sprechpause ein
+    ends = [k for k, (_, _, _, p) in enumerate(toks) if re.search(r'[.?!,:;]', p)]
     if not ends or ends[-1] != len(toks) - 1:
         ends.append(len(toks) - 1)
-    # Pausen als Kandidaten (>= 0,25 s), Satzende rastet auf die nächste ein
-    cands = [((a + b) / 2, b - a) for a, b in sil if b - a >= 0.25]
+    hard = {k: bool(re.search(r'[.?!]', toks[k][3])) for k in ends}
+    cands = [g for g in energy_gaps(audio) if 0.5 < g[0] < tot - 0.3]
     used, bounds_t, last = set(), [], 0.0
+    s_last, c_last = 0.0, 0  # Sprechzeit und Gewichtsstand am letzten Anker (Rate wird lokal nachgeführt)
     for e in ends[:-1]:
-        pred = at(cum[e + 1] / total * speech)
-        best = None
+        pred_sp = s_last + (cum[e + 1] - c_last) * (speech - s_last) / (total - c_last)
+        pred = at(pred_sp)
+        best, bscore = None, None
         for j, (c, l) in enumerate(cands):
-            if j in used or c <= last + 0.3 or abs(c - pred) > 1.0:
+            if j in used or c <= last + 0.15:
                 continue
-            if best is None or abs(c - pred) - 1.5 * l < abs(cands[best][0] - pred) - 1.5 * cands[best][1]:
-                best = j
+            if hard[e]:
+                if abs(c - pred) > 1.0 or l < 0.04:
+                    continue
+                score = abs(c - pred) - 0.6 * l
+            else:
+                if abs(c - pred) > 0.5 or l < 0.05:
+                    continue
+                score = abs(c - pred) - 0.6 * l
+            if bscore is None or score < bscore:
+                best, bscore = j, score
         if best is not None:
             used.add(best); pred = cands[best][0]
+            s_last, c_last = to_sp(pred), cum[e + 1]
         bounds_t.append(pred); last = pred
     bounds_t.append(tot)
     # Wörter pro Satz verteilen
@@ -114,9 +167,9 @@ def align(cfg, audio):
         sub = sum(wt[k] for k in idxs)
         acc = 0
         for k in idxs:
-            a = at(s0 + acc / sub * (s1 - s0)); acc += wt[k]; b = at(s0 + acc / sub * (s1 - s0))
+            a = at(s0 + acc / sub * (s1 - s0), True); acc += wt[k]; b = at(s0 + acc / sub * (s1 - s0))
             sc, w, d, p = toks[k]
-            W.append(dict(w=w, d=d, p=p, t0=round(a, 3), t1=round(b, 3), sc=sc))
+            W.append(dict(w=w, d=d, p=p, t0=round(max(0.0, a - LEAD), 3), t1=round(b, 3), sc=sc))
         start_k, t_start = e + 1, t_end
     # Szenengrenzen: Mitte der Pause vor dem ersten Wort der Szene
     B = [0.0]
