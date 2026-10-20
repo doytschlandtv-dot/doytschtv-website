@@ -1,0 +1,160 @@
+{
+  "name": "anwerbeabkommen-video",
+  "audio": "voice.mp3",
+  "rot": [
+    "Gast",
+    "Dauer",
+    "1961",
+    "1973",
+    "1964",
+    "867.000",
+    "Räume",
+    "Almancı",
+    "Doytsch",
+    "Y",
+    "Linie",
+    "Familien",
+    "Jahrzehnte"
+  ],
+  "scenes": [
+    {
+      "kind": "hook",
+      "text": "Vor fünfundsechzig=65 Jahren wurde ein Abkommen geschlossen. Für zwei Jahre.",
+      "tag": "65 Jahre Anwerbeabkommen",
+      "sub": "Türkei · Oktober 1961",
+      "bild": "titel-anwerbeabkommen.jpg",
+      "unter": "Illustration, KI-generiert, kein Foto"
+    },
+    {
+      "kind": "stempel",
+      "text": "Ende Oktober neunzehnhunderteinundsechzig=1961 vereinbaren Deutschland und die Türkei: Ein Notenwechsel, kein Festakt. Arbeiter dürfen höchstens zwei Jahre bleiben. Zum Familiennachzug steht nichts im Abkommen.",
+      "kicker": "30. Oktober",
+      "jahr": 1961,
+      "jahr_von": 1900,
+      "stempel": [
+        {
+          "t": "Kein Festakt",
+          "cue": "Festakt"
+        },
+        {
+          "t": "Max. zwei Jahre",
+          "cue": "höchstens"
+        },
+        {
+          "t": "Nachzug: offen",
+          "cue": "Familiennachzug"
+        }
+      ],
+      "quelle": "bpb, Abkommenstext (Art. 7 bis 12)"
+    },
+    {
+      "kind": "karte",
+      "text": "Bis neunzehnhundertdreiundsiebzig=1973 kommen achthundertsiebenundsechzigtausend=867.000 Menschen aus der Türkei, vor allem für Industrie und Bau.",
+      "kicker": "Türkei → Deutschland",
+      "orte": [
+        {
+          "n": "Istanbul",
+          "lon": 28.98,
+          "lat": 41.01,
+          "cue": "Türkei"
+        },
+        {
+          "n": "Ankara",
+          "lon": 32.86,
+          "lat": 39.93,
+          "cue": "aus"
+        }
+      ],
+      "fokus": {
+        "n": "Dortmund",
+        "lon": 7.47,
+        "lat": 51.51
+      },
+      "zahl": "867.000",
+      "zahltext": "Menschen bis 1973",
+      "zahlzeile": "rund 80 % in Industrie und Bau",
+      "zahl_cue": "867.000",
+      "quelle": "bpb (Stefan Luft); LpB Baden-Württemberg",
+      "zahl_px": 230
+    },
+    {
+      "kind": "ablauf",
+      "text": "Aus zwei Jahren wurden Jahrzehnte. Neunzehnhundertvierundsechzig=1964 fällt die Zwei-Jahres-Grenze. Neunzehnhundertdreiundsiebzig=1973 stoppt der Bund die Anwerbung. Doch die Familien bleiben.",
+      "titel": "Gast auf [Dauer]",
+      "knoten": [
+        {
+          "t": "1961",
+          "s": "höchstens zwei Jahre",
+          "cue": "zwei"
+        },
+        {
+          "t": "1964",
+          "s": "Zwei-Jahres-Grenze fällt",
+          "cue": "1964"
+        },
+        {
+          "t": "1973",
+          "s": "Anwerbestopp",
+          "cue": "1973"
+        }
+      ],
+      "marke": {
+        "t": "Die Familien bleiben",
+        "cue": "Familien"
+      },
+      "quelle": "bpb; Schreiben Arendt, 23.11.1973"
+    },
+    {
+      "kind": "ablauf",
+      "text": "Und was geschah in den Menschen? Die erste Generation arbeitete und schwieg. Die Kinder übersetzten zwischen den Welten. Die Enkel bauen etwas Eigenes.",
+      "titel": "Drei [Räume]",
+      "knoten": [
+        {
+          "t": "Opferraum",
+          "s": "Arbeiten und schweigen",
+          "cue": "erste"
+        },
+        {
+          "t": "Konfliktraum",
+          "s": "Zwischen den Welten",
+          "cue": "Kinder"
+        },
+        {
+          "t": "Syntheseraum",
+          "s": "Aus beidem etwas Eigenes",
+          "cue": "Enkel"
+        }
+      ],
+      "marke": {
+        "t": "Drei Generationen",
+        "cue": "Eigenes"
+      },
+      "quelle": "Dossier: Drei Räume"
+    },
+    {
+      "kind": "gegensatz",
+      "text": "Mein Großvater wurde bis zuletzt Almancı genannt, der Deutsche. Er sprach das Wort als Doytsch aus. Das ist mein Wort.",
+      "kicker": "Mein Wort",
+      "wort": "Almancı",
+      "wort_cue": "Almancı",
+      "strich_cue": "Doytsch",
+      "zeile": "Hier nicht deutsch genug,<br>dort zu deutsch",
+      "zeile_cue": "zuletzt",
+      "pille": "Doytsch",
+      "pille_cue": "mein",
+      "pfeile": "Y"
+    },
+    {
+      "kind": "schluss",
+      "untertitel": false,
+      "text": "Für mich ist die dritte Generation auch die Generation Y. Ein Y hat zwei Arme und eine Linie. Wie nennst du dich? Schreib es in die Kommentare.",
+      "kicker": "Mein Wort",
+      "aussage": "Generation [Y]:<br>zwei Herkünfte, [eine Linie.]",
+      "frage": "Wie nennst du dich?",
+      "frage_cue": "Wie",
+      "cta": "Schreib es in die Kommentare ↓",
+      "cta_cue": "Schreib",
+      "hinweis": " "
+    }
+  ]
+}

@@ -241,16 +241,17 @@ def main():
         sheet.save(out)
     else:
         out = os.path.join(folder, name + '.mp4')
-        cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-framerate', str(fps), '-i', os.path.join(frames, 'f%05d.jpg'), '-i', audio]
+        stumm = '--stumm' in sys.argv  # ohne Tonspur; voice.mp3 dient dann nur als Taktgeber für die Untertitel-Zeiten
+        cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-framerate', str(fps), '-i', os.path.join(frames, 'f%05d.jpg')] + ([] if stumm else ['-i', audio])
         music = cfg.get('musik')
-        if music:  # optional: {"datei": "musik.mp3", "lautstaerke": 0.12}; Musik läuft in Schleife, wird unter der Stimme abgesenkt, blendet am Ende aus
+        if music and not stumm:  # optional: {"datei": "musik.mp3", "lautstaerke": 0.12}; Musik läuft in Schleife, wird unter der Stimme abgesenkt, blendet am Ende aus
             vol = float(music.get('lautstaerke', 0.12))
             cmd += ['-stream_loop', '-1', '-i', os.path.join(folder, music['datei'])]
             fade = max(0.0, tot - 1.5)
             cmd += ['-filter_complex',
                     '[2:a]volume=%.3f,afade=t=in:d=1,afade=t=out:st=%.2f:d=1.5[m];[m][1:a]sidechaincompress=threshold=0.03:ratio=6:attack=20:release=400[d];[1:a][d]amix=inputs=2:duration=first:normalize=0[a]' % (vol, fade),
                     '-map', '0:v', '-map', '[a]']
-        cmd += ['-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-t', '%.3f' % tot,
+        cmd += ['-c:v', 'libx264', '-crf', '20', '-pix_fmt', 'yuv420p'] + (['-an'] if stumm else ['-c:a', 'aac', '-b:a', '160k']) + ['-t', '%.3f' % tot,
                 '-movflags', '+faststart', out]
         subprocess.run(cmd, check=True)
     shutil.rmtree(frames)
