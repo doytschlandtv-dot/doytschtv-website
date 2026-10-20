@@ -161,6 +161,70 @@ window.BRIEFINGS = [
       "frage": "Was würde berufstätigen Pflegenden am meisten helfen?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
+    "caption": "Vor 65 Jahren, am 30. Oktober 1961, vereinbarten die Bundesrepublik und die Türkei die Vermittlung türkischer Arbeitnehmer: höchstens zwei Jahre, kein Familiennachzug. Bis 1973 kamen rund 867.000 Menschen. 1964 fiel die Zwei-Jahres-Grenze, 1973 stoppte der Bund die Anwerbung, die Familien blieben. Unser Dossier erzählt die Chronik und die drei Räume dahinter: Opferraum, Konfliktraum, Syntheseraum. Mein Wort dazu: Doytsch. Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders? Das ganze Dossier: Link in der Bio.",
+    "hashtags": "#doytschlandtv #dossier #anwerbeabkommen #gastarbeiter #migration #zusammenleben #deutschtürken #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Dossier · Migration und Zusammenleben",
+      "titel": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
+      "rot": "Jahrzehnte"
+     },
+     {
+      "typ": "fakten",
+      "label": "30. Oktober 1961",
+      "titel": "Ein Notenwechsel, kein Festakt.",
+      "text": "Die Bundesrepublik und die Türkei vereinbarten die Vermittlung türkischer Arbeitnehmer. Vorgesehen: höchstens zwei Jahre Aufenthalt, kein Familiennachzug.",
+      "quelle": "bpb; Landeszentrale für politische Bildung Baden-Württemberg"
+     },
+     {
+      "typ": "zahl",
+      "label": "kamen bis 1973",
+      "zahl": "867.000",
+      "text": "Rund 80 Prozent arbeiteten in Industrie und am Bau. Im selben Zeitraum wurden etwa 500.000 Rückwanderungen registriert.",
+      "quelle": "bpb (Stefan Luft); LpB Baden-Württemberg"
+     },
+     {
+      "typ": "fakten",
+      "label": "1964 und 1973",
+      "titel": "Aus Gästen wurden Nachbarn.",
+      "text": "1964 fiel die Zwei-Jahres-Grenze, auf Wunsch der Arbeitgeber. Am 23. November 1973 stoppte der Bund die Anwerbung. Danach kamen die Familien: 53 Prozent der türkischstämmigen Einwohner kamen über den Familiennachzug.",
+      "quelle": "bpb, Anwerbung türkischer Arbeitnehmer und ihre Folgen"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Erster Raum: Opferraum",
+      "titel": "Die Pflicht.",
+      "text": "Die Chronik sagt, was geschah. Die drei Räume sagen, wie es sich anfühlte. Die erste Generation kam, um zu arbeiten: „Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
+      "quelle": "Dossier, drei Räume"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Zweiter Raum: Konfliktraum",
+      "titel": "Die Übersetzung.",
+      "text": "Die Kinder kamen oft Jahre später, lernten Sprache als Risiko und übersetzten für ihre Eltern. „Wer ständig vermittelt, steht selten selbst im Zentrum.“",
+      "quelle": "Dossier, drei Räume"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Dritter Raum: Syntheseraum",
+      "titel": "Die Gestaltung.",
+      "text": "Herkunft und Zugehörigkeit stehen nicht mehr in Konkurrenz. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+      "quelle": "Dossier, drei Räume"
+     },
+     {
+      "typ": "meinung",
+      "text": "Mein Großvater wurde bis zuletzt „Almancı“ genannt. Er sprach „deutsch“ als „Doytsch“ aus. Für mich ist die dritte Generation irgendwo auch die Generation Y, und ein Y kann man „Why“ lesen: Ich frage. Das Y hat zwei Arme, die in einem Strich zusammenlaufen. Zwei Herkünfte, eine Linie. Das ist mein Wort: Doytsch."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -195,6 +259,17 @@ window.BRIEFINGS = [
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto"
     }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Dossier",
+    "kicker": "Migration und Zusammenleben",
+    "titel": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
+    "rot": "Jahrzehnte",
+    "text": "Chronik und drei Räume im Karussell, Dossier: Link in der Bio.",
+    "quelle": "bpb; LpB Baden-Württemberg; 20.10.2026",
+    "theme": "dark"
    }
   ]
  },

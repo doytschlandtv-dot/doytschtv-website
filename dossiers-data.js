@@ -733,7 +733,68 @@ window.DOSSIERS = [
       "url": "https://docenti.unimc.it/d.minni/teaching/2023/29088/files/materiale-didattico-14.11.23/Die%20ersten%20Gastarbeiter%20-%20Bundesrepublik%20I%20_%20Zeitklicks.pdf"
      }
     ],
-    "stand": "20.10.2026"
+    "stand": "20.10.2026",
+    "karussell": {
+     "thema": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
+     "slides": [
+      {
+       "typ": "hook",
+       "kicker": "Dossier · Migration und Zusammenleben",
+       "titel": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
+       "rot": "Jahrzehnte"
+      },
+      {
+       "typ": "fakten",
+       "label": "30. Oktober 1961",
+       "titel": "Ein Notenwechsel, kein Festakt.",
+       "text": "Die Bundesrepublik und die Türkei vereinbarten die Vermittlung türkischer Arbeitnehmer. Vorgesehen: höchstens zwei Jahre Aufenthalt, kein Familiennachzug.",
+       "quelle": "bpb; Landeszentrale für politische Bildung Baden-Württemberg"
+      },
+      {
+       "typ": "zahl",
+       "label": "kamen bis 1973",
+       "zahl": "867.000",
+       "text": "Rund 80 Prozent arbeiteten in Industrie und am Bau. Im selben Zeitraum wurden etwa 500.000 Rückwanderungen registriert.",
+       "quelle": "bpb (Stefan Luft); LpB Baden-Württemberg"
+      },
+      {
+       "typ": "fakten",
+       "label": "1964 und 1973",
+       "titel": "Aus Gästen wurden Nachbarn.",
+       "text": "1964 fiel die Zwei-Jahres-Grenze, auf Wunsch der Arbeitgeber. Am 23. November 1973 stoppte der Bund die Anwerbung. Danach kamen die Familien: 53 Prozent der türkischstämmigen Einwohner kamen über den Familiennachzug.",
+       "quelle": "bpb, Anwerbung türkischer Arbeitnehmer und ihre Folgen"
+      },
+      {
+       "typ": "einordnung",
+       "label": "Erster Raum: Opferraum",
+       "titel": "Die Pflicht.",
+       "text": "Die Chronik sagt, was geschah. Die drei Räume sagen, wie es sich anfühlte. Die erste Generation kam, um zu arbeiten: „Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
+       "quelle": "Dossier, drei Räume"
+      },
+      {
+       "typ": "einordnung",
+       "label": "Zweiter Raum: Konfliktraum",
+       "titel": "Die Übersetzung.",
+       "text": "Die Kinder kamen oft Jahre später, lernten Sprache als Risiko und übersetzten für ihre Eltern. „Wer ständig vermittelt, steht selten selbst im Zentrum.“",
+       "quelle": "Dossier, drei Räume"
+      },
+      {
+       "typ": "einordnung",
+       "label": "Dritter Raum: Syntheseraum",
+       "titel": "Die Gestaltung.",
+       "text": "Herkunft und Zugehörigkeit stehen nicht mehr in Konkurrenz. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+       "quelle": "Dossier, drei Räume"
+      },
+      {
+       "typ": "meinung",
+       "text": "Mein Großvater wurde bis zuletzt „Almancı“ genannt. Er sprach „deutsch“ als „Doytsch“ aus. Für mich ist die dritte Generation irgendwo auch die Generation Y, und ein Y kann man „Why“ lesen: Ich frage. Das Y hat zwei Arme, die in einem Strich zusammenlaufen. Zwei Herkünfte, eine Linie. Das ist mein Wort: Doytsch."
+      },
+      {
+       "typ": "cta",
+       "frage": "Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders?"
+      }
+     ]
+    }
    }
   ],
   "motiv": "koffer"
