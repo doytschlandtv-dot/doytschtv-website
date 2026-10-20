@@ -614,11 +614,15 @@ window.DOSSIERS = [
       ]
      },
      {
-      "h": "Die drei Räume: Ein Modell von innen",
+      "h": "Die drei Räume: Die Geschichte von innen gelesen",
       "t": [
-       "Die Chronik sagt, was geschah. Sie sagt nicht, wie es sich anfühlte, und warum Eltern, Kinder und Enkel dieselbe Geschichte so verschieden erzählen. Dafür gibt es drei Räume. Ein Raum ist hier keine Zeit und kein Ort, sondern eine Konstellation: Welche Aufgabe hat das Selbst, welche Ressource trägt es, welche Rolle hat die Generation für die Gesellschaft?",
-       "Der Opferraum ist funktional und kollektiv: Pflichtidentität, Ressource Arbeitsmoral und Solidarität, Lage von Mangel und geringer Teilhabe. Der Konfliktraum ist ambivalent: Zugehörigkeit muss immer neu ausgehandelt werden, die Ressource ist die Übersetzung, die Lage von Dualität und begrenzten Optionen. Der Syntheseraum ist integrativ und handlungsorientiert: Gestaltungsidentität, Ressource Bildung und Anschlussfähigkeit, Lage einer sich öffnenden Gesellschaft.",
-       "Jeder Raum ist aus dem vorhergehenden hervorgegangen; keiner wäre ohne ihn denkbar. Es ist ein Weg vom Überleben über die Aushandlung zur Gestaltung."
+       "Die Chronik sagt, was geschah. Sie sagt nicht, warum Eltern, Kinder und Enkel dieselbe Geschichte so verschieden erleben. Dafür gibt es das Modell der drei Räume.",
+       "Die Grundidee: Jede Generation tritt in einen anderen Raum ein, nicht weil sie andere Werte hätte, sondern weil sie unter anderen Bedingungen lebt. Diese Bedingungen bestimmen, was notwendig ist, was möglich scheint und was als legitim gilt. Eine Generation ist dabei keine bloße Altersgruppe: Was sie verbindet, ist weniger das Geburtsjahr als der gemeinsame Erfahrungshorizont.",
+       "Ein Raum ist also weder ein Ort noch eine Epoche, sondern eine Lage. Jede Lage stellt eine Frage, die beantwortet werden muss, um zu bestehen. Und manche Fragen haben in einem Raum keinen Platz: Was Menschen nicht fragen dürfen, prägt sie oft stärker als das, was sie fragen.",
+       "Opferraum, erste Generation. Die Frage: Wie bestehen wir? Die Lage: Mangel, wenig Wahl, Zugehörigkeit nur als Arbeitskraft. Was trägt: Arbeitsmoral und Solidarität. Was es kostet: Das Eigene wird zurückgestellt. Was bleibt: eine Leistungsnorm als stilles Versprechen, „Wir tragen heute, damit ihr morgen tragen könnt“.",
+       "Konfliktraum, zweite Generation. Die Frage: Wohin gehöre ich? Die Lage: zwischen den Erwartungen der Eltern und den Anforderungen der Gesellschaft, zwischen Herkunft und Ankunft, Anpassung und Abgrenzung. Was trägt: Übersetzen und ein feines Gespür für Situationen. Was es kostet: Überforderung, denn wer ständig vermittelt, steht selten selbst im Zentrum. Was bleibt: Spannungsfähigkeit.",
+       "Syntheseraum, dritte Generation. Die Frage: Was mache ich aus beidem? Die Lage: eine Gesellschaft, die sich öffnet, und eine Herkunft, die nicht mehr nur Last ist, sondern Ressource. Was trägt: Bildung, Sprache, Anschlussfähigkeit. Was es kostet: Reibung, denn auch Gestaltung bringt neue innere Konflikte. Was bleibt: die Aufgabe, Verantwortung inmitten von Komplexität zu übernehmen.",
+       "Jeder Raum ist aus dem vorhergehenden hervorgegangen; keiner wäre ohne ihn denkbar. Der Weg führt vom Überleben über die Aushandlung zur Gestaltung. Das heißt nicht, dass die Enkel „besser integriert“ wären als ihre Eltern. Sie handeln in einer anderen Lage."
       ]
      },
      {
@@ -627,7 +631,7 @@ window.DOSSIERS = [
        "„Die erste Generation der türkischen Gastarbeiter kam nicht nach Deutschland, um sich zu verwirklichen. Sie kam, um zu arbeiten. [...] Migration war für sie kein Projekt der Identitätsfindung, sondern eine Entscheidung unter Bedingungen der Notwendigkeit.“",
        "„Der Begriff ‚Gastarbeiter‘ trägt diese Ambivalenz bis heute in sich. Er suggeriert Gastfreundschaft, meint aber Funktion. Er klingt nach Einladung, beschreibt jedoch Austauschbarkeit. Wer als Gast kommt, bleibt nicht. Wer arbeitet, soll funktionieren.“",
        "„Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
-       "Das ist der Kern des Opferraums: Identität als Pflicht. Das Selbst definiert sich weniger über Wünsche als über die Erfüllung notwendiger Aufgaben, Arbeit ist die Quelle von Würde, und die Hoffnung wird auf die Kinder verlagert. „Opfer“ meint hier nicht Schwäche, sondern Verzicht. Der Opferraum ist kein Ort der Lähmung, sondern der Ursprung einer besonderen Leistungsnorm."
+       "Das ist der Kern des Opferraums: Identität als Pflicht. Das Selbst definiert sich weniger über Wünsche als über die Erfüllung notwendiger Aufgaben. Die Frage „Was will ich?“ hat hier wenig Platz, Arbeit ist die Quelle von Würde, und die Hoffnung wird auf die Kinder verlagert. Aus dieser Haltung wurde eine Norm, die nicht aus Ehrgeiz entstand, sondern aus Verantwortung, weitergegeben als stilles Versprechen: „Wir tragen heute, damit ihr morgen tragen könnt.“ „Opfer“ meint hier nicht Schwäche, sondern Verzicht. Der Opferraum ist kein Ort der Lähmung, sondern der Ursprung einer besonderen Leistungsnorm."
       ]
      },
      {
@@ -652,7 +656,7 @@ window.DOSSIERS = [
       "h": "Dritter Raum: Syntheseraum, die Gestaltung",
       "t": [
        "„Die dritte Generation erlebt die Herkunftskultur nicht mehr primär als Verpflichtung oder Einschränkung, sondern als Ressource. Zugleich erlebt sie die deutsche Mehrheitsgesellschaft nicht als fremden Raum, in den man sich erst hineinbeweisen muss, sondern als selbstverständlichen sozialen Rahmen, als Heimat, die nicht nur bewohnt, sondern mitgestaltet werden darf. Sie navigiert nicht mehr zwischen Identitäten, sondern mit Identitäten.“",
-       "Die dritte Generation erbt von der ersten den Leistungs- und Verantwortungsimpuls, von der zweiten die Erfahrung des Dazwischen. Daraus entsteht, was hier Gestaltungsidentität heißt: Herkunft und Zugehörigkeit stehen nicht mehr in Konkurrenz. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+       "Die dritte Generation erbt von der ersten den Leistungs- und Verantwortungsimpuls, von der zweiten die Erfahrung des Dazwischen. Daraus entsteht, was hier Gestaltungsidentität heißt: Herkunft und Zugehörigkeit stehen nicht mehr in Konkurrenz, Identität wird nicht ersetzt, sondern neu zusammengesetzt. Dieser Raum entsteht nicht aus Harmonie, sondern aus Reibung. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
        "Der Weg führt, so das Modell, vom Überleben über die Aushandlung zur Gestaltung. „Jeder Raum ist aus dem vorhergehenden hervorgegangen; keiner wäre ohne ihn denkbar.“ Das ist eine These, keine Statistik. Sie beansprucht nicht, jede Biografie zu beschreiben, und nicht jeder Angehörige der dritten Generation diesen Raum nutzt."
       ]
      },
@@ -779,29 +783,29 @@ window.DOSSIERS = [
       {
        "typ": "fakten",
        "label": "Der Blickwechsel",
-       "titel": "Und was geschah in den Menschen?",
-       "text": "Bis hier die Chronik: was geschah. Jetzt der Blick von innen. Drei Räume, drei Generationen, drei Arten, Zugehörigkeit zu erleben: Opferraum, Konfliktraum, Syntheseraum. Keine Zeitabschnitte, sondern Erfahrungswelten, die sich überlappen.",
+       "titel": "Drei Generationen, drei Fragen.",
+       "text": "Bis hier die Chronik: was geschah. Jetzt der Blick von innen. Jede Generation lebte unter anderen Bedingungen und musste deshalb eine andere Frage beantworten. Erste: Wie bestehen wir? Zweite: Wohin gehöre ich? Dritte: Was mache ich daraus? Wir nennen das die drei Räume.",
        "quelle": "Dossier, drei Räume"
       },
       {
        "typ": "einordnung",
        "label": "Opferraum · erste Generation",
        "titel": "Die Pflicht.",
-       "text": "Sie kam, um zu arbeiten, nicht, um sich zu verwirklichen. Identität hieß Pflicht. „Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
+       "text": "Die Frage: Wie bestehen wir? Wer arbeitet, soll funktionieren, das Eigene muss warten. Das Selbst definiert sich über Pflicht. Das stille Versprechen: „Wir tragen heute, damit ihr morgen tragen könnt.“",
        "quelle": "Dossier, drei Räume"
       },
       {
        "typ": "einordnung",
        "label": "Konfliktraum · zweite Generation",
        "titel": "Die Übersetzung.",
-       "text": "Die Kinder kamen oft Jahre später, lernten Sprache als Risiko und übersetzten für ihre Eltern. „Wer ständig vermittelt, steht selten selbst im Zentrum.“",
+       "text": "Die Frage: Wohin gehöre ich? Zwischen Eltern, Schule und Land übersetzen die Kinder für die Erwachsenen. Das schärft den Blick und kostet Kraft: „Wer immer erklärt, kommt kaum dazu, sich zu fragen, was er eigentlich will.“",
        "quelle": "Dossier, drei Räume"
       },
       {
        "typ": "einordnung",
        "label": "Syntheseraum · dritte Generation",
        "titel": "Die Gestaltung.",
-       "text": "Herkunft und Zugehörigkeit stehen nicht mehr in Konkurrenz. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+       "text": "Die Frage: Was mache ich daraus? Herkunft und Zugehörigkeit stehen nicht mehr gegeneinander. Aber auch hier gibt es Reibung: „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
        "quelle": "Dossier, drei Räume"
       },
       {

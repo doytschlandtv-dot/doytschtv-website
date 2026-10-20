@@ -198,29 +198,29 @@ window.BRIEFINGS = [
      {
       "typ": "fakten",
       "label": "Der Blickwechsel",
-      "titel": "Und was geschah in den Menschen?",
-      "text": "Bis hier die Chronik: was geschah. Jetzt der Blick von innen. Drei Räume, drei Generationen, drei Arten, Zugehörigkeit zu erleben: Opferraum, Konfliktraum, Syntheseraum. Keine Zeitabschnitte, sondern Erfahrungswelten, die sich überlappen.",
+      "titel": "Drei Generationen, drei Fragen.",
+      "text": "Bis hier die Chronik: was geschah. Jetzt der Blick von innen. Jede Generation lebte unter anderen Bedingungen und musste deshalb eine andere Frage beantworten. Erste: Wie bestehen wir? Zweite: Wohin gehöre ich? Dritte: Was mache ich daraus? Wir nennen das die drei Räume.",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
       "label": "Opferraum · erste Generation",
       "titel": "Die Pflicht.",
-      "text": "Sie kam, um zu arbeiten, nicht, um sich zu verwirklichen. Identität hieß Pflicht. „Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
+      "text": "Die Frage: Wie bestehen wir? Wer arbeitet, soll funktionieren, das Eigene muss warten. Das Selbst definiert sich über Pflicht. Das stille Versprechen: „Wir tragen heute, damit ihr morgen tragen könnt.“",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
       "label": "Konfliktraum · zweite Generation",
       "titel": "Die Übersetzung.",
-      "text": "Die Kinder kamen oft Jahre später, lernten Sprache als Risiko und übersetzten für ihre Eltern. „Wer ständig vermittelt, steht selten selbst im Zentrum.“",
+      "text": "Die Frage: Wohin gehöre ich? Zwischen Eltern, Schule und Land übersetzen die Kinder für die Erwachsenen. Das schärft den Blick und kostet Kraft: „Wer immer erklärt, kommt kaum dazu, sich zu fragen, was er eigentlich will.“",
       "quelle": "Dossier, drei Räume"
      },
      {
       "typ": "einordnung",
       "label": "Syntheseraum · dritte Generation",
       "titel": "Die Gestaltung.",
-      "text": "Herkunft und Zugehörigkeit stehen nicht mehr in Konkurrenz. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+      "text": "Die Frage: Was mache ich daraus? Herkunft und Zugehörigkeit stehen nicht mehr gegeneinander. Aber auch hier gibt es Reibung: „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
       "quelle": "Dossier, drei Räume"
      },
      {
