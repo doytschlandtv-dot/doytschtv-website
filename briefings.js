@@ -165,7 +165,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
-    "caption": "Vor 65 Jahren, am 30. Oktober 1961, vereinbarten die Bundesrepublik und die Türkei die Vermittlung türkischer Arbeitnehmer: höchstens zwei Jahre, kein Familiennachzug. Bis 1973 kamen rund 867.000 Menschen. 1964 fiel die Zwei-Jahres-Grenze, 1973 stoppte der Bund die Anwerbung, die Familien blieben. Unser Dossier erzählt die Chronik und die drei Räume dahinter: Opferraum, Konfliktraum, Syntheseraum. Mein Wort dazu: Doytsch. Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders? Das ganze Dossier: Link in der Bio.",
+    "caption": "Vor 65 Jahren, am 30. Oktober 1961, vereinbarten die Bundesrepublik und die Türkei die Vermittlung türkischer Arbeitnehmer: höchstens zwei Jahre, keine Regelung zum Familiennachzug. Bis 1973 kamen rund 867.000 Menschen. 1964 fiel die Zwei-Jahres-Grenze, 1973 stoppte der Bund die Anwerbung, die Familien blieben. Unser Dossier erzählt die Chronik und die drei Räume dahinter: Opferraum, Konfliktraum, Syntheseraum. Mein Wort dazu: Doytsch. Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders? Das ganze Dossier: Link in der Bio.",
     "hashtags": "#doytschlandtv #dossier #anwerbeabkommen #gastarbeiter #migration #zusammenleben #deutschtürken #einordnung",
     "slides": [
      {
@@ -178,8 +178,8 @@ window.BRIEFINGS = [
       "typ": "fakten",
       "label": "30. Oktober 1961",
       "titel": "Ein Notenwechsel, kein Festakt.",
-      "text": "Die Bundesrepublik und die Türkei vereinbarten die Vermittlung türkischer Arbeitnehmer. Vorgesehen: höchstens zwei Jahre Aufenthalt, kein Familiennachzug.",
-      "quelle": "bpb; Landeszentrale für politische Bildung Baden-Württemberg"
+      "text": "Die Bundesrepublik und die Türkei vereinbarten die Vermittlung türkischer Arbeitnehmer. Vorgesehen: höchstens zwei Jahre Aufenthalt (Art. 9), keine Regelung zum Familiennachzug.",
+      "quelle": "bpb (Abkommenstext, Art. 9); LpB Baden-Württemberg"
      },
      {
       "typ": "zahl",

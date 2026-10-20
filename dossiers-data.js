@@ -527,7 +527,7 @@ window.DOSSIERS = [
      },
      {
       "z": "Zwei Jahre",
-      "l": "So lange sollte der Aufenthalt höchstens dauern, ohne Familiennachzug. Schon 1964 fielen beide Grenzen, auf Druck der Arbeitgeber."
+      "l": "So lange sollte der Aufenthalt höchstens dauern (Art. 9 des Abkommens), mit keiner Regelung zum Familiennachzug. Schon 1964 fiel die Zwei-Jahres-Grenze, auf Druck der Arbeitgeber."
      },
      {
       "z": "23.11.1973",
@@ -568,7 +568,7 @@ window.DOSSIERS = [
       "t": [
        "Die Bundesrepublik erlebte ein Wirtschaftswunder: 1960 standen rund 650.000 offene Stellen etwa 150.000 Arbeitsuchenden gegenüber. Aus Italien (Abkommen 1955), Spanien und Griechenland kamen schon Arbeitskräfte. Arbeitgeber holten Türkinnen und Türken teils auf eigene Faust, das Abkommen sollte diese Zuwanderung ordnen. Es war ein Notenwechsel, keine feierliche Unterzeichnung.",
        "Die Türkei hatte hohe Arbeitslosigkeit, 80 Prozent der Menschen lebten von der Landwirtschaft, und sie hoffte auf Überweisungen aus Deutschland. Außenpolitisch spielte die NATO-Mitgliedschaft eine Rolle. Die türkische Seite drängte schon im Dezember 1960, nicht hinter Griechenland zurückgesetzt zu werden.",
-       "Vorgesehen war ein Rotationsprinzip: höchstens zwei Jahre, dann Austausch, kein Familiennachzug. Das Wort „Gast“ im Wort „Gastarbeiter“ meinte genau das."
+       "Vorgesehen war ein Rotationsprinzip: höchstens zwei Jahre, dann Austausch. Das Abkommen regelt keinen Familiennachzug. Das Wort „Gast“ im Wort „Gastarbeiter“ meinte genau das."
       ]
      },
      {
@@ -582,7 +582,7 @@ window.DOSSIERS = [
       "h": "Chronik 1964 und 1973: Aus zwei Jahren wurden Jahrzehnte",
       "t": [
        "Arbeitgeber wollten die eingearbeiteten Beschäftigten behalten. Am 30. September 1964 strich ein zweites Abkommen die Zwei-Jahres-Grenze. Der Familiennachzug wurde möglich, fand aber überwiegend erst später statt.",
-       "Am 23. November 1973 stoppte die Bundesregierung die Anwerbung, nach der Ölkrise. Damit endete der Zuzug von Arbeitskräften, aber nicht die Einwanderung. Wer jetzt zurückfuhr, konnte nicht mehr ohne Weiteres wiederkommen. Viele blieben deshalb und holten die Familie nach. 53 Prozent der türkischstämmigen Einwohner kamen laut Bundeszentrale für politische Bildung über den Familiennachzug. Zwischen 1974 und 1979 verdoppelte sich die Zahl der unter 15-Jährigen aus der Türkei auf rund 420.000."
+       "Am 23. November 1973 stoppte die Bundesregierung die Anwerbung, wegen der Energiekrise. Damit endete der Zuzug von Arbeitskräften, aber nicht die Einwanderung. Wer jetzt zurückfuhr, konnte nicht mehr ohne Weiteres wiederkommen. Viele blieben deshalb und holten die Familie nach. 53 Prozent der türkischstämmigen Einwohner kamen laut Bundeszentrale für politische Bildung über den Familiennachzug. Zwischen 1974 und 1979 verdoppelte sich die Zahl der unter 15-Jährigen aus der Türkei auf rund 420.000."
       ]
      },
      {
@@ -701,6 +701,18 @@ window.DOSSIERS = [
       "url": "https://www.bpb.de/themen/europa/tuerkei/184981/die-anwerbung-tuerkischer-arbeitnehmer-und-ihre-folgen/"
      },
      {
+      "titel": "Bundeszentrale für politische Bildung, Dossier „1961: Anwerbeabkommen mit der Türkei“",
+      "url": "https://www.bpb.de/themen/migration-integration/anwerbeabkommen/"
+     },
+     {
+      "titel": "bpb: Abkommenstext „Regelung der Vermittlung türkischer Arbeitnehmer“ (Art. 7 bis 12)",
+      "url": "https://www.bpb.de/themen/migration-integration/anwerbeabkommen/43264/regelung-der-vermittlung-tuerkischer-arbeitnehmer-nach-der-bundesrepublik-deutschland/"
+     },
+     {
+      "titel": "bpb: Anwerbestopp 1973 (Schreiben von Arbeitsminister Arendt, 23.11.1973)",
+      "url": "https://www.bpb.de/themen/migration-integration/anwerbeabkommen/43270/anwerbestopp-1973/"
+     },
+     {
       "titel": "Virtuelles Migrationsmuseum: Rückkehrhilfe (Glossar)",
       "url": "https://virtuelles-migrationsmuseum.org/en/Glossar/repatriation-grant/"
      },
@@ -747,8 +759,8 @@ window.DOSSIERS = [
        "typ": "fakten",
        "label": "30. Oktober 1961",
        "titel": "Ein Notenwechsel, kein Festakt.",
-       "text": "Die Bundesrepublik und die Türkei vereinbarten die Vermittlung türkischer Arbeitnehmer. Vorgesehen: höchstens zwei Jahre Aufenthalt, kein Familiennachzug.",
-       "quelle": "bpb; Landeszentrale für politische Bildung Baden-Württemberg"
+       "text": "Die Bundesrepublik und die Türkei vereinbarten die Vermittlung türkischer Arbeitnehmer. Vorgesehen: höchstens zwei Jahre Aufenthalt (Art. 9), keine Regelung zum Familiennachzug.",
+       "quelle": "bpb (Abkommenstext, Art. 9); LpB Baden-Württemberg"
       },
       {
        "typ": "zahl",
