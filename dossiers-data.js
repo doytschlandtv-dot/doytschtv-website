@@ -673,13 +673,13 @@ window.DOSSIERS = [
       ]
      },
      {
-      "h": "Doytsch, mit Y",
+      "h": "Mein Wort: Doytsch, mit Y",
       "t": [
-       "Drei Räume, drei Wörter für denselben Menschen. Im Opferraum hieß er Gastarbeiter, ein Wort über seine Funktion. Im Konfliktraum hieß er Almancı, ein Wort über sein Dazwischen. Und im Syntheseraum?",
-       "Mein Großvater sprach das Wort „deutsch“ als „Doytsch“ aus. So sagen wir es hier, mit y. Seine Enkel gehören zur Generation Y, grob den Jahrgängen der 1980er und 1990er. Ein Y, das man auch „Why“ lesen kann: Es ist die Generation, die fragt. Warum sind wir hier? Wem gehört dieses Land? Wer darf sagen, wer deutsch ist?",
-       "Und das Y hat zwei Arme, die in einem Strich zusammenlaufen. Zwei Herkünfte, eine Linie.",
-       "Der Mann mit dem Koffer wurde bis zuletzt „Almancı“ genannt. Seine Enkel nennen sich selbst anders: nicht weniger deutsch, sondern Doytsch, deutsch mit der Stimme der Großväter.",
-       "Wie nennt ihr euch: Almancı, Deutsch, Doytsch, oder ganz anders? Schreibt es uns."
+       "Drei Räume, drei Wörter für einen Menschen wie meinen Großvater. Im Opferraum hieß er Gastarbeiter, ein Wort über seine Funktion. Im Konfliktraum hieß er Almancı, ein Wort über sein Dazwischen. Ich suche ein drittes Wort, eines, das man sich selbst gibt.",
+       "Mein Großvater sprach „deutsch“ als „Doytsch“ aus. Ich schreibe es so, mit y. Für mich ist die dritte Generation irgendwo auch die Generation Y, und ein Y kann man auch „Why“ lesen: Ich frage. Warum sind wir hier? Wem gehört dieses Land? Wer darf sagen, wer deutsch ist?",
+       "Das Y hat zwei Arme, die in einem Strich zusammenlaufen. So verstehe ich mich: zwei Herkünfte, eine Linie.",
+       "Mein Großvater wurde bis zuletzt „Almancı“ genannt. Ich sage Doytsch: nicht weniger deutsch, sondern deutsch mit der Stimme meines Großvaters. Das ist mein Wort. Es muss nicht deins sein.",
+       "Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders? Schreib es uns."
       ]
      }
     ],
