@@ -241,7 +241,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "„Und irgendwann: Deutsche.“ Wie viel Doytsch sind wir?",
-    "caption": "Kanzler Merz sagte beim Festakt zum 65. Jahrestag des Anwerbeabkommens in Berlin: „Aus den ‚Gastarbeitern‘ wurden nach und nach Einwanderer. Und irgendwann: Deutsche.“ Das Wort „irgendwann“ klingt, als sei es von selbst passiert. Es war ein Weg über Generationen, kein Zufall. Mein Großvater sagte „Doytsch“. Wie viel Doytsch bist du? Das ganze Dossier mit Chronik, den drei Räumen und meinem Wort: Link in der Bio.",
+    "caption": "Kanzler Merz sagte beim Festakt zum 65. Jahrestag des Anwerbeabkommens in Berlin: „Aus den ‚Gastarbeitern‘ wurden nach und nach Einwanderer. Und irgendwann: Deutsche.“ Das Wort „irgendwann“ klingt, als sei es von selbst passiert. Es war ein Weg über Generationen, kein Zufall. Identität braucht Akzeptanz, und Akzeptanz braucht zwei Seiten. Wie viel Doytsch bist du? Das ganze Dossier mit Chronik, den drei Räumen und meinem Wort: Link in der Bio.",
     "hashtags": "#doytschlandtv #merz #anwerbeabkommen #gastarbeiter #integration #deutschtürken #doytsch #einordnung",
     "slides": [
      {
@@ -292,7 +292,7 @@ window.BRIEFINGS = [
      },
      {
       "typ": "meinung",
-      "text": "Wir sind nicht „irgendwann“ Deutsche geworden. Wir sind es Stück für Stück geworden, und nicht alle gleich weit. Mein Großvater sagte „Doytsch“. Vielleicht ist das die ehrlichste Antwort auf Merz’ Satz: nicht mehr nur Almancı, noch nicht überall selbstverständlich Deutsch. Etwas Eigenes. Das ist mein Wort."
+      "text": "Deutsch zu werden ist mehr als ein Pass. Identität heißt: Ich weiß, wer ich bin. Akzeptanz heißt: Die anderen lassen es gelten. Beides braucht Zeit, und beides muss von zwei Seiten kommen. Fehlt eins, bleibt man Gast, auch nach drei Generationen. Wie dieser Weg aussieht, zeigt unser Dossier."
      },
      {
       "typ": "fakten",
