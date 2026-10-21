@@ -1,5 +1,5 @@
 {
-  "name": "anwerbeabkommen-video",
+  "name": "dossier-drei-raeume-video",
   "audio": "voice.mp3",
   "rot": [
     "Gast",
@@ -7,162 +7,135 @@
     "1961",
     "1973",
     "1964",
-    "867.000",
     "Räume",
+    "Opferraum",
+    "Konfliktraum",
+    "Syntheseraum",
+    "Raum",
     "Almancı",
     "Doytsch",
     "Y",
     "Linie",
     "Familien",
-    "Jahrzehnte",
     "Deutsche",
-    "Zufall",
-    "Weg",
-    "2000",
-    "2024",
-    "1992"
+    "Weg"
   ],
   "scenes": [
     {
       "kind": "hook",
-      "text": "Vor fünfundsechzig=65 Jahren wurde ein Abkommen geschlossen. Für zwei Jahre.",
-      "tag": "65 Jahre Anwerbeabkommen",
-      "sub": "Türkei · Oktober 1961",
-      "bild": "titel-anwerbeabkommen.jpg",
-      "unter": "Illustration, KI-generiert, kein Foto"
-    },
-    {
-      "kind": "stempel",
-      "text": "Ende Oktober neunzehnhunderteinundsechzig=1961 vereinbaren Deutschland und die Türkei: Ein Notenwechsel, kein Festakt. Arbeiter dürfen höchstens zwei Jahre bleiben. Zum Familiennachzug steht nichts im Abkommen.",
-      "kicker": "30. Oktober",
-      "jahr": 1961,
-      "jahr_von": 1900,
-      "stempel": [
-        {
-          "t": "Kein Festakt",
-          "cue": "Festakt"
-        },
-        {
-          "t": "Max. zwei Jahre",
-          "cue": "höchstens"
-        },
-        {
-          "t": "Nachzug: offen",
-          "cue": "Familiennachzug"
-        }
-      ],
-      "quelle": "bpb, Abkommenstext (Art. 7 bis 12)"
-    },
-    {
-      "kind": "karte",
-      "text": "Bis neunzehnhundertdreiundsiebzig=1973 kommen achthundertsiebenundsechzigtausend=867.000 Menschen aus der Türkei, vor allem für Industrie und Bau.",
-      "kicker": "Türkei → Deutschland",
-      "orte": [
-        {
-          "n": "Istanbul",
-          "lon": 28.98,
-          "lat": 41.01,
-          "cue": "Türkei"
-        },
-        {
-          "n": "Ankara",
-          "lon": 32.86,
-          "lat": 39.93,
-          "cue": "aus"
-        }
-      ],
-      "fokus": {
-        "n": "Dortmund",
-        "lon": 7.47,
-        "lat": 51.51
-      },
-      "zahl": "867.000",
-      "zahltext": "Menschen bis 1973",
-      "zahlzeile": "rund 80 % in Industrie und Bau",
-      "zahl_cue": "867.000",
-      "quelle": "bpb (Stefan Luft); LpB Baden-Württemberg",
-      "zahl_px": 230
+      "text": "Aus Gastarbeitern wurden Einwanderer, und irgendwann Deutsche, sagt der Kanzler. Doch wie wird man das? Unser Dossier erzählt den Weg.",
+      "tag": "Dossier · Migration und Zusammenleben",
+      "sub": "65 Jahre Anwerbeabkommen",
+      "bild": "titel-zdf-archiv.jpg",
+      "unter": "Archivbild: ZDFheute"
     },
     {
       "kind": "ablauf",
-      "text": "Aus zwei Jahren wurden Jahrzehnte. Neunzehnhundertvierundsechzig=1964 fällt die Zwei-Jahres-Grenze. Neunzehnhundertdreiundsiebzig=1973 stoppt der Bund die Anwerbung. Doch die Familien bleiben.",
-      "titel": "Gast auf [Dauer]",
-      "knoten": [
-        {
-          "t": "1961",
-          "s": "höchstens zwei Jahre",
-          "cue": "zwei"
-        },
-        {
-          "t": "1964",
-          "s": "Zwei-Jahres-Grenze fällt",
-          "cue": "1964"
-        },
-        {
-          "t": "1973",
-          "s": "Anwerbestopp",
-          "cue": "1973"
-        }
-      ],
-      "marke": {
-        "t": "Die Familien bleiben",
-        "cue": "Familien"
-      },
-      "quelle": "bpb; Schreiben Arendt, 23.11.1973"
-    },
-    {
-      "kind": "ablauf",
-      "text": "Kanzler Merz sagt: Aus Gastarbeitern wurden Einwanderer, irgendwann Deutsche. Doch irgendwann ist kein Datum. Neunzehnhundertzweiundneunzig=1992 brennt es in Mölln. Zweitausend=2000 werden Kinder mit der Geburt Deutsche. Zweitausendvierundzwanzig=2024 darf man die Herkunft behalten.",
-      "titel": "Irgendwann [Deutsche]?",
-      "knoten": [
-        {
-          "t": "1992 und 1993",
-          "s": "Mölln und Solingen",
-          "cue": "1992"
-        },
-        {
-          "t": "2000",
-          "s": "Geburt als Deutsche",
-          "cue": "2000"
-        },
-        {
-          "t": "2024",
-          "s": "Herkunft darf bleiben",
-          "cue": "2024"
-        }
-      ],
-      "marke": {
-        "t": "Kein Zufall",
-        "cue": "Datum"
-      },
-      "quelle": "Merz laut dpa, 20.10.2026; bpb; asyl.net"
-    },
-    {
-      "kind": "ablauf",
-      "text": "Und was geschah in den Menschen? Es war ein Weg, kein Zufall. Die erste Generation arbeitete und schwieg. Die Kinder übersetzten zwischen den Welten. Die Enkel bauen etwas Eigenes.",
+      "text": "Und in den Menschen? Das Dossier beschreibt drei Räume. Keine Zeitabschnitte, sondern Lagen. Vielleicht findest du dich wieder.",
       "titel": "Drei [Räume]",
       "knoten": [
         {
           "t": "Opferraum",
-          "s": "Arbeiten und schweigen",
-          "cue": "erste"
+          "s": "erste Generation",
+          "cue": "Räume"
         },
         {
           "t": "Konfliktraum",
-          "s": "Zwischen den Welten",
-          "cue": "Kinder"
+          "s": "zweite Generation",
+          "cue": "drei"
         },
         {
           "t": "Syntheseraum",
-          "s": "Aus beidem etwas Eigenes",
-          "cue": "Enkel"
+          "s": "dritte Generation",
+          "cue": "Lagen"
         }
       ],
       "marke": {
-        "t": "Ein Weg über Generationen",
-        "cue": "Eigenes"
+        "t": "Welcher ist deiner?",
+        "cue": "wieder"
       },
       "quelle": "Dossier: Drei Räume"
+    },
+    {
+      "kind": "raum",
+      "nr": 1,
+      "text": "Der erste Raum: der Opferraum. Sie kamen, um zu arbeiten. Eigene Wünsche blieben zurück. Wir tragen heute, damit ihr morgen tragen könnt. Kennst du diesen Satz?",
+      "kicker": "Erster Raum · erste Generation",
+      "titel": "Opferraum",
+      "sub": "Arbeiten und schweigen",
+      "zeilen": [
+        {
+          "t": "Sie kamen, um zu arbeiten.",
+          "cue": "kamen"
+        },
+        {
+          "t": "Eigene Wünsche blieben zurück.",
+          "cue": "Wünsche"
+        }
+      ],
+      "zitat": {
+        "t": "„Wir tragen heute, damit ihr morgen tragen könnt.“",
+        "cue": "Wir"
+      },
+      "frage": {
+        "t": "Kennst du diesen Satz?",
+        "cue": "Kennst"
+      },
+      "quelle": "Dossier: Opferraum"
+    },
+    {
+      "kind": "raum",
+      "nr": 2,
+      "text": "Der zweite Raum: der Konfliktraum. Die Kinder übersetzten für ihre Eltern, bei Ämtern und in der Schule. Loyalität hier, Aufstieg dort. Wer immer erklärt, fragt selten, was er selbst will. Warst du dieses Kind?",
+      "kicker": "Zweiter Raum · zweite Generation",
+      "titel": "Konfliktraum",
+      "sub": "Zwischen den Welten",
+      "zeilen": [
+        {
+          "t": "Übersetzen für die Eltern.",
+          "cue": "übersetzten"
+        },
+        {
+          "t": "Loyalität hier, Aufstieg dort.",
+          "cue": "Loyalität"
+        }
+      ],
+      "zitat": {
+        "t": "„Wer immer erklärt, fragt selten, was er selbst will.“",
+        "cue": "Wer"
+      },
+      "frage": {
+        "t": "Warst du dieses Kind?",
+        "cue": "Warst"
+      },
+      "quelle": "Dossier: Konfliktraum"
+    },
+    {
+      "kind": "raum",
+      "nr": 3,
+      "text": "Der dritte Raum: der Syntheseraum. Hier geboren, hier verankert. Herkunft ist Ressource. Nicht mehr: Wer dürfen wir sein? Sondern: Welche Verantwortung übernehmen wir? Ist das dein Raum?",
+      "kicker": "Dritter Raum · dritte Generation",
+      "titel": "Syntheseraum",
+      "sub": "Aus beidem etwas Eigenes",
+      "zeilen": [
+        {
+          "t": "Hier geboren, hier verankert.",
+          "cue": "geboren"
+        },
+        {
+          "t": "Herkunft ist Ressource.",
+          "cue": "Herkunft"
+        }
+      ],
+      "zitat": {
+        "t": "Nicht mehr: Wer dürfen wir sein? Sondern: Welche Verantwortung übernehmen wir?",
+        "cue": "Nicht"
+      },
+      "frage": {
+        "t": "Ist das dein Raum?",
+        "cue": "Ist"
+      },
+      "quelle": "Dossier: Syntheseraum"
     },
     {
       "kind": "gegensatz",
@@ -180,14 +153,14 @@
     {
       "kind": "schluss",
       "untertitel": false,
-      "text": "Für mich ist die dritte Generation auch die Generation Y. Ein Y hat zwei Arme und eine Linie. Wie viel Doytsch bist du? Schreib es in die Kommentare.",
+      "text": "Für mich ist die dritte Generation auch Generation Y. Zwei Herkünfte, eine Linie. Welcher Raum ist deiner? Schreib es in die Kommentare.",
       "kicker": "Mein Wort",
-      "aussage": "Generation [Y]:<br>zwei Herkünfte, [eine Linie.]",
-      "frage": "Wie viel Doytsch?",
-      "frage_cue": "viel",
+      "aussage": "Generation [Y]:<br>zwei Herkünfte,<br>[eine Linie.]",
+      "frage": "Welcher Raum ist deiner?",
+      "frage_cue": "Welcher",
       "cta": "Schreib es in die Kommentare ↓",
       "cta_cue": "Schreib",
-      "hinweis": " "
+      "hinweis": "Das ganze Dossier: Link in der Bio"
     }
   ]
 }
