@@ -246,13 +246,13 @@ window.BRIEFINGS = [
     "slides": [
      {
       "typ": "hook",
-      "kicker": "Einordnung · Rede zum Jubiläum",
-      "titel": "„Irgendwann: Deutsche.“ Aber wann genau?",
-      "rot": "wann genau",
+      "kicker": "Festakt zum Anwerbeabkommen · Berlin",
+      "titel": "Merz in Berlin: „Und irgendwann: Deutsche.“",
+      "rot": "Deutsche",
       "bild": {
-       "url": "titel-anwerbeabkommen.jpg",
+       "url": "titel-merz-gastarbeiter.jpg",
        "fokus": 0.5,
-       "unter": "Illustration, KI-generiert, kein Foto"
+       "unter": "Archivfoto"
       }
      },
      {
@@ -369,16 +369,16 @@ window.BRIEFINGS = [
     "zusatz": true,
     "art": "nachricht",
     "band": "Einordnung",
-    "kicker": "Merz zum Anwerbeabkommen",
+    "kicker": "Kanzler Merz beim Festakt in Berlin",
     "titel": "„Und irgendwann: Deutsche.“ Wie viel Doytsch sind wir?",
     "rot": "Doytsch",
     "text": "Wann wird man deutsch? Karussell und Dossier: Link in der Bio.",
     "quelle": "dpa/Tagesspiegel; Bundeskanzler.de; 20.10.2026",
     "theme": "dark",
     "bild": {
-     "url": "titel-anwerbeabkommen.jpg",
+     "url": "titel-merz-gastarbeiter.jpg",
      "fokus": 0.5,
-     "unter": "Illustration, KI-generiert, kein Foto"
+     "unter": "Archivfoto"
     }
    }
   ]
