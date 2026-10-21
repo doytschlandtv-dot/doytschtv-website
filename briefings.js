@@ -241,7 +241,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "„Und irgendwann: Deutsche.“ Wie viel Doytsch sind wir?",
-    "caption": "Kanzler Merz sagte zum 65. Jahrestag des Anwerbeabkommens: „Aus den ‚Gastarbeitern‘ wurden nach und nach Einwanderer. Und irgendwann: Deutsche.“ Das Wort „irgendwann“ klingt, als sei es von selbst passiert. Es gab Stationen: 1964, 1973, Mölln und Solingen, 2000, 2024. Und es war ein Weg über drei Generationen, kein Zufall: Opferraum, Konfliktraum, Syntheseraum. Mein Großvater sagte „Doytsch“. Wie viel Doytsch bist du? Das ganze Dossier: Link in der Bio.",
+    "caption": "Kanzler Merz sagte beim Festakt zum 65. Jahrestag des Anwerbeabkommens in Berlin: „Aus den ‚Gastarbeitern‘ wurden nach und nach Einwanderer. Und irgendwann: Deutsche.“ Das Wort „irgendwann“ klingt, als sei es von selbst passiert. Es war ein Weg über Generationen, kein Zufall. Mein Großvater sagte „Doytsch“. Wie viel Doytsch bist du? Das ganze Dossier mit Chronik, den drei Räumen und meinem Wort: Link in der Bio.",
     "hashtags": "#doytschlandtv #merz #anwerbeabkommen #gastarbeiter #integration #deutschtürken #doytsch #einordnung",
     "slides": [
      {
@@ -252,7 +252,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-merz-gastarbeiter.jpg",
        "fokus": 0.5,
-       "unter": "Archivfoto"
+       "unter": "Archivbild: ZDFheute"
       }
      },
      {
@@ -273,15 +273,8 @@ window.BRIEFINGS = [
       "typ": "einordnung",
       "label": "Unsere Frage",
       "titel": "„Irgendwann“ ist kein Datum.",
-      "text": "Das Wort klingt, als sei es von selbst passiert. Doch niemand wird einfach so Deutscher. Dazwischen liegen Entscheidungen, Gesetze und Nächte, in denen Zugehörigkeit gebrannt hat.",
+      "text": "Das Wort klingt, als sei es von selbst passiert. Doch niemand wird einfach so Deutscher. Dazwischen liegen Jahrzehnte, Gesetze und Nächte, in denen Zugehörigkeit gebrannt hat.",
       "quelle": "Dossier, Chronik"
-     },
-     {
-      "typ": "fakten",
-      "label": "Die Stationen",
-      "titel": "Es gab Daten, keinen Zufall.",
-      "text": "1964: Zwei-Jahres-Grenze fällt. 1973: Anwerbestopp, die Familien bleiben. 1992 und 1993: Mölln und Solingen. 2000: Kinder ausländischer Eltern können mit der Geburt Deutsche werden. 2024: Mehrstaatigkeit bei Einbürgerung zulässig.",
-      "quelle": "bpb; asyl.net; Dossier, Chronik"
      },
      {
       "typ": "zahl",
@@ -291,23 +284,22 @@ window.BRIEFINGS = [
       "quelle": "Dossier, Chronik heute (Zahlen laut ZDFheute/bpb)"
      },
      {
-      "typ": "vergleich",
-      "labelA": "Deutsch auf dem Papier",
-      "behauptung": "Der Pass sagt: dazugehörig. Seit 2024 darf man dafür die Herkunft behalten.",
-      "labelB": "Deutsch im Alltag",
-      "fakt": "35 Prozent der muslimischen Befragten bekamen laut DeZIM keine Einladung zur Wohnungsbesichtigung, bei nicht rassistisch markierten Personen waren es 11 Prozent. Türkeistämmige sind dort nicht gesondert ausgewiesen.",
-      "quelle": "DeZIM, NaDiRa-Bericht, Dezember 2025"
-     },
-     {
       "typ": "einordnung",
       "label": "Drei Räume",
       "titel": "Es war ein Weg, kein Zufall.",
-      "text": "Die Eltern arbeiteten und schwiegen, die Kinder übersetzten und standen dazwischen, die Enkel bauen Eigenes. Jeder Raum ging aus dem vorherigen hervor, keiner wäre ohne ihn denkbar.",
-      "quelle": "Dossier, drei Räume"
+      "text": "Eltern, Kinder und Enkel standen nie am selben Ort. Wo sie standen und was sie trugen, nennen wir die drei Räume. Das Dossier erzählt sie der Reihe nach.",
+      "quelle": "Dossier"
      },
      {
       "typ": "meinung",
       "text": "Wir sind nicht „irgendwann“ Deutsche geworden. Wir sind es Stück für Stück geworden, und nicht alle gleich weit. Mein Großvater sagte „Doytsch“. Vielleicht ist das die ehrlichste Antwort auf Merz’ Satz: nicht mehr nur Almancı, noch nicht überall selbstverständlich Deutsch. Etwas Eigenes. Das ist mein Wort."
+     },
+     {
+      "typ": "fakten",
+      "label": "Das Dossier",
+      "titel": "Den ganzen Weg erzählt das Dossier.",
+      "text": "Die Chronik von 1961 bis heute, die drei Räume dahinter und mein Wort: Doytsch, mit Y. Link in der Bio.",
+      "quelle": "doytschtv.de, Dossier „Migration und Zusammenleben“"
      },
      {
       "typ": "cta",
@@ -378,7 +370,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-merz-gastarbeiter.jpg",
      "fokus": 0.5,
-     "unter": "Archivfoto"
+     "unter": "Archivbild: ZDFheute"
     }
    }
   ]
