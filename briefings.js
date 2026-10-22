@@ -14,7 +14,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Rechtsextremismus · Bundesregierung",
       "titel": "Rechte Kampfsport-Clubs: Aus einem Dutzend werden rund 20",
-      "rot": "rund 20"
+      "rot": "rund 20",
+      "bild": {
+       "url": "titel-active-clubs.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "zahl",
@@ -79,7 +84,12 @@ window.BRIEFINGS = [
     "rot": "rund 20",
     "text": "Aus einem Dutzend (2024) wurden rund 20. Karussell: Link in der Bio.",
     "quelle": "Bundesregierung laut RND/audimax, 21.10.2026; 22.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-active-clubs.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    }
   ]
  },
