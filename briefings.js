@@ -199,6 +199,83 @@ window.BRIEFINGS = [
       "frage": "Wie schützt man junge Leute vor Angeboten, die wie normaler Sport aussehen? Was würdest du Eltern und Vereinen raten?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "AfD-Mails im Netz: Was kursiert, was belegt ist und was ein Verbot braucht",
+    "caption": "Im Netz kursieren rund 421.000 E-Mails aus AfD-Postfächern. Die Partei bestätigt einen Hackerangriff, ob die Mails echt sind, ist nicht unabhängig bestätigt. Was kursiert, steht nicht in jedem Fall der Partei zu. Warum wird ein Verbot gefordert, und was verlangt das Bundesverfassungsgericht dafür? Wir zeigen die Argumente beider Seiten. Entscheiden wird ein Gericht. Quellen auf unserer Website, Link in der Bio. Wie gehst du mit Material aus gehackten Postfächern um?",
+    "hashtags": "#doytschlandtv #aktuell #afd #afdverbot #rechtsextremismus #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Aktuell",
+      "kicker": "AfD-Leak",
+      "titel": "Im Netz kursieren AfD-Mails. Was heißt das für ein Verbot?",
+      "rot": "Verbot",
+      "bild": null
+     },
+     {
+      "typ": "fakten",
+      "band": "Aktuell",
+      "label": "Was passiert ist",
+      "titel": "421.000 Mails, Echtheit ungeklärt",
+      "text": "Am 19. Oktober tauchten rund 421.000 Mails (281 GB) auf einer anonymen Website auf. Die AfD bestätigte am 20. Oktober einen Hackerangriff auf einen Dienstleister im September. Die Echtheit ist nicht unabhängig bestätigt.",
+      "quelle": "t-online, taz, ZDFheute, 19./20.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Aktuell",
+      "label": "Was kursiert, nicht geprüft",
+      "titel": "Ausländerfeindliche Zitate im Netz",
+      "punkte": [
+       {
+        "kopf": "Beschimpfung",
+        "text": "Eine Nachricht soll lauten: „Merkel verrecke und Mohammedaner verrecke“."
+       },
+       {
+        "kopf": "Begriffe",
+        "text": "„Muselmanen“ und „dreckiges Monster Merkel“ stehen laut Übersicht in Nachrichten ohne genannten Verfasser."
+       },
+       {
+        "kopf": "Verfasser offen",
+        "text": "Laut t-online stammt viel von Anhängern, manche Mails gingen an mehrere Parteien."
+       }
+      ],
+      "quelle": "heute.at nach Übersicht der Hacker-Website; t-online, 20.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "band": "Aktuell",
+      "label": "Warum ein Verbot gefordert wird",
+      "titel": "Das Argument der Befürworter",
+      "text": "Das GFF-Gutachten sieht Verstöße gegen Menschenwürde und Demokratieprinzip, gestützt auf über 2.500 Belege. Ob die Mails echt und der Partei zuzurechnen sind, ist offen. Viele auffällige Funde sind alt oder schon bekannt.",
+      "quelle": "CORRECTIV, Stand 14.4.2026; LTO, 21.10.2026"
+     },
+     {
+      "typ": "vergleich",
+      "band": "Aktuell",
+      "labelA": "Das wird gefordert",
+      "behauptung": "Die AfD gehöre verboten, weil sie Menschen wegen Herkunft oder Religion abwerte.",
+      "labelB": "Das verlangt das Gericht",
+      "fakt": "Laut BVerfG (NPD, 2017) braucht es planvolles Handeln der Partei. Einzelne Äußerungen von Anhängern reichen grundsätzlich nicht.",
+      "quelle": "Verfassungsblog, 8.5.2025; LTO, 4.12.2024"
+     },
+     {
+      "typ": "meinung",
+      "band": "Aktuell",
+      "text": "Ungeprüfte Zitate sind kein Beweis, und entscheiden wird ein Gericht, nicht das Netz. Wer Menschen wegen Herkunft oder Religion abwertet, stellt sich aber gegen das Grundgesetz. Das gehört geprüft, mit Beweisen.",
+      "handlung": "Prüfe Quellen, bevor du teilst. Teile keine privaten Daten."
+     },
+     {
+      "typ": "cta",
+      "band": "Aktuell",
+      "frage": "Darf Material aus Hacks Grundlage eines Verbots sein?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für Einordnung statt Aufregung."
+      ]
+     }
+    ]
    }
   ],
   "storys": [
@@ -217,6 +294,18 @@ window.BRIEFINGS = [
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto"
     }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Inland · AfD",
+    "titel": "AfD-Mails im Netz: Was kursiert, was belegt ist",
+    "rot": "kursiert",
+    "text": "Zitate kursieren, die Echtheit ist offen. Über ein Verbot entscheidet ein Gericht. Argumente und Hürden im Karussell, Link in der Bio.",
+    "quelle": "t-online, taz, LTO, 20./21.10.2026",
+    "theme": "dark",
+    "bild": null
    }
   ]
  },
