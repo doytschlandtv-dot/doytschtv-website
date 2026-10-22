@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-23",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Länder fordern Tempo bei der Stromsteuer",
+    "Tankrabatt: 16,7 Cent bis Jahresende",
+    "Schufa: Was das BGH-Urteil für dich heißt",
+    "Arzttermine: Warnung vor längeren Wartezeiten"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Freitag, den 23. Oktober.",
+    "Gestern: Die Ministerpräsidenten der Länder haben den Bund aufgefordert, schnellstmöglich Haushaltsspielräume für eine Senkung der Stromsteuer für alle zu nutzen. Bisher gilt die Senkung nur für Industrie, produzierendes Gewerbe sowie Land- und Forstwirtschaft. Finanzminister Klingbeil zweifelt an der Finanzierbarkeit, Kanzler Merz will die Spielräume nutzen (dpa, 22.10.).",
+    "Außerdem verlangen die Länder vom Bund einen zeitigen Vorschlag zum Spritpreisdeckel. Der Tankrabatt von 16,7 Cent pro Liter gilt seit Anfang Oktober und ist bis zum Jahresende befristet (dpa, 22.10.).",
+    "Zuletzt: Der Bundesgerichtshof hat ein Urteil des OLG Dresden zum alten Schufa-Score aufgehoben. Der Fall geht zurück ans OLG, das klären muss, ob die Kläger durch eine negative Bewertung einen Nachteil hatten. Der neue Score gilt seit dem 17. März 2026. Ab dem 20. November müssen Auskunfteien auf Anfrage unter anderem die Scorewerte der letzten zwölf Monate offenlegen (ZDFheute, 21.10.).",
+    "Die Kassenärztliche Bundesvereinigung warnt vor deutlich längeren Wartezeiten auf Arzttermine ab 2027. Grund seien geplante Kürzungen im ambulanten Bereich von rund 2,7 Milliarden Euro (Bild-Interview mit KBV-Chef Gassen, 20.10., laut ZDFheute).",
+    "Heute: Um 9:30 Uhr kommen die Einkaufsmanagerindizes für Deutschland und die Eurozone. In Karlsruhe verhandelt der BGH über die Aufklärungspflicht von Immobilienverkäufern bei Mängelbeseitigung in Eigenleistung. Die EU-Kommission prüft bis heute die Übernahme von Ceconomy, der Mutter von MediaMarktSaturn, durch JD.com (dpa-AFX, 22.10.).",
+    "Diese Woche und danach: Am 25. Oktober endet die Sommerzeit. Am Montag um 10 Uhr kommt das ifo-Geschäftsklima, am Mittwoch entscheidet die US-Notenbank Fed, und am 31. Oktober stimmt die Berliner Linke auf einem Parteitag über Koalitionsgespräche ab (dpa-AFX, ORF, 19.10.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Freitag, 23. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Freitag, den 23. Oktober. Gestern: Die Länder fordern vom Bund Tempo bei der Stromsteuer und beim Spritpreisdeckel. Der Tankrabatt von 16,7 Cent pro Liter ist bis Jahresende befristet. Zuletzt: das BGH-Urteil zum Schufa-Score und die Warnung vor längeren Wartezeiten bei Arztterminen. Heute: Einkaufsmanagerindizes um 9:30 Uhr, am Wochenende endet die Sommerzeit. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Fr., 23. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Stromsteuer",
+        "text": "Die Länder fordern, Haushaltsspielräume für eine Senkung für alle zu nutzen. Klingbeil zweifelt an der Finanzierbarkeit."
+       },
+       {
+        "kopf": "Tankrabatt",
+        "text": "16,7 Cent pro Liter, befristet bis Jahresende. Die Länder wollen früh wissen, was danach kommt."
+       },
+       {
+        "kopf": "Schufa",
+        "text": "Der BGH hebt ein Urteil zum alten Score auf. Ab dem 20. November gibt es mehr Auskunft."
+       },
+       {
+        "kopf": "Arzttermine",
+        "text": "Die KBV warnt vor längeren Wartezeiten ab 2027 wegen geplanter Kürzungen."
+       }
+      ],
+      "quelle": "dpa, 22.10.2026; ZDFheute, 21.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 9:30 Uhr",
+        "text": "Einkaufsmanagerindizes für Deutschland und die Eurozone."
+       },
+       {
+        "kopf": "BGH in Karlsruhe",
+        "text": "Aufklärungspflicht von Immobilienverkäufern bei Mängelbeseitigung in Eigenleistung."
+       },
+       {
+        "kopf": "Sommerzeit endet",
+        "text": "Am Sonntag, 25. Oktober, werden die Uhren zurückgestellt."
+       },
+       {
+        "kopf": "Montag und Mittwoch",
+        "text": "Am Montag das ifo-Geschäftsklima, am Mittwoch der Zinsentscheid der US-Notenbank."
+       }
+      ],
+      "quelle": "dpa-AFX, Tagesvorschau 23.10.2026 und Wochenvorschau"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "16,7 Cent",
+      "text": "pro Liter Sprit macht der Tankrabatt aus, der seit Anfang Oktober gilt und Ende Dezember ausläuft.",
+      "quelle": "dpa, 22.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Fr., 23. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Stromsteuer, Tankrabatt, Schufa und Arzttermine im Karussell. Link in der Bio.",
+    "quelle": "dpa, 22.10.2026; ZDFheute, 21.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-22",
   "morgen": null,
   "abend": null,
