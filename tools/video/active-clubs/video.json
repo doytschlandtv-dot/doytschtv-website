@@ -1,0 +1,106 @@
+{
+  "name": "active-clubs-video",
+  "audio": "voice.mp3",
+  "musik": {
+    "datei": "musik.mp3",
+    "lautstaerke": 0.12
+  },
+  "rot": [
+    "Training",
+    "Gemeinschaft",
+    "Zugehörigkeit",
+    "Feindbild",
+    "Rassenkrieg",
+    "Wehrhaftigkeit",
+    "Gewaltkompetenz",
+    "Miliz",
+    "SA",
+    "Gefahr",
+    "Opposition",
+    "Tür",
+    "20"
+  ],
+  "scenes": [
+    {
+      "kind": "hook",
+      "text": "Es beginnt mit Training. Aber es endet nicht dort. Rund zwanzig=20 rechtsextreme Active Clubs kennt die Bundesregierung. Vor zwei Jahren war es ein Dutzend.",
+      "tag": "Rechtsextremismus · Active Clubs",
+      "sub": "Wie aus Training Gefolgschaft wird",
+      "bild": "titel-active-clubs.jpg",
+      "unter": "Illustration, KI-generiert, kein Foto",
+      "quelle": "Bundesregierung laut RND/audimax, 21.10.2026"
+    },
+    {
+      "kind": "ablauf",
+      "text": "Erstens: Gemeinschaft. Training, Natur, starke Videos. Kein Wort über Politik. Genau das ist der Plan, sagen Verfassungsschutz und Forscher. Zweitens: Zugehörigkeit. Wer dazugehört, fragt nicht mehr, wer da trainiert. Erst dann kommt die Ideologie, Stück für Stück. Drittens: das Feindbild. Das Bayerische Landesamt für Verfassungsschutz sagt: Die Clubs bereiten auf einen angeblichen Rassenkrieg vor. Viertens: Wehrhaftigkeit. Die Bundesregierung spricht von einer Professionalisierung der Gewaltkompetenz. Konkrete Konfrontationen gibt es bisher nicht.",
+      "titel": "Vier [Schritte]",
+      "knoten": [
+        {
+          "t": "Gemeinschaft",
+          "s": "Training, Natur, Videos",
+          "cue": "Erstens"
+        },
+        {
+          "t": "Zugehörigkeit",
+          "s": "Ideologie erst später",
+          "cue": "Zweitens"
+        },
+        {
+          "t": "Feindbild",
+          "s": "„Rassenkrieg“ (Landesamt)",
+          "cue": "Drittens"
+        },
+        {
+          "t": "Wehrhaftigkeit",
+          "s": "Gewaltkompetenz wächst",
+          "cue": "Viertens"
+        }
+      ],
+      "quelle": "BayLfV laut SZ/dts, 25.07.2026; Bundesregierung laut RND, 21.10.2026"
+    },
+    {
+      "kind": "stempel",
+      "text": "Warum funktioniert das? Kleine, lose Gruppen sind schwer zu überwachen und zu verbieten. Das Counter Extremism Project sieht darin eine verdeckte Miliz. Ihr Gründer lobte laut CEP die S A=SA.",
+      "kicker": "Warum es funktioniert",
+      "stempel": [
+        {
+          "t": "Klein und lose",
+          "cue": "Kleine"
+        },
+        {
+          "t": "Kaum zu verbieten",
+          "cue": "verbieten"
+        },
+        {
+          "t": "Verdeckte Miliz?",
+          "cue": "Miliz"
+        }
+      ],
+      "quelle": "Counter Extremism Project, März 2026 (Einschätzung des Autors)"
+    },
+    {
+      "kind": "gegensatz",
+      "text": "Für mich ist das eine Gefahr für alle, die anders denken, und für die Opposition. Menschen mit gleicher Gesinnung werden angeworben und gewaltbereit ausgebildet. Das erinnert mich an die Logik der S A=SA.",
+      "kicker": "Meine Haltung",
+      "wort": "Training",
+      "wort_cue": "Gefahr",
+      "strich_cue": "gewaltbereit",
+      "zeile": "Gleiche Gesinnung,<br>gewaltbereit ausgebildet",
+      "zeile_cue": "Gesinnung",
+      "pille": "Gefahr für alle Andersdenkenden",
+      "pille_cue": "Logik"
+    },
+    {
+      "kind": "schluss",
+      "untertitel": false,
+      "text": "Nicht der Sport ist das Problem, sondern wer ihn als Tür benutzt. Hinschauen, bevor aus Training Gewalt wird. Wie schützt man junge Leute davor? Schreib es in die Kommentare.",
+      "kicker": "Active Clubs",
+      "aussage": "Nicht der Sport ist das Problem,<br>sondern [wer ihn als Tür benutzt.]",
+      "frage": "Wie schützt man junge Leute davor?",
+      "frage_cue": "Wie",
+      "cta": "Schreib es in die Kommentare ↓",
+      "cta_cue": "Schreib",
+      "hinweis": "Das ganze Karussell: Link in der Bio<br>Stimme: KI-generiert (geklonte Stimme)"
+    }
+  ]
+}
