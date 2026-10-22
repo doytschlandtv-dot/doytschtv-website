@@ -561,7 +561,7 @@ window.DOSSIERS = [
        "1. Januar 2000: Das Staatsangehörigkeitsrecht ermöglicht Kindern ausländischer Eltern unter bestimmten Voraussetzungen den Erwerb mit der Geburt. Im selben Jahr, am 9. September, wird Enver Şimşek erschossen, das erste Opfer der NSU-Mordserie.",
        "2011: Der NSU fliegt auf.",
        "27. Juni 2024: Die Reform des Staatsangehörigkeitsrechts erlaubt Mehrstaatigkeit bei der Einbürgerung.",
-       "20. Oktober 2026: 65. Jahrestag, Festakt in Berlin."
+       "18. September 2026: Festakt zum 65. Jahrestag am Flughafen Düsseldorf, NRW-Ministerpräsident Wüst dankt den Gastarbeitern."
       ]
      },
      {
