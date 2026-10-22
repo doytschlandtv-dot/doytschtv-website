@@ -544,7 +544,8 @@ window.DOSSIERS = [
       "t": [
        "Am 30. Oktober 1961 schlossen die Bundesrepublik und die Türkei das Abkommen über die „Vermittlung türkischer Arbeitnehmer“. Aus einem Papier über Arbeitskräfte wurde die Geschichte von Familien, Kindern und Enkeln.",
        "Dieses Dossier betrachtet sie aus zwei Richtungen. Von außen: Was ist geschehen, Jahr für Jahr, mit Zahlen, Gesetzen und Ereignissen. Von innen: Was ist in den Menschen geschehen. Dafür unterscheidet das Dossier drei Räume, in denen Identität jeweils nach einer anderen Logik entsteht: den Opferraum der ersten Generation, den Konfliktraum der zweiten und den Syntheseraum der dritten.",
-       "Die Räume sind keine Zeitabschnitte. Sie folgen nicht der Chronik, sondern der Frage, was Zugehörigkeit für die jeweilige Generation bedeutete. Sie überlappen sich, und manche Familie lebte in allen dreien zugleich. Die Räume sind eine Deutung, keine Statistik. Passagen in Ich-Form stammen vom Betreiber dieser Seite, dem Enkel eines Arbeiters der ersten Stunde.",
+       "Die Räume sind eine Deutung, keine Statistik. Passagen in Ich-Form stammen vom Betreiber dieser Seite, dem Enkel eines Arbeiters der ersten Stunde.",
+       "Der Aufbau: Zuerst die Chronik. Dann die Frage, was Zahlen nicht zeigen. Danach die drei Räume, einer nach dem anderen, und am Ende ein Wort vom Betreiber dieser Seite.",
        "Dies ist der Auftakt der Reihe „Migration und Zusammenleben“."
       ]
      },
@@ -614,11 +615,20 @@ window.DOSSIERS = [
       ]
      },
      {
-      "h": "Die drei Räume: Wie sich Identität über drei Generationen wandelt",
+      "h": "Was die Chronik nicht zeigt",
       "t": [
-       "Die Chronik zeigt, was geschah. Das Drei-Räume-Modell beschreibt, was daraus für die Menschen wurde: wie sich Lebensumstände, Werte und Rolle in der Gesellschaft von der ersten Generation, den Gastarbeitern, über ihre Kinder bis zu den Enkeln gewandelt haben, hier am Beispiel der türkischen Arbeitsmigration in Deutschland.",
-       "Die Kernbotschaft: Die Nachkommen der Gastarbeiter sind nicht einfach „besser integriert“. Sie handeln in einem völlig anderen Raum. Die Entwicklung verläuft als zusammenhängender Generationenprozess, von der Entbehrung (Opferraum) über die Aushandlung (Konfliktraum) zur Mitgestaltung (Syntheseraum). Jeder Raum ist aus dem vorhergehenden hervorgegangen, keiner wäre ohne ihn denkbar.",
-       "Die Räume sind keine Zeitabschnitte, sondern Lagen mit eigenen Zwängen, Möglichkeiten und Fragen. Sie überlappen sich, und manche Familie lebt in allen dreien zugleich."
+       "Die Chronik erzählt, was geschah: ein Abkommen, ein Stopp, der Nachzug der Familien, neue Gesetze, Anschläge. Sie erzählt nicht, wie es sich anfühlte, in diesem Land zu leben. Und sie erklärt nicht, warum drei Generationen derselben Familie auf dieselbe Frage so verschieden antworten: Wo gehöre ich hin?",
+       "Ein Beispiel aus der Familie des Betreibers. Der Großvater kam mit einem Koffer und arbeitete, ohne zu klagen. Sein Sohn wuchs zwischen zwei Sprachen auf und musste früh vermitteln. Der Enkel, der diese Seite betreibt, fragt heute, wem dieses Land gehört. Drei Männer, ein Land, drei Lagen, die sich kaum vergleichen lassen.",
+       "Für solche Lagen braucht es Worte. Dieses Dossier nennt sie Räume. In jedem Raum gelten andere Regeln: was man leisten muss, was man sagen darf und wer man sein kann. Der erste ist der Opferraum, der zweite der Konfliktraum, der dritte der Syntheseraum. Die nächsten Abschnitte stellen sie vor, einen nach dem anderen.",
+       "Vorab: Die Räume sind eine Deutung des Betreibers, keine Statistik. Sie sollen helfen, Erfahrungen zu ordnen. Sie beschreiben nicht jede Familie."
+      ]
+     },
+     {
+      "h": "Das Modell: Drei Räume, ein Generationenprozess",
+      "t": [
+       "Die drei Räume gehören zusammen. Sie folgen aufeinander wie Entbehrung (Opferraum), Aushandlung (Konfliktraum) und Mitgestaltung (Syntheseraum). Jeder ist aus dem vorhergehenden hervorgegangen, keiner wäre ohne ihn denkbar.",
+       "Die Kernbotschaft: Die Nachkommen der Gastarbeiter sind nicht einfach „besser integriert“. Sie handeln in einem völlig anderen Raum, mit anderen Zwängen, Möglichkeiten und Fragen.",
+       "Die Räume sind keine Zeitabschnitte, sondern Lagen. Sie überlappen sich, und manche Familie lebt in allen dreien zugleich."
       ]
      },
      {
