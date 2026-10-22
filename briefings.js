@@ -1,5 +1,89 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-22",
+  "morgen": null,
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Rechte Kampfsport-Clubs: Aus einem Dutzend werden rund 20",
+    "caption": "Der Bundesregierung sind rund 20 rechtsextreme „Active Clubs“ bekannt, 2024 war es etwa ein Dutzend. Sie werben junge Männer über Kampfsport und Gemeinschaft an. Die Regierung sieht eine „Professionalisierung der Gewaltkompetenz“, nennt aber keine konkreten Konfrontationen und keine Zahl der Straftaten. Meine Meinung: Das ist eine Gefahr für alle, die anders denken, und für die Opposition. Wie schützt man junge Leute vor Angeboten, die wie normaler Sport aussehen?",
+    "hashtags": "#doytschlandtv #activeclubs #rechtsextremismus #kampfsport #verfassungsschutz #demokratie #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Rechtsextremismus · Bundesregierung",
+      "titel": "Rechte Kampfsport-Clubs: Aus einem Dutzend werden rund 20",
+      "rot": "rund 20"
+     },
+     {
+      "typ": "zahl",
+      "label": "Active Clubs in Deutschland",
+      "zahl": "20",
+      "text": "Der Bundesregierung sind rund 20 regionale „Active Clubs“ bekannt. Im Juni 2024 war von etwa einem Dutzend die Rede. Gezählt werden Gruppen, nicht Mitglieder: Wie viele Menschen mitmachen, ist öffentlich nicht bekannt.",
+      "quelle": "Bundesregierung laut RND/audimax, 21.10.2026; Bundesregierung, Juni 2024 (taz, 01.07.2024)"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was sind Active Clubs?",
+      "titel": "Erst Training, dann Ideologie.",
+      "text": "Fitness- und Kampfsportgruppen der extremen Rechten. Die Idee kommt aus den USA. Angeworben werden vor allem junge Männer, zuerst über Gemeinschaft und Training. Die Gruppen sind dezentral und treten oft mit unverfänglichen Namen auf.",
+      "quelle": "Bundesregierung laut RND/audimax, 21.10.2026; CeMAS, 19.06.2024; CEP, März 2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was die Bundesregierung sagt",
+      "titel": "Gewaltkompetenz wird professioneller.",
+      "text": "Regelmäßiges Kampfsporttraining und inszenierte Wehrhaftigkeit in martialischen Videos deuten laut Bundesregierung auf eine „Professionalisierung der Gewaltkompetenz“ hin. Konkrete Konfrontationen mit politischen Gegnern sind derzeit nicht zu beobachten.",
+      "quelle": "Bundesregierung laut RND/audimax, 21.10.2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Das Weltbild dahinter",
+      "titel": "Vorbereitung auf einen „Rassenkrieg“.",
+      "text": "Das Bayerische Landesamt für Verfassungsschutz sagt: Die Clubs trainieren Kampfsport, um auf einen angeblich bevorstehenden „Rassenkrieg“ vorbereitet zu sein. Die Szene stützt sich auf Erzählungen vom „Großen Austausch“.",
+      "quelle": "dts/Süddeutsche Zeitung, 25.07.2026; CEP, März 2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Woher kommt die Idee?",
+      "titel": "Der Blick zurück auf die SA.",
+      "text": "Laut dem Counter Extremism Project lobte Gründer Robert Rundo 2023 Goebbels’ Versuch, Berlin mit 600 SA-Männern zu übernehmen. Die SA warb Männer für gezielte politische Gewalt an. Das CEP wertet die Clubs als Aufbau einer verdeckten Miliz. Das ist eine Einschätzung, kein Urteil.",
+      "quelle": "CEP, März 2026, S. 9 und 15"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Das stärkste Gegenargument",
+      "titel": "Klein, aber auf Tarnung angelegt.",
+      "text": "Rund 20 Gruppen, unbekannte Mitgliederzahl, nach Regierungsangaben keine Straftatenzahl und aktuell keine Konfrontationen. Die Grünen halten dagegen: Dass die Szene unter dem Radar bleiben will, sei der Kern des Konzepts, kein Beleg für Harmlosigkeit.",
+      "quelle": "Bundesregierung laut RND/audimax, 21.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Active Clubs sind eine Gefahr für alle, die anders denken, und für die Opposition. Hier werden bewusst Menschen mit gleicher Gesinnung angeworben und gewaltbereit ausgebildet. Das erinnert an die Logik der SA: Gemeinschaft als Vorstufe organisierter Gewalt. Deshalb gilt es hinzusehen, bevor aus Training Gewalt wird."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie schützt man junge Leute vor Angeboten, die wie normaler Sport aussehen? Was würdest du Eltern und Vereinen raten?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "AKTUELL",
+    "kicker": "Rechtsextremismus",
+    "titel": "Rechte Kampfsport-Clubs: rund 20 in Deutschland",
+    "rot": "rund 20",
+    "text": "Aus einem Dutzend (2024) wurden rund 20. Karussell: Link in der Bio.",
+    "quelle": "Bundesregierung laut RND/audimax, 21.10.2026; 22.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-20",
   "morgen": null,
   "abend": null,
