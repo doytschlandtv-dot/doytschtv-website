@@ -777,7 +777,7 @@ window.DOSSIERS = [
        "bild": {
         "url": "titel-anwerbeabkommen.jpg",
         "fokus": 0.5,
-        "unter": "Illustration, KI-generiert, kein Foto"
+        "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
        }
       },
       {
@@ -841,10 +841,10 @@ window.DOSSIERS = [
     },
     "bild": {
      "src": "titel-anwerbeabkommen.jpg",
-     "w": 1280,
-     "h": 720,
-     "alt": "Illustration in Schwarz-Weiß mit rotem Akzent: Ein Mann in Mantel und Schiebermütze geht mit einem Koffer von hinten gesehen über einen Bahnsteig, die Gleise laufen in den Dunst.",
-     "unter": "Illustration, KI-generiert, kein Foto."
+     "w": 1920,
+     "h": 1046,
+     "alt": "Schwarz-Weiß-Foto: Türkische Arbeiter in Anzügen und Mänteln stehen nachts vor einem Flugzeug, im Hintergrund steigen weitere Männer die Treppe herunter.",
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt."
     }
    }
   ],
