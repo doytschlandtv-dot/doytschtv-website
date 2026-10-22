@@ -4,7 +4,7 @@ import sys
 DATUM,THEMEN,QUELLE,AUS=sys.argv[1],sys.argv[2].split('|'),sys.argv[3],sys.argv[4]
 import threading,http.server,functools,os
 from playwright.sync_api import sync_playwright
-root='/home/claude/doytschtv-website'
+root=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 html=("""<!doctype html><meta charset=utf-8><link rel=stylesheet href=fonts.css><style>
 *{box-sizing:border-box;margin:0}body{width:1080px;height:1920px;overflow:hidden;background:#f8f7f2;position:relative;font-family:Inter,sans-serif;color:#0a0a0a}
 .top{position:absolute;left:0;right:0;top:0;height:840px;background:#b3241c}
