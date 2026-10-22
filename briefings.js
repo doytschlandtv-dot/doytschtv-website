@@ -212,7 +212,11 @@ window.BRIEFINGS = [
       "kicker": "AfD-Leak",
       "titel": "Im Netz kursieren AfD-Mails. Was heißt das für ein Verbot?",
       "rot": "Verbot",
-      "bild": null
+      "bild": {
+       "url": "titel-afd-leak.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -305,7 +309,11 @@ window.BRIEFINGS = [
     "text": "Zitate kursieren, die Echtheit ist offen. Über ein Verbot entscheidet ein Gericht. Argumente und Hürden im Karussell, Link in der Bio.",
     "quelle": "t-online, taz, LTO, 20./21.10.2026",
     "theme": "dark",
-    "bild": null
+    "bild": {
+     "url": "titel-afd-leak.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    }
   ]
  },
