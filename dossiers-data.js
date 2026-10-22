@@ -512,7 +512,7 @@ window.DOSSIERS = [
     "id": "anwerbeabkommen-tuerkei-65-jahre",
     "datum": "2026-10-20",
     "titel": "65 Jahre Anwerbeabkommen: Was 1961 vereinbart wurde und was daraus wurde",
-    "teaser": "Von einem Notenwechsel am 30. Oktober 1961 bis heute: erst die Chronik mit Zahlen, Gesetzen und Ereignissen, dann ein Blick von innen. Dazu ein Blick von innen: drei Generationen, drei Räume.",
+    "teaser": "Von einem Notenwechsel am 30. Oktober 1961 bis heute: erst die Chronik mit Zahlen, Gesetzen und Ereignissen, dann ein Blick von innen.",
     "aussage": {
      "zitat": "Wir riefen Arbeitskräfte, und es kamen Menschen.",
      "wer": "Max Frisch, Schriftsteller",
@@ -544,8 +544,8 @@ window.DOSSIERS = [
       "t": [
        "Am 30. Oktober 1961 schlossen die Bundesrepublik und die Türkei das Abkommen über die „Vermittlung türkischer Arbeitnehmer“. Aus einem Papier über Arbeitskräfte wurde die Geschichte von Familien, Kindern und Enkeln.",
        "Dieses Dossier betrachtet sie aus zwei Richtungen. Von außen: Was ist geschehen, Jahr für Jahr, mit Zahlen, Gesetzen und Ereignissen. Von innen: Was ist in den Menschen geschehen. Dafür unterscheidet das Dossier drei Räume, in denen Identität jeweils nach einer anderen Logik entsteht: den Opferraum der ersten Generation, den Konfliktraum der zweiten und den Syntheseraum der dritten.",
-       "Die Räume sind eine Deutung, keine Statistik. Passagen in Ich-Form stammen vom Betreiber dieser Seite, dem Enkel eines Arbeiters der ersten Stunde.",
-       "Der Aufbau: Zuerst die Chronik. Dann die Frage, was Zahlen nicht zeigen. Danach die drei Räume, einer nach dem anderen, und am Ende ein Wort vom Betreiber dieser Seite.",
+       "Die Räume sind meine Deutung, keine Statistik. Die Passagen in Ich-Form stammen von mir. Mein Großvater war einer der Arbeiter, die kamen.",
+       "Der Aufbau: Zuerst die Chronik. Dann die Frage, die sie offenlässt. Danach die drei Räume, einer nach dem anderen, und am Ende ein persönliches Wort.",
        "Dies ist der Auftakt der Reihe „Migration und Zusammenleben“."
       ]
      },
@@ -617,10 +617,11 @@ window.DOSSIERS = [
      {
       "h": "Was die Chronik nicht zeigt",
       "t": [
-       "Die Chronik erzählt, was geschah: ein Abkommen, ein Stopp, der Nachzug der Familien, neue Gesetze, Anschläge. Sie erzählt nicht, wie es sich anfühlte, in diesem Land zu leben. Und sie erklärt nicht, warum drei Generationen derselben Familie auf dieselbe Frage so verschieden antworten: Wo gehöre ich hin?",
-       "Ein Beispiel aus der Familie des Betreibers. Der Großvater kam mit einem Koffer und arbeitete, ohne zu klagen. Sein Sohn wuchs zwischen zwei Sprachen auf und musste früh vermitteln. Der Enkel, der diese Seite betreibt, fragt heute, wem dieses Land gehört. Drei Männer, ein Land, drei Lagen, die sich kaum vergleichen lassen.",
-       "Für solche Lagen braucht es Worte. Dieses Dossier nennt sie Räume. In jedem Raum gelten andere Regeln: was man leisten muss, was man sagen darf und wer man sein kann. Der erste ist der Opferraum, der zweite der Konfliktraum, der dritte der Syntheseraum. Die nächsten Abschnitte stellen sie vor, einen nach dem anderen.",
-       "Vorab: Die Räume sind eine Deutung des Betreibers, keine Statistik. Sie sollen helfen, Erfahrungen zu ordnen. Sie beschreiben nicht jede Familie."
+       "Die Chronik erzählt, was geschah: ein Abkommen, ein Stopp, der Nachzug der Familien, neue Gesetze, Anschläge. Sie erzählt nicht, was das mit den Menschen gemacht hat. Mein Großvater steht in keiner Zeitleiste. Er stand am Band, und er stand mit seinem Koffer im Bahnhof von Dortmund.",
+       "Mein Großvater gab seine Jugend her für eine bessere Zukunft. Nicht für seine eigene, sondern für die seiner Kinder und Enkel. Mein Vater wuchs zwischen zwei Sprachen auf und musste früh für die Familie übersetzen. Ich frage heute, wem dieses Land gehört. Drei Männer, ein Land, drei völlig verschiedene Fragen.",
+       "Diese Fragen sind kein Zufall. Jede Generation lebte in einem anderen Raum, mit eigenen Regeln: was man leisten muss, was man sagen darf, wer man sein kann. Ich nenne sie den Opferraum, den Konfliktraum und den Syntheseraum.",
+       "Vorab zum Wort „Opfer“: Gemeint ist nicht die Opferrolle, sondern das Opfer, das man bringt. Die erste Generation gab ihre Jugend her, damit es ihren Kindern und Enkeln besser geht. Sie hielt sich nicht für ein Opfer, sie gab etwas. Der Opferraum ist der Raum der Hingabe.",
+       "Die Räume sind meine Deutung, keine Statistik. Sie beschreiben nicht jede Familie. Mir helfen sie zu verstehen, warum drei Generationen derselben Familie so verschieden antworten."
       ]
      },
      {
