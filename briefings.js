@@ -123,6 +123,22 @@ window.BRIEFINGS = [
     "text": "Stromsteuer, Tankrabatt, Schufa und Arzttermine im Karussell. Link in der Bio.",
     "quelle": "dpa, 22.10.2026; ZDFheute, 21.10.2026",
     "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Inland · AfD",
+    "titel": "AfD-Mails im Netz: Was kursiert, was belegt ist",
+    "rot": "kursiert",
+    "text": "Zitate kursieren, die Echtheit ist offen. Über ein Verbot entscheidet ein Gericht. Argumente und Hürden im Karussell, Link in der Bio.",
+    "quelle": "t-online, taz, LTO, 20./21.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-afd-leak.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    }
   ]
  },
