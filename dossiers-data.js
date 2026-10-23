@@ -510,7 +510,7 @@ window.DOSSIERS = [
   "folgen": [
    {
     "id": "anwerbeabkommen-tuerkei-65-jahre",
-    "datum": "2026-10-20",
+    "datum": "2026-10-30",
     "titel": "65 Jahre Anwerbeabkommen: Was 1961 vereinbart wurde und was daraus wurde",
     "teaser": "Von einem Notenwechsel am 30. Oktober 1961 bis heute: erst die Chronik mit Zahlen, Gesetzen und Ereignissen, dann ein Blick von innen.",
     "aussage": {
@@ -777,7 +777,7 @@ window.DOSSIERS = [
        "bild": {
         "url": "titel-anwerbeabkommen.jpg",
         "fokus": 0.5,
-        "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+        "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
        }
       },
       {
@@ -844,7 +844,7 @@ window.DOSSIERS = [
      "w": 1920,
      "h": 1046,
      "alt": "Schwarz-Weiß-Foto: Türkische Arbeiter in Anzügen und Mänteln stehen nachts vor einem Flugzeug, im Hintergrund steigen weitere Männer die Treppe herunter.",
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt."
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)."
     }
    }
   ],

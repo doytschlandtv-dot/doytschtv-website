@@ -18,7 +18,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-bauzinsen.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -104,7 +104,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-pflege.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -176,7 +176,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-anwerbeabkommen.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -253,7 +253,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-bauzinsen.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -269,7 +269,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-pflege.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -285,7 +285,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-anwerbeabkommen.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    }
   ]
@@ -329,7 +329,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-berlin.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -409,7 +409,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-russland.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -572,7 +572,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-europa.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -659,7 +659,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-macron.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -715,7 +715,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-migration.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -778,7 +778,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-merz.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -833,7 +833,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-hofheim.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt vom Tatort"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) vom Tatort"
       }
      },
      {
@@ -910,7 +910,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-berlin.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -926,7 +926,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-russland.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -953,7 +953,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-europa.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -969,7 +969,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-macron.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -985,7 +985,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-migration.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -1001,7 +1001,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-merz.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -1017,7 +1017,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-hofheim.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt vom Tatort"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) vom Tatort"
     }
    }
   ]
@@ -1085,7 +1085,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-wdr.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -1161,7 +1161,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-frankreich.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -1312,7 +1312,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-wdr.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -1328,7 +1328,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-frankreich.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -1457,7 +1457,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-notfall.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -1545,7 +1545,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-zucker.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -1661,7 +1661,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-notfall.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -1677,7 +1677,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-zucker.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    }
   ]
@@ -1768,7 +1768,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-kinderehen.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -1838,7 +1838,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-bahnhof.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -1926,7 +1926,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-mieten.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -2010,7 +2010,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-kita.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -2115,7 +2115,7 @@ window.BRIEFINGS = [
      "url": "titel-kinderehen.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -2131,7 +2131,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-bahnhof.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -2147,7 +2147,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-mieten.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    },
    {
@@ -2163,7 +2163,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-kita.jpg",
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
     }
    }
   ]
@@ -2236,7 +2236,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-hochzeitskorso.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -2488,7 +2488,7 @@ window.BRIEFINGS = [
      "url": "titel-hochzeitskorso.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -2704,7 +2704,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-stromsteuer.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -2790,7 +2790,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-verbrenner.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -2865,7 +2865,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-hormus.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -2950,7 +2950,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-schule.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -3030,7 +3030,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-azubi.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -3098,7 +3098,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-alberta.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -3250,7 +3250,7 @@ window.BRIEFINGS = [
      "url": "titel-stromsteuer.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -3267,7 +3267,7 @@ window.BRIEFINGS = [
      "url": "titel-verbrenner.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -3284,7 +3284,7 @@ window.BRIEFINGS = [
      "url": "titel-hormus.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -3301,7 +3301,7 @@ window.BRIEFINGS = [
      "url": "titel-schule.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -3318,7 +3318,7 @@ window.BRIEFINGS = [
      "url": "titel-azubi.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -3335,7 +3335,7 @@ window.BRIEFINGS = [
      "url": "titel-alberta.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -3552,7 +3552,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-diesel.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -3633,7 +3633,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-selenskyj.jpg",
        "fokus": 0.45,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -3737,7 +3737,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-christ.jpg",
        "fokus": 0.3,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -3849,7 +3849,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-riad.jpg",
        "fokus": 0.5,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
       }
      },
      {
@@ -3999,7 +3999,7 @@ window.BRIEFINGS = [
      "url": "titel-diesel.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -4016,7 +4016,7 @@ window.BRIEFINGS = [
      "url": "titel-selenskyj.jpg",
      "karte": true,
      "fokus": 0.45,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -4033,7 +4033,7 @@ window.BRIEFINGS = [
      "url": "titel-christ.jpg",
      "karte": true,
      "fokus": 0.3,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -4050,7 +4050,7 @@ window.BRIEFINGS = [
      "url": "titel-riad.jpg",
      "karte": true,
      "fokus": 0.5,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    }
   ]
@@ -4139,7 +4139,7 @@ window.BRIEFINGS = [
       "rot": "Friedensnobelpreis",
       "bild": {
        "url": "titel-pillay.jpg",
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt.",
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung).",
        "fokus": 0.38
       }
      },
@@ -4302,7 +4302,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-netanjahu.jpg",
        "fokus": 0.38,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Haftbefehl, kein Urteil"
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Haftbefehl, kein Urteil"
       }
      },
      {
@@ -4375,7 +4375,7 @@ window.BRIEFINGS = [
       "rot": "Finsterer Tag",
       "bild": {
        "url": "titel-finsterer-tag.jpg",
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt."
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)."
       }
      },
      {
@@ -4463,7 +4463,7 @@ window.BRIEFINGS = [
      "url": "titel-pillay.jpg",
      "karte": true,
      "fokus": 0.38,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -4497,7 +4497,7 @@ window.BRIEFINGS = [
      "url": "titel-netanjahu.jpg",
      "karte": true,
      "fokus": 0.38,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Haftbefehl, kein Urteil"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Haftbefehl, kein Urteil"
     }
    },
    {
@@ -4514,7 +4514,7 @@ window.BRIEFINGS = [
      "url": "titel-finsterer-tag-story.jpg",
      "karte": true,
      "fokus": 0.4,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    }
   ]
@@ -4654,7 +4654,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "kolumne-augsberg.jpg",
      "karte": true,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Kolumne: doytschtv.de"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Kolumne: doytschtv.de"
     }
    },
    {
@@ -4682,7 +4682,7 @@ window.BRIEFINGS = [
      "url": "titel-moscheen.jpg",
      "karte": true,
      "fokus": 0.36,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -4695,7 +4695,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "kolumne-fehlzeiten.jpg",
      "karte": true,
-     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt · Karussell: Link in der Bio"
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung) · Karussell: Link in der Bio"
     }
    },
    {
@@ -4792,7 +4792,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-moscheen.jpg",
        "fokus": 0.36,
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt."
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)."
       }
      },
      {
@@ -4872,7 +4872,7 @@ window.BRIEFINGS = [
       "rot": "28,5 Tage Ausfall",
       "bild": {
        "url": "kolumne-fehlzeiten.jpg",
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt."
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)."
       }
      },
      {
@@ -5471,7 +5471,7 @@ window.BRIEFINGS = [
       "rot": "Wörter sind Politik",
       "bild": {
        "url": "kolumne-augsberg.jpg",
-       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Quelle wird ergänzt."
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)."
       }
      },
      {
