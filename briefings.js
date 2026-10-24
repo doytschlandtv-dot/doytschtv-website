@@ -20,7 +20,40 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Sturm Luise: Verletzte und Schäden, am Sonntag droht Orkan an der Nordsee",
+    "CSU-Parteitag: Söder wirbt für Aigner, Merz betont Geschlossenheit",
+    "Frankreich: Protesttag mit hohem Polizeiaufgebot und Hunderten Festnahmen",
+    "Berlin: Streit um AfD-Kandidaten für das Präsidium des Abgeordnetenhauses"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Samstag, der vierundzwanzigste Oktober.",
+    "Erstens: Sturm. Das erste kräftige Herbststurmtief \"Luise\" hat vor allem im Westen und Südwesten Verletzte und Schäden verursacht. In Nastätten in Rheinland-Pfalz wurden auf einem Oktobermarkt zwei Menschen schwer verletzt, einer von ihnen lebensgefährlich. Bei Aachen verlor ein ICE mit 280 Passagieren die Oberleitungsspannung und wurde abgeschleppt. Für Sonntag warnt der Deutsche Wetterdienst vor Böen bis 100 Kilometer pro Stunde an der Nordseeküste, einzelne Orkanböen sind möglich. Das Bundesamt für Seeschifffahrt und Hydrographie erwartet deutlich erhöhte Wasserstände, in Hamburg könnte der untere Fischmarkt überflutet werden (dpa-AFX, 24.10.).",
+    "Zweitens: CSU-Parteitag. In München hat Bundeskanzler Merz Zukunftsmut gefordert und von der Union Geschlossenheit verlangt. Auf die Kandidatur von Ilse Aigner als Bundespräsidentin, für die CSU-Chef Söder wirbt, ging er inhaltlich nicht ein. Laut einem von ZDFheute zitierten FAZ-Bericht erhebt die CDU Anspruch auf einen eigenen Kandidaten. Söder forderte zudem eine Extremismusklausel für den Länderfinanzausgleich (ZDFheute, 24.10.).",
+    "Drittens: Frankreich. Beim landesweiten Protesttag waren laut Innenminister Nuñez rund 70.000 Sicherheitskräfte im Einsatz. Zu Beginn des Tages gab es mindestens 135 Festnahmen, in der ersten Tageshälfte keine größeren Zwischenfälle. In Orléans demonstrierten gegen den Parteitag des Rassemblement National laut Präfektur rund 11.000 Menschen. In mehreren Städten galten Versammlungsverbote. Zahlen zu Verletzten bei den Protesten nennt ZDFheute nicht. Der Stand bezieht sich auf den frühen Abend und kann sich ändern (ZDFheute, 24.10.).",
+    "Viertens: Berlin. Vor der konstituierenden Sitzung des Abgeordnetenhauses am Donnerstag zeichnet sich Streit um das Präsidium ab. Die AfD, drittstärkste Kraft mit 16,3 Prozent, kann erstmals einen von zwei Vizepräsidenten vorschlagen und hat Martin Trefzer nominiert. Laut einer dpa-Umfrage wollen Linke, CDU, Grüne und SPD ihn voraussichtlich nicht wählen. Die AfD verlangt, das Wahlergebnis müsse sich im Präsidium widerspiegeln. Unsere Einordnung: Die Wahl ist geheim, und ob ein Kandidat eine Mehrheit bekommt, hängt auch von den Positionen und dem Abstimmungsverhalten seiner Fraktion ab (news.de, dpa, 24.10.).",
+    "Morgen: Am Sonntag endet in der EU die Sommerzeit, außerdem wird Sturm erwartet. Am Montag um 10 Uhr erscheint der ifo-Geschäftsklimaindex, um 10 Uhr gibt Wirtschaftsministerin Reiche mit ihrem polnischen Amtskollegen beim Deutsch-Polnischen Wirtschaftsforum in Warschau eine Pressekonferenz, und in Peking beginnt das Fünfte Plenum des Zentralkomitees der Kommunistischen Partei Chinas (dpa-AFX, 23.10.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "dpa-AFX, 24.10.2026"
+    },
+    {
+     "titel": "ZDFheute, 24.10.2026"
+    },
+    {
+     "titel": "news.de, dpa, 24.10.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau, 23.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
