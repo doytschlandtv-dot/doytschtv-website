@@ -115,7 +115,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Wahl in Israel · Dienstag, 27. Oktober",
       "titel": "Israel wählt: Die Alternative zu Netanjahu bringt Palästinensern keinen Staat näher",
-      "rot": "keinen Staat näher"
+      "rot": "keinen Staat näher",
+      "bild": {
+       "url": "titel-hebron.jpg",
+       "fokus": 0.5,
+       "unter": "Hebron, 23.10. Foto: Mamoun Wazwaz / APAimages / IMAGO"
+      }
      },
      {
       "typ": "fakten",
@@ -171,7 +176,7 @@ window.BRIEFINGS = [
       "punkte": [
        {
         "kopf": "Netanjahu",
-        "text": "Treibt den Siedlungsausbau voran, auch das E1-Projekt."
+        "text": "Lehnt einen Staat kurzfristig ab und treibt den Siedlungsausbau voran, auch E1."
        },
        {
         "kopf": "Eisenkot",
@@ -213,7 +218,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Außenpolitik · Istanbul",
       "titel": "Istanbul lädt ein, Europa kommt",
-      "rot": "Europa kommt"
+      "rot": "Europa kommt",
+      "bild": {
+       "url": "titel-istanbul-treffen.jpg",
+       "fokus": 0.35,
+       "unter": "Foto: Quelle wird ergänzt"
+      }
      },
      {
       "typ": "fakten",
@@ -331,11 +341,17 @@ window.BRIEFINGS = [
     "art": "nachricht",
     "band": "Aktuell",
     "kicker": "Wahl in Israel · Dienstag",
-    "titel": "Israel wählt: Die Alternative zu Netanjahu bringt Palästinensern keinen Staat näher",
-    "rot": "keinen Staat näher",
-    "text": "Hebron abgeriegelt, drei Tage vor der Wahl. Netanjahu ist einer von vielen: Kein Favorit will einen palästinensischen Staat. Karussell: Link in der Bio.",
+    "titel": "Israel wählt: Dreimal Nein",
+    "rot": "Dreimal Nein",
+    "text": "Kein Favorit will einen Staat. Karussell: Link in der Bio.",
     "quelle": "Al Jazeera; Times of Israel; US News; JPost; 24.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-hebron.jpg",
+     "fokus": 0.5,
+     "unter": "Hebron, 23.10. Foto: Mamoun Wazwaz / APAimages / IMAGO",
+     "karte": true
+    }
    },
    {
     "zusatz": true,
@@ -344,9 +360,15 @@ window.BRIEFINGS = [
     "kicker": "Außenpolitik · Istanbul",
     "titel": "Istanbul lädt ein, Europa kommt",
     "rot": "Europa kommt",
-    "text": "Acht Außenminister, ein Thema: freie Seewege. Die Türkei vermittelt von Getreide bis Gaza. Karussell: Link in der Bio.",
+    "text": "Acht Außenminister, freie Seewege. Karussell: Link in der Bio.",
     "quelle": "Auswärtiges Amt; Reuters; ORF; 24.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-istanbul-treffen.jpg",
+     "fokus": 0.35,
+     "unter": "Foto: Quelle wird ergänzt",
+     "karte": true
+    }
    }
   ]
  },
