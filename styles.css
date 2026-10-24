@@ -530,10 +530,18 @@ a.dk-tile:focus-visible { outline: 3px solid #b3151b; outline-offset: 3px; }
 .lf-st .ar { margin-left: .6rem; font-weight: 700; }
 @media (max-width: 760px) { .lf { grid-template-columns: minmax(0, 1fr); } .lf-ph { margin-bottom: 1rem; } }
 
-/* Reel-Vorschau auf Formatseiten */
-.reelbox { display: flex; flex-direction: column; align-items: center; gap: 0.9rem; margin: 0 auto clamp(1.5rem, 4vw, 2.5rem); }
-.reelbox .rl { font: 700 0.78rem/1 Inter, system-ui, sans-serif; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent, #b2231c); }
-.reelrow { display: flex; gap: 1rem; overflow-x: auto; scroll-snap-type: x mandatory; max-width: 100%; padding: 0 0 0.4rem; -webkit-overflow-scrolling: touch; }
-.reelrow figure { flex: 0 0 min(15rem, 62vw); scroll-snap-align: center; margin: 0; }
-.reelrow video { display: block; width: 100%; aspect-ratio: 9 / 16; border-radius: 1rem; background: #0a0a0a; object-fit: cover; box-shadow: 0 14px 40px rgba(0,0,0,.18); }
-.reelrow figcaption { font-size: 0.9rem; color: var(--muted); margin-top: 0.5rem; text-align: center; line-height: 1.3; }
+/* Reel-Buttons auf Formatseiten */
+.reelbtns { display: flex; flex-wrap: wrap; justify-content: center; gap: .6rem; margin: 0 auto clamp(1.5rem, 4vw, 2.5rem); }
+.reelbtn { appearance: none; border: 1px solid var(--line, #d9d6cb); background: transparent; color: inherit; font: 600 .95rem/1.2 Inter, system-ui, sans-serif; padding: .6rem 1rem .6rem .7rem; border-radius: 999px; display: inline-flex; align-items: center; gap: .6rem; cursor: pointer; }
+.reelbtn:hover { border-color: var(--accent, #b2231c); }
+.reelbtn .pl { width: 1.7rem; height: 1.7rem; border-radius: 50%; background: var(--accent, #b2231c); color: #fff; display: inline-grid; place-items: center; font-size: .65rem; padding-left: .1rem; }
+.reelbtn small { color: var(--muted); font-weight: 500; white-space: nowrap; }
+.reelmodal { position: fixed; inset: 0; z-index: 9999; background: rgba(10,10,10,.82); display: none; align-items: center; justify-content: center; padding: 1rem; }
+.reelmodal.on { display: flex; }
+.reelmodal .rm-box { position: relative; width: min(22rem, 100%); max-height: 92vh; }
+.reelmodal video { display: block; width: 100%; max-height: 88vh; aspect-ratio: 9 / 16; background: #0a0a0a; border-radius: 1rem; object-fit: contain; }
+.reelmodal button.x { position: absolute; right: -.4rem; top: -2.6rem; border: 0; background: transparent; color: #fff; font-size: 1.8rem; line-height: 1; cursor: pointer; padding: .2rem .5rem; }
+.reelmodal p { color: #f8f7f2; text-align: center; font-size: .95rem; margin: .7rem 0 0; }
+.lf-vid { justify-self: center; width: min(15.5rem, 70vw); }
+.lf-vid video { display: block; width: 100%; aspect-ratio: 9 / 16; border-radius: 1.2rem; background: #0a0a0a; object-fit: cover; box-shadow: 0 18px 50px rgba(0,0,0,.2); }
+.lf-vid p { text-align: center; font-size: .9rem; color: var(--muted); margin: .6rem 0 0; }
