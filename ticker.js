@@ -2,37 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-10-11T12:10:00+02:00",
+ "stand": "2026-10-24T06:00:00+02:00",
  "items": [
   {
-   "z": "2026-10-11T06:30:00+02:00",
-   "t": "Riad: 12 Tote, 309 Verletzte bei Angriff auf den Flughafen, laut saudischer Luftfahrtbehörde",
+   "z": "2026-10-23T10:56:00+02:00",
+   "t": "Netanjahus Büro: Sicherheitskräfte sollen sich auf eine vollständige Abriegelung des Westjordanlands vorbereiten, israelische Angabe",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "u": "https://www.zdfheute.de/politik/ausland/israel-netanjahu-abriegelung-westjordanland-100.html"
   },
   {
-   "z": "2026-10-11T06:56:00+02:00",
-   "t": "CDU-Spitze berät in einer Führungsklausur über einen Ausweg aus der Krise nach den verlorenen Landtagswahlen",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "z": "2026-10-23T18:22:00+02:00",
+   "t": "Wadephul in Istanbul: Israel muss auch die Rechte der Palästinenser wahren, Deutschland beobachtet das Westjordanland mit tiefer Besorgnis",
+   "q": "ZDFheute, dpa",
+   "u": "https://www.news.de/politik/860123908/wadephul-mahnt-israel-zur-einhaltung-des-voelkerrechts-johann-wadephul-news-der-dpa-aktuell-zu-krieg-konflikte-und-nahost/1/"
   },
   {
-   "z": "2026-10-11T07:22:00+02:00",
-   "t": "Asylklageverfahren dauern im ersten Halbjahr durchschnittlich 15,3 Monate, im Vorjahr waren es rund 14,3",
+   "z": "2026-10-23T19:03:00+02:00",
+   "t": "CSU-Parteitag: Söder wirbt im ZDF für Ilse Aigner als Bundespräsidentin",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "u": "https://www.zdfheute.de/politik/deutschland/csu-parteitag-soeder-muenchen-100.html"
   },
   {
-   "z": "2026-10-11T07:45:00+02:00",
-   "t": "Drohnenangriff legt Rechenzentrum von Yandex bei Moskau lahm, Plattform nur im Notbetrieb, keine Verletzten",
+   "z": "2026-10-23T20:31:00+02:00",
+   "t": "Oleschky: Weißes Haus meldet lokale Waffenruhe ab 29. Oktober, Russland und Ukraine haben sich laut ZDFheute noch nicht geäußert",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-  },
-  {
-   "z": "2026-10-11T08:05:00+02:00",
-   "t": "Lulas Wahlkampfteam wirft Meta vor, die Reichweite seiner Inhalte eingeschränkt zu haben",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "u": "https://www.zdfheute.de/politik/ausland/waffenruhe-oleschky-melania-trump-ukraine-krieg-russland-100.html"
   }
  ]
 };
