@@ -8,6 +8,7 @@
   var ICON = {
     share: '<svg viewBox="0 0 24 24"><path d="M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v13"/></svg>',
     copy: '<svg viewBox="0 0 24 24"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></svg>',
+    save: '<svg viewBox="0 0 24 24"><path d="M12 3v12"/><path d="M8 11l4 4 4-4"/><path d="M5 20h14"/></svg>',
     brief: '<svg viewBox="0 0 24 24"><path d="M4 9v6h4l5 4V5L8 9H4z"/><path d="M16.5 8.5a5 5 0 0 1 0 7"/></svg>'
   };
   var fh = 0, sw = 0;
@@ -97,6 +98,7 @@
       var t = K.caption(k);
       if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(function () { say("Caption kopiert"); }, function () { say("Kopieren nicht möglich"); });
     });
+    act("", ICON.save, "Speichern", function () { saveSlides(k, cvs, sec); });
     if (it.briefing) { var a = act("", ICON.brief, "Briefing hören", function () { location.href = "briefing.html#" + it.briefing; }); }
     stage.appendChild(rail); sec.appendChild(stage);
     var dots = el("div", "f-dots"); cvs.forEach(function (_, i) { dots.appendChild(el("b", i === 0 ? "on" : "")); });
@@ -124,6 +126,13 @@
   function toBlob(c) { return new Promise(function (r) { c.toBlob(r, "image/png"); }); }
   function download(files) {
     files.forEach(function (f, i) { setTimeout(function () { var a = document.createElement("a"); a.href = URL.createObjectURL(f); a.download = f.name; document.body.appendChild(a); a.click(); a.remove(); }, i * 500); });
+  }
+  function saveSlides(k, cvs, sec) {
+    var ready = sec && sec._blobs ? sec._blobs : Promise.all(cvs.map(toBlob));
+    ready.then(function (blobs) {
+      download(blobs.map(function (b, i) { return new File([b], "doytschlandtv-" + K.slug(k.thema) + "-" + (i < 9 ? "0" : "") + (i + 1) + ".png", { type: "image/png" }); }));
+      say("Slides werden gespeichert");
+    });
   }
   function shareSlides(k, cvs, sec) {
     var ready = sec && sec._blobs ? sec._blobs : Promise.all(cvs.map(toBlob));
