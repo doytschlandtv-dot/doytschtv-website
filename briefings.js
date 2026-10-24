@@ -345,8 +345,8 @@ window.BRIEFINGS = [
      {
       "typ": "zahl",
       "label": "Pro Kind, insgesamt",
-      "zahl": "1.440 €",
-      "text": "zahlt der Staat bis zum 18. Geburtstag ein: 10 Euro im Monat vom 6. Geburtstag an, zwölf Jahre lang. Das ist die Summe vor Rendite.",
+      "zahl": "1.440",
+      "text": "Euro zahlt der Staat bis zum 18. Geburtstag ein: 10 Euro im Monat vom 6. Geburtstag an, zwölf Jahre lang. Das ist die Summe vor Rendite.",
       "quelle": "Deutsche Rentenversicherung, FAQ, 19.10.2026"
      },
      {
