@@ -222,7 +222,7 @@ window.BRIEFINGS = [
       "bild": {
        "url": "titel-istanbul-treffen.jpg",
        "fokus": 0.35,
-       "unter": "Foto: Quelle wird ergänzt"
+       "unter": "Foto: © AFP"
       }
      },
      {
@@ -366,7 +366,7 @@ window.BRIEFINGS = [
     "bild": {
      "url": "titel-istanbul-treffen.jpg",
      "fokus": 0.35,
-     "unter": "Foto: Quelle wird ergänzt",
+     "unter": "Foto: © AFP",
      "karte": true
     }
    }
