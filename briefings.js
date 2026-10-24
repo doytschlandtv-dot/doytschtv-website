@@ -333,7 +333,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Familie · Rente",
       "titel": "Frühstartrente: 10 Euro im Monat vom Staat für jedes Kind",
-      "rot": "10 Euro im Monat"
+      "rot": "10 Euro im Monat",
+      "bild": {
+       "url": "titel-fruehstartrente.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -400,7 +405,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Wirtschaft · Industrie",
       "titel": "Metallindustrie: 42 Prozent der Betriebe planen Stellenabbau",
-      "rot": "42 Prozent"
+      "rot": "42 Prozent",
+      "bild": {
+       "url": "titel-metallindustrie.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -487,7 +497,12 @@ window.BRIEFINGS = [
       "typ": "hook",
       "kicker": "Gesellschaft · Soziale Medien",
       "titel": "Social-Media-Verbot für Kinder: Türkei startet am 1. November, Deutschland plant eine Grenze bei 13",
-      "rot": "Türkei startet am 1. November"
+      "rot": "Türkei startet am 1. November",
+      "bild": {
+       "url": "titel-social-media-verbot.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
      },
      {
       "typ": "fakten",
@@ -596,7 +611,12 @@ window.BRIEFINGS = [
     "rot": "10 Euro im Monat",
     "text": "Wer bekommt sie, was müssen Eltern tun, was ist sie nicht? Quellen im Karussell, Link in der Bio.",
     "quelle": "Bundestag, Deutsche Rentenversicherung, 16./19.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-fruehstartrente.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    },
    {
     "zusatz": true,
@@ -607,7 +627,12 @@ window.BRIEFINGS = [
     "rot": "42 Prozent",
     "text": "Die Zahlen kommen vom Arbeitgeberverband. Was sie zeigen und was nicht, im Karussell. Link in der Bio.",
     "quelle": "ZDFheute, dpa-AFX, 23.10.2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-metallindustrie.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    },
    {
     "zusatz": true,
@@ -618,7 +643,12 @@ window.BRIEFINGS = [
     "rot": "ab 1. November",
     "text": "Griechenland folgt 2027, Deutschland plant eine Grenze bei 13. Pro, Kontra und offene Fragen im Karussell. Link in der Bio.",
     "quelle": "AFP, Handelsblatt, news4teachers, Oktober 2026",
-    "theme": "dark"
+    "theme": "dark",
+    "bild": {
+     "url": "titel-social-media-verbot.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
    }
   ]
  },
