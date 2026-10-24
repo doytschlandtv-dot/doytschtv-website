@@ -104,6 +104,214 @@ window.BRIEFINGS = [
       ]
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Israel wählt: Die Alternative zu Netanjahu bringt Palästinensern keinen Staat näher",
+    "caption": "Am Dienstag, 27. Oktober, wählt Israel, zum ersten Mal seit dem 7. Oktober 2023. Drei Tage vorher: ein Angriff bei Hebron, zwei getötete Soldaten, Hebron abgeriegelt, das Westjordanland soll folgen. Netanjahu kündigt an, das Viertel der Angreifer zu zerstören. Unsere Einordnung: Er ist einer von vielen. Eisenkot nennt einen palästinensischen Staat „delusional“, Bennett will Area C annektieren. Ein Wechsel an der Spitze ist noch kein Kurswechsel. Was meinst du? Quellen auf den Folien.",
+    "hashtags": "#doytschlandtv #israel #wahl #netanjahu #westjordanland #hebron #nahost #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Wahl in Israel · Dienstag, 27. Oktober",
+      "titel": "Israel wählt: Die Alternative zu Netanjahu bringt Palästinensern keinen Staat näher",
+      "rot": "keinen Staat näher"
+     },
+     {
+      "typ": "fakten",
+      "label": "Dienstag, 27. Oktober",
+      "titel": "Die erste Wahl seit dem 7. Oktober 2023.",
+      "text": "In der Knesset sitzen 120 Abgeordnete, 61 braucht eine Regierung. Netanjahu (Likud) tritt gegen Gadi Eisenkot (Jaschar) an. Naftali Bennett führt mit Yair Lapid eine gemeinsame Liste.",
+      "quelle": "bpb, Parlamentswahl in Israel 2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Sitze für die Mehrheit",
+      "zahl": "61",
+      "text": "Keiner erreicht sie in den Umfragen. Eisenkots Block kommt auf 53 bis 54 Sitze, Netanjahus auf 49 bis 51. Die 17 bis 20 Sitze dazwischen entscheiden.",
+      "quelle": "t-online, Umfragen vor der Wahl"
+     },
+     {
+      "typ": "fakten",
+      "label": "Hebron, 23. Oktober",
+      "titel": "Zwei Soldaten tot, Hebron abgeriegelt.",
+      "text": "Zwei Bewaffnete beschossen bei Hebron ein Reservebataillon. Zwei Soldaten starben, mindestens fünf wurden verletzt, die Angreifer wurden erschossen. Netanjahu ließ Hebron abriegeln und kündigte die Abriegelung des ganzen Westjordanlands an.",
+      "quelle": "Al Jazeera, Times of Israel, 23.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was Netanjahu ankündigte",
+      "titel": "Mehr als eine Abriegelung",
+      "punkte": [
+       {
+        "kopf": "Hebron",
+        "text": "Das Viertel der Angreifer soll „zerstört“ und komplett umgestaltet werden, nach dem Muster der Flüchtlingslager."
+       },
+       {
+        "kopf": "Operation",
+        "text": "Laut Times of Israel wäre es die größte im Westjordanland seit 1967. Die Armee sei bereit, den Zeitpunkt bestimme er."
+       },
+       {
+        "kopf": "Wahlkampf",
+        "text": "Er sagte Wahlveranstaltungen ab. Die Abriegelung kommt drei Tage vor der Wahl."
+       }
+      ],
+      "quelle": "Times of Israel, Al Jazeera, 23.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Sicherheit ist der Wahlkampf.",
+      "text": "Abriegelungen vor Wahlen sind nicht neu. Laut ZDF-Korrespondent ist das Westjordanland für Palästinenser seit dem 7. Oktober 2023 faktisch abgeriegelt. Über Siedlergewalt wird im Wahlkampf kaum gesprochen: Palästinensische Stellen zählten allein am Donnerstag 17 Übergriffe auf Bauern bei der Olivenernte."
+     },
+     {
+      "typ": "betrifft",
+      "label": "Palästinenserstaat",
+      "titel": "Dreimal Nein.",
+      "punkte": [
+       {
+        "kopf": "Netanjahu",
+        "text": "Treibt den Siedlungsausbau voran, auch das E1-Projekt."
+       },
+       {
+        "kopf": "Eisenkot",
+        "text": "Nennt einen palästinensischen Staat „delusional“ und unterstützt den Siedlungsausbau. E1 lehnt er ab."
+       },
+       {
+        "kopf": "Bennett",
+        "text": "Lehnt einen Staat strikt ab und will Area C annektieren."
+       }
+      ],
+      "quelle": "Al Jazeera (12.10.), US News, +972, JPost"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Netanjahu",
+      "behauptung": "Gaza: voller Sieg über die Hamas, notfalls in Trümmern. Westjordanland: Siedlungen weiter ausbauen, E1 durchsetzen.",
+      "labelB": "Eisenkot",
+      "fakt": "Gaza: Trumps Plan, Wiederaufbau gegen Teilentwaffnung. Westjordanland: Außenposten räumen, E1 blockieren, Verwaltungshaft für jüdische Extremisten.",
+      "quelle": "JPost, Vergleich der Sicherheitskonzepte"
+     },
+     {
+      "typ": "meinung",
+      "text": "Netanjahu setzt drei Tage vor der Wahl auf Sicherheitsangst. Aber täuschen wir uns nicht: Er ist nur einer von vielen. Eisenkot nennt einen palästinensischen Staat „delusional“, Bennett will Land annektieren. Ein Wechsel an der Spitze ist noch kein Kurswechsel.",
+      "handlung": "Schau am Dienstagabend nicht nur, wer gewinnt, sondern was die neue Regierung zum Westjordanland sagt."
+     },
+     {
+      "typ": "cta",
+      "frage": "Ändert ein Regierungswechsel in Israel etwas für den Frieden? Was denkst du?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Istanbul lädt ein, Europa kommt",
+    "caption": "Am 23. Oktober trafen sich in Istanbul die Außenminister von Deutschland, Frankreich, Großbritannien und Italien mit denen der Türkei, Ägyptens, Pakistans und Saudi-Arabiens. Das erste Treffen in diesem Format, angestoßen von Wadephul und Fidan. Thema: freie Seewege durch Hormus, Rotes Meer und Schwarzes Meer. Wenn sie brechen, wird es bei uns teurer. Die Türkei ist Gastgeberin und vermittelt seit Jahren, von Getreide bis Gaza: Regionalmacht mit globaler Initiative. Was meinst du? Quellen auf den Folien.",
+    "hashtags": "#doytschlandtv #türkei #istanbul #wadephul #fidan #diplomatie #hormus #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Außenpolitik · Istanbul",
+      "titel": "Istanbul lädt ein, Europa kommt",
+      "rot": "Europa kommt"
+     },
+     {
+      "typ": "fakten",
+      "label": "23. Oktober 2026",
+      "titel": "Acht Staaten, ein Tisch.",
+      "text": "Die Außenminister Deutschlands, Frankreichs, Großbritanniens und Italiens trafen ihre Kollegen aus der Türkei, Ägypten, Pakistan und Saudi-Arabien. Es war das erste Treffen in diesem Format, angestoßen von Wadephul und Fidan.",
+      "quelle": "Auswärtiges Amt, Reuters, 23.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Öltransport auf See durch Hormus",
+      "zahl": "25 %",
+      "text": "Rund ein Viertel des weltweiten Öltransports auf See und etwa 20 % des Flüssiggas-Handels laufen durch die Straße von Hormus. Das Rote Meer trägt rund 30 % des Containerverkehrs.",
+      "quelle": "DIHK (EIA-Daten), 9.4.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Die drei Nadelöhre",
+      "titel": "Hormus, Rotes Meer, Schwarzes Meer",
+      "punkte": [
+       {
+        "kopf": "Hormus",
+        "text": "Wadephul wirft dem Iran vor, den Welthandel zu erpressen. Fidan fordert, die Meerenge wieder zu öffnen."
+       },
+       {
+        "kopf": "Rotes Meer",
+        "text": "Angriffe der Huthi auf Schiffe gefährden laut Wadephul Energie- und Düngemittelversorgung."
+       },
+       {
+        "kopf": "Schwarzes Meer",
+        "text": "Russland greife Getreidelieferungen an, im globalen Süden drohe Knappheit."
+       }
+      ],
+      "quelle": "Reuters, dpa-AFX, 23.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was das für uns heißt",
+      "titel": "Wenn Seewege brechen, wird es teurer.",
+      "punkte": [
+       {
+        "kopf": "Tankstelle",
+        "text": "Angriffe auf Seewege treiben weltweit die Preise an den Tankstellen."
+       },
+       {
+        "kopf": "Supermarkt",
+        "text": "Auch in Supermärkten steigen die Preise, über Energie, Dünger und Getreide."
+       },
+       {
+        "kopf": "Reeder",
+        "text": "Der Reederverband: „Deutschland darf bei der Sicherheit der Seewege nicht Zuschauer sein.“"
+       }
+      ],
+      "quelle": "Reuters, 23.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Die Gastgeberin",
+      "titel": "Von Getreide bis Gaza",
+      "punkte": [
+       {
+        "kopf": "2022",
+        "text": "Das Abkommen zum Export ukrainischen Getreides über das Schwarze Meer entstand unter türkischer Vermittlung."
+       },
+       {
+        "kopf": "2024",
+        "text": "Die Ankara-Erklärung vom 11. Dezember senkte die Spannungen zwischen Äthiopien und Somalia."
+       },
+       {
+        "kopf": "2025",
+        "text": "Erdoğan unterzeichnete am 13. Oktober in Scharm al-Scheich mit den Staatschefs der USA, Ägyptens und Katars die Erklärung zur Gaza-Waffenruhe."
+       }
+      ],
+      "quelle": "Uni Bremen, Observer Research Foundation, ORF"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Stark, aber nicht unumstritten.",
+      "text": "Die Türkei redet mit allen: NATO-Mitglied, Drohnenlieferungen an die Ukraine, aber auch Gas aus Russland (rund 41 % ihres Verbrauchs) und keine Sanktionen gegen Moskau. Das macht sie als Vermittlerin nützlich und angreifbar. Bei den US-Verhandlungen zur Ukraine 2025 saß sie nicht am Tisch."
+     },
+     {
+      "typ": "fakten",
+      "label": "Was in Istanbul gesagt wurde",
+      "titel": "Ein Format mit Zukunft.",
+      "text": "Fidan lehnt eine militärische Intervention gegen den Iran ab und fordert eine Waffenruhe in der Ukraine, sonst ein neues Getreideabkommen. Die acht wollen sich künftig regelmäßig treffen, das nächste Mal in Deutschland.",
+      "quelle": "dpa-AFX, finanznachrichten.de, 23.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Wenn Europa über Seewege, Getreide und Frieden reden will, kommt es nach Istanbul. Die Türkei vermittelt seit Jahren, von Getreide bis Gaza, als Regionalmacht mit globalem Anspruch. Das verdient Respekt, auch wenn man ihre Doppelrolle kritisch sieht.",
+      "handlung": "Achte darauf, ob aus dem Treffen ein Format wird: Das nächste soll in Deutschland stattfinden."
+     },
+     {
+      "typ": "cta",
+      "frage": "Welche Rolle sollte die Türkei in Europas Außenpolitik spielen?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -116,6 +324,28 @@ window.BRIEFINGS = [
     "rot": "Das Wichtigste",
     "text": "Bundespräsidentin, Westjordanland, Oleschky und die Termine der Woche im Karussell. Link in der Bio.",
     "quelle": "ZDFheute, dpa, dpa-AFX, 23.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Wahl in Israel · Dienstag",
+    "titel": "Israel wählt: Die Alternative zu Netanjahu bringt Palästinensern keinen Staat näher",
+    "rot": "keinen Staat näher",
+    "text": "Hebron abgeriegelt, drei Tage vor der Wahl. Netanjahu ist einer von vielen: Kein Favorit will einen palästinensischen Staat. Karussell: Link in der Bio.",
+    "quelle": "Al Jazeera; Times of Israel; US News; JPost; 24.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Außenpolitik · Istanbul",
+    "titel": "Istanbul lädt ein, Europa kommt",
+    "rot": "Europa kommt",
+    "text": "Acht Außenminister, ein Thema: freie Seewege. Die Türkei vermittelt von Getreide bis Gaza. Karussell: Link in der Bio.",
+    "quelle": "Auswärtiges Amt; Reuters; ORF; 24.10.2026",
     "theme": "dark"
    }
   ]
