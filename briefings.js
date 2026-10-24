@@ -326,7 +326,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "Frühstartrente: 10 Euro im Monat vom Staat für jedes Kind",
-    "caption": "Der Bundestag hat am 16. Oktober die Frühstartrente beschlossen: Für jedes Kind zahlt der Staat von 6 bis 18 Jahren 10 Euro im Monat in ein Altersvorsorge-Depot, zusammen 1.440 Euro vor Rendite. Zuerst dabei sind die Jahrgänge 2020 und 2021, danach jedes Jahr der Jahrgang, der sechs wird. Ein Antrag ist nicht nötig. Das Geld ist gebunden, ausgezahlt wird grundsätzlich ab 65, und es wird am Kapitalmarkt angelegt. Das Verfahren ist laut Rentenversicherung noch nicht abgeschlossen, Start soll der 1. Januar 2027 sein. Reichen 10 Euro im Monat, um früh mit Vorsorge zu beginnen? Quellen auf den Folien.",
+    "caption": "Der Bundestag hat am 16. Oktober die Frühstartrente beschlossen: Für jedes Kind zahlt der Staat von 6 bis 18 Jahren 10 Euro im Monat in ein Altersvorsorge-Depot, zusammen 1.440 Euro vor Rendite. Zuerst dabei sind die Jahrgänge 2020 und 2021, danach jedes Jahr der Jahrgang, der sechs wird. Ein Antrag ist nicht nötig. Das Geld ist gebunden, ausgezahlt wird grundsätzlich ab 65, und es wird am Kapitalmarkt angelegt. Das Verfahren ist laut Rentenversicherung noch nicht abgeschlossen, Start soll der 1. Januar 2027 sein. Unsere Meinung: ein guter Anfang, mehr nicht. 1.440 Euro vor Rendite sind kein Fundament für eine Rente und ersetzen keine Rentenreform. Reichen 10 Euro im Monat, um früh mit Vorsorge zu beginnen? Quellen auf den Folien.",
     "hashtags": "#doytschlandtv #aktuell #fruehstartrente #rente #familie #altersvorsorge #nachrichten #einordnung",
     "slides": [
      {
@@ -381,28 +381,8 @@ window.BRIEFINGS = [
       "quelle": "Bundestag, 16.10.2026; Finanztip"
      },
      {
-      "typ": "betrifft",
-      "label": "Pro und Kontra",
-      "titel": "Vier Sichtweisen",
-      "punkte": [
-       {
-        "kopf": "SPD und Union",
-        "text": "Ein Einstieg in die kapitalgedeckte Vorsorge ab sechs Jahren, ein Baustein neben der Reform der privaten Altersvorsorge."
-       },
-       {
-        "kopf": "Grüne",
-        "text": "Eine „Krücke“, die Wissenslücken und soziale Ungleichheit festschreibe."
-       },
-       {
-        "kopf": "Linke",
-        "text": "Öffentliche Mittel als Kundenakquise für private Anbieter. Sie fordern unabhängige Finanzbildung."
-       },
-       {
-        "kopf": "AfD",
-        "text": "Die Förderung sei zu gering. Sie schlägt 100 Euro im Monat vor."
-       }
-      ],
-      "quelle": "Bundestag, Debatte vom 16.10.2026"
+      "typ": "meinung",
+      "text": "Ein guter Anfang, mehr nicht. 1.440 Euro bis zum 18. Geburtstag, vor Rendite, sind kein Fundament für eine Rente. Die Frühstartrente bringt Familien früh in die Vorsorge, ersetzt aber keine Rentenreform."
      },
      {
       "typ": "cta",
@@ -413,7 +393,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "Metallindustrie: 42 Prozent der Betriebe planen Stellenabbau",
-    "caption": "Gesamtmetall hat Betriebe der Metall- und Elektroindustrie befragt: 39 Prozent bewerten ihre Lage als schlecht, 42 Prozent planen in den nächsten sechs Monaten Stellenabbau. Der Arbeitgeberverband beziffert den Verlust seit 2018 auf rund 350.000 Arbeitsplätze, aktuell etwa 10.000 pro Monat. Wichtig: Die Zahlen stammen aus einer Verbandsumfrage und Verbandsrechnungen. Gesamtmetall fordert Reformen bei Steuern, Abgaben und Bürokratie, die IG Metall fordert 5 Prozent mehr Lohn. Was würde Betrieben und Beschäftigten jetzt am meisten helfen? Quellen auf den Folien.",
+    "caption": "Gesamtmetall hat 1.461 Betriebe der Metall- und Elektroindustrie befragt: 39 Prozent bewerten ihre Lage als schlecht, 42 Prozent planen in den nächsten sechs Monaten Stellenabbau. Der Arbeitgeberverband beziffert den Verlust seit 2018 auf rund 350.000 Arbeitsplätze. Auch Rüstungsaufträge lösen das nicht automatisch: Sie machen rund 200.000 der 3,7 Millionen Jobs aus, und Inlandsaufträge sind nicht gleich Inlandsproduktion. Wichtig: Die Zahlen stammen von einem Arbeitgeberverband. Was der Staat bisher tut: Industriestrompreis, Stromsteuer für die Industrie, ein Investitionsgipfel. Der Verband will mehr. Wir fragen: Standort und Zukunft der Menschen, was muss der Staat jetzt tun? Quellen auf den Folien.",
     "hashtags": "#doytschlandtv #aktuell #industrie #metallindustrie #arbeitsmarkt #gesamtmetall #nachrichten #einordnung",
     "slides": [
      {
@@ -439,7 +419,7 @@ window.BRIEFINGS = [
      {
       "typ": "betrifft",
       "label": "Was der Verband meldet",
-      "titel": "Drei Befunde",
+      "titel": "Vier Befunde",
       "punkte": [
        {
         "kopf": "Produktion",
@@ -447,32 +427,60 @@ window.BRIEFINGS = [
        },
        {
         "kopf": "Aufträge",
-        "text": "Bei 65 Prozent der Betriebe schlagen sich Aufträge nicht oder nur teilweise in Produktion im Inland nieder, meist wegen Produktion im Ausland."
+        "text": "Bei 65 Prozent der Betriebe schlagen sich Aufträge nicht oder nur teilweise im Inland nieder, meist wegen Produktion im Ausland."
        },
        {
         "kopf": "Standorte",
-        "text": "In drei bis fünf Jahren rechnen mehr als 10.000 Betriebe mit Schrumpfung. Laut Verbandsrechnung sind rund 1.000 Standorte von Schließung bedroht."
+        "text": "In drei bis fünf Jahren rechnen mehr als 10.000 Betriebe mit Schrumpfung, rund 1.000 Standorte sind laut Verband bedroht."
+       },
+       {
+        "kopf": "Rüstung",
+        "text": "200.000 der 3,7 Millionen Beschäftigten arbeiten in der Rüstung, rund 5 Prozent. Zander: „Inlandsaufträge bedeuten nicht Inlandsproduktion.“"
        }
       ],
-      "quelle": "Gesamtmetall laut dpa-AFX, 23.10.2026"
+      "quelle": "Gesamtmetall laut dpa-AFX, 23.10.2026; eigene Rechnung (200.000 von 3,7 Mio.)"
      },
      {
       "typ": "einordnung",
       "label": "Einordnung",
       "titel": "Wer hier spricht.",
-      "text": "Gesamtmetall ist der Arbeitgeberverband der Branche. Die Zahlen stammen aus einer Blitzumfrage und aus Verbandsrechnungen. Der Verband fordert Reformen bei Steuern, Sozialabgaben und Bürokratie und kritisiert die Haushaltspolitik von Finanzminister Klingbeil. Die IG Metall fordert 5 Prozent mehr Lohn bei zwölf Monaten Laufzeit, die Friedenspflicht endet Ende Oktober.",
-      "quelle": "dpa-AFX, 23.10.2026"
+      "text": "Gesamtmetall ist der Arbeitgeberverband der Branche. Befragt wurden 1.461 Unternehmen mit rund 800.000 Beschäftigten vom 7. bis 16. Oktober, dazu kommen Verbandsrechnungen. Die IG Metall fordert 5 Prozent mehr Lohn, die erste Runde Anfang Oktober endete ohne Ergebnis, die Friedenspflicht endet am 31. Oktober.",
+      "quelle": "Gesamtmetall, IG Metall laut dpa-AFX, 23.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was macht der Staat?",
+      "titel": "Was bisher läuft",
+      "punkte": [
+       {
+        "kopf": "Strompreis",
+        "text": "Ein Industriestrompreis für die energieintensive Industrie, Einigung im April, von der EU-Kommission genehmigt."
+       },
+       {
+        "kopf": "Stromsteuer",
+        "text": "Die Senkung auf das EU-Mindestmaß gilt für die Industrie. Für alle ist sie bisher nur ein Ziel."
+       },
+       {
+        "kopf": "Investitionen",
+        "text": "Der Gipfel am 19. Oktober sollte mehr privates Kapital mobilisieren. Die Investitionen fielen 2019 bis 2025 um 6,4 Prozent."
+       },
+       {
+        "kopf": "Der Verband fordert",
+        "text": "Reformen bei Steuern, Sozialabgaben und Bürokratie und dass der Bund mehr Gesundheitskosten von Bürgergeld-Beziehern aus Steuern zahlt."
+       }
+      ],
+      "quelle": "Handelsblatt, 16.04.2026; Allianz Research, 16.10.2026; dpa-AFX, 23.10.2026"
      },
      {
       "typ": "cta",
-      "frage": "Was würde Betrieben und Beschäftigten jetzt am meisten helfen?"
+      "frage": "Was muss der Staat tun, damit Industriearbeitsplätze in Deutschland bleiben?"
      }
     ]
    },
    {
     "zusatz": true,
     "thema": "Social-Media-Verbot für Kinder: Türkei startet am 1. November, Deutschland plant Grenze bei 13",
-    "caption": "Die Türkei verbietet soziale Medien für Kinder unter 15: Das Gesetz tritt am 1. November in Kraft. Griechenland hat am 23. Oktober nachgezogen, dort gilt es ab dem 1. Januar 2027. In Deutschland hat das Kabinett am 14. Oktober unverbindliche Eckpunkte beschlossen: Unter 13 sollen Kinder grundsätzlich nicht mehr auf TikTok, Snapchat oder Instagram. Offen ist, wie das kontrolliert werden soll. Die Altersgrenze der Netzwerke liegt schon bei 13, Kinder umgehen sie mit einem falschen Geburtsdatum. Die Befürworter sehen Schutz vor Abhängigkeit, Kritiker wie die türkische Opposition, Bitkom und ein Bündnis aus Schüler- und Elternvertretungen sagen: Schutz ja, Verbot nein. Sollte es in Deutschland eine feste Altersgrenze für soziale Medien geben? Quellen auf den Folien.",
+    "caption": "Die Türkei verbietet soziale Medien für Kinder unter 15: Das Gesetz tritt am 1. November in Kraft. Griechenland hat am 23. Oktober nachgezogen, dort gilt es ab dem 1. Januar 2027. In Deutschland hat das Kabinett am 14. Oktober unverbindliche Eckpunkte beschlossen: Unter 13 sollen Kinder grundsätzlich nicht mehr auf TikTok, Snapchat oder Instagram. Offen ist, wie das kontrolliert werden soll. Die Altersgrenze der Netzwerke liegt schon bei 13, Kinder umgehen sie mit einem falschen Geburtsdatum. Die Befürworter sehen Schutz vor Abhängigkeit, Kritiker wie die türkische Opposition, Bitkom und ein Bündnis aus Schüler- und Elternvertretungen sagen: Schutz ja, Verbot nein. Unsere Meinung: eine Altersgrenze ja, aber mit wirksamer Kontrolle. Ein Verbot allein hilft nicht, es braucht auch guten, wohlgesonnenen Content für Kinder und Jugendliche. Sollte es in Deutschland eine feste Altersgrenze für soziale Medien geben? Quellen auf den Folien.",
     "hashtags": "#doytschlandtv #aktuell #socialmedia #jugendschutz #tuerkei #griechenland #kinder #nachrichten #einordnung",
     "slides": [
      {
@@ -523,28 +531,8 @@ window.BRIEFINGS = [
       "quelle": "Golem, eGovernment-Monitor 2026, laut news4teachers"
      },
      {
-      "typ": "betrifft",
-      "label": "Pro und Kontra",
-      "titel": "Vier Sichtweisen",
-      "punkte": [
-       {
-        "kopf": "Griechenland",
-        "text": "Digitalminister Papastergiou hält das Gesetz für wirksam und warnt vor Abhängigkeit und Schäden für die psychische Gesundheit."
-       },
-       {
-        "kopf": "Prien (CDU)",
-        "text": "Unterstützt eine Grenze bei 13 und will Plattformen in die Pflicht nehmen. Eltern sollten erziehen, nicht Algorithmen."
-       },
-       {
-        "kopf": "Bitkom und Bündnis",
-        "text": "„Schutz ja, Verbot nein“, auch Bundesschülerkonferenz und Bundeselternrat. Bitkom: Das Verbot unter 13 schieße über das Ziel hinaus."
-       },
-       {
-        "kopf": "Türkei, CHP",
-        "text": "Die größte Oppositionspartei sieht einen Vorwand für neue Beschränkungen und will gegen das Gesetz vorgehen."
-       }
-      ],
-      "quelle": "Handelsblatt; ZDFheute; news4teachers; Stuttgarter Zeitung"
+      "typ": "meinung",
+      "text": "Eine Altersgrenze ja, aber nur mit wirksamer Kontrolle. Ein Verbot allein hilft nicht. Mehr bringt es, wenn Initiativen guten, wohlgesonnenen Content für Kinder und Jugendliche anbieten, der ihnen guttut."
      },
      {
       "typ": "cta",
