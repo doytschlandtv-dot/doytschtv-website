@@ -35,7 +35,7 @@ window.BRIEFINGS = [
       "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
       "rot": "Das Wichtigste",
       "bild": {
-       "url": "titel-morning-briefing.jpg",
+       "url": "titel-morning-briefing-2026-10-24.jpg",
        "fokus": 0.5,
        "unter": "Grafik, DoytschlandTv"
       }
