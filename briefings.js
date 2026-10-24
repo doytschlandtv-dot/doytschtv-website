@@ -1,5 +1,126 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-24",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Söder wirbt für Ilse Aigner als Bundespräsidentin",
+    "Westjordanland: Israel kündigt Abriegelung an",
+    "Oleschky: Weißes Haus meldet lokale Waffenruhe ab 29. Oktober"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Samstag, den 24. Oktober.",
+    "Gestern: CSU-Chef Markus Söder hat im ZDF für Ilse Aigner (CSU), Präsidentin des Bayerischen Landtags, als Kandidatin für das Amt der Bundespräsidentin geworben. Er hoffe, dass SPD und Grüne sie mittragen. Der CSU-Parteitag in München hatte gerade begonnen (ZDFheute, 23.10.).",
+    "Nach einem Schusswaffenangriff bei Hebron hat das Büro von Ministerpräsident Netanjahu angekündigt, die Sicherheitskräfte sollten sich auf eine vollständige Abriegelung des Westjordanlands vorbereiten. Das sind israelische Angaben, nicht unabhängig überprüft. Außenminister Wadephul mahnte in Istanbul, Israel sei verpflichtet, auch die Rechte der Palästinenser zu wahren und zu schützen (ZDFheute, dpa, 23.10.).",
+    "Zuletzt: Das Weiße Haus teilt mit, Melania Trump habe eine lokale Waffenruhe für die russisch besetzte Stadt Oleschky im Süden der Ukraine vermittelt. Sie soll am 29. Oktober beginnen und humanitären Zugang und die Evakuierung von Zivilisten ermöglichen. Eine Bestätigung aus Russland oder der Ukraine lag laut ZDFheute zunächst nicht vor (ZDFheute, 23.10.).",
+    "Heute: Die dpa-AFX-Tagesvorschau nennt für den Samstag keine Termine.",
+    "Diese Woche: Am Sonntag, 25. Oktober, endet in der EU die Sommerzeit. Am Montag um 10 Uhr kommt der ifo-Geschäftsklimaindex. Am Dienstag wird in Israel ein neues Parlament gewählt. Am Mittwoch um 19 Uhr entscheidet die US-Notenbank Fed, am Donnerstag um 14:45 Uhr die Europäische Zentralbank (dpa-AFX, 23.10.; ZDFheute, 23.10.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Samstag, 24. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Samstag, den 24. Oktober. Gestern: Söder wirbt für Ilse Aigner als Bundespräsidentin. Israel kündigt laut Netanjahus Büro eine Abriegelung des Westjordanlands an, Außenminister Wadephul mahnt die Einhaltung des Völkerrechts. Zuletzt: Das Weiße Haus meldet eine lokale Waffenruhe für Oleschky ab dem 29. Oktober, bestätigt ist sie von den Konfliktparteien bisher nicht. Diese Woche: Ende der Sommerzeit, ifo-Index, Wahl in Israel, Fed und EZB. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Sa., 24. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Drei Dinge",
+      "punkte": [
+       {
+        "kopf": "Bundespräsidentin",
+        "text": "Söder wirbt für Ilse Aigner (CSU) und hofft auf Zustimmung von SPD und Grünen."
+       },
+       {
+        "kopf": "Westjordanland",
+        "text": "Laut Netanjahus Büro soll es abgeriegelt werden. Wadephul mahnt, Israel müsse die Rechte der Palästinenser wahren."
+       },
+       {
+        "kopf": "Oleschky",
+        "text": "Das Weiße Haus meldet eine lokale Waffenruhe ab 29. Oktober. Eine Bestätigung der Konfliktparteien fehlt bisher."
+       }
+      ],
+      "quelle": "ZDFheute, dpa, 23.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute",
+        "text": "Laut dpa-AFX-Tagesvorschau keine Termine."
+       },
+       {
+        "kopf": "Sonntag, 25. Oktober",
+        "text": "In der EU endet die Sommerzeit."
+       },
+       {
+        "kopf": "Montag und Dienstag",
+        "text": "Montag, 10 Uhr: ifo-Geschäftsklima. Dienstag: Parlamentswahl in Israel."
+       },
+       {
+        "kopf": "Mittwoch und Donnerstag",
+        "text": "Fed-Zinsentscheid um 19 Uhr, EZB-Zinsentscheid am Donnerstag um 14:45 Uhr."
+       }
+      ],
+      "quelle": "dpa-AFX, Tages- und Wochenvorschau, 23.10.2026; ZDFheute, 23.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "1.700 bis 2.000",
+      "text": "Menschen sind laut Weißem Haus in Oleschky geblieben, von ursprünglich 24.000 Einwohnern. Es sind vor allem ältere Menschen.",
+      "quelle": "Weißes Haus laut ZDFheute, 23.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Sa., 24. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Bundespräsidentin, Westjordanland, Oleschky und die Termine der Woche im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, dpa, dpa-AFX, 23.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-23",
   "morgen": {
    "titel": "Morning Briefing",
