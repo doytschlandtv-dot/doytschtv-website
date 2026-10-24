@@ -322,6 +322,152 @@ window.BRIEFINGS = [
       "frage": "Welche Rolle sollte die Türkei in Europas Außenpolitik spielen?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Frühstartrente: 10 Euro im Monat vom Staat für jedes Kind",
+    "caption": "Der Bundestag hat am 16. Oktober die Frühstartrente beschlossen: Für jedes Kind zahlt der Staat von 6 bis 18 Jahren 10 Euro im Monat in ein Altersvorsorge-Depot, zusammen 1.440 Euro vor Rendite. Zuerst dabei sind die Jahrgänge 2020 und 2021, danach jedes Jahr der Jahrgang, der sechs wird. Ein Antrag ist nicht nötig. Das Geld ist gebunden, ausgezahlt wird grundsätzlich ab 65, und es wird am Kapitalmarkt angelegt. Das Verfahren ist laut Rentenversicherung noch nicht abgeschlossen, Start soll der 1. Januar 2027 sein. Reichen 10 Euro im Monat, um früh mit Vorsorge zu beginnen? Quellen auf den Folien.",
+    "hashtags": "#doytschlandtv #aktuell #fruehstartrente #rente #familie #altersvorsorge #nachrichten #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Familie · Rente",
+      "titel": "Frühstartrente: 10 Euro im Monat vom Staat für jedes Kind",
+      "rot": "10 Euro im Monat"
+     },
+     {
+      "typ": "fakten",
+      "label": "Bundestag, 16. Oktober",
+      "titel": "Das Gesetz ist beschlossen.",
+      "text": "CDU/CSU und SPD stimmten dafür, Grüne und Linke dagegen, die AfD enthielt sich. Das Verfahren ist laut Rentenversicherung noch nicht abgeschlossen. Start soll der 1. Januar 2027 sein.",
+      "quelle": "Bundestag, 16.10.2026; Deutsche Rentenversicherung, 19.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Pro Kind, insgesamt",
+      "zahl": "1.440 €",
+      "text": "zahlt der Staat bis zum 18. Geburtstag ein: 10 Euro im Monat vom 6. Geburtstag an, zwölf Jahre lang. Das ist die Summe vor Rendite.",
+      "quelle": "Deutsche Rentenversicherung, FAQ, 19.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was Eltern wissen müssen",
+      "titel": "Wer, wie, bis wann",
+      "punkte": [
+       {
+        "kopf": "Wer",
+        "text": "Zuerst die Jahrgänge 2020 und 2021, danach jedes Jahr das Kind, das sechs wird. Ältere Kinder bekommen nichts."
+       },
+       {
+        "kopf": "Antrag",
+        "text": "Keiner nötig. Die Zentrale Zulagenstelle prüft und zahlt. Ohne Vertrag wird das Geld breit gestreut in Aktien angelegt."
+       },
+       {
+        "kopf": "Eigenes Depot",
+        "text": "Eltern können ein zertifiziertes Standarddepot eröffnen und bis zu 6.840 Euro im Jahr selbst einzahlen."
+       },
+       {
+        "kopf": "Auszahlung",
+        "text": "Grundsätzlich ab 65. Kurse können schwanken."
+       }
+      ],
+      "quelle": "Deutsche Rentenversicherung, FAQ; Bundestag, 16.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Keine gesetzliche Rente.",
+      "text": "Die Frühstartrente ist ein eigenes, kapitalgedecktes Vorsorgeprodukt und ergänzt die gesetzliche Rente nicht. Der Bund plant dafür 198 Millionen Euro im Jahr 2027, bis 2030 steigend auf 411 Millionen. Finanztip rät, Geld, das das Kind früher braucht, etwa für Führerschein oder erste Wohnung, anders anzulegen.",
+      "quelle": "Bundestag, 16.10.2026; Finanztip"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Pro und Kontra",
+      "titel": "Vier Sichtweisen",
+      "punkte": [
+       {
+        "kopf": "SPD und Union",
+        "text": "Ein Einstieg in die kapitalgedeckte Vorsorge ab sechs Jahren, ein Baustein neben der Reform der privaten Altersvorsorge."
+       },
+       {
+        "kopf": "Grüne",
+        "text": "Eine „Krücke“, die Wissenslücken und soziale Ungleichheit festschreibe."
+       },
+       {
+        "kopf": "Linke",
+        "text": "Öffentliche Mittel als Kundenakquise für private Anbieter. Sie fordern unabhängige Finanzbildung."
+       },
+       {
+        "kopf": "AfD",
+        "text": "Die Förderung sei zu gering. Sie schlägt 100 Euro im Monat vor."
+       }
+      ],
+      "quelle": "Bundestag, Debatte vom 16.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Reichen 10 Euro im Monat, um früh mit Vorsorge zu beginnen?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Metallindustrie: 42 Prozent der Betriebe planen Stellenabbau",
+    "caption": "Gesamtmetall hat Betriebe der Metall- und Elektroindustrie befragt: 39 Prozent bewerten ihre Lage als schlecht, 42 Prozent planen in den nächsten sechs Monaten Stellenabbau. Der Arbeitgeberverband beziffert den Verlust seit 2018 auf rund 350.000 Arbeitsplätze, aktuell etwa 10.000 pro Monat. Wichtig: Die Zahlen stammen aus einer Verbandsumfrage und Verbandsrechnungen. Gesamtmetall fordert Reformen bei Steuern, Abgaben und Bürokratie, die IG Metall fordert 5 Prozent mehr Lohn. Was würde Betrieben und Beschäftigten jetzt am meisten helfen? Quellen auf den Folien.",
+    "hashtags": "#doytschlandtv #aktuell #industrie #metallindustrie #arbeitsmarkt #gesamtmetall #nachrichten #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Wirtschaft · Industrie",
+      "titel": "Metallindustrie: 42 Prozent der Betriebe planen Stellenabbau",
+      "rot": "42 Prozent"
+     },
+     {
+      "typ": "fakten",
+      "label": "Gesamtmetall-Umfrage, 23. Oktober",
+      "titel": "Die Stimmung ist schlecht.",
+      "text": "In einer Blitzumfrage des Arbeitgeberverbands Gesamtmetall bewerten 39 Prozent der Betriebe der Metall- und Elektroindustrie ihre Lage als schlecht. 42 Prozent planen in den nächsten sechs Monaten Stellenabbau.",
+      "quelle": "ZDFheute, dpa-AFX, 23.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Seit 2018, laut Gesamtmetall",
+      "zahl": "350.000",
+      "text": "Arbeitsplätze sind in der Branche verloren gegangen, aktuell rund 10.000 pro Monat. Die Branche hat rund 3,7 Millionen Beschäftigte.",
+      "quelle": "Gesamtmetall laut dpa-AFX, 23.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was der Verband meldet",
+      "titel": "Drei Befunde",
+      "punkte": [
+       {
+        "kopf": "Produktion",
+        "text": "2026 erwartet er ein Minus von 2 Prozent, das dritte Rezessionsjahr in Folge. Sie liege 15 Prozent unter 2018."
+       },
+       {
+        "kopf": "Aufträge",
+        "text": "Bei 65 Prozent der Betriebe schlagen sich Aufträge nicht oder nur teilweise in Produktion im Inland nieder, meist wegen Produktion im Ausland."
+       },
+       {
+        "kopf": "Standorte",
+        "text": "In drei bis fünf Jahren rechnen mehr als 10.000 Betriebe mit Schrumpfung. Laut Verbandsrechnung sind rund 1.000 Standorte von Schließung bedroht."
+       }
+      ],
+      "quelle": "Gesamtmetall laut dpa-AFX, 23.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Wer hier spricht.",
+      "text": "Gesamtmetall ist der Arbeitgeberverband der Branche. Die Zahlen stammen aus einer Blitzumfrage und aus Verbandsrechnungen. Der Verband fordert Reformen bei Steuern, Sozialabgaben und Bürokratie und kritisiert die Haushaltspolitik von Finanzminister Klingbeil. Die IG Metall fordert 5 Prozent mehr Lohn bei zwölf Monaten Laufzeit, die Friedenspflicht endet Ende Oktober.",
+      "quelle": "dpa-AFX, 23.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Was würde Betrieben und Beschäftigten jetzt am meisten helfen?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -369,6 +515,28 @@ window.BRIEFINGS = [
      "unter": "Foto: © AFP",
      "karte": true
     }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Familie · Rente",
+    "titel": "Frühstartrente: 10 Euro im Monat für jedes Kind",
+    "rot": "10 Euro im Monat",
+    "text": "Wer bekommt sie, was müssen Eltern tun, was ist sie nicht? Quellen im Karussell, Link in der Bio.",
+    "quelle": "Bundestag, Deutsche Rentenversicherung, 16./19.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Wirtschaft · Industrie",
+    "titel": "Metallindustrie: 42 Prozent planen Stellenabbau",
+    "rot": "42 Prozent",
+    "text": "Die Zahlen kommen vom Arbeitgeberverband. Was sie zeigen und was nicht, im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, dpa-AFX, 23.10.2026",
+    "theme": "dark"
    }
   ]
  },
