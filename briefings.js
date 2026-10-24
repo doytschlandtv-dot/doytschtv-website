@@ -468,6 +468,89 @@ window.BRIEFINGS = [
       "frage": "Was würde Betrieben und Beschäftigten jetzt am meisten helfen?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Social-Media-Verbot für Kinder: Türkei startet am 1. November, Deutschland plant Grenze bei 13",
+    "caption": "Die Türkei verbietet soziale Medien für Kinder unter 15: Das Gesetz tritt am 1. November in Kraft. Griechenland hat am 23. Oktober nachgezogen, dort gilt es ab dem 1. Januar 2027. In Deutschland hat das Kabinett am 14. Oktober unverbindliche Eckpunkte beschlossen: Unter 13 sollen Kinder grundsätzlich nicht mehr auf TikTok, Snapchat oder Instagram. Offen ist, wie das kontrolliert werden soll. Die Altersgrenze der Netzwerke liegt schon bei 13, Kinder umgehen sie mit einem falschen Geburtsdatum. Die Befürworter sehen Schutz vor Abhängigkeit, Kritiker wie die türkische Opposition, Bitkom und ein Bündnis aus Schüler- und Elternvertretungen sagen: Schutz ja, Verbot nein. Sollte es in Deutschland eine feste Altersgrenze für soziale Medien geben? Quellen auf den Folien.",
+    "hashtags": "#doytschlandtv #aktuell #socialmedia #jugendschutz #tuerkei #griechenland #kinder #nachrichten #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Gesellschaft · Soziale Medien",
+      "titel": "Social-Media-Verbot für Kinder: Türkei startet am 1. November, Deutschland plant eine Grenze bei 13",
+      "rot": "Türkei startet am 1. November"
+     },
+     {
+      "typ": "fakten",
+      "label": "Türkei, ab 1. November",
+      "titel": "Unter 15: keine Konten mehr.",
+      "text": "Das Parlament beschloss das Gesetz am 22. April, das Amtsblatt hat es veröffentlicht, am 1. November tritt es in Kraft. Anbieter müssen Altersprüfungen einführen und dürfen keine Dienste anbieten, die bei Kindern süchtig machen können. Bei Verstößen drohen laut Medienberichten Geldstrafen und gedrosselte Bandbreite.",
+      "quelle": "AFP, 10.10.2026; ORF, 23.04.2026; Stuttgarter Zeitung"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer noch",
+      "titel": "Die Welle",
+      "punkte": [
+       {
+        "kopf": "Griechenland",
+        "text": "Unter 15, ab 1. Januar 2027. Die Altersprüfung soll über die Regierungs-App „Kids Wallet“ laufen."
+       },
+       {
+        "kopf": "Australien",
+        "text": "Seit Dezember 2025 ein Verbot für unter 16-Jährige, als erstes Land."
+       },
+       {
+        "kopf": "EU",
+        "text": "Griechenlands Regierungschef Mitsotakis bat die Kommission um einen einheitlichen EU-Rahmen bis Ende 2026."
+       }
+      ],
+      "quelle": "Handelsblatt; LTO; ORF, 23.04.2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Deutschland, Kabinett 14. Oktober",
+      "titel": "Hier ist es noch ein Eckpunktepapier.",
+      "text": "Unter 13 sollen Kinder grundsätzlich nicht mehr auf TikTok, Snapchat oder Instagram, mit Ausnahmen für kindgerechte Angebote. Für 13- bis 18-Jährige sind abgestufte Schutzregeln geplant. Die Regierung nennt als Grund, dass etwa jedes vierte Kind soziale Medien problematisch nutzt. Ministerin Prien will die Reform des Jugendschutzgesetzes noch dieses Jahr ins Kabinett bringen.",
+      "quelle": "news4teachers, Oktober 2026; ZDFheute, 24.06.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Wer prüft das Alter?",
+      "text": "Die großen Netzwerke haben schon ein Mindestalter von 13, Kinder umgehen es oft mit einem falschen Geburtsdatum. Die digitale ID-Wallet „D-You“ wird Anfang 2027 erwartet. Die Online-Ausweisfunktion ist nur für 44 Prozent der Ausweisinhaber nutzbar und für unter 16-Jährige nicht verfügbar. Eltern müssten sie freischalten.",
+      "quelle": "Golem, eGovernment-Monitor 2026, laut news4teachers"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Pro und Kontra",
+      "titel": "Vier Sichtweisen",
+      "punkte": [
+       {
+        "kopf": "Griechenland",
+        "text": "Digitalminister Papastergiou hält das Gesetz für wirksam und warnt vor Abhängigkeit und Schäden für die psychische Gesundheit."
+       },
+       {
+        "kopf": "Prien (CDU)",
+        "text": "Unterstützt eine Grenze bei 13 und will Plattformen in die Pflicht nehmen. Eltern sollten erziehen, nicht Algorithmen."
+       },
+       {
+        "kopf": "Bitkom und Bündnis",
+        "text": "„Schutz ja, Verbot nein“, auch Bundesschülerkonferenz und Bundeselternrat. Bitkom: Das Verbot unter 13 schieße über das Ziel hinaus."
+       },
+       {
+        "kopf": "Türkei, CHP",
+        "text": "Die größte Oppositionspartei sieht einen Vorwand für neue Beschränkungen und will gegen das Gesetz vorgehen."
+       }
+      ],
+      "quelle": "Handelsblatt; ZDFheute; news4teachers; Stuttgarter Zeitung"
+     },
+     {
+      "typ": "cta",
+      "frage": "Sollte es in Deutschland eine feste Altersgrenze für soziale Medien geben?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -536,6 +619,17 @@ window.BRIEFINGS = [
     "rot": "42 Prozent",
     "text": "Die Zahlen kommen vom Arbeitgeberverband. Was sie zeigen und was nicht, im Karussell. Link in der Bio.",
     "quelle": "ZDFheute, dpa-AFX, 23.10.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Gesellschaft · Soziale Medien",
+    "titel": "Türkei: Social-Media-Verbot unter 15 ab 1. November",
+    "rot": "ab 1. November",
+    "text": "Griechenland folgt 2027, Deutschland plant eine Grenze bei 13. Pro, Kontra und offene Fragen im Karussell. Link in der Bio.",
+    "quelle": "AFP, Handelsblatt, news4teachers, Oktober 2026",
     "theme": "dark"
    }
   ]
