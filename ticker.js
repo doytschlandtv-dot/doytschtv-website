@@ -2,31 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-10-25T05:58:00+01:00",
+ "stand": "2026-10-25T21:40:00+01:00",
  "items": [
   {
-   "z": "2026-10-24T08:23:00+02:00",
-   "t": "Sturm Luise: Zwei Schwerverletzte in Nastätten, für Sonntag warnt der DWD laut dpa vor Böen bis 100 km/h an der Nordsee und das BSH vor Sturmflut-Gefahr in Hamburg",
+   "z": "2026-10-25T08:42:00+01:00",
+   "t": "YouGov-Umfrage im dpa-Auftrag: 23 Prozent erwarten, dass Schwarz-Rot bis zur Bundestagswahl 2029 hält",
    "q": "t-online, dpa",
-   "u": "https://www.t-online.de/nachrichten/panorama/wetter/id_101494690/verletzte-und-schaeden-wegen-sturm-sonntag-droht-orkan.html"
+   "u": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101496524/schwarz-rot-vor-dem-aus-neue-yougov-umfrage-zur-bundesregierung.html"
   },
   {
-   "z": "2026-10-24T12:32:00+02:00",
-   "t": "Westjordanland: Nach dem Tod zweier israelischer Soldaten bei Hebron ist laut SRF fast jedes palästinensische Dorf abgeriegelt, ein Enddatum gibt es nicht",
-   "q": "SRF",
-   "u": "https://www.srf.ch/news/international/nahost/nach-tod-israelischer-soldaten-abgeriegelt-fuer-die-palaestinenser-steht-das-leben-still"
+   "z": "2026-10-25T17:03:00+01:00",
+   "t": "Oleschky: Laut dem ukrainischen Verhandlungsführer Lubinets soll die lokale Waffenruhe am 27. Oktober um 3 Uhr Kiewer Zeit beginnen und mehrere Tage dauern",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/politik/ausland/oleschky-waffenruhe-evakuierung-lubinets-ukraine-krieg-russland-100.html"
   },
   {
-   "z": "2026-10-24T13:42:00+02:00",
-   "t": "CSU-Parteitag: Merz kündigt Reformen der sozialen Sicherungssysteme an und verweist auf bessere Wirtschaftszahlen",
-   "q": "Euronews",
-   "u": "https://de.euronews.com/2026/10/24/schauen-nicht-auf-umfragen-merz-csu-parteitag"
+   "z": "2026-10-25T17:23:00+01:00",
+   "t": "Bundeswehr beteiligt sich laut dpa-AFX mit rund zehn Stabsoffizieren und bis zu zwei Tankflugzeugen an der Übung Koalicja 2026 der Koalition der Willigen",
+   "q": "dpa-AFX",
+   "u": "https://ariva.de/news/roundup-deutsche-stabsoffiziere-und-tankflugzeuge-fuer-12180976"
   },
   {
-   "z": "2026-10-24T16:55:00+02:00",
-   "t": "Sturmtief Manja: Laut Meteozentrale in der Nacht zu Sonntag Böen um 100 km/h an der Nordseeküste, am Sonntag leichte Sturmflut in Niedersachsen erwartet",
-   "q": "Meteozentrale",
-   "u": "https://meteozentrale.de/sturmtief-manja-orkanboeen-dauerregen-und-gewitter-am-sonntag/"
+   "z": "2026-10-25T17:26:00+01:00",
+   "t": "Sturm Manja: Im Norden laut dpa geringe Schäden bei mehr als 100 Einsätzen, für die Nacht zu Montag wird in Hamburg eine Sturmflut von rund zwei Metern über mittlerem Hochwasser erwartet",
+   "q": "Nordschleswiger, dpa",
+   "u": "https://www.nordschleswiger.dk/deutschland/kaum-sturmschaeden-im-norden-mehr-als-100-einsaetze/3477617"
   }
  ]
 };

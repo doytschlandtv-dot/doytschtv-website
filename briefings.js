@@ -22,7 +22,43 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Sturm Manja: Mehr als 100 Einsätze, Sturmflut für die Nacht erwartet",
+    "Oleschky: Waffenruhe soll am 27. Oktober um 3 Uhr beginnen",
+    "Bundeswehr beteiligt sich an Übung der Koalition der Willigen",
+    "YouGov: Nur 23 Prozent erwarten, dass Schwarz-Rot bis 2029 hält"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Sonntag, 25. Oktober.",
+    "Erstens: Sturm Manja. Im Norden blieben die Schäden laut dpa gering, die Behörden zählten aber mehr als 100 wetterbedingte Einsätze, meist wegen umgestürzter Bäume. Ein Radfahrer wurde bei Witzwort von einem herabfallenden Ast getroffen und leicht verletzt. Der Sylt Shuttle strich Fahrten, auch Fähren zu Nord- und Ostfriesischen Inseln fielen aus. Für die Nacht zu Montag warnt das Bundesamt für Seeschifffahrt und Hydrographie vor einer Sturmflut: In Hamburg wird der Pegel St. Pauli gegen 4 Uhr rund zwei Meter über dem mittleren Hochwasser erwartet (Nordschleswiger, dpa, 25.10.).",
+    "Zweitens: Oleschky. Im Morning Briefing hatten wir berichtet, dass die Beteiligten unterschiedliche Startdaten für die lokale Waffenruhe nennen. Eine Korrektur mit Stand von heute Abend: Laut einem ZDFheute-Interview mit dem ukrainischen Verhandlungsführer Dmytro Lubinets soll die Waffenruhe am 27. Oktober um 3 Uhr Kiewer Zeit beginnen und mehrere Tage dauern, damit die Evakuierung abgeschlossen und der Weg nach Oleschky geräumt werden kann. Das ist eine Angabe Lubinets', eine unabhängige Bestätigung der anderen Seite lag uns nicht vor (ZDFheute, 25.10.).",
+    "Drittens: Bundeswehr. Laut dpa-AFX beteiligt sich Deutschland mit rund zehn Stabsoffizieren, bis zu zwei Tankflugzeugen vom Typ A400M und Logistik an der ersten Übung der Koalition der Willigen, genannt Koalicja 2026. Sie ist für November in Polen, im Luftraum über Rumänien und im westlichen Schwarzen Meer geplant, ein Starttermin steht nicht fest. Über Art und Umfang eines deutschen Beitrags zur multinationalen Truppe sollen Bundesregierung und Bundestag noch entscheiden (dpa-AFX, 25.10.).",
+    "Viertens: Koalition. In einer von der dpa beauftragten YouGov-Umfrage unter 2.202 Wahlberechtigten erwarten 23 Prozent, dass die schwarz-rote Koalition bis zur Bundestagswahl 2029 hält. 13 Prozent rechnen mit einem Bruch noch in diesem Jahr, 44 Prozent mit einem Ende in den beiden folgenden Jahren, 20 Prozent machten keine Angabe. Der Befragungszeitraum wird im Bericht nicht genannt (t-online, dpa, 25.10.).",
+    "Morgen: Um 10 Uhr kommt das ifo-Geschäftsklima für Oktober. Zur gleichen Zeit geben Wirtschaftsministerin Katharina Reiche und ihr polnischer Amtskollege Andrzej Domański in Warschau beim Deutsch-Polnischen Wirtschaftsforum eine Pressekonferenz. In Peking beginnt das Fünfte Plenum der KP Chinas. In der Nacht zu Montag wird in Hamburg die Sturmflut erwartet. Am Dienstag wird in Israel gewählt (dpa-AFX, Tagesvorschau, 23.10.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Nordschleswiger (dpa), 25.10.2026"
+    },
+    {
+     "titel": "ZDFheute, 25.10.2026"
+    },
+    {
+     "titel": "dpa-AFX über ARIVA, 25.10.2026"
+    },
+    {
+     "titel": "t-online (dpa/YouGov), 25.10.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau, 23.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
