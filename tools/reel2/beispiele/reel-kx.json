@@ -1,0 +1,7 @@
+{"te":40,"scenes":[
+{"typ":"hook","t0":0.2,"t1":5,"kicker":"Wirtschaft · Strompreis","titel":"Stromsteuer runter: Was bringt dir das?","rot":"Was bringt dir das?","img":"../../titel-stromsteuer.jpg","fokus":0.5,"unter":"Illustration, KI-generiert, kein Foto"},
+{"typ":"zahl","t0":5,"t1":10,"label":"Dein Strompreis","zahl":"37 Cent","text":"kostet eine Kilowattstunde im Schnitt. Davon ist die Stromsteuer 2,05 Cent.","quelle":"BDEW über ZDFheute, August 2026"},
+{"typ":"fakten","t0":10,"t1":15,"label":"Der Plan","titel":"2,35 Cent weniger pro Kilowattstunde.","text":"Im Koalitionsvertrag steht: Die Stromsteuer soll für alle auf das EU-Minimum sinken.","quelle":"ZDFheute, 23.10.2026"},
+{"typ":"betrifft","t0":15,"t1":20,"label":"Zwei Rechnungen","titel":"Was bleibt bei dir?","punkte":[{"kopf":"Single, 1.500 kWh","text":"1.500 kWh mal 2,35 Cent: rund 35 Euro im Jahr."},{"kopf":"Familie, 4.000 kWh","text":"4.000 kWh mal 2,35 Cent: rund 93 Euro im Jahr."}],"quelle":"Berechnung Verivox"},
+{"typ":"meinung","t0":20,"t1":26,"text":"93 Euro im Jahr sind ein schlechter Witz."},
+{"typ":"cta","t0":26,"t1":32,"kopf":"Reicht dir <span style='color:#b2231c'>das?</span>","text":"Schreib es in die Kommentare."}]}

@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><title>Reels Erklärt und Dossiers</title>
+<style>
+@font-face{font-family:"Inter";src:url(../../fonts/inter-latin-wght-normal.woff2);font-weight:100 900}
+@font-face{font-family:"Bodoni Moda";src:url(../../fonts/bodoni-moda-latin-opsz-normal.woff2);font-weight:400 900}
+*{box-sizing:border-box;margin:0;padding:0;font-variation-settings:"opsz" 11 !important;font-optical-sizing:none !important}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#f8f7f2}
+#st{position:relative;width:1080px;height:1920px;overflow:hidden;background:#f8f7f2;font-family:Inter,system-ui,sans-serif;color:#0a0a0a}
+.abs{position:absolute}
+.serif{font-family:"Bodoni Moda",Georgia,serif}
+.kick{font:700 32px/1 Inter;letter-spacing:.16em;text-transform:uppercase;color:#b2231c}
+.h1{font:700 104px/1.04 "Bodoni Moda",Georgia,serif;letter-spacing:-.01em}
+.chip{position:absolute;border-radius:26px;padding:26px 36px;font:700 50px/1.1 Inter;white-space:nowrap;will-change:transform}
+.chip.k{background:#0a0a0a;color:#f8f7f2}.chip.r{background:#b2231c;color:#fff}.chip.g{background:#e4e1d6;color:#0a0a0a}
+.card{position:absolute;left:70px;right:70px;border-radius:44px;padding:60px 64px}
+.num{font:700 230px/1 "Bodoni Moda",Georgia,serif;letter-spacing:-.02em;color:#b2231c}
+.lab{font:600 52px/1.2 Inter;margin-top:26px}
+.tt{font:700 34px/1.1 Inter;letter-spacing:.14em;text-transform:uppercase;color:#5e5b53;margin-top:44px}
+.row{display:flex;gap:26px;align-items:center;font:600 58px/1.15 Inter;opacity:0;margin:26px 0}
+.row u{text-decoration:none;font:700 64px/1 Inter;width:70px;flex:none;color:#b2231c}
+.bar{height:34px;border-radius:17px;background:#cfcdc4;margin:20px 0}
+.fld{display:inline-block;border:4px solid #0a0a0a;border-radius:18px;padding:12px 24px;font:700 38px/1 Inter;margin:8px 14px 8px 0;opacity:0}
+.stamp{position:absolute;font:700 64px/1 Inter;letter-spacing:.04em;padding:22px 40px;border-radius:20px;border:7px solid #b2231c;color:#b2231c;background:#f8f7f2;opacity:0;white-space:nowrap}
+#end{inset:0;background:#f8f7f2;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:50px;opacity:0}
+#end img{width:760px;height:auto}
+#end p.cl{font:700 34px/1.2 Inter;letter-spacing:.16em;text-transform:uppercase;color:#5e5b53}
+#end p.cta{font:600 92px/1.1 "Bodoni Moda",Georgia,serif;text-align:center;padding:0 80px}
+#end p.sm{font:500 40px/1.3 Inter;color:#3b3a36;text-align:center;padding:0 90px;margin-top:-20px}
+#end p.hd{font:700 44px Inter;color:#b2231c}
+.ring{width:200px;height:200px;border-radius:50%;padding:9px;background:conic-gradient(#b2231c,#e0457b,#b2231c);display:grid;place-items:center}
+.ring span{width:100%;height:100%;border-radius:50%;background:#0a0a0a;border:9px solid #f8f7f2;display:grid;place-items:center;color:#f8f7f2;font:700 84px/1 "Bodoni Moda",Georgia,serif}
+
+.pay{position:absolute;left:70px;right:70px;background:#fff;border-radius:36px;box-shadow:0 30px 80px rgba(0,0,0,.14);padding:56px 60px}
+.pr{display:flex;justify-content:space-between;align-items:baseline;font:600 52px/1.2 Inter;padding:22px 0;border-bottom:3px dashed #d9d6cb}
+.pr b{font:700 64px/1 "Bodoni Moda",Georgia,serif}
+.pr.hot{color:#b2231c}
+.bub{position:absolute;max-width:760px;border-radius:44px;padding:34px 44px;font:500 50px/1.25 Inter}
+.bub.me{background:#2a2a2a;color:#f8f7f2;border-bottom-right-radius:12px}
+.bub.us{background:#f8f7f2;color:#0a0a0a;border-bottom-left-radius:12px}
+.bub.rd{background:#b2231c;color:#fff;border-bottom-left-radius:12px}
+.tray{position:absolute;top:1180px;width:310px;height:420px;border-radius:30px;padding:30px 24px;text-align:center}
+.tray h4{font:700 40px/1.1 Inter}
+.tray i{display:block;font:700 130px/1.1 "Bodoni Moda",serif;font-style:normal;margin-top:30px}
+.big2{position:absolute;left:90px;right:90px;border-radius:40px;padding:56px 56px;background:#fff;box-shadow:0 30px 80px rgba(0,0,0,.16);font:600 62px/1.2 Inter}
+.tab{position:absolute;left:110px;right:70px;height:130px;border-radius:26px;background:#fff;border:4px solid #0a0a0a;display:flex;align-items:center;gap:30px;padding:0 38px;font:700 48px/1.1 Inter}
+.tab u{text-decoration:none;font:700 54px "Bodoni Moda",serif;color:#b2231c;width:60px}
+</style></head><body><div id="st"></div>
+<script>
+const MODE=new URLSearchParams(location.search).get("m");
+const $=s=>document.querySelector(s);
+const cl=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const seg=(t,a,b)=>cl((t-a)/(b-a));
+const eo=x=>1-Math.pow(1-x,3), eio=x=>x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2, eb=x=>{const c=2.70158;return 1+c*Math.pow(x-1,3)+1.70158*Math.pow(x-1,2)};
+const ST=$("#st");
+const E=(h)=>{const d=document.createElement("div");d.innerHTML=h;ST.appendChild(d.firstElementChild);return ST.lastElementChild};
+const END=(cta,sm)=>E(`<div id="end" class="abs"><div class="ring"><span>D</span></div><img src="../../logo.png" alt="DoytschlandTv"><p class="cl">Deutschland. Auf den Punkt.</p><p class="cta">${cta}</p><p class="sm">${sm}</p><p class="hd">@doytschlandtv · doytschtv.de</p></div>`);
+const win=(t,a,b,c,d)=>Math.min(eo(seg(t,a,b)),1-seg(t,c,d));
+const rise=(el,t,a,b,dy=40)=>{el.style.transform=`translateY(${(1-eo(seg(t,a,b)))*dy}px)`};
+const count=(v,t,a,b)=>Math.round(v*eo(seg(t,a,b)));
+const eur=n=>n.toLocaleString("de-DE")+" <span style=\"font-family:Inter;font-weight:700;font-size:.8em\">€</span>";
+let R;
+const T_END=20.4;
+if(MODE==="e1"){
+ const k=E(`<div class="abs kick" style="left:70px;top:210px;opacity:0">Erklärt · Beispielrechnung</div>`);
+ const h=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0">Wohin geht dein<br><span style="color:#b2231c">Rentenbeitrag?</span></div>`);
+ const pay=E(`<div class="pay" style="top:640px;opacity:0"><div class="kick" style="color:#5e5b53;margin-bottom:10px">Gehaltszettel</div>
+  <div class="pr"><span>Brutto</span><b id="p1">0 €</b></div>
+  <div class="pr hot" id="r2" style="opacity:0"><span>Dein Anteil 9,3 %</span><b id="p2">0 €</b></div>
+  <div class="pr" id="r3" style="opacity:0"><span>Arbeitgeber 9,3 %</span><b id="p3">0 €</b></div>
+  <div class="pr hot" id="r4" style="opacity:0;border-bottom:none"><span>Zusammen 18,6 %</span><b id="p4">0 €</b></div></div>`);
+ const note=E(`<div class="abs" style="left:70px;right:70px;top:1500px;font:500 34px/1.3 Inter;color:#5e5b53;opacity:0">Beispiel mit 3.000 € brutto. Eigene Berechnung nach dem Beitragssatz 2026 von 18,6 %.</div>`);
+ const f1=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0;font-size:96px">Das Geld wird nicht angespart.<br><span style="color:#b2231c">Es zahlt die Renten von heute.</span></div>`);
+ const f2=E(`<div class="big2" style="top:830px;opacity:0">Heute zahlen sie ein. Heute bekommen <b style="color:#b2231c">rund 21,5 Mio.</b> Rentnerinnen und Rentner ihre Rente.</div>`);
+ const f3=E(`<div class="big2" style="top:1250px;opacity:0;background:#0a0a0a;color:#f8f7f2">Deine Rente zahlt später die nächste Generation.</div>`);
+ const u=E(`<div class="abs kick" style="left:70px;top:1560px;opacity:0">Umlageverfahren</div>`);
+ const p1=E(`<div class="abs h1" style="left:70px;right:70px;top:560px;opacity:0">Politik, die du<br><span style="color:#b2231c">verstehst.</span></div>`);
+ const p2=E(`<div class="abs" style="left:70px;right:70px;top:960px;font:600 56px/1.3 Inter;opacity:0">Ohne Fachsprache.<br>Mit Zahl und Quelle.<br>In drei Minuten gelesen.</div>`);
+ const end=END("Folge für Politik,<br>die du verstehst.","Mehr unter Erklärt auf doytschtv.de.");
+ R=t=>{
+  k.style.opacity=win(t,.2,.6,6.9,7.3);
+  h.style.opacity=win(t,.4,1.0,2.6,3.0);rise(h,t,.4,1.0);
+  pay.style.opacity=win(t,2.4,3.0,6.9,7.4);rise(pay,t,2.4,3.0,120);
+  $("#p1").innerHTML=eur(count(3000,t,2.8,3.6));
+  $("#r2").style.opacity=eo(seg(t,3.8,4.2));$("#p2").innerHTML="− "+eur(count(279,t,3.9,4.7));
+  $("#r3").style.opacity=eo(seg(t,4.9,5.3));$("#p3").innerHTML="+ "+eur(count(279,t,5.0,5.8));
+  $("#r4").style.opacity=eo(seg(t,6.0,6.4));$("#p4").innerHTML=eur(count(558,t,6.1,6.9));
+  note.style.opacity=win(t,3.0,3.5,6.9,7.3);
+  f1.style.opacity=win(t,7.6,8.1,16.3,16.8);rise(f1,t,7.6,8.1);
+  f2.style.opacity=win(t,9.2,9.7,16.3,16.8);rise(f2,t,9.2,9.7);
+  f3.style.opacity=win(t,12.0,12.5,16.3,16.8);rise(f3,t,12.0,12.5);
+  u.style.opacity=win(t,13.2,13.6,16.3,16.8);
+  p1.style.opacity=win(t,17.0,17.5,T_END-.2,T_END+.4);rise(p1,t,17.0,17.5);
+  p2.style.opacity=win(t,18.0,18.5,T_END-.2,T_END+.4);rise(p2,t,18.0,18.5);
+  end.style.opacity=eo(seg(t,T_END+.2,T_END+.8));
+ };
+}
+if(MODE==="e2"){
+ ST.style.background="#0a0a0a";document.body.style.background="#0a0a0a";
+ const top=E(`<div class="abs" style="left:0;right:0;top:0;height:230px;background:#0a0a0a;z-index:5;display:flex;align-items:center;gap:26px;padding:60px 70px 0;color:#f8f7f2"><div class="ring" style="width:110px;height:110px;padding:5px"><span style="font-size:48px;border-width:5px">D</span></div><div><div style="font:700 44px Inter">doytschlandtv</div><div style="font:500 30px Inter;color:#9a978d">Erklärt · einfach gefragt</div></div></div>`);
+ const msgs=[["me",.3,"Erststimme, Zweitstimme … was war nochmal was?"],["us",3.2,"Erststimme: eine Person aus deinem Wahlkreis."],["us",4.7,"Zweitstimme: die Landesliste einer Partei."],["rd",6.2,"Seit der Reform 2023 entscheidet allein die Zweitstimme über die Sitze."],["me",9.2,"Und wie viele Abgeordnete gibt es?"],["us",12.0,"Höchstens 630. Der Bundestag kann nicht mehr anwachsen."],["me",14.6,"Wo erklärt ihr noch mehr davon?"],["us",17.3,"11 Erklärstücke, 3 bis 4 Minuten, jede Zahl mit Quelle."]];
+ const typing=[[1.5,3.1],[10.2,11.9],[15.6,17.2]];
+ const col=E(`<div class="abs" style="left:0;right:0;top:0;height:1920px"></div>`);
+ let y=300;const els=msgs.map(m=>{const e=document.createElement("div");e.className="bub "+m[0];e.textContent=m[2];e.style.opacity=0;col.appendChild(e);return e});
+ const dots=document.createElement("div");dots.className="bub us";dots.innerHTML="<span style='letter-spacing:10px;font-weight:800'>•••</span>";dots.style.opacity=0;col.appendChild(dots);
+ const pos=[];els.forEach((e,i)=>{const side=msgs[i][0]==="me";e.style.left=side?"auto":"60px";e.style.right=side?"60px":"auto"});
+ const layout=()=>{let yy=300;els.forEach((e,i)=>{pos[i]=yy;e.style.top=yy+"px";yy+=e.offsetHeight+26});y=yy};layout();
+ dots.style.left="60px";
+ const end=END("Folge uns.<br>Frag ruhig weiter.","Erklärt auf doytschtv.de, ohne Vorwissen.");
+ R=t=>{
+  layout();let last=0;
+  els.forEach((e,i)=>{const a=msgs[i][1];const k=eo(seg(t,a,a+.35));e.style.opacity=k*(1-seg(t,T_END,T_END+.5));e.style.transform=`translateY(${(1-k)*40}px) scale(${.96+.04*k})`;if(t>=a)last=i});
+  const bottom=pos[last]+els[last].offsetHeight+60, sc=Math.max(0,bottom-1650);
+  col.style.transform=`translateY(${-sc}px)`;
+  let showDots=0;typing.forEach(([a,b])=>{if(t>=a&&t<b){showDots=Math.min(seg(t,a,a+.2),1-seg(t,b-.1,b));}});
+  const nextIdx=msgs.findIndex(m=>m[1]>t&&m[0]==="us");
+  dots.style.top=(nextIdx<0?y:pos[nextIdx])+"px";
+  dots.style.opacity=showDots*(1-seg(t,T_END,T_END+.3));
+  top.style.opacity=1-seg(t,T_END,T_END+.5);
+  end.style.opacity=eo(seg(t,T_END+.3,T_END+.9));
+ };
+}
+if(MODE==="d1"){
+ const k=E(`<div class="abs kick" style="left:70px;top:210px;opacity:0">Dossiers · so sortieren wir</div>`);
+ const h=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0">Nicht alles, was du liest, ist <span style="color:#b2231c">gleich sicher.</span></div>`);
+ const tr=[["Belegt","#0a0a0a","#f8f7f2"],["Nur berichtet","#e4e1d6","#0a0a0a"],["Offen","#f8f7f2","#b2231c"]].map((x,i)=>E(`<div class="tray" style="left:${70+i*325}px;background:${x[1]};color:${x[2]};border:6px solid ${i==2?"#b2231c":x[1]};opacity:0"><h4>${x[0]}</h4><i>0</i></div>`));
+ const it=[["„Wörtlich zitiert, mit Datum, Ort und Quelle.“",0],["Ein Bericht, den noch kein Gericht bestätigt hat.",1],["Eine Frage, auf die es noch keine belastbare Antwort gibt.",2]].map(x=>E(`<div class="big2" style="top:620px;opacity:0;transform-origin:50% 50%">${x[0]}</div>`));
+ const sl=[3.4,6.4,9.4];
+ const l1=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0;font-size:92px">Wir sortieren es <span style="color:#b2231c">für dich.</span></div>`);
+ const l2=E(`<div class="abs" style="left:70px;right:70px;top:620px;font:600 54px/1.3 Inter;opacity:0">Strafbarkeit stellen Gerichte fest, nicht wir.<br><span style="color:#b2231c">Wir prüfen die Sache, nicht die Person.</span></div>`);
+ const end=END("Folge für Aussagen,<br>die geprüft sind.","Dossiers auf doytschtv.de, Quellen offen.");
+ R=t=>{
+  k.style.opacity=win(t,.2,.6,12.6,13.0);
+  h.style.opacity=win(t,.4,1.0,3.0,3.4);rise(h,t,.4,1.0);
+  tr.forEach((e,i)=>{e.style.opacity=win(t,2.6+i*.2,3.0+i*.2,T_END,T_END+.4);rise(e,t,2.6+i*.2,3.0+i*.2,80);});
+  const cnt=[0,0,0];
+  it.forEach((e,i)=>{const a=sl[i]-.2, inn=eo(seg(t,a,a+.5)), mv=eio(seg(t,a+2.0,a+2.8));
+   const tx=70+i*325+155, cx=540;
+   e.style.opacity=t<a?0:(1-seg(t,a+2.7,a+2.9));
+   const x=(tx-cx)*mv, y=(1380-800)*mv;
+   e.style.transform=`translate(${x}px,${(1-inn)*-120+y}px) scale(${1-.68*mv})`;
+   if(t>a+2.7)cnt[i]=1;});
+  tr.forEach((e,i)=>e.querySelector("i").textContent=cnt[i]);
+  l1.style.opacity=win(t,12.4,12.9,T_END,T_END+.4);rise(l1,t,12.4,12.9);
+  l2.style.opacity=win(t,14.6,15.1,T_END,T_END+.4);rise(l2,t,14.6,15.1);
+  end.style.opacity=eo(seg(t,T_END+.3,T_END+.9));
+ };
+}
+if(MODE==="d2"){
+ const k=E(`<div class="abs kick" style="left:70px;top:210px;opacity:0">Dossiers · die ganze Akte</div>`);
+ const h=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0">Die Schlagzeile<br>ist nicht <span style="color:#b2231c">die ganze Akte.</span></div>`);
+ const names=["Worum es geht","Was Gesetze und Gerichte sagen","Reaktionen und Maßnahmen","Einwände und Gegenseite","Was offen oder nur schwach belegt ist"];
+ const tabs=names.map((n,i)=>E(`<div class="tab" style="top:${560+i*170}px;opacity:0;${i>=3?"border-color:#b2231c;":""}"><u>${i+1}</u><span>${n}</span></div>`));
+ const src=E(`<div class="abs" style="left:70px;right:70px;top:1470px;opacity:0"><div class="num" id="qn" style="font-size:200px">0</div><div class="lab" style="margin-top:6px">Quellen in der ersten Dossier-Folge</div></div>`);
+ const hl=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0;font-size:88px">Auch die Gegenseite.<br><span style="color:#b2231c">Auch die Lücken.</span></div>`);
+ const hs=E(`<div class="abs" style="left:70px;right:70px;top:1400px;font:600 54px/1.3 Inter;opacity:0">Du bekommst die Akte, nicht nur die Schlagzeile.</div>`);
+ const end=END("Folge für Dossiers,<br>die nichts verschweigen.","Dossiers auf doytschtv.de, jede Quelle offen.");
+ R=t=>{
+  k.style.opacity=win(t,.2,.6,15.0,15.4);
+  h.style.opacity=win(t,.4,1.0,3.2,3.6);rise(h,t,.4,1.0);
+  tabs.forEach((e,i)=>{const a=3.4+i*.9;const kk=eb(seg(t,a,a+.45));const p=i>=3?seg(t,10.8,11.2)*(1-seg(t,15.0,15.4)):0;e.style.opacity=t>=a?1-seg(t,T_END,T_END+.4):0;e.style.background=`rgba(${p?"250,225,222":"255,255,255"},1)`;e.style.transform=`translateX(${(1-kk)*900}px) scale(${1+.03*p})`;});
+  src.style.opacity=win(t,8.0,8.5,15.0,15.5);$("#qn").textContent=count(15,t,8.2,10.5);
+  hl.style.opacity=win(t,11.6,12.1,15.0,15.4);rise(hl,t,11.6,12.1);
+  hs.style.opacity=win(t,16.0,16.5,T_END,T_END+.4);rise(hs,t,16.0,16.5);
+  end.style.opacity=eo(seg(t,T_END+.3,T_END+.9));
+ };
+}
+if(MODE==="m1"){
+ const k=E(`<div class="abs kick" style="left:70px;top:210px;opacity:0">Meinungen · Kolumnen</div>`);
+ const h=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0">Hier sagen wir,<br>was wir <span style="color:#b2231c">denken.</span></div>`);
+ const q=E(`<div class="abs" style="left:70px;right:70px;top:640px;height:760px;border-radius:44px;background:#101010;color:#f8f7f2;padding:70px 64px;opacity:0"><div style="font:700 200px/1 'Bodoni Moda',serif;color:#ff5a52;height:130px">“</div><div style="font:600 70px/1.18 'Bodoni Moda',serif;margin-top:20px">Es geht um die Regel<br>und nicht um die Person.</div><div style="font:700 30px/1 Inter;letter-spacing:.14em;text-transform:uppercase;color:#9a978d;margin-top:60px">Aus unserer Kolumne</div></div>`);
+ const st=E(`<div class="stamp" style="left:80px;top:1470px;font-size:52px;padding:22px 34px;transform:rotate(-4deg)">MEINUNG, KEINE NACHRICHT</div>`);
+ const h2=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0;font-size:92px">Jede Kolumne hat<br><span style="color:#b2231c">einen festen Aufbau.</span></div>`);
+ const names=["Worum es geht","Was wir nicht wissen","Das eigentliche Problem","Unsere Meinung","Was folgen sollte"];
+ const tabs=names.map((n,i)=>E(`<div class="tab" style="top:${600+i*170}px;opacity:0;${i==3?"border-color:#b2231c;":""}"><u>${i+1}</u><span>${n}</span></div>`));
+ const h3=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0;font-size:96px">Fakten getrennt<br><span style="color:#b2231c">von Meinung.</span></div>`);
+ const s3=E(`<div class="abs" style="left:70px;right:70px;top:760px;font:600 58px/1.3 Inter;opacity:0">Klar gekennzeichnet.<br>Mit Begründung.<br>Mit Quellen.<br><span style="color:#b2231c">Die Sache zählt, nicht die Person.</span></div>`);
+ const end=END("Folge für Meinungen,<br>die sich so nennen.","Kolumnen auf doytschtv.de, klar als Meinung gekennzeichnet.");
+ R=t=>{
+  k.style.opacity=win(t,.2,.6,16.4,16.8);
+  h.style.opacity=win(t,.4,1.0,3.6,4.0);rise(h,t,.4,1.0);
+  q.style.opacity=win(t,3.8,4.4,10.0,10.5);rise(q,t,3.8,4.4,100);
+  st.style.opacity=eo(seg(t,6.4,6.6))*(1-seg(t,10.0,10.4));st.style.transform=`rotate(-4deg) scale(${.6+.4*eb(seg(t,6.4,6.9))})`;
+  h2.style.opacity=win(t,10.6,11.1,16.3,16.8);rise(h2,t,10.6,11.1);
+  tabs.forEach((e,i)=>{const a=11.4+i*.8;const kk=eb(seg(t,a,a+.45));const p=i==3?seg(t,15.0,15.4):0;e.style.opacity=t>=a?(1-seg(t,16.3,16.8)):0;e.style.background=p?"#fae1de":"#fff";e.style.transform=`translateX(${(1-kk)*900}px) scale(${1+.03*p})`;});
+  h3.style.opacity=win(t,16.9,17.4,T_END,T_END+.4);rise(h3,t,16.9,17.4);
+  s3.style.opacity=win(t,18.0,18.5,T_END,T_END+.4);rise(s3,t,18.0,18.5);
+  end.style.opacity=eo(seg(t,T_END+.3,T_END+.9));
+ };
+}
+if(MODE==="a1"){
+ const k0=E(`<div class="abs kick" style="left:70px;top:210px;opacity:0">DoytschlandTv</div>`);
+ const h0=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0;font-size:112px">Alles, was du<br>zum <span style="color:#b2231c">Mitreden</span><br>brauchst.</div>`);
+ const names=["Briefing","Nachrichten","Dossiers","Erklärt","Meinungen"];
+ const chips0=names.map((n,i)=>E(`<div class="chip ${i==4?"r":i%2?"g":"k"}" style="left:${[90,430,120,500,200][i]}px;top:${1000+i*130}px;opacity:0">${n}</div>`));
+ const SC=[
+  ["Briefing","Morgens das<br>Wichtigste.",`<div class="pay" style="top:900px"><div class="kick" style="color:#5e5b53;margin-bottom:14px">Morning Briefing</div><div class="pr"><span>Gestern und zuletzt</span><b>→</b></div><div class="pr"><span>Heute und diese Woche</span><b>→</b></div><div class="pr hot" style="border-bottom:none"><span>Zahl des Tages</span><b>→</b></div></div>`],
+  ["Nachrichten","Jeden Tag<br>eingeordnet.",`<div class="abs" style="left:150px;top:900px;width:420px;height:560px;border-radius:30px;background:#101010;transform:rotate(-6deg);box-shadow:0 30px 70px rgba(0,0,0,.25)"></div><div class="abs" style="left:300px;top:930px;width:420px;height:560px;border-radius:30px;background:#f9f7f1;border:4px solid #0a0a0a;transform:rotate(4deg);padding:40px;box-shadow:0 30px 70px rgba(0,0,0,.2)"><div class="kick" style="font-size:22px">Fakten</div><div style="font:700 50px/1.1 'Bodoni Moda',serif;margin-top:20px">Was ist belegt?</div><div style="font:500 26px/1.3 Inter;color:#5e5b53;position:absolute;left:40px;bottom:40px">Quelle: Primärquelle, Datum</div></div>`],
+  ["Dossiers","Die ganze Akte,<br>nicht nur die<br>Schlagzeile.",`<div class="tab" style="top:1000px"><u>1</u><span>Worum es geht</span></div><div class="tab" style="top:1170px"><u>2</u><span>Einwände und Gegenseite</span></div><div class="tab" style="top:1340px;border-color:#b2231c"><u>3</u><span>Was offen ist</span></div>`],
+  ["Erklärt","Politik, die<br>du verstehst.",`<div class="abs num" style="left:70px;top:900px;font-size:300px">11</div><div class="abs" style="left:70px;top:1220px;right:70px;font:600 56px/1.25 Inter">Erklärstücke.<br>3 bis 4 Minuten.<br>Jede Zahl mit Quelle.</div>`],
+  ["Meinungen","Klar als Meinung<br>gekennzeichnet.",`<div class="abs" style="left:70px;right:70px;top:900px;height:400px;border-radius:40px;background:#101010;color:#f8f7f2;padding:50px 56px;font:600 62px/1.2 'Bodoni Moda',serif">Es geht um die Regel<br>und nicht um die Person.</div><div class="stamp" style="left:90px;top:1360px;font-size:52px;opacity:1;transform:rotate(-4deg)">MEINUNG, KEINE NACHRICHT</div>`]
+ ];
+ const sc=SC.map((x,i)=>{const w=E(`<div class="abs" style="inset:0;opacity:0"><div class="abs kick" style="left:70px;top:210px">${x[0]}</div><div class="abs h1" style="left:70px;right:70px;top:300px;font-size:116px">${x[1].replace(/^(.*?)(<br>)?([^<]*)$/,'$1$2<span style="color:#b2231c">$3</span>')}</div>${x[2]}</div>`);return w});
+ const h9=E(`<div class="abs h1" style="left:70px;right:70px;top:300px;opacity:0;font-size:104px">Fünf Formate.<br><span style="color:#b2231c">Ein Ziel.</span></div>`);
+ const h10=E(`<div class="abs" style="left:70px;right:70px;top:640px;font:600 58px/1.3 Inter;opacity:0">Wissen, worum es geht.<br><span style="color:#b2231c">Link in der Bio.</span></div>`);
+ const end=END("Wissen,<br>worum es geht.","Alle Formate auf doytschtv.de.");
+ const TE=22.3, ST=[2.15,4.9,7.7,11.25,14.0,17.15], NEND=ST[5];
+ R=t=>{
+  k0.style.opacity=win(t,.1,.4,1.8,2.15);
+  h0.style.opacity=win(t,.1,.6,1.8,2.15);rise(h0,t,.1,.6);
+  sc.forEach((w,i)=>{const a=ST[i],b=ST[i+1];w.style.opacity=win(t,a,a+.4,b-.3,b);w.style.transform=`translateY(${(1-eo(seg(t,a,a+.5)))*50}px)`;});
+  h9.style.opacity=win(t,NEND,NEND+.5,TE,TE+.4);rise(h9,t,NEND,NEND+.5);
+  chips0.forEach((c,i)=>{const a=NEND+.3+i*.25;const kk=eb(seg(t,a,a+.4));c.style.opacity=t>=a?1-seg(t,TE,TE+.4):0;c.style.transform=`scale(${.5+.5*kk}) rotate(${[-3,2,-2,3,-2][i]}deg)`;});
+  h10.style.opacity=win(t,19.3,19.8,TE,TE+.4);
+  end.style.opacity=eo(seg(t,TE+.3,TE+.9));
+ };
+}
+
+const sc=(el,t,a,b)=>{el.style.opacity=win(t,a,a+.45,b-.35,b);rise(el,t,a,a+.5,50)};
+const KK=(x)=>E(`<div class="abs kick" style="left:70px;top:210px;opacity:0">${x}</div>`);
+const HH=(x,top=300,fs=104)=>E(`<div class="abs h1" style="left:70px;right:70px;top:${top}px;opacity:0;font-size:${fs}px">${x}</div>`);
+const BB=(x,top,extra="")=>E(`<div class="big2" style="top:${top}px;opacity:0;${extra}">${x}</div>`);
+const PAY=(top,kick,rows,note)=>E(`<div class="pay" style="top:${top}px;opacity:0"><div class="kick" style="color:#5e5b53;margin-bottom:14px;font-size:28px">${kick}</div>${rows.map((r,i)=>`<div class="pr ${r[2]?"hot":""}" ${i==rows.length-1?'style="border-bottom:none"':''}><span>${r[0]}</span><b style="white-space:nowrap">${r[1].replace("€","<span style='font-family:Inter;font-weight:700;font-size:.8em'>€</span>")}</b></div>`).join("")}</div>`);
+const NOTE=(x,top)=>E(`<div class="abs" style="left:70px;right:70px;top:${top}px;font:500 34px/1.3 Inter;color:#5e5b53;opacity:0">${x}</div>`);
+const MEIN=(x,top=700)=>[E(`<div class="abs" style="left:70px;right:70px;top:${top}px;height:620px;border-radius:40px;background:#101010;color:#f8f7f2;padding:56px 58px;font:600 64px/1.22 'Bodoni Moda',serif;opacity:0">${x}</div>`),E(`<div class="stamp" style="left:90px;top:${top+700}px;font-size:48px;opacity:0;transform:rotate(-4deg)">MEINUNG, KEINE NACHRICHT</div>`)];
+if(MODE==="e3"){
+ const TE=42.0;
+ const A=[KK("Erklärt · Israel-Wahl"),HH("Israel wählt am Dienstag. <span style='color:#b2231c'>So läuft das.</span>")];
+ const Bk=KK("So funktioniert die Wahl");
+ const Bn=E(`<div class="abs num" style="left:70px;top:330px;opacity:0;font-size:340px">120</div>`);
+ const Bl=E(`<div class="abs" style="left:70px;right:70px;top:720px;font:700 62px/1.2 Inter;opacity:0">Sitze hat die Knesset.</div>`);
+ const Bb=BB("Verhältniswahl. Wer regieren will, braucht <b style='color:#b2231c'>61 Sitze.</b>",900);
+ const Ck=KK("Die Umfragen"),Ch=HH("Keiner hat <span style='color:#b2231c'>eine Mehrheit.</span>",300,96);
+ const PH=(f,x,nm,seats,col,pos)=>E(`<div class="abs" style="left:${x}px;top:660px;width:440px;opacity:0"><div style="width:440px;height:560px;border-radius:36px;overflow:hidden;background:#ddd;box-shadow:0 30px 70px rgba(0,0,0,.2)"><img src="../../fotos/${f}" style="width:100%;height:100%;object-fit:cover;object-position:${pos}"></div><div style="font:700 44px/1.1 Inter;margin-top:26px">${nm}</div><div style="font:700 120px/1 'Bodoni Moda',serif;color:${col};margin-top:6px">${seats}</div><div style="font:600 34px Inter;color:#5e5b53">Sitze (Umfrage)</div></div>`);
+ const Cp=[PH("eisenkot.jpg",70,"Gadi Eisenkot","53","#0a0a0a","50% 20%"),PH("netanjahu.jpg",570,"Benjamin Netanjahu","50","#0a0a0a","50% 15%")];
+ const Cn=NOTE("Mehrheit braucht 61. Umfragen: ZDFheute, 23.10.2026. Fotos: Mark Neyman/GPO (Eisenkot), Avi Ohayon/GPO (Netanjahu), Wikimedia Commons, CC BY-SA 3.0",1590);
+ const Dk=KK("Das Zünglein an der Waage"),Dh=HH("Die arabischen <span style='color:#b2231c'>Parteien.</span>",300,100);
+ const Db=BB("Rund 20 % der Wahlberechtigten sind arabische Israelis. Beide großen Lager schließen sie als Partner bisher aus.",760);
+ const Dn=NOTE("Quelle: ZDFheute, Interview mit Jan Busse, 23.10.2026",1380);
+ const Ek=KK("Meinung");
+ const Em=MEIN("Beide Lager führen ihren Wahlkampf auf dem Rücken der arabischen Bürger und mit der Angst um Sicherheit.",420);
+ const Fk=KK("Westjordanland"),Fh=HH("Sicherheit und Freiheit der Palästinenser <span style='color:#b2231c'>in Gefahr.</span>",300,92);
+ const Fb=BB("Netanjahu kündigt an, das Westjordanland abzuriegeln. Eisenkot verurteilte die Siedlergewalt als „Terror und Gewalt“ (29.9.).",850);
+ const Fn=NOTE("Quellen: ZDFheute 23.10., Jüdische Allgemeine 29.9.2026",1500);
+ const Gk=KK("Zur Sprache"),Gh=HH("Westjordanland, nicht <span style='color:#b2231c'>„Judäa und Samaria“.</span>",300,92);
+ const Gb=BB("So nennen es die israelische Regierung und die Siedlerbewegung. UN und Internationaler Gerichtshof sprechen von besetztem Gebiet.",880,"font-size:54px");
+ const Hk=KK("Deine Meinung"),Hh=HH("Was denkst <span style='color:#b2231c'>du?</span>",300,120);
+ const Hb=BB("Schreib es in die Kommentare. Und teile das Reel, wenn es jemanden interessiert.",760);
+ const end=END("Wissen,<br>worum es geht.","Was denkst du? Schreib es in die Kommentare.");
+ R=t=>{
+  A.forEach(e=>sc(e,t,.2,4.0));
+  sc(Bk,t,4.0,9.1);sc(Bn,t,4.0,9.1);sc(Bl,t,4.6,9.1);sc(Bb,t,6.0,9.1);
+  sc(Ck,t,9.1,15.45);sc(Ch,t,9.1,15.45);Cp.forEach((e,i)=>sc(e,t,9.9+i*1.4,15.45));sc(Cn,t,10.5,15.45);
+  sc(Dk,t,15.45,20.55);sc(Dh,t,15.45,20.55);sc(Db,t,16.6,20.55);sc(Dn,t,17.2,20.55);
+  sc(Ek,t,20.55,26.9);sc(Em[0],t,20.8,26.9);Em[1].style.opacity=win(t,24.4,24.8,26.5,26.9);
+  sc(Fk,t,26.9,31.15);sc(Fh,t,26.9,31.15);sc(Fb,t,27.9,31.15);sc(Fn,t,28.4,31.15);
+  sc(Gk,t,31.15,36.0);sc(Gh,t,31.15,36.0);sc(Gb,t,32.5,36.0);
+  sc(Hk,t,36.0,TE);sc(Hh,t,36.0,TE);sc(Hb,t,37.4,TE);
+  end.style.opacity=eo(seg(t,TE+.2,TE+.8));
+ };
+}
+if(MODE==="e4"){
+ const TE=46.6;
+ const A=[KK("Erklärt · Stromsteuer"),HH("Stromsteuer runter: <span style='color:#b2231c'>was bringt dir das?</span>",300,100)];
+ const Bk=KK("Dein Strompreis");
+ const Bp=PAY(430,"1 kWh kostet ca. 37 Cent",[["Beschaffung, Vertrieb","15,2 ct"],["Netzentgelte","9,2 ct"],["Steuern, Abgaben","12,6 ct"],["davon Stromsteuer","2,05 ct",1]]);
+ const Bn=NOTE("Durchschnitt privater Haushalte, August 2026. Quelle: BDEW über ZDFheute",1250);
+ const Ck=KK("Der Plan"),Cn=E(`<div class="abs num" style="left:70px;top:330px;opacity:0;font-size:260px">2,35 ct</div>`);
+ const Cb=BB("weniger pro Kilowattstunde. Im Koalitionsvertrag steht: Stromsteuer für alle auf das EU-Minimum senken.",780,"font-size:56px");
+ const Dk=KK("Rechnung 1 · Single-Haushalt");
+ const Dp=PAY(480,"So rechnet es sich",[["Verbrauch/Jahr","1.500 kWh"],["Ersparnis je kWh","× 2,35 ct"],["Du sparst","rund 35 €",1]]);
+ const Dn=NOTE("Verbrauch und Ersparnis: Verivox über ZDFheute, 23.10.2026",1230);
+ const Ek=KK("Rechnung 2 · Familie, 3 Personen");
+ const Ep=PAY(480,"So rechnet es sich",[["Verbrauch/Jahr","4.000 kWh"],["Ersparnis je kWh","× 2,35 ct"],["Ihr spart","rund 93 €",1]]);
+ const En=NOTE("Berechnung Verivox, gerundet. Quelle: ZDFheute, 23.10.2026",1230);
+ const Fk=KK("Der Haken"),Fh=HH("Beschlossen ist <span style='color:#b2231c'>noch nichts.</span>",300,100);
+ const Fb=BB("Finanzminister Klingbeil sieht keinen Spielraum im Haushalt. Merz und die Länder wollen die Senkung.",760);
+ const Gk=KK("Meinung");
+ const Gm=MEIN("93 Euro im Jahr sind ein schlechter Witz. Das sind rund 8 Euro im Monat: ein Trostpflaster, keine Entlastung.",420);
+ const Hk=KK("Deine Meinung"),Hh=HH("Reicht dir <span style='color:#b2231c'>das?</span>",300,120);
+ const Hb=BB("Schreib es in die Kommentare. Und teile das Reel mit jemandem, der seine Stromrechnung kennt.",760);
+ const end=END("Wissen,<br>worum es geht.","Was denkst du? Schreib es in die Kommentare.");
+ R=t=>{
+  A.forEach(e=>sc(e,t,.2,4.4));
+  sc(Bk,t,4.4,10.6);sc(Bp,t,4.7,10.6);sc(Bn,t,5.5,10.6);
+  sc(Ck,t,10.6,17.2);sc(Cn,t,10.6,17.2);sc(Cb,t,11.6,17.2);
+  sc(Dk,t,17.2,23.1);sc(Dp,t,17.5,23.1);sc(Dn,t,18.2,23.1);
+  sc(Ek,t,23.1,28.0);sc(Ep,t,23.4,28.0);sc(En,t,24.0,28.0);
+  sc(Fk,t,28.0,33.7);sc(Fh,t,28.0,33.7);sc(Fb,t,29.2,33.7);
+  sc(Gk,t,33.7,41.5);sc(Gm[0],t,34.0,41.5);Gm[1].style.opacity=win(t,38.0,38.4,41.1,41.5);
+  sc(Hk,t,41.5,TE);sc(Hh,t,41.5,TE);sc(Hb,t,43.0,TE);
+  end.style.opacity=eo(seg(t,TE+.2,TE+.8));
+ };
+}
+
+if(MODE==="kx"){
+ const x=new XMLHttpRequest();x.open("GET",new URLSearchParams(location.search).get("cfg"),false);x.send();
+ const C=JSON.parse(x.responseText);const TE=C.te;
+ const red=(t,r)=>r&&t.includes(r)?t.replace(r,`<span style='color:#b2231c'>${r}</span>`):t;
+ const els=[];
+ const add=(el,a,b,off=0)=>els.push([el,a+off,b]);
+ C.scenes.forEach(S=>{
+  const a=S.t0,b=S.t1,L=S.typ;
+  if(L==="hook"){
+   add(KK(S.kicker),a,b);add(HH(red(S.titel,S.rot),300,S.fs||104),a,b);
+   const im=E(`<div class="abs" style="left:70px;right:70px;top:${S.top||930}px;height:620px;border-radius:40px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.2);opacity:0"><img src="${S.img}" style="width:100%;height:100%;object-fit:cover;object-position:50% ${(S.fokus||.5)*100}%"></div>`);add(im,a,b,.5);
+   if(S.unter)add(NOTE(S.unter,1580),a,b,.9);
+  }else if(L==="zahl"){
+   add(KK(S.label),a,b);add(E(`<div class="abs num" style="left:70px;top:330px;opacity:0;font-size:${S.fs||260}px">${S.zahl}</div>`),a,b);add(BB(S.text,S.top||780,"font-size:"+(S.tfs||56)+"px"),a,b,.9);
+  }else if(L==="fakten"||L==="einordnung"){
+   add(KK(S.label),a,b);add(HH(red(S.titel,S.rot),300,S.fs||100),a,b);add(BB(S.text,S.top||800,"font-size:"+(S.tfs||56)+"px"),a,b,.9);
+  }else if(L==="betrifft"){
+   add(KK(S.label),a,b);add(HH(S.titel,300,100),a,b);
+   S.punkte.forEach((p,i)=>add(BB(`<b style="color:#b2231c">${p.kopf}</b><br>${p.text}`,640+i*330,"font-size:52px"),a,b,.8+i*1.0));
+  }else if(L==="meinung"){
+   add(KK("Meinung"),a,b);const m=MEIN(S.text,420);add(m[0],a,b,.2);els.push([m[1],"stamp",a,b]);
+  }else if(L==="cta"){
+   add(KK("Deine Meinung"),a,b);add(HH(S.kopf,300,120),a,b);add(BB(S.text,760),a,b,1.2);
+  }
+  if(S.quelle)add(NOTE(S.quelle,S.qtop||1600),a,b,.7);
+ });
+ const end=END("Wissen,<br>worum es geht.",C.endsm||"Was denkst du? Schreib es in die Kommentare.");
+ R=t=>{
+  els.forEach(e=>{if(e[1]==="stamp")e[0].style.opacity=win(t,e[2]+3.2,e[2]+3.6,e[3]-.4,e[3]);else sc(e[0],t,e[1],e[2])});
+  end.style.opacity=eo(seg(t,TE+.2,TE+.8));
+ };
+}
+function render(t){R(t)}
+</script></body></html>
