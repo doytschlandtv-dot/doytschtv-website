@@ -26,6 +26,127 @@ window.BRIEFINGS = [
   "karussells": [
    {
     "zusatz": true,
+    "thema": "Israel wählt am Dienstag: So läuft die Wahl",
+    "caption": "Am Dienstag, 27. Oktober, wählt Israel die Knesset. 120 Sitze, 61 braucht eine Regierung, laut Umfragen erreicht keiner die Mehrheit: Eisenkots Lager liegt bei 53, Netanjahus bei 50 Sitzen. Unsere Meinung: Beide Lager führen ihren Wahlkampf auf dem Rücken der arabischen Bürger und mit der Angst um Sicherheit. Und: Sicherheit und Freiheit der Palästinenser sind in Gefahr, auch weil Netanjahu ankündigt, das Westjordanland abzuriegeln. Zur Sprache: Westjordanland, nicht „Judäa und Samaria“. Quellen auf den Folien.",
+    "hashtags": "#doytschlandtv #israel #wahl #knesset #netanjahu #eisenkot #westjordanland #erklaert",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Wahl in Israel · Dienstag, 27. Oktober",
+      "titel": "Israel wählt am Dienstag. So läuft die Wahl.",
+      "rot": "So läuft die Wahl",
+      "bild": {
+       "url": "titel-hebron.jpg",
+       "fokus": 0.5,
+       "unter": "Hebron, 23.10. Foto: Mamoun Wazwaz / APAimages / IMAGO"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Das Wahlsystem",
+      "titel": "120 Sitze, 61 für die Mehrheit.",
+      "text": "Die Knesset hat 120 Sitze und wird nach Verhältniswahl gewählt. Wer regieren will, braucht eine Koalition mit mindestens 61 Sitzen.",
+      "quelle": "bpb, Parlamentswahl in Israel 2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Umfragen",
+      "zahl": "53 zu 50",
+      "text": "Sitze für das Lager von Gadi Eisenkot gegen das Lager von Benjamin Netanjahu. Keiner erreicht die 61, die Mehrheit ist offen.",
+      "quelle": "ZDFheute, 23.10.2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Die arabischen Parteien",
+      "titel": "Arabische Bürger sind im Wahlkampf Thema, nicht Partner.",
+      "text": "Rund 20 Prozent der Wahlberechtigten sind arabische Israelis. Beide großen Lager schließen die arabischen Parteien bisher als Partner aus.",
+      "quelle": "ZDFheute, bpb, 2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "Beide Lager führen ihren Wahlkampf auf dem Rücken der arabischen Bürger und mit der Angst um Sicherheit. Netanjahu kündigt an, das Westjordanland abzuriegeln. Eisenkot nannte die Siedlergewalt „Terror und Gewalt“ (29.9.). Gefährdet sind Sicherheit und Freiheit der Palästinenser.",
+      "handlung": "Achte am Wahlabend darauf, was die neue Regierung zum Westjordanland sagt."
+     },
+     {
+      "typ": "einordnung",
+      "label": "Zur Sprache",
+      "titel": "Westjordanland, nicht „Judäa und Samaria“.",
+      "text": "„Judäa und Samaria“ nennen das Gebiet die israelische Regierung und die Siedlerbewegung. UN und Internationaler Gerichtshof sprechen von besetztem Gebiet.",
+      "quelle": "UN, Internationaler Gerichtshof; Jüdische Allgemeine, 29.9.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Ändert diese Wahl etwas für die Palästinenser? Was denkst du?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Stromsteuer runter: Was bringt dir das?",
+    "caption": "Die Stromsteuer soll für alle auf das EU-Minimum sinken: 2,35 Cent weniger pro Kilowattstunde. Single-Haushalt mit 1.500 kWh: rund 35 Euro im Jahr. Familie mit 4.000 kWh: rund 93 Euro. Beschlossen ist noch nichts: Finanzminister Klingbeil sieht keinen Spielraum im Haushalt, Merz und die Länder wollen die Senkung. Unsere Meinung: 93 Euro im Jahr sind ein schlechter Witz, ein Trostpflaster, keine Entlastung. Quellen auf den Folien.",
+    "hashtags": "#doytschlandtv #stromsteuer #strompreis #entlastung #klingbeil #erklaert #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Wirtschaft · Strompreis",
+      "titel": "Stromsteuer runter: Was bringt dir das?",
+      "rot": "Was bringt dir das?",
+      "bild": {
+       "url": "titel-stromsteuer.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "zahl",
+      "label": "Dein Strompreis",
+      "zahl": "37 Cent",
+      "text": "kostet eine Kilowattstunde im Schnitt: 15,2 Cent Beschaffung und Vertrieb, 9,2 Cent Netzentgelte, 12,6 Cent Steuern und Abgaben. Davon ist die Stromsteuer 2,05 Cent.",
+      "quelle": "BDEW über ZDFheute, August 2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Plan",
+      "titel": "2,35 Cent weniger pro Kilowattstunde.",
+      "text": "Im Koalitionsvertrag steht: Die Stromsteuer soll für alle auf das EU-Minimum sinken.",
+      "quelle": "ZDFheute, 23.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Zwei Rechnungen",
+      "titel": "Was bleibt bei dir?",
+      "punkte": [
+       {
+        "kopf": "Single, 1.500 kWh",
+        "text": "1.500 kWh mal 2,35 Cent: rund 35 Euro im Jahr."
+       },
+       {
+        "kopf": "Familie, 4.000 kWh",
+        "text": "4.000 kWh mal 2,35 Cent: rund 93 Euro im Jahr."
+       }
+      ],
+      "quelle": "Berechnung Verivox über ZDFheute, 23.10.2026, gerundet"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Der Haken",
+      "titel": "Beschlossen ist noch nichts.",
+      "text": "Finanzminister Klingbeil sieht keinen Spielraum im Haushalt. Merz und die Länder wollen die Senkung.",
+      "quelle": "ZDFheute, 23.10.2026"
+     },
+     {
+      "typ": "meinung",
+      "text": "93 Euro im Jahr sind ein schlechter Witz. Das sind rund 8 Euro im Monat: ein Trostpflaster, keine Entlastung.",
+      "handlung": "Rechne mit deinem Verbrauch: kWh mal 0,0235 Euro."
+     },
+     {
+      "typ": "cta",
+      "frage": "Spürst du 8 Euro im Monat? Was denkst du?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
     "thema": "Morning Briefing, Sonntag, 25. Oktober 2026",
     "caption": "Guten Morgen. Dein Morning Briefing für Sonntag, den 25. Oktober. Gestern: Für heute erwartet der Deutsche Wetterdienst an der Nordsee Böen bis 100 km/h, in Hamburg ist eine Sturmflut möglich. Merz wirbt beim CSU-Parteitag für Geschlossenheit der Union. Zuletzt: Zur Waffenruhe bei Oleschky nennen die Seiten unterschiedliche Startdaten, und am Dienstag wird in Israel gewählt. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
     "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
@@ -113,6 +234,38 @@ window.BRIEFINGS = [
    }
   ],
   "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Erklärt",
+    "kicker": "Wahl in Israel · Dienstag",
+    "titel": "Israel wählt am Dienstag: So läuft die Wahl",
+    "rot": "So läuft die Wahl",
+    "text": "120 Sitze, 61 für die Mehrheit, laut Umfragen keiner vorn genug. Link in der Bio.",
+    "quelle": "ZDFheute, bpb, 23.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-hebron.jpg",
+     "fokus": 0.5,
+     "unter": "Hebron, 23.10. Foto: Mamoun Wazwaz / APAimages / IMAGO"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Erklärt",
+    "kicker": "Wirtschaft · Strompreis",
+    "titel": "Stromsteuer runter: Was bringt dir das?",
+    "rot": "Was bringt dir das?",
+    "text": "Rund 35 Euro im Jahr für Singles, rund 93 für Familien. Beschlossen ist noch nichts. Link in der Bio.",
+    "quelle": "BDEW, Verivox über ZDFheute, 23.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-stromsteuer.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   },
    {
     "zusatz": true,
     "art": "nachricht",
