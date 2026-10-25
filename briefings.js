@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-25",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Sturm Manja: Orkanböen und Sturmflut-Gefahr an der Nordsee",
+    "Merz beim CSU-Parteitag: Aufruf zur Geschlossenheit",
+    "Oleschky: Waffenruhe mit unterschiedlichen Startdaten",
+    "Israel wählt am Dienstag ein neues Parlament"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Sonntag, den 25. Oktober.",
+    "Gestern: Nach Sturm Luise am Freitag erwartet der Deutsche Wetterdienst für heute Böen von bis zu 100 km/h an der Nordseeküste, einzelne Orkanböen sind möglich. Das Bundesamt für Seeschifffahrt und Hydrographie rechnet von Sonntag auf Montag mit deutlich erhöhten Wasserständen, in Hamburg ist eine Sturmflut möglich. Am Freitag wurden in Nastätten (Rheinland-Pfalz) zwei Menschen schwer verletzt, einer davon lebensgefährlich (t-online, dpa, 24.10.).",
+    "Beim CSU-Parteitag in München rief Bundeskanzler Friedrich Merz CDU und CSU dazu auf, angesichts extremistischer Kräfte enger zusammenzustehen. Er kündigte Reformen der sozialen Sicherungssysteme an und will gegen den Missbrauch von Sozialleistungen vorgehen (Euronews, ad-hoc-news, 24.10.).",
+    "Zuletzt: Zur lokalen Waffenruhe um die besetzte Stadt Oleschky nennen die Beteiligten unterschiedliche Startdaten. Das Weiße Haus nannte Donnerstag, den 29. Oktober. Der russische Generalstab kündigte an, ab Dienstag um 4 Uhr Moskauer Zeit nicht mehr in Richtung Cherson zu schießen. Beides sind Angaben der jeweiligen Seiten, die ZDFheute nicht abgleicht. Zudem sind laut Kreml Gespräche zwischen Russland und der Ukraine unter US-Vermittlung in Abu Dhabi in der ersten Novemberhälfte geplant, Selenskyj spricht von technischen Gesprächen (ZDFheute-Liveblog, Stand 24.10.).",
+    "Zuletzt: Am Dienstag, 27. Oktober, wird in Israel die Knesset gewählt. Laut ZDFheute sehen Umfragen das Lager von Gadi Eisenkot bei 53 und das Lager von Benjamin Netanjahu bei 50 von 120 Sitzen, keines hat damit eine Mehrheit. Nach dem Tod zweier israelischer Soldaten bei Hebron hat Netanjahu das Westjordanland abriegeln lassen; laut SRF sind palästinensische Dörfer weitgehend abgeschnitten (ZDFheute, 23.10.; SRF, 24.10.).",
+    "Heute: In der Nacht zu Sonntag ging die Sommerzeit zu Ende, um 3 Uhr wurden die Uhren auf 2 Uhr zurückgestellt (Bundeswirtschaftsministerium, 22.10.). Die dpa-AFX-Tagesvorschau führt für den Sonntag keine Termine auf.",
+    "Diese Woche: Am Montag um 10 Uhr kommt das ifo-Geschäftsklima, zur gleichen Zeit gibt Wirtschaftsministerin Katharina Reiche in Warschau eine Pressekonferenz, und in Peking beginnt das Fünfte Plenum der KP Chinas. Am Dienstag wird in Israel gewählt. Am Mittwoch entscheidet um 19 Uhr die US-Notenbank Fed, und der Bundesgerichtshof verhandelt um 10 Uhr über eine Rechtsschutzversicherung bei einer Dieselklage (dpa-AFX, Wochenvorschau, 23.10.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Sonntag, 25. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Sonntag, den 25. Oktober. Gestern: Für heute erwartet der Deutsche Wetterdienst an der Nordsee Böen bis 100 km/h, in Hamburg ist eine Sturmflut möglich. Merz wirbt beim CSU-Parteitag für Geschlossenheit der Union. Zuletzt: Zur Waffenruhe bei Oleschky nennen die Seiten unterschiedliche Startdaten, und am Dienstag wird in Israel gewählt. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · So., 25. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Sturm Manja",
+        "text": "Der DWD warnt heute vor Böen bis 100 km/h an der Nordsee. In Hamburg ist eine Sturmflut möglich."
+       },
+       {
+        "kopf": "CSU-Parteitag",
+        "text": "Merz ruft CDU und CSU zum engeren Zusammenstehen auf und kündigt Reformen der Sozialsysteme an."
+       },
+       {
+        "kopf": "Oleschky",
+        "text": "Waffenruhe: Das Weiße Haus nennt den 29. Oktober, Russlands Generalstab einen Beginn am Dienstag."
+       },
+       {
+        "kopf": "Israel",
+        "text": "Am Dienstag wird gewählt. Laut Umfragen hat kein Lager eine Mehrheit."
+       }
+      ],
+      "quelle": "t-online/dpa, 24.10.2026; Euronews, 24.10.2026; ZDFheute, 24.10.2026; ZDFheute-Liveblog und ZDFheute, 23./24.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute",
+        "text": "Sturmtief Manja an der Nordsee. Die Sommerzeit ist seit 3 Uhr beendet, die Uhren gingen auf 2 Uhr zurück."
+       },
+       {
+        "kopf": "Montag, 10 Uhr",
+        "text": "ifo-Geschäftsklima. Pressekonferenz von Wirtschaftsministerin Reiche in Warschau."
+       },
+       {
+        "kopf": "Dienstag",
+        "text": "Parlamentswahl in Israel."
+       },
+       {
+        "kopf": "Mittwoch",
+        "text": "Um 10 Uhr BGH-Verhandlung zu einer Dieselklage, um 19 Uhr Zinsentscheid der US-Notenbank."
+       }
+      ],
+      "quelle": "Bundeswirtschaftsministerium, 22.10.2026; dpa-AFX, Wochenvorschau 23.10.2026; ZDFheute, 23.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "53 zu 50",
+      "text": "Sitze sehen Umfragen laut ZDFheute für das Lager von Eisenkot und das von Netanjahu. Für die Mehrheit in der 120-köpfigen Knesset braucht es 61.",
+      "quelle": "ZDFheute, 23.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · So., 25. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Sturm Manja, CSU-Parteitag, Oleschky und die Israel-Wahl im Karussell. Link in der Bio.",
+    "quelle": "t-online/dpa, Euronews, ZDFheute, 23./24.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-24",
   "morgen": {
    "titel": "Morning Briefing",
