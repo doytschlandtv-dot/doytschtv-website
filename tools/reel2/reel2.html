@@ -302,12 +302,17 @@ if(MODE==="kx"){
   const a=S.t0,b=S.t1,L=S.typ;
   if(L==="hook"){
    add(KK(S.kicker),a,b);add(HH(red(S.titel,S.rot),300,S.fs||104),a,b);
-   const im=E(`<div class="abs" style="left:70px;right:70px;top:${S.top||930}px;height:620px;border-radius:40px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.2);opacity:0"><img src="${S.img}" style="width:100%;height:100%;object-fit:cover;object-position:50% ${(S.fokus||.5)*100}%"></div>`);add(im,a,b,.5);
+   const iw=S.w||940,il=(1080-iw)/2;const im=E(`<div class="abs" style="left:${il}px;width:${iw}px;top:${S.top||930}px;height:${S.h||620}px;border-radius:40px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.2);opacity:0"><img src="${S.img}" style="width:100%;height:100%;object-fit:${S.fit||"cover"};object-position:50% ${(S.fokus||.5)*100}%"></div>`);add(im,a,b,.5);
    if(S.unter)add(NOTE(S.unter,1580),a,b,.9);
   }else if(L==="zahl"){
    add(KK(S.label),a,b);add(E(`<div class="abs num" style="left:70px;top:330px;opacity:0;font-size:${S.fs||260}px">${S.zahl}</div>`),a,b);add(BB(S.text,S.top||780,"font-size:"+(S.tfs||56)+"px"),a,b,.9);
   }else if(L==="fakten"||L==="einordnung"){
    add(KK(S.label),a,b);add(HH(red(S.titel,S.rot),300,S.fs||100),a,b);add(BB(S.text,S.top||800,"font-size:"+(S.tfs||56)+"px"),a,b,.9);
+  }else if(L==="portraits"){
+   add(KK(S.label),a,b);add(HH(red(S.titel,S.rot),300,S.fs||88),a,b);
+   const n=S.leute.length,cw=290,gap=20,x0=(1080-(n*cw+(n-1)*gap))/2;
+   S.leute.forEach((p,i)=>{const c=E(`<div class="abs" style="left:${x0+i*(cw+gap)}px;width:${cw}px;top:${S.top||700}px;opacity:0"><div style="height:390px;border-radius:28px;overflow:hidden;box-shadow:0 24px 56px rgba(0,0,0,.2)"><img src="${p.img}" style="width:100%;height:100%;object-fit:cover;object-position:50% ${(p.fokus||.2)*100}%"></div><div style="font:700 32px/1.15 Inter;margin-top:20px;color:#0a0a0a">${p.name}</div><div style="font:500 28px/1.2 Inter;margin-top:6px;color:#b2231c">${p.rolle}</div></div>`);add(c,a,b,.5+i*.6)});
+   if(S.text)add(BB(S.text,S.ttop||1290,"font-size:"+(S.tfs||46)+"px"),a,b,2.2);
   }else if(L==="betrifft"){
    add(KK(S.label),a,b);add(HH(S.titel,300,100),a,b);
    S.punkte.forEach((p,i)=>add(BB(`<b style="color:#b2231c">${p.kopf}</b><br>${p.text}`,640+i*330,"font-size:52px"),a,b,.8+i*1.0));
