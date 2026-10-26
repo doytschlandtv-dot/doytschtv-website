@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-26",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Sturm Manja: Über 100 Einsätze, Sturmflut in der Nacht erwartet",
+    "Jugendproteste: Debatte vor den angekündigten Demonstrationen",
+    "Merz und Steinmeier reisen heute nach Asien",
+    "Gebäudetyp E: Hubig und Hubertz stellen Gesetzentwurf vor"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Montag, den 26. Oktober.",
+    "Gestern: Sturmtief Manja hat an der Nordseeküste laut den Leitstellen der Landkreise zu mehr als 100 wetterbedingten Einsätzen geführt, meist wegen umgestürzter Bäume. Eine Radfahrerin wurde bei Witzwort von einem Ast leicht verletzt, der Sylt Shuttle strich Fahrten. Für die Nacht zu Montag erwartet das Bundesamt für Seeschifffahrt und Hydrographie in Hamburg am Pegel St. Pauli gegen 4 Uhr etwa zwei Meter über dem mittleren Hochwasser. Ab 1,5 Metern spricht man von einer Sturmflut. Der Landesbetrieb für Küstenschutz nennt die Deiche in gutem Zustand (dpa, 26.10.).",
+    "Zuletzt: Vor den angekündigten Jugendprotesten melden sich Politikerinnen und Politiker zu Wort. Laut ntv ruft die Initiative „GenZ regelt“ für den 31. Oktober in 23 Städten zu Demonstrationen auf, unter anderem für Klimaschutz, gegen steigende Lebenshaltungskosten und gegen die Wehrpflicht, und lehnt Gewalt ausdrücklich ab. Aus Union und SPD kommen Warnungen vor Gewalt und Unterwanderung. Grünen-Fraktionschefin Britta Haßelmann betont das Recht junger Menschen, friedlich zu demonstrieren, die Linke-Politikerin Clara Bünger verlangt für Warnungen vor Unterwanderung belastbare Belege (ntv, 26.10.; Rheinische Post laut DTS, 26.10.).",
+    "Heute: Bundeskanzler Merz bricht zu seiner bisher längsten Auslandsreise als Kanzler auf, nach Singapur, Japan und Südkorea. Bundespräsident Steinmeier reist am selben Tag zu einem viertägigen Staatsbesuch nach China. Die Bundesregierung bestreitet laut dpa einen direkten Zusammenhang der beiden Reisen (dpa, 26.10.; Bundesregierung, 23.10.).",
+    "Ebenfalls heute: Justizministerin Stefanie Hubig und Bauministerin Verena Hubertz (beide SPD) stellen laut dpa einen Gesetzentwurf zum Gebäudetyp E vor. Wer will, soll beim Bauen auf Komfortstandards verzichten können, die nicht gesetzlich vorgeschrieben sind, etwa dünnere Decken oder weniger Steckdosen. Das gilt nur, wenn alle Beteiligten zustimmen. Brandschutz, Statik, Lüftung und Belichtung bleiben unangetastet. Der früheste Start ist Mitte 2027 (dpa, 26.10.).",
+    "Heute, 10 Uhr: Das ifo-Geschäftsklima für Oktober kommt, und in Warschau gibt Wirtschaftsministerin Katharina Reiche mit ihrem polnischen Amtskollegen Andrzej Domański eine Pressekonferenz. In Peking beginnt das Fünfte Plenum des Zentralkomitees der KP Chinas (dpa-AFX, Tagesvorschau, 23.10.).",
+    "Diese Woche: Am Dienstag trifft Merz in Singapur Premierminister Lawrence Wong. Am Mittwoch entscheidet um 19 Uhr die US-Notenbank Fed, und der Bundesgerichtshof verhandelt um 10 Uhr über Rechtsschutz bei einer Dieselklage. Am Donnerstag folgt um 14:45 Uhr die Zinsentscheidung der Europäischen Zentralbank, am selben Tag trifft Merz in Seoul Südkoreas Präsident Lee Jae Myung (dpa-AFX, Wochenvorschau, 23.10.; Bundesregierung, 23.10.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Montag, 26. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Montag, den 26. Oktober. Gestern: Sturmtief Manja sorgte im Norden für mehr als 100 Einsätze, in der Nacht wurde in Hamburg eine Sturmflut erwartet. Zuletzt: Vor den angekündigten Jugendprotesten gehen die Meinungen auseinander. Heute: Merz und Steinmeier reisen nach Asien, Hubig und Hubertz stellen den Entwurf zum Gebäudetyp E vor, um 10 Uhr kommt das ifo-Geschäftsklima. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Mo., 26. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Sturm Manja",
+        "text": "Über 100 Einsätze an der Nordsee, meist umgestürzte Bäume. In Hamburg wurde nachts eine Sturmflut erwartet."
+       },
+       {
+        "kopf": "Jugendproteste",
+        "text": "Laut ntv sind am 31. Oktober Demos in 23 Städten angekündigt. Union und SPD warnen vor Unterwanderung, Grüne und Linke mahnen, die Anliegen ernst zu nehmen."
+       },
+       {
+        "kopf": "Gebäudetyp E",
+        "text": "Hubig und Hubertz stellen heute einen Entwurf vor: Verzicht auf nicht vorgeschriebene Komfortstandards, wenn alle zustimmen."
+       },
+       {
+        "kopf": "Asienreisen",
+        "text": "Merz fliegt nach Singapur, Japan und Südkorea, Steinmeier nach China."
+       }
+      ],
+      "quelle": "dpa, 26.10.2026; ntv, 26.10.2026; Rheinische Post laut DTS, 26.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 10 Uhr",
+        "text": "ifo-Geschäftsklima. In Warschau Pressekonferenz von Ministerin Reiche mit ihrem polnischen Amtskollegen."
+       },
+       {
+        "kopf": "Heute bis Freitag",
+        "text": "Merz in Singapur, Japan und Südkorea, Steinmeier vier Tage in China. Rückkehr am Freitag."
+       },
+       {
+        "kopf": "Mittwoch",
+        "text": "Fed-Zinsentscheid um 19 Uhr. BGH verhandelt um 10 Uhr über Rechtsschutz bei einer Dieselklage."
+       },
+       {
+        "kopf": "Donnerstag",
+        "text": "EZB-Zinsentscheid um 14:45 Uhr."
+       }
+      ],
+      "quelle": "dpa-AFX, Tages- und Wochenvorschau 23.10.2026; Bundesregierung, 23.10.2026; dpa, 26.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "2 Meter",
+      "text": "über dem mittleren Hochwasser erwartete das BSH für Hamburg-St. Pauli gegen 4 Uhr. Ab 1,5 Meter spricht man von Sturmflut.",
+      "quelle": "dpa, 26.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Mo., 26. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Sturm Manja, Jugendproteste, Gebäudetyp E und Asienreisen im Karussell. Link in der Bio.",
+    "quelle": "dpa, ntv, 26.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-25",
   "morgen": {
    "titel": "Morning Briefing",
