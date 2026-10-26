@@ -2,31 +2,25 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-10-26T05:50:00+01:00",
+ "stand": "2026-10-26T21:25:00+01:00",
  "items": [
   {
-   "z": "2026-10-26T00:04:00+01:00",
-   "t": "Sturm Manja: Laut dpa mehr als 100 wetterbedingte Einsätze an der Nordseeküste, für Hamburg-St. Pauli erwartet das BSH gegen 4 Uhr etwa zwei Meter über mittlerem Hochwasser",
-   "q": "dpa, proplanta",
-   "u": "https://www.proplanta.de/agrar-nachrichten/umwelt/ueber-100-einsaetze-im-norden-kaum-sturmschaeden_article1792969497.html"
+   "z": "2026-10-26T04:30:00+01:00",
+   "t": "Steinmeier startet laut dpa zum viertägigen Staatsbesuch in China, Merz folgt auf seiner bisher längsten Auslandsreise als Kanzler nach Singapur, Japan und Südkorea",
+   "q": "dpa, t-online",
+   "u": "https://www.t-online.de/nachrichten/ausland/id_101497282/merz-und-steinmeier-auf-getrennten-wegen-nach-asien.html"
   },
   {
-   "z": "2026-10-26T00:07:00+01:00",
-   "t": "Hubig und Hubertz (beide SPD) stellen laut dpa heute einen Gesetzentwurf zum einfacheren Bauen (Gebäudetyp E) vor",
-   "q": "dpa, Neue Westfälische",
-   "u": "https://www.nw.de/nachrichten/wirtschaft/24448398_Ohne-Schnickschnack-Wie-Wohnungsbau-guenstiger-werden-soll.html"
+   "z": "2026-10-26T08:59:00+01:00",
+   "t": "Gebäudetyp E: Laut Reuters liegt der Gesetzentwurf vor, Stellungnahmen sind bis 13. November möglich, Unionspolitiker Luczak ist noch nicht überzeugt",
+   "q": "Reuters, onvista",
+   "u": "https://www.onvista.de/news/2026/10-26-spd-plaene-fuer-guenstigeren-wohnungsbau-stossen-in-cdu-auf-skepsis-0-20-26568290"
   },
   {
-   "z": "2026-10-26T00:27:00+01:00",
-   "t": "Vor den angekündigten Jugendprotesten: Grüne mahnen, junge Menschen friedlich demonstrieren zu lassen, die Linke wirft der Regierung laut Rheinischer Post Kriminalisierung vor",
-   "q": "DTS, Rheinische Post",
-   "u": "https://www.nachrichten-heute.net/1774180-opposition-staerkt-jugend-vor-geplanten-protesten-den-ruecken.html"
-  },
-  {
-   "z": "2026-10-26T04:32:00+01:00",
-   "t": "Merz bricht laut dpa zur bisher längsten Auslandsreise als Kanzler nach Singapur, Japan und Südkorea auf, Steinmeier reist zum Staatsbesuch nach China",
-   "q": "dpa, nordbayern.de",
-   "u": "https://www.nordbayern.de/schlagzeilen/merz-und-steinmeier-auf-getrennten-wegen-nach-asien-1.15329050"
+   "z": "2026-10-26T14:44:00+01:00",
+   "t": "Das Bundesjustizministerium nennt Vergesellschaftungen nach Artikel 15 Grundgesetz laut dpa-AFX verfassungsrechtliches Neuland und lehnt ein pauschales Verbot ab",
+   "q": "dpa-AFX, ariva",
+   "u": "https://www.ariva.de/news/roundup-ministerium-rechtliches-neuland-bei-12181922"
   }
  ]
 };

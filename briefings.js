@@ -22,7 +22,43 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Merz und Steinmeier reisen nach Asien",
+    "Gebäudetyp E: Entwurf liegt vor, CDU/CSU skeptisch",
+    "Vergesellschaftung: Justizministerium widerspricht Pauschalverbot",
+    "BGH: Verurteilung von AfD-Abgeordnetem Möller rechtskräftig"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Montag, 26. Oktober.",
+    "Erstens: Asien. Bundespräsident Steinmeier ist am Morgen zu einem viertägigen Staatsbesuch nach China aufgebrochen, wenige Stunden später folgte Bundeskanzler Merz zu seiner bisher längsten Auslandsreise als Kanzler nach Singapur, Japan und Südkorea. Merz kehrt laut dpa am späten Freitagabend nach Berlin zurück, Steinmeier trifft am Freitag Staatschef Xi Jinping. Die Bundesregierung sieht keinen direkten Zusammenhang der beiden Reisen (dpa, 26.10.).",
+    "Zweitens: Gebäudetyp E. Wie im Morning Briefing angekündigt, hat das Justizministerium den Entwurf vorgelegt. Er ändert das Bauvertragsrecht, damit unter Verzicht auf bestimmte Komfortstandards günstiger gebaut werden kann. Laut Reuters könnten die Baukosten nach Erfahrungen aus Pilotprojekten um 10 bis 15 Prozent sinken. Der Entwurf geht nun an Länder und Verbände, Stellungnahmen sind bis zum 13. November möglich. Der baupolitische Sprecher der Union im Bundestag, Jan-Marco Luczak, sagte, er sei noch nicht überzeugt, dass der neue Vertragstyp gelingt, und regte einen gesetzlichen Basisstandard an (Reuters, 26.10.).",
+    "Drittens: Vergesellschaftung. Ein Sprecher des Bundesjustizministeriums nannte die Lage verfassungsrechtliches Neuland. Der Bund könne Vergesellschaftungen nach Artikel 15 des Grundgesetzes nicht pauschal untersagen, ein Sperrgesetz wäre aus Sicht des Ministeriums mit der Verfassung nicht vereinbar, und das Ministerium werde daran nicht mitwirken. Hintergrund ist eine Ankündigung von Innenminister Dobrindt, per Gesetz Bedingungen für Vergesellschaftungen festzulegen, etwa Entschädigung zum Verkehrswert. Die angestrebte Berliner Koalition aus Linken, Grünen und SPD will Wohnungsbestände von mehr als 10.000 Wohnungen vergesellschaften (dpa-AFX, 26.10.). Unsere Einordnung: Ob und wie der Artikel 15 angewendet werden darf, ist offen und eine Frage für Verfassungsrecht, nicht für Parolen.",
+    "Viertens: Justiz. Der Bundesgerichtshof hat die Revision des brandenburgischen AfD-Landtagsabgeordneten Wilko Möller verworfen. Damit ist seine Verurteilung zu 100 Tagessätzen à 116 Euro, insgesamt 11.600 Euro, rechtskräftig. Das Landgericht Frankfurt (Oder) hatte ihn wegen des Verwendens von Kennzeichen verfassungswidriger Organisationen verurteilt. Auf einem Wahlplakat von 2024 war ein Mann mit erhobenem Arm in einer Geste zu sehen, die dem Hitlergruß ähnelt. Möller hat die Vorwürfe stets bestritten. Die Entscheidung stammt laut beck-aktuell vom 13. Oktober und wurde am 26. Oktober bekannt (beck-aktuell, 26.10.).",
+    "Morgen: In Luxemburg treffen sich die EU-Agrar- und Fischereiminister. Der Sparkassenverband DSGV hält eine Pressekonferenz zum Weltspartag. Porsche und Beiersdorf legen Zahlen zum dritten Quartal vor. Laut Wochenvorschau trifft Merz in Singapur Premierminister Lawrence Wong (dpa-AFX, Tagesvorschau, 26.10.; Wochenvorschau, 23.10.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "dpa via t-online, 26.10.2026"
+    },
+    {
+     "titel": "Reuters via onvista, 26.10.2026"
+    },
+    {
+     "titel": "dpa-AFX via ariva, 26.10.2026"
+    },
+    {
+     "titel": "beck-aktuell, 26.10.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau, 26.10.2026; Wochenvorschau, 23.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
