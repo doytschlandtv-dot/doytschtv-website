@@ -22,7 +22,43 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Israel: Wahllokale geschlossen, Nachwahlbefragung sieht Eisenkots Block knapp vorn",
+    "Ukraine: Stubb und Støre sprechen erstmals mit Putin",
+    "Pflegereform: Expertenkommission nimmt Arbeit auf",
+    "Konjunktur: ifo-Exporterwartungen steigen, Frankreichs Verbrauchervertrauen sinkt"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Dienstag, 27. Oktober.",
+    "Erstens: Israel. Das Land hat heute ein neues Parlament gewählt. Bis 17 Uhr MEZ hatten laut Wahlkommission 66,7 Prozent der Wahlberechtigten abgestimmt, vor vier Jahren waren es zur selben Uhrzeit 57,7 Prozent (Tagesspiegel, 27.10.). Nach Schließung der Wahllokale nannte der Sender Channel 12 in einer Nachwahlbefragung 24 Sitze für Netanjahus Likud und 22 für die Partei von Eisenkot. Der Block um Eisenkot liegt demnach mit 52 Sitzen vor dem Block um Netanjahu mit 50 Sitzen (ORF, 27.10.). Beide Blöcke blieben damit unter der Mehrheit von 61 der 120 Sitze. Eine Nachwahlbefragung ist keine Auszählung, das Ergebnis steht noch aus.",
+    "Zweitens: Ukraine. Finnlands Präsident Alexander Stubb und der norwegische Ministerpräsident Jonas Gahr Støre haben rund 90 Minuten lang mit Wladimir Putin telefoniert, erstmals. Das Gespräch war unter den Europäern nicht abgestimmt. Nach Angaben der beiden wollten sie Botschaften für künftige Verhandlungen übermitteln. Der Kreml teilte laut dpa mit, in der ersten Novemberhälfte werde in Abu Dhabi über Sicherheitsfragen für Russland und die Ukraine verhandelt, und Putin habe über die lokale Feuerpause um Oleschky im Gebiet Cherson informiert, die wir heute früh im Briefing hatten. Dänemarks Ministerpräsidentin Mette Frederiksen kritisierte die fehlende Abstimmung (Handelsblatt/dpa, 27.10.). Das sind Eigenangaben der Beteiligten.",
+    "Drittens: Pflege. In Berlin hat die Pflegestrukturkommission mit 13 Fachleuten ihre Arbeit aufgenommen. Sie besteht überwiegend aus Wissenschaftlern, Politiker sitzen anders als in der Rentenkommission nicht darin. Ergebnisse sollen bis Ende Januar 2027 vorliegen. Streitpunkte sind unter anderem ein von der SPD geforderter Kostendeckel für Eigenanteile im Pflegeheim und ein Finanzausgleich zwischen privater und gesetzlicher Pflegeversicherung. Die Mitglieder sind dazu unterschiedlicher Meinung: Georg Cremer lehnt einen allgemeinen Deckel ab, Heinz Rothgang befürwortet ihn (ZDFheute, 27.10.). Unsere Einordnung: Wer die Kosten verteilt, entscheidet über Gerechtigkeit zwischen Pflegebedürftigen und Beitragszahlern, deshalb gehört die Debatte in die Öffentlichkeit.",
+    "Viertens: Konjunktur. Die ifo-Exporterwartungen der Industrie stiegen im Oktober um 3,2 Punkte auf 12,2 Punkte, so hoch wie seit Beginn des Ukraine-Krieges nicht mehr, vor allem wegen der Autoindustrie. In Frankreich fiel das Verbrauchervertrauen laut dpa-AFX auf den tiefsten Stand seit 2013 (dpa-AFX, Konjunkturüberblick, 27.10.). Das ifo-Geschäftsklima vom Vortag, 90,2 Punkte, bleibt unverändert.",
+    "Morgen: Am Mittwoch, 28. Oktober, veröffentlichen um 7 Uhr BASF, Mercedes-Benz und die Deutsche Bank ihre Zahlen zum dritten Quartal. Um 8 Uhr folgt das Konsumklima von NIM und GfK, um 10 Uhr verhandelt der Bundesgerichtshof in Karlsruhe über eine Rechtsschutzversicherung bei einer Dieselklage, und um 19 Uhr entscheidet die US-Notenbank Fed über den Leitzins (dpa-AFX, Tagesvorschau, 27.10.). Dazu erwarten wir das Ergebnis der Wahl in Israel.",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ORF, 27.10.2026"
+    },
+    {
+     "titel": "Tagesspiegel, 27.10.2026"
+    },
+    {
+     "titel": "Handelsblatt (dpa), 27.10.2026"
+    },
+    {
+     "titel": "ZDFheute, 27.10.2026"
+    },
+    {
+     "titel": "dpa-AFX, 27.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,

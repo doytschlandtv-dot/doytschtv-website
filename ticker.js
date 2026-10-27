@@ -2,37 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-10-27T05:49:11+01:00",
+ "stand": "2026-10-27T21:26:00+01:00",
  "items": [
   {
-   "z": "2026-10-26T13:42:00+01:00",
-   "t": "Der europäische Gaspreis (TTF) steigt laut Bericht auf bis zu 97,64 Euro je Megawattstunde, den höchsten Stand seit Ende 2022",
-   "q": "finanzen.at (dpa-AFX)",
-   "u": "https://www.finanzen.at/nachrichten/aktien/europaischer-gaspreis-weiter-im-hoehenflug-knapp-unter-100-euro-1036665395"
+   "z": "2026-10-27T14:34:00+01:00",
+   "t": "Finnlands Präsident Stubb und Norwegens Ministerpräsident Støre haben laut dpa rund 90 Minuten mit Putin telefoniert, das Gespräch war unter den Europäern nicht abgestimmt",
+   "q": "Handelsblatt (dpa)",
+   "u": "https://www.handelsblatt.com/politik/international/ukraine-krieg-putin-spricht-erstmals-mit-stubb-und-stre-ueber-ukraine/100265260.html"
   },
   {
-   "z": "2026-10-26T17:00:00+01:00",
-   "t": "Das ifo-Geschäftsklima steigt im Oktober um 0,3 Punkte auf 90,2, den höchsten Stand seit dem Frühjahr 2023",
-   "q": "dpa-AFX, ariva",
-   "u": "https://www.ariva.de/news/dpa-afx-ueberblick-konjunktur-vom-26-10-2026-17-00-uhr-12182142"
+   "z": "2026-10-27T17:00:00+01:00",
+   "t": "Die ifo-Exporterwartungen steigen im Oktober um 3,2 auf 12,2 Punkte, so hoch wie seit Beginn des Ukraine-Kriegs nicht mehr",
+   "q": "dpa-AFX, onvista",
+   "u": "https://www.onvista.de/news/2026/10-27-dpa-afx-ueberblick-konjunktur-vom-27-10-2026-17-00-uhr-0-10-26569023"
   },
   {
-   "z": "2026-10-26T21:43:00+01:00",
-   "t": "Frankreichs Regierung bietet nach den Schülerprotesten laut ZDFheute vier Milliarden Euro Kredite für Gymnasien und den Ersatz von Parcoursup bis Herbst 2028 an",
+   "z": "2026-10-27T17:53:00+01:00",
+   "t": "Die Pflegestrukturkommission mit 13 Fachleuten hat laut ZDFheute ihre Arbeit aufgenommen, Ergebnisse sollen bis Ende Januar 2027 vorliegen",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-schueler-regierung-forderungen-100.html"
+   "u": "https://www.zdfheute.de/politik/deutschland/pflegekommission-pflege-linnemann-kommission-100.html"
   },
   {
-   "z": "2026-10-27T03:47:00+01:00",
-   "t": "In Oleschky gilt seit 3 Uhr eine lokale Feuerpause für Hilfslieferungen, die Russland und der ukrainische Generalstab laut ZDFheute bestätigten",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/ausland/oleschky-waffenruhe-ukraine-krieg-russland-100.html"
-  },
-  {
-   "z": "2026-10-27T05:34:00+01:00",
-   "t": "In Israel hat die Parlamentswahl begonnen, 7,3 Millionen Menschen sind laut 20 Minuten aufgerufen, die 120 Sitze der Knesset zu vergeben",
-   "q": "20 Minuten",
-   "u": "https://www.20min.ch/story/israel-parlamentswahl-benjamin-netanjahu-103657056"
+   "z": "2026-10-27T21:07:00+01:00",
+   "t": "Nach der Israel-Wahl sieht eine Nachwahlbefragung von Channel 12 laut ORF den Block um Eisenkot mit 52 Sitzen knapp vor dem Block um Netanjahu mit 50 Sitzen",
+   "q": "ORF",
+   "u": "https://orf.at/stories/3446350"
   }
  ]
 };
