@@ -1,6 +1,99 @@
 /* Erklärstücke der Seite "Erklärt". Jeder Beitrag: titel, teaser, min, kern, abschnitte[{h,t[]}], quellen, stand. */
 window.ERKLAERT = [
  {
+  "id": "gebaeudetyp-e",
+  "titel": "Gebäudetyp E: Was einfacher bauen bedeutet",
+  "teaser": "Was der neue Gesetzentwurf ändert, was gleich bleibt und wen es betrifft.",
+  "min": 4,
+  "kern": [
+   {
+    "z": "10 bis 15 %",
+    "l": "geringere Bauwerkskosten laut Justizministerium (Pilotprojekte)"
+   },
+   {
+    "z": "Mitte 2027",
+    "l": "frühestes Inkrafttreten"
+   },
+   {
+    "z": "4",
+    "l": "Bereiche bleiben tabu: Brandschutz, Statik, Belüftung, Licht"
+   }
+  ],
+  "abschnitte": [
+   {
+    "h": "Worum es geht",
+    "t": [
+     "Bauen ist in Deutschland teuer. Der „Gebäudetyp E“ (E wie einfach) soll helfen: Bauherren und Firmen dürfen auf Komfortstandards verzichten, die gesetzlich nicht zwingend sind.",
+     "Am 26. Oktober 2026 haben Justizministerin Stefanie Hubig und Bauministerin Verena Hubertz (beide SPD) dafür einen Gesetzentwurf vorgelegt. Schon die Ampel-Regierung hatte 2024 einen Entwurf, der mit dem Koalitionsbruch liegen blieb."
+    ]
+   },
+   {
+    "h": "Warum einfaches Bauen bisher riskant ist",
+    "t": [
+     "Wer ohne besondere Vereinbarung baut, kann erwarten, dass nach dem üblichen, hohen Standard gebaut wird. Weicht jemand davon ab, gilt das schnell als Mangel.",
+     "Deshalb scheuen Architekten und Bauunternehmen Abweichungen: Sie fürchten, später zu haften, auch wenn alle einverstanden waren."
+    ]
+   },
+   {
+    "h": "Was der Entwurf ändert",
+    "t": [
+     "Der Entwurf ändert das Bauvertragsrecht im Bürgerlichen Gesetzbuch. Einfacheres Bauen soll nicht mehr als Mangel gelten, wenn alle Beteiligten es ausdrücklich vereinbart haben. Ohne diese Vereinbarung gelten die bisherigen Regeln.",
+     "Beispiele für mögliche Abstriche: weniger Trittschallschutz, dünnere Decken, weniger Steckdosen, unbeheizte Treppenhäuser, kein Handtuchtrockner."
+    ]
+   },
+   {
+    "h": "Was nicht angetastet wird",
+    "t": [
+     "Brandschutz, Statik, Belüftung und Licht bleiben tabu. Auch die Technischen Baubestimmungen und das Bauordnungsrecht der Länder bleiben verbindlich, etwa für Standsicherheit, Wärme- und Schallschutz und Mindestgeschosshöhen."
+    ]
+   },
+   {
+    "h": "Was Bauherren im Vertrag finden sollen",
+    "t": [
+     "Bei Privatbauherren soll der Vertrag ausdrücklich nennen, dass nach dem Gebäudetyp E gebaut wird. Die Baubeschreibung soll das Schallschutzniveau enthalten, und es ist anzugeben, um wie viel die Baukosten durch die Abweichungen sinken."
+    ]
+   },
+   {
+    "h": "Wer profitiert, wer trägt das Risiko",
+    "t": [
+     "Nach Angaben des Justizministeriums können die Bauwerkskosten in Pilotprojekten um zehn bis 15 Prozent sinken. Bauministerin Hubertz sieht Bauherren, Unternehmen und Käufer als Gewinner.",
+     "Ob Mieter profitieren, ist offen. Der Wohnungswirtschaftsverband GdW kritisiert, dass das Mietrecht nicht angepasst wird: Mieter könnten einfacher gebaute Wohnungen als mangelhaft beanstanden. Verbraucher- und Mieterschützer warnen vor geringerer Qualität zum gleichen Preis."
+    ]
+   },
+   {
+    "h": "Die Kritik im Überblick",
+    "t": [
+     "Aus der Union kommt der Einwand, die Regel sei zu kompliziert; Jan-Marco Luczak (CDU) schlägt einen gesetzlichen Basisstandard als neues Normal vor. Der Immobilienverband ZIA spricht von einer Sonderoption statt eines neuen Normals. Die Grünen sagen, hohe Bodenpreise bleiben das Problem."
+    ]
+   },
+   {
+    "h": "Wie es weitergeht",
+    "t": [
+     "Der Entwurf ist ein Referentenentwurf und innerhalb der Bundesregierung noch nicht abgestimmt. Länder und Verbände können Stellung nehmen, danach folgen Kabinett, Bundestag und Bundesrat. Inkrafttreten frühestens Mitte 2027. Fünf Jahre später soll geprüft werden, ob mehr Wohnungen fertig werden und die Baukosten sinken."
+    ]
+   }
+  ],
+  "quellen": [
+   {
+    "titel": "ZDFheute: Wie Wohnungsbau günstiger werden soll, 26.10.2026",
+    "url": "https://www.zdfheute.de/politik/deutschland/guenstiger-wohnungsbau-gebaeudetyp-e-gesetzentwurf-100.html"
+   },
+   {
+    "titel": "WirtschaftsWoche: Gebäudetyp E: Warum das Gesetz günstigeres Bauen bremsen kann, 26.10.2026",
+    "url": "https://www.wiwo.de/finanzen/immobilien/gebaeudetyp-e-warum-das-gesetz-guenstigeres-bauen-bremsen-kann/100264940.html"
+   },
+   {
+    "titel": "Haufe: Günstiger bauen – aber erst ab Mitte 2027, 26.10.2026",
+    "url": "https://www.haufe.de/immobilien/wirtschaft-politik/gebaeudetyp-e_84342_627988.html"
+   },
+   {
+    "titel": "Tagesspiegel: So will Hubig den Bau günstiger Wohnungen erleichtern, 26.10.2026",
+    "url": "https://www.tagesspiegel.de/politik/auf-unnotigen-schnickschnack-verzichten-so-will-hubig-den-bau-einfacher-aber-gunstiger-wohnungen-erleichtern-16202254.html"
+   }
+  ],
+  "stand": "26.10.2026 (Referentenentwurf; Verfahren läuft)"
+ },
+ {
   "id": "gesetz",
   "titel": "Wie ein Gesetz entsteht",
   "teaser": "Vom Entwurf bis zur Abstimmung im Bundestag.",
