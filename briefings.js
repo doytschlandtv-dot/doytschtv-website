@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-27",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Gaspreis: Höchster Stand seit Ende 2022",
+    "Oleschky: Lokale Feuerpause seit 3 Uhr",
+    "Frankreich: Regierung kommt Schülerprotesten entgegen",
+    "ifo-Geschäftsklima steigt auf 90,2 Punkte"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Dienstag, den 27. Oktober.",
+    "Gestern: Der europäische Gaspreis ist weiter gestiegen. Der TTF-Terminkontrakt für Lieferung in einem Monat kletterte an der Börse Amsterdam auf bis zu 97,64 Euro je Megawattstunde, den höchsten Stand seit Ende 2022. Seit Monatsbeginn sind es etwa ein Drittel mehr. Als Haupttreiber gilt laut dem Bericht der Konflikt zwischen den USA und dem Iran. Die deutschen Gasspeicher sind zu mehr als 61 Prozent gefüllt, vor einem Jahr waren es rund 75 Prozent (dpa-AFX, finanzen.at, 26.10.).",
+    "In der Nacht: In Oleschky im Gebiet Cherson gilt seit 3 Uhr Ortszeit eine lokale Feuerpause für eine humanitäre Hilfsoperation. Russland und der ukrainische Generalstab bestätigten sie. Nach Angaben des Weißen Hauses geht die Vermittlung auf Melania Trump zurück. Einwohner müssen sich bis zum 28. Oktober registrieren. Von ursprünglich rund 24.000 Einwohnern sind etwa 2.000 geblieben (ZDFheute, 27.10.).",
+    "Frankreich: Nach den Schülerprotesten bietet die Regierung Kredite von vier Milliarden Euro für Gymnasien bis 2030, neue Lehrerstellen und den Ersatz des Zulassungssystems Parcoursup im Herbst 2028 an. Protestvertreter begrüßten das, riefen aber zum Weitermachen auf (ZDFheute, 26.10.).",
+    "Das ifo-Geschäftsklima stieg im Oktober um 0,3 Punkte auf 90,2. Es hat sich sechs Monate in Folge verbessert und liegt so hoch wie seit dem Frühjahr 2023 nicht mehr (dpa-AFX, 26.10.).",
+    "Heute: In Israel wird ein neues Parlament gewählt. 7,3 Millionen Menschen sind aufgerufen, 120 Sitze in der Knesset zu vergeben. Die meisten Wahllokale sind von 6 bis 21 Uhr MEZ geöffnet. Umfragen sehen ein enges Rennen zwischen dem Regierungslager und der Opposition (20 Minuten, 27.10.). In Deutschland legen unter anderem Porsche und Beiersdorf Quartalszahlen vor, der Sparkassenverband hält seine Pressekonferenz zum Weltspartag (dpa-AFX, 26.10.).",
+    "Diese Woche: Am Mittwoch um 19 Uhr entscheidet die US-Notenbank Fed über den Leitzins, am Donnerstag um 14:45 Uhr die EZB. Am Freitag folgen um 10 Uhr die erste Schätzung zum deutschen Bruttoinlandsprodukt im dritten Quartal und um 14 Uhr die Inflationsrate für Oktober. Am 4. November verhandelt das Bundesverfassungsgericht in Karlsruhe über den Ausschluss eines Mitglieds aus der AfD-Bundestagsfraktion (dpa-AFX, Wochenvorschau, 26.10.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Dienstag, 27. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Dienstag, den 27. Oktober. Gestern: Der europäische Gaspreis erreicht mit 97,64 Euro je Megawattstunde den höchsten Stand seit Ende 2022, das ifo-Geschäftsklima steigt auf 90,2 Punkte. In der Nacht: lokale Feuerpause in Oleschky. Frankreich kommt den Schülerprotesten entgegen. Heute: Israel wählt ein neues Parlament. Diese Woche: Fed am Mittwoch, EZB am Donnerstag. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Di., 27. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Gaspreis",
+        "text": "Der TTF-Kontrakt steigt auf bis zu 97,64 Euro je MWh, den höchsten Stand seit Ende 2022."
+       },
+       {
+        "kopf": "Oleschky",
+        "text": "Seit 3 Uhr gilt eine lokale Feuerpause für Hilfslieferungen. Russland und Kiew bestätigen sie."
+       },
+       {
+        "kopf": "Frankreich",
+        "text": "Die Regierung bietet nach den Schülerprotesten Kredite, Stellen und ein neues Zulassungssystem an."
+       },
+       {
+        "kopf": "ifo-Index",
+        "text": "Das Geschäftsklima steigt auf 90,2 Punkte, den höchsten Stand seit Frühjahr 2023."
+       }
+      ],
+      "quelle": "dpa-AFX, 26.10.2026; ZDFheute, 26./27.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute: Israel wählt",
+        "text": "7,3 Millionen Wahlberechtigte, 120 Sitze in der Knesset, die meisten Wahllokale 6 bis 21 Uhr MEZ."
+       },
+       {
+        "kopf": "Heute: Quartalszahlen",
+        "text": "Porsche und Beiersdorf legen Zahlen vor, der Sparkassenverband informiert zum Weltspartag."
+       },
+       {
+        "kopf": "Mittwoch und Donnerstag",
+        "text": "Am Mittwoch um 19 Uhr entscheidet die Fed, am Donnerstag um 14:45 Uhr die EZB über die Leitzinsen."
+       },
+       {
+        "kopf": "Freitag, 30. Oktober",
+        "text": "Um 10 Uhr die erste BIP-Schätzung für das dritte Quartal, um 14 Uhr die Inflationsrate für Oktober."
+       }
+      ],
+      "quelle": "20 Minuten, 27.10.2026; dpa-AFX, Tages- und Wochenvorschau"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "97,64 Euro",
+      "text": "je Megawattstunde erreichte der europäische Gaspreis (TTF) am Montag zeitweise, der höchste Stand seit Ende 2022.",
+      "quelle": "dpa-AFX, 26.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Di., 27. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Gaspreis, Oleschky, Frankreich und ifo-Index im Karussell. Link in der Bio.",
+    "quelle": "dpa-AFX, 26.10.2026; ZDFheute, 26./27.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-26",
   "morgen": {
    "titel": "Morning Briefing",
