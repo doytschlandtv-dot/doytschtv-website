@@ -173,6 +173,69 @@ window.BRIEFINGS = [
       ]
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Rente mit 63 und Metall-Tarifrunde: Zwei Konflikte, ein Streitpunkt",
+    "caption": "Zwei Konflikte, eine Frage: Wer trägt die Kosten? Verdi-Chef Werneke fordert, die Rente nach 45 Beitragsjahren zu erhalten. Die Rentenkommission hatte im Juni empfohlen, sie abzuschaffen, laut ZDFheute soll das rund 10 Milliarden Euro sparen. In der Metall-Tarifrunde fordert die IG Metall 5 Prozent, die Arbeitgeber bieten 1 Prozent einmalig und 1,3 Prozent ab Juli 2028. Nachgerechnet: Das sind rund 700 Euro einmalig gegen 3.500 Euro mehr im Jahr, bei 3,3 Prozent Inflation im September. Ab 1. November sind Warnstreiks möglich. Quellen: dpa-AFX, ZDFheute, onvista, Destatis. Wer soll die Kosten tragen: Beschäftigte, Betriebe oder der Staat? Schreibt es in die Kommentare.",
+    "hashtags": "#doytschlandtv #rente #rentemit63 #verdi #igmetall #tarifrunde #einordnung #aktuell #deutschland",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Arbeit · Rente · Tarif",
+      "titel": "Rente und Löhne: Zwei Konflikte diese Woche",
+      "rot": "Zwei Konflikte",
+      "bild": {
+       "url": "titel-rente-tarif.jpg",
+       "fokus": 0.5,
+       "unter": "Illustration, KI-generiert, kein Foto"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Rente mit 63",
+      "titel": "Verdi: Rente nach 45 Beitragsjahren muss bleiben.",
+      "text": "Verdi-Chef Frank Werneke fordert von Arbeitsminister Alexander Schweitzer (SPD) einen Gesetzentwurf ohne höheres Renteneintrittsalter und mit abschlagsfreier Rente nach 45 Beitragsjahren. Die Rentenkommission hatte im Juni empfohlen, sie abzuschaffen. Union und SPD wollen die Vorschläge umsetzen; aus der SPD und von drei ostdeutschen CDU-Ministerpräsidenten kommt Kritik.",
+      "quelle": "dpa-AFX, ZDFheute, 26.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Wer betroffen wäre",
+      "zahl": "250.000",
+      "text": "Menschen pro Jahrgang betrifft die Regelung laut Verdi. Die Abschaffung soll rund 10 Milliarden Euro sparen. Die Frührente gilt derzeit ab 64,5 Jahren und heißt weiter „Rente mit 63“.",
+      "quelle": "Werneke laut ZDFheute und dpa-AFX, 26.10.2026"
+     },
+     {
+      "typ": "fakten",
+      "label": "Metall-Tarifrunde",
+      "titel": "IG Metall will 5 %, die Arbeitgeber bieten 1 % einmalig.",
+      "text": "Die IG Metall fordert 5 Prozent mehr bei 12 Monaten Laufzeit für rund 3,7 Millionen Beschäftigte. Die Arbeitgeber boten am Dienstag 1 Prozent des Jahresentgelts einmalig im Juli 2027 und 1,3 Prozent mehr ab Juli 2028, Laufzeit bis Ende 2028. Die IG Metall lehnt ab, ab 1. November sind Warnstreiks möglich.",
+      "quelle": "dpa-AFX, onvista, 27.10.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Nachgerechnet",
+      "titel": "700 Euro einmalig gegen 3.500 Euro im Jahr.",
+      "text": "In Baden-Württemberg entspricht 1 Prozent etwa 700 Euro, das Jahresentgelt liegt also bei rund 70.000 Euro. 5 Prozent davon wären 3.500 Euro im Jahr. Die Inflation lag im September bei 3,3 Prozent, die erste dauerhafte Erhöhung kommt nach dem Angebot erst im Juli 2028.",
+      "quelle": "dpa-AFX, 27.10.2026; Destatis, 30.9.2026; eigene Rechnung"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Das sagen die Gewerkschaften",
+      "behauptung": "Verdi: Die Rente nach 45 Jahren würdigt Lebensleistung. IG Metall: Das Angebot ist eine „massive Minusrunde“, Verzicht sichere keine Jobs.",
+      "labelB": "Das sagen Kommission und Arbeitgeber",
+      "fakt": "Die Rentenkommission will ihre Reformen als Paket, mit späterem Rentenalter ab 2032. Gesamtmetall: Deindustrialisierung und Jobverlust müssten gestoppt werden.",
+      "quelle": "ZDFheute, 22.6.2026; dpa-AFX, 26./27.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wer soll die Kosten tragen: Beschäftigte, Betriebe oder der Staat?",
+      "zeilen": [
+       "Schreibt es in die Kommentare.",
+       "Folgt uns für Einordnung statt Aufregung."
+      ]
+     }
+    ]
    }
   ],
   "storys": [
@@ -199,6 +262,23 @@ window.BRIEFINGS = [
     "theme": "dark",
     "bild": {
      "url": "titel-privatjets.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Aktuell",
+    "kicker": "Arbeit · Rente · Tarif",
+    "titel": "Rente und Löhne: Zwei Konflikte diese Woche",
+    "rot": "Zwei Konflikte",
+    "text": "Rente mit 63 und Metall-Tarifrunde im Karussell. Link in der Bio.",
+    "quelle": "dpa-AFX, ZDFheute, 26./27.10.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "titel-rente-tarif.jpg",
      "karte": true,
      "fokus": 0.5,
      "unter": "Illustration, KI-generiert, kein Foto"
