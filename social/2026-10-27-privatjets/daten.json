@@ -1,0 +1,82 @@
+{
+ "K": {
+  "zusatz": true,
+  "thema": "Privatjets: 182.000 Tonnen CO2 aus Deutschland, sagt Oxfam",
+  "caption": "Oxfam hat am Dienstag den Bericht „Disaster Divide“ vorgelegt. Für 2025 nennt die Organisation weltweit 16 Millionen Tonnen CO2 aus Privatjets, in Deutschland über 55.000 Starts und mehr als 182.000 Tonnen. Zur Einordnung: Das sind etwa 0,03 Prozent der deutschen Treibhausgase, genutzt werden Privatjets laut Oxfam aber von nur rund 250.000 Menschen weltweit. Der größere Hebel liegt laut Oxfam bei den Investitionen von Milliardären: das Dreißigfache der Jets. Quellen: dpa-AFX, AFP, UBA, Science Media Center. Privatjets: stärker besteuern, beschränken oder so lassen? Schreibt es in die Kommentare.",
+  "hashtags": "#doytschlandtv #aktuell #privatjets #oxfam #klima #einordnung #nachrichten #deutschland",
+  "slides": [
+   {
+    "typ": "hook",
+    "kicker": "Klima · Oxfam",
+    "titel": "Privatjets: 182.000 Tonnen CO2 aus Deutschland in einem Jahr",
+    "rot": "182.000 Tonnen CO2",
+    "bild": {
+     "url": "titel-privatjets.jpg",
+     "fokus": 0.5,
+     "unter": "Illustration, KI-generiert, kein Foto"
+    }
+   },
+   {
+    "typ": "fakten",
+    "label": "Die Analyse",
+    "titel": "Oxfam: 55.000 Privatjet-Starts in Deutschland.",
+    "text": "Der Bericht „Disaster Divide“ erschien am Dienstag, 27. Oktober, knapp zwei Wochen vor der UN-Klimakonferenz. Für 2025 nennt Oxfam weltweit 16 Millionen Tonnen CO2 aus Privatjets. In Deutschland starteten über 55.000 Privatjets und stießen mehr als 182.000 Tonnen CO2 aus.",
+    "quelle": "dpa-AFX, AFP (Tagesspiegel), 27.10.2026"
+   },
+   {
+    "typ": "zahl",
+    "label": "Der Vergleich",
+    "zahl": "30 Min.",
+    "text": "So lange brauchten die deutschen Privatjets laut Oxfam für so viel CO2, wie ein Durchschnittsmensch in Deutschland im ganzen Jahr verursacht (Oxfam rechnet mit 9,9 Tonnen). Nachgerechnet: 182.000 Tonnen verteilt auf alle halben Stunden eines Jahres sind rund 10,4 Tonnen.",
+    "quelle": "Oxfam laut dpa-AFX, 27.10.2026; eigene Rechnung"
+   },
+   {
+    "typ": "einordnung",
+    "label": "Die Größenordnung",
+    "titel": "Klein im Gesamtbild, groß pro Kopf.",
+    "text": "Deutschland stieß 2025 rund 649 Millionen Tonnen Treibhausgase aus. 182.000 Tonnen CO2 sind davon etwa 0,03 Prozent. Weltweit entsprachen Privatjets 2023 etwa 1,8 Prozent der Emissionen der gewerblichen Luftfahrt. Genutzt werden sie laut Oxfam von rund 250.000 Menschen, 0,003 Prozent der Weltbevölkerung.",
+    "quelle": "UBA, Stand 2.7.2026; Gössling et al. 2024 (Science Media Center); Oxfam laut dpa-AFX"
+   },
+   {
+    "typ": "einordnung",
+    "label": "Der größere Hebel",
+    "titel": "Investitionen wiegen 30-mal mehr als die Jets.",
+    "text": "Oxfam untersuchte auch die Investitionen von 1.000 Milliardären: 486 Millionen Tonnen CO2-Äquivalente im Jahr 2025, 71 Prozent in Öl, Gas und Chemie. Das ist das Dreißigfache der Privatjets. Die 49 deutschen Milliardäre liegen im Schnitt bei 704.881 Tonnen, der internationale Schnitt bei rund 486.000.",
+    "quelle": "Oxfam laut AFP (Tagesspiegel, GMX), 27.10.2026; eigene Rechnung"
+   },
+   {
+    "typ": "vergleich",
+    "labelA": "Das spricht für höhere Steuern",
+    "behauptung": "Oxfam: Wer viel ausstößt, soll mehr beitragen. Ein einzelner Privatjet-Flug stößt im Schnitt 3,7 Tonnen CO2 aus, fast so viel wie ein Mensch weltweit im Jahr.",
+    "labelB": "Das spricht für Zurückhaltung",
+    "fakt": "Der Klimaeffekt wäre klein: Deutsche Privatjets machen etwa 0,03 Prozent der Treibhausgase aus. Flüge in Europa mit Maschinen über 5,7 Tonnen fallen schon unter den EU-Emissionshandel, mit Ausnahmen (DLR).",
+    "quelle": "Oxfam laut AFP, 27.10.2026; UBA; Science Media Center (DLR)"
+   },
+   {
+    "typ": "cta",
+    "frage": "Privatjets: stärker besteuern, beschränken oder so lassen?",
+    "zeilen": [
+     "Schreibt es in die Kommentare.",
+     "Folgt uns für Einordnung statt Aufregung."
+    ]
+   }
+  ]
+ },
+ "S": {
+  "zusatz": true,
+  "art": "nachricht",
+  "band": "Aktuell",
+  "kicker": "Klima · Oxfam",
+  "titel": "Privatjets: 182.000 Tonnen CO2 aus Deutschland",
+  "rot": "182.000 Tonnen CO2",
+  "text": "Was Oxfam zählt, was das im Gesamtbild heißt. Karussell: Link in der Bio.",
+  "quelle": "dpa-AFX, AFP, 27.10.2026",
+  "theme": "dark",
+  "bild": {
+   "url": "titel-privatjets.jpg",
+   "karte": true,
+   "fokus": 0.5,
+   "unter": "Illustration, KI-generiert, kein Foto"
+  }
+ }
+}
