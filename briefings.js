@@ -21,7 +21,44 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Spanien: Zugunglück bei Toledo mit mindestens 64 Toten",
+    "Israel: Netanjahus Block liegt bei der Auszählung vorn, keine Mehrheit",
+    "Kabinett: Mehr Beschäftigte kritischer Infrastruktur werden überprüft",
+    "Merz in Tokio: Rohstoffe, Halbleiter und Handelsordnung"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Mittwoch, 28. Oktober.",
+    "Erstens: Spanien. Nahe Urda in der Provinz Toledo sind ein Zug des staatlichen Betreibers Renfe und ein Zug des privaten Betreibers Iryo zusammengestoßen. Laut ZDFheute, die sich auf dpa und AP stützt, kamen mindestens 64 Menschen ums Leben, die Regionalregierung von Kastilien-La Mancha nannte später 68. Mehr als 170 Menschen wurden verletzt, 58 davon schwer. An Bord waren 544 Menschen. Verkehrsminister Óscar Puente nannte die Entscheidung der Leitstelle unerklärlich und falsch: Das automatische Zugsicherungssystem sei nach einem Computerausfall nicht in Betrieb gewesen, dennoch sei ein Zug zur Weiterfahrt freigegeben worden. Die Ursache ist nicht offiziell bestätigt, die Opferzahl wurde mehrfach nach oben korrigiert (ZDFheute, 28.10.).",
+    "Zweitens: Israel. Im Morning Briefing stand noch die Nachwahl-Hochrechnung, die das Oppositionslager mit 52 zu 50 Sitzen knapp vorn sah. Mit fortschreitender Auszählung hat sich das Bild gedreht. Laut ZDFheute-Liveblog lag der Block von Ministerpräsident Netanjahu bei über 77 Prozent ausgezählter Stimmzettel bei 54 von 120 Sitzen, das Oppositionsbündnis um Gadi Eisenkot bei 49, die arabischen Parteien bei 17. Die Mehrheit liegt bei 61 Sitzen, keine Seite hat sie erreicht. Die Zahlen sind vorläufig, die letzte Meldung mit Sitzzahlen stammt von 14:33 Uhr; noch fehlen unter anderem Stimmen aus dem Doppelkuvert-Verfahren. Präsident Herzog will die offiziellen Ergebnisse nächste Woche entgegennehmen und danach Konsultationen mit allen Fraktionen beginnen (ZDFheute, 28.10.).",
+    "Drittens: Kabinett. Unter Leitung von Vizekanzler Klingbeil hat die Bundesregierung eine Verordnung beschlossen, die Sicherheitsüberprüfungen für Beschäftigte kritischer Infrastruktur ausweitet. Neu erfasst werden laut dpa unter anderem Anlagen, die das Stromnetz nach einem Blackout wieder hochfahren können, große Wasserwerke, Leitstellen größerer Talsperren und LNG-Terminals. Die Überprüfung setzt die Zustimmung der Betroffenen voraus, der Verfassungsschutz wirkt mit. Die Regierung verweist auf zunehmende hybride Bedrohungen, vor allem durch Russland. Innenminister Dobrindt sagte, hybride Bedrohungen seien reale Gefahren für Deutschlands Sicherheit (Tagesspiegel/dpa, 28.10.).",
+    "Viertens: Merz in Japan. Auf der dritten Station seiner Asienreise traf der Bundeskanzler Ministerpräsidentin Sanae Takaichi. Geplant sind laut Euronews Vereinbarungen zu Halbleitern, Hochtechnologie, Wasserstoff und kritischen Rohstoffen; sie werden dort als geplant, nicht als unterzeichnet beschrieben. Auf einem Wirtschaftsforum warb Merz für ein neues politisches Bündnis zur Stärkung des regelbasierten Welthandels (Euronews, 28.10.).",
+    "Außerdem: Die US-Notenbank Fed beließ den Leitzins bei 3,75 bis 4 Prozent. Zwei Mitglieder, Lisa Cook und Beth Hammack, stimmten dagegen und hätten eine Erhöhung um 0,25 Prozentpunkte vorgezogen (Fed-Beschluss, dokumentiert von dpa-AFX, 28.10.).",
+    "Morgen: Um 14:45 Uhr entscheidet die EZB über die Zinsen. Um 13:30 Uhr erscheint die erste Schätzung zum US-Bruttoinlandsprodukt im dritten Quartal. In Luxemburg treffen sich die EU-Energieminister, und es findet ein Gipfeltreffen der EU mit Kanada statt (dpa-AFX, Tagesvorschau 29.10.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 28.10.2026"
+    },
+    {
+     "titel": "Tagesspiegel/dpa, 28.10.2026"
+    },
+    {
+     "titel": "Euronews, 28.10.2026"
+    },
+    {
+     "titel": "dpa-AFX (Fed-Beschluss), 28.10.2026"
+    },
+    {
+     "titel": "dpa-AFX, Tagesvorschau 29.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
