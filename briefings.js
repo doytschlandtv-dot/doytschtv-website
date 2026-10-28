@@ -1,5 +1,127 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-28",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Israel-Wahl: Prognosen ohne klare Mehrheit",
+    "Berlin: SPD-Spitze will Mitglieder über Koalition abstimmen lassen",
+    "Merz in Asien: Singapur, heute Japan",
+    "Heute: Kabinett, Fed-Entscheid, EZB am Donnerstag"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Mittwoch, den 28. Oktober.",
+    "Gestern: Bei der Parlamentswahl in Israel sieht keine der Prognosen eine klare Mehrheit. Laut einer Hochrechnung von Channel 12 auf Basis von Nachwahlbefragungen kommt das Oppositionslager auf 52 der 120 Sitze, das Regierungslager von Ministerpräsident Netanjahu auf 50. Der Likud liegt demnach bei 24 Sitzen, die Partei von Gadi Eisenkot bei 22 (Handelsblatt, 27.10.). Die Wahlbeteiligung lag laut ORF bei 77,7 Prozent, dem höchsten Wert seit 1999. Die Briefwahlstimmen werden ab Mittwochfrüh gezählt, ein vorläufiges Ergebnis wird für Donnerstag erwartet, das offizielle Endergebnis für den 4. November (ORF, 27.10.). Eisenkot sprach von einem völligen Misstrauen gegenüber der Regierung, Außenminister Saar verwies darauf, dass der Likud die größte Partei sei (ORF, 27.10.).",
+    "In Berlin hat der geschäftsführende SPD-Landesvorstand einstimmig beschlossen, die Mitglieder über eine mögliche Koalition mit Linken und Grünen abstimmen zu lassen. Abgestimmt werden soll über den fertig verhandelten Koalitionsvertrag. Der Landesvorstand muss dem noch zustimmen (Berliner Zeitung, 27.10.). Die Linke entscheidet am Samstag auf einem Parteitag über Koalitionsverhandlungen (Table.Briefings, 27.10.).",
+    "Zuletzt: Bundeskanzler Merz ist auf Asienreise. In Singapur forderte er Peking auf, seinen Einfluss auf Russland für einen gerechten Frieden in der Ukraine zu nutzen. Er will ein Freihandelsabkommen der EU mit dem südostasiatischen Staatenbund Asean erreichen. Heute steht Japan auf dem Programm, dort geht es vor allem um die Sicherung kritischer Rohstoffe (Table.Briefings, 27.10.).",
+    "Heute: Das Bundeskabinett tagt ab 10 Uhr unter Leitung von Vizekanzler Klingbeil, weil Merz auf Reisen ist. Beraten werden soll eine Verordnung, die die Sicherheitsüberprüfung von Personal wichtiger Anlagen ausweitet (news.de/dpa, 28.10.). Um 10 Uhr verhandelt der BGH in Karlsruhe über eine Rechtsschutzversicherung bei einer Dieselklage. Um 19 Uhr verkündet die US-Notenbank Fed ihren Zinsentscheid (dpa-AFX, Tagesvorschau 28.10.).",
+    "Diese Woche: Am Donnerstag um 14:45 Uhr entscheidet die EZB über die Zinsen. Am Freitag kommen um 10 Uhr die erste Schätzung zum deutschen Bruttoinlandsprodukt im dritten Quartal und um 14 Uhr die Inflationszahlen (dpa-AFX, Wochenvorschau 26.10.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Mittwoch, 28. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Mittwoch, den 28. Oktober. Gestern: Bei der Israel-Wahl sieht keine Prognose eine klare Mehrheit. In Berlin will die SPD-Spitze ihre Mitglieder über eine mögliche Koalition abstimmen lassen. Kanzler Merz ist in Asien unterwegs. Heute: Kabinett um 10 Uhr, Fed-Zinsentscheid um 19 Uhr, am Donnerstag die EZB. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Mi., 28. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Drei Dinge",
+      "punkte": [
+       {
+        "kopf": "Israel-Wahl",
+        "text": "Laut Prognosen von TV-Sendern keine klare Mehrheit: Opposition 52, Regierungslager 50 von 120 Sitzen."
+       },
+       {
+        "kopf": "Berlin",
+        "text": "Die SPD-Spitze will die Mitglieder über den Koalitionsvertrag mit Linken und Grünen abstimmen lassen."
+       },
+       {
+        "kopf": "Merz in Asien",
+        "text": "In Singapur fordert er Peking auf, Einfluss auf Russland zu nutzen. Heute folgt Japan."
+       }
+      ],
+      "quelle": "Handelsblatt, ORF, Berliner Zeitung, Table.Briefings, 27.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 10 Uhr",
+        "text": "Das Kabinett tagt unter Leitung von Vizekanzler Klingbeil. Es geht um die Sicherheitsüberprüfung von Personal wichtiger Anlagen."
+       },
+       {
+        "kopf": "Heute, 19 Uhr",
+        "text": "Die US-Notenbank Fed verkündet ihren Zinsentscheid."
+       },
+       {
+        "kopf": "Donnerstag, 14:45 Uhr",
+        "text": "Zinsentscheid der Europäischen Zentralbank."
+       },
+       {
+        "kopf": "Freitag",
+        "text": "Um 10 Uhr das deutsche Bruttoinlandsprodukt im dritten Quartal, um 14 Uhr die Inflationszahlen."
+       }
+      ],
+      "quelle": "dpa-AFX, Tages- und Wochenvorschau; news.de/dpa, 28.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "77,7 Prozent",
+      "text": "Wahlbeteiligung bei der Parlamentswahl in Israel, laut ORF der höchste Wert seit 1999. Das offizielle Endergebnis wird am 4. November erwartet.",
+      "quelle": "ORF, 27.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Mi., 28. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Israel-Wahl, Berlin-Koalition und Merz in Asien im Karussell. Link in der Bio.",
+    "quelle": "Handelsblatt, ORF, Berliner Zeitung, 27.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-27",
   "morgen": {
    "titel": "Morning Briefing",
