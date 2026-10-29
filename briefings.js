@@ -23,7 +23,43 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "EZB lässt Zinsen unverändert, Lagarde kündigt Rücktritt zum 7. Februar 2027 an",
+    "Israel-Wahl: Keine Seite hat eine klare Mehrheit, Streit um Betrugsvorwurf",
+    "Pflegeversicherung: Linnemann schließt Leistungskürzungen nicht aus",
+    "Gen-Z-Proteste am Samstag: Rund 30 Städte, keine konkreten Gewaltaufrufe bekannt"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Donnerstag, 29. Oktober.",
+    "EZB: Der EZB-Rat hat die Zinsen unverändert gelassen, der Einlagenzins bleibt bei 2,5 Prozent. Laut dpa-AFX lag die Inflation im September im Euroraum bei 3,8 Prozent und in Deutschland bei 3,3 Prozent, jeweils der höchste Wert seit rund drei Jahren; das Ziel der EZB liegt bei 2,0 Prozent. Zurückhaltung begründet die Agentur auch mit der politischen Lage in Frankreich. Eine Zinserhöhung gilt als möglich bei der Ratssitzung Mitte Dezember. Kurz vor der Entscheidung teilte die EZB mit, dass Präsidentin Christine Lagarde zum 7. Februar 2027 zurücktritt; ihre reguläre Amtszeit hätte bis Ende Oktober 2027 gedauert (dpa-AFX über finanzen.at, 29.10.).",
+    "Israel: Die Parlamentswahl hat laut ZDFheute-Liveblog keinen klaren Sieger. Netanjahus Lager liegt nach Auszählung der meisten Stimmen vor dem Oppositionsblock, hat aber keine Mehrheit; das Morning-Briefing-Zwischenergebnis von 54 zu 49 Sitzen bei den rund 77 Prozent ausgezählten Stimmen am Morgen ist damit überholt, ein vorläufiges Endergebnis wird laut Liveblog am Abend nach Auszählung der Briefwahlstimmen erwartet. Netanjahu wirft arabischen Parteien vor, die Wahl gestohlen zu haben. Belege nennt der Bericht nicht, der amtierende Direktor der Wahlkommission sieht keine Anhaltspunkte für Wahlbetrug. Staatspräsident Herzog muss einen Kandidaten mit der Regierungsbildung beauftragen. Unsere Einordnung: Ein Betrugsvorwurf ohne vorgelegte Belege bleibt ein Vorwurf und kein Befund (ZDFheute-Liveblog, 29.10., Stand 11:44 Uhr).",
+    "Pflege: Bundesgesundheitsminister Carsten Linnemann (CDU) hat laut dpa Leistungskürzungen in der Pflegeversicherung nicht ausgeschlossen und sagte dem Handelsblatt, man müsse rund zehn Prozent sparen. Für 2027 droht ohne Reform laut dpa eine Lücke von etwa acht Milliarden Euro; die Koalition arbeitet an einem Gesetz, eine Kommission soll weitere Reformen vorbereiten. VdK-Präsidentin Verena Bentele fordert eine klare Absage an Kürzungen, die Deutsche Stiftung Patientenschutz warnt vor Einschnitten bei der häuslichen Pflege. Unsere Einordnung: Von Kürzungen wären vor allem Pflegebedürftige und ihre Angehörigen betroffen, entscheidend wird, wer die Finanzierungslücke trägt (t-online/dpa, 29.10.).",
+    "Gen-Z-Proteste: Für Samstag, 31. Oktober, sind laut dpa Demonstrationen in knapp 30 Städten angekündigt, gegen hohe Lebenshaltungskosten und für bessere Bildung. Wer hinter dem Aufruf steht, ist laut dpa unklar. Das Bundesinnenministerium sieht vorerst keine konkreten Gewaltaufrufe, die Berliner Polizei bereitet sich mit rund 1.500 Einsatzkräften vor (Tagesspiegel/dpa, 29.10.).",
+    "Morgen: Am Freitag, 30. Oktober, kommen um 9:55 Uhr die Arbeitslosenzahlen für Oktober, um 10 Uhr die erste Schätzung zum deutschen Bruttoinlandsprodukt im dritten Quartal und um 14 Uhr die vorläufige Inflationsrate für Oktober. In Atlanta treffen sich die G20-Außenminister unter Vorsitz von US-Außenminister Rubio (dpa-AFX, Tagesvorschau, 29.10.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "dpa-AFX über finanzen.at, 29.10.2026"
+    },
+    {
+     "titel": "ZDFheute, 29.10.2026"
+    },
+    {
+     "titel": "t-online/dpa, 29.10.2026"
+    },
+    {
+     "titel": "Tagesspiegel/dpa, 29.10.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau, 29.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
