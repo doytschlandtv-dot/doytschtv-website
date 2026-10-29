@@ -1,5 +1,133 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-29",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Israel-Wahl: Netanjahu-Block bei 54 Sitzen, Opposition 49, arabische Parteien 17",
+    "Elterngeld: Reformentwurf sieht Erhöhung vor",
+    "Merz in Tokio: Vorschlag für Handelsallianz",
+    "Gen-Z-Proteste am Samstag: Innenministerium sieht keine konkreten Gewaltaufrufe",
+    "Heute: EZB-Zinsentscheid, am Freitag BIP und Inflation"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Donnerstag, den 29. Oktober.",
+    "Gestern: Bei der Auszählung der Parlamentswahl in Israel liegt der Block von Ministerpräsident Netanjahu laut dem ZDFheute-Liveblog bei rund 77 Prozent ausgezählter Stimmen vorläufig bei 54 der 120 Sitze, der Oppositionsblock um Gadi Eisenkot bei 49, die arabischen Parteien bei 17. Für eine Mehrheit sind 61 Sitze nötig. Die Wahlbeteiligung lag bei 77,7 Prozent, dem höchsten Wert seit 1999. Der Likud warf arabischen Parteien Wahlbetrug vor; das ließ sich laut ZDFheute nicht unabhängig überprüfen. Präsident Herzog will nach Übergabe des offiziellen Ergebnisses, erwartet in der nächsten Woche, alle Fraktionen anhören (ZDFheute, 28.10.).",
+    "Elterngeld: Laut einem von ZDFheute eingesehenen Gesetzentwurf soll das Elterngeld erstmals seit 2007 steigen, der Mindestsatz von 300 auf 330 Euro, der Höchstsatz von 1.800 auf 1.900 Euro im Monat. Die geplante Kürzung der Bezugsdauer von 14 auf 12 Monate ist demnach gestrichen. Entschieden ist nichts, der Entwurf befindet sich in der regierungsinternen Abstimmung (ZDFheute, 28.10.).",
+    "Merz in Japan: Bundeskanzler Merz hat bei einem Wirtschaftsforum in Tokio vorgeschlagen, eine Allianz für einen regelbasierten Welthandel zu gründen. Sie solle die Welthandelsorganisation nicht ersetzen, aber ihre Reform voranbringen und gemeinsam gegen rechtswidrige Zölle auftreten. Beide Regierungen vereinbarten laut ZDFheute zudem eine gemeinsame Erklärung unter anderem zu Raumfahrt, Fusionsenergie, Wasserstoff und KI. Die Reise geht weiter nach Südkorea (ZDFheute, 28.10.).",
+    "Zuletzt: Vor den für Samstag, 31. Oktober, angekündigten Protesten der Initiative Gen Z sieht das Bundesinnenministerium laut ZDFheute-Newsticker vorerst keine konkreten Gewaltaufrufe. Berlin bereitet sich demnach mit rund 1.500 Polizisten auf die Demonstrationen vor (ZDFheute-Newsticker, 28.10.).",
+    "Heute: Um 14:45 Uhr entscheidet die EZB über die Zinsen. Um 13:30 Uhr kommt die erste Schätzung zum US-Bruttoinlandsprodukt im dritten Quartal. Um 11 Uhr folgt das Wirtschaftsvertrauen im Euroraum. Volkswagen, Adidas und MTU legen Quartalszahlen vor. Ohne feste Uhrzeit stehen der EU-Kanada-Gipfel, ein Treffen der EU-Energieminister in Luxemburg und das Ende des Fünften Plenums der KP Chinas in Peking im Kalender (dpa-AFX, Tagesvorschau 29.10.).",
+    "Diese Woche: Am Freitag um 9:55 Uhr kommen die Arbeitslosenzahlen für Oktober, um 10 Uhr die erste Schätzung zum deutschen Bruttoinlandsprodukt im dritten Quartal und um 14 Uhr die vorläufige Inflationsrate. Ebenfalls am Freitag treffen sich die G20-Außenminister in Atlanta unter Vorsitz von US-Außenminister Rubio. Am Montag, 2. November, folgt der Digitalgipfel der Bundesregierung in Berlin (dpa-AFX, Wochenvorschau, 28.10.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Donnerstag, 29. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Donnerstag, den 29. Oktober. Gestern: Bei der Auszählung in Israel liegt der Netanjahu-Block vorläufig bei 54 von 120 Sitzen, die Opposition bei 49. Der Entwurf zur Elterngeldreform sieht 330 statt 300 Euro Mindestsatz vor. Merz schlägt in Tokio eine Handelsallianz vor. Vor den Gen-Z-Protesten am Samstag sieht das Innenministerium vorerst keine konkreten Gewaltaufrufe. Heute: EZB-Zinsentscheid um 14:45 Uhr, am Freitag BIP und Inflation. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Do., 29. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Israel-Wahl",
+        "text": "Bei rund 77 Prozent Auszählung: Netanjahu-Block 54, Opposition 49, arabische Parteien 17 von 120 Sitzen."
+       },
+       {
+        "kopf": "Elterngeld",
+        "text": "Entwurf: Mindestsatz 330 statt 300 Euro, Höchstsatz 1.900 statt 1.800. Noch nicht entschieden."
+       },
+       {
+        "kopf": "Merz in Tokio",
+        "text": "Er schlägt eine Allianz für regelbasierten Welthandel vor. Weiter geht es nach Südkorea."
+       },
+       {
+        "kopf": "Gen-Z-Proteste",
+        "text": "Für Samstag angekündigt. Das Innenministerium sieht vorerst keine konkreten Gewaltaufrufe."
+       }
+      ],
+      "quelle": "ZDFheute, ZDFheute-Newsticker, 28.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 14:45 Uhr",
+        "text": "Die EZB gibt ihren Zinsentscheid bekannt."
+       },
+       {
+        "kopf": "Heute",
+        "text": "EU-Kanada-Gipfel, EU-Energieminister in Luxemburg, Quartalszahlen von VW und Adidas."
+       },
+       {
+        "kopf": "Freitag, 10 Uhr",
+        "text": "Erste Schätzung zum deutschen BIP im dritten Quartal, um 14 Uhr die Inflation."
+       },
+       {
+        "kopf": "Samstag und Montag",
+        "text": "Gen-Z-Proteste am 31. Oktober, Digitalgipfel der Bundesregierung am 2. November."
+       }
+      ],
+      "quelle": "dpa-AFX, Tages- und Wochenvorschau; ZDFheute, 28.10."
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "330 Euro",
+      "text": "soll der Mindestsatz beim Elterngeld künftig betragen, bisher 300 Euro. Es wäre die erste Erhöhung seit 2007. Der Entwurf ist noch nicht beschlossen.",
+      "quelle": "ZDFheute, 28.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Do., 29. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Israel-Wahl, Elterngeld, Merz in Tokio und Gen-Z-Proteste im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, 28.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-28",
   "morgen": {
    "titel": "Morning Briefing",
