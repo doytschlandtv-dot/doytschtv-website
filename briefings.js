@@ -124,61 +124,6 @@ window.BRIEFINGS = [
     "text": "Israel-Wahl, Elterngeld, Merz in Tokio und Gen-Z-Proteste im Karussell. Link in der Bio.",
     "quelle": "ZDFheute, 28.10.2026",
     "theme": "dark"
-   },
-   {
-    "zusatz": true,
-    "art": "nachricht",
-    "band": "Briefing",
-    "kicker": "Morning Briefing · 1 von 5",
-    "titel": "Israel-Wahl: Netanjahu-Block bei 54 von 120 Sitzen",
-    "rot": "54 von 120 Sitzen",
-    "text": "Bei rund 77 Prozent Auszählung: Opposition 49, arabische Parteien 17. Für die Mehrheit sind 61 nötig. Beteiligung 77,7 Prozent, der höchste Wert seit 1999.",
-    "quelle": "ZDFheute-Liveblog, 28.10.2026",
-    "theme": "dark"
-   },
-   {
-    "zusatz": true,
-    "art": "nachricht",
-    "band": "Briefing",
-    "kicker": "Morning Briefing · 2 von 5",
-    "titel": "Elterngeld soll erstmals seit 2007 steigen",
-    "rot": "erstmals seit 2007",
-    "text": "Entwurf: Mindestsatz 330 statt 300 Euro, Höchstsatz 1.900 statt 1.800. Kürzung der Bezugsdauer ist gestrichen. Noch nicht entschieden.",
-    "quelle": "ZDFheute, 28.10.2026",
-    "theme": "dark"
-   },
-   {
-    "zusatz": true,
-    "art": "nachricht",
-    "band": "Briefing",
-    "kicker": "Morning Briefing · 3 von 5",
-    "titel": "Merz in Tokio: Vorschlag für eine Handelsallianz",
-    "rot": "Handelsallianz",
-    "text": "Allianz für regelbasierten Welthandel, die die WTO nicht ersetzt, aber ihre Reform voranbringt. Weiter nach Südkorea.",
-    "quelle": "ZDFheute, 28.10.2026",
-    "theme": "dark"
-   },
-   {
-    "zusatz": true,
-    "art": "nachricht",
-    "band": "Briefing",
-    "kicker": "Morning Briefing · 4 von 5",
-    "titel": "Gen-Z-Proteste am Samstag: keine konkreten Gewaltaufrufe",
-    "rot": "keine konkreten Gewaltaufrufe",
-    "text": "Das Innenministerium sieht vorerst keine konkreten Gewaltaufrufe. Berlin bereitet sich mit rund 1.500 Polizisten auf die Demos am 31. Oktober vor.",
-    "quelle": "ZDFheute-Newsticker, 28.10.2026",
-    "theme": "dark"
-   },
-   {
-    "zusatz": true,
-    "art": "nachricht",
-    "band": "Briefing",
-    "kicker": "Morning Briefing · 5 von 5",
-    "titel": "Heute: EZB-Zinsentscheid um 14:45 Uhr",
-    "rot": "14:45 Uhr",
-    "text": "Außerdem US-BIP um 13:30 Uhr, Quartalszahlen von VW, Adidas und MTU. Freitag: BIP, Inflation und Arbeitslosenzahlen.",
-    "quelle": "dpa-AFX, 28./29.10.2026",
-    "theme": "dark"
    }
   ]
  },
