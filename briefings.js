@@ -22,7 +22,46 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Konjunktur: Wirtschaft wächst im dritten Quartal um 0,2 Prozent, Inflation sinkt auf 2,8 Prozent",
+    "Steinmeier bei Xi Jinping: Druck auf den Handelsüberschuss",
+    "Israel nach der Wahl: Patt, Endergebnis soll am 4. November vorliegen",
+    "Iran und Ukraine: Merz fordert diplomatische Lösung, Moskau meldet Angriffe auf Raffinerien"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Freitag, 30. Oktober.",
+    "Erstens: Konjunktur. Die deutsche Wirtschaft ist im dritten Quartal laut vorläufiger Schätzung des Statistischen Bundesamts um 0,2 Prozent gegenüber dem Vorquartal gewachsen, obwohl Ökonomen laut dpa-AFX mit Stagnation gerechnet hatten. Die Inflationsrate sank im Oktober vorläufig auf 2,8 Prozent, nach 3,3 Prozent im September, also um 0,5 Punkte. Als Hauptgrund nennt dpa-AFX den neuen Tankrabatt; er gilt nach einem Bericht der taz vom 25. September von 1. Oktober bis Ende 2026 und beträgt rund 17 Cent je Liter. Die Preise für Sprit und Haushaltsenergie lagen dennoch 12,2 Prozent über dem Vorjahr, und Ökonomen warnen laut dpa-AFX vor einem erneuten Anstieg über drei Prozent zum Jahreswechsel. Am Arbeitsmarkt sank die Zahl der Arbeitslosen saisonbedingt um 40.000 auf 2,955 Millionen, die Quote um 0,1 Punkte auf 6,3 Prozent; gegenüber Oktober 2025 sind es 44.000 mehr. Kritik am Tankrabatt kommt etwa von der Ökonomin Claudia Kemfert vom DIW, die ihn für unpassend hält: nicht zielgenau, teuer und ohne Sparanreiz (dpa-AFX, 30.10.; taz, 25.09.).",
+    "Zweitens: China. Bundespräsident Steinmeier ist zum Abschluss seines viertägigen Staatsbesuchs in Peking von Staatspräsident Xi Jinping empfangen worden. Er drängte laut dpa-AFX auf einen Abbau des deutschen Handelsdefizits gegenüber China, das 2025 nach Zahlen des Statistischen Bundesamts bei rund 90 Milliarden Euro lag: Importe aus China von 170,6 Milliarden Euro standen deutschen Exporten von 81,3 Milliarden gegenüber. Xi sprach von Offenheit statt Abschottung und Zusammenarbeit statt Konfrontation. Steinmeier verwies auf die regelbasierte Weltordnung, die unter Druck stehe, und bat China, sie zu erhalten (dpa-AFX, 30.10.).",
+    "Drittens: Israel. Nach der Wahl hat laut ORF und ZDFheute weder das Lager von Regierungschef Netanjahu noch das von Gadi Eisenkot die nötigen 61 von 120 Sitzen. Netanjahu schließt eine Regierung mit Unterstützung arabischer Parteien aus, Eisenkot ein Bündnis mit Netanjahu. Staatspräsident Herzog will den Regierungsbildungsauftrag laut ORF erst nach dem offiziellen Endergebnis erteilen, das für den 4. November erwartet wird. Beide Lager reklamieren den Sieg für sich (ORF, 28.10.; ZDFheute).",
+    "Viertens: Iran und Ukraine. Bundeskanzler Merz forderte in Seoul angesichts von Spekulationen über neue US-Angriffe eine diplomatische Lösung im Iran-Konflikt; er lasse sich nicht militärisch lösen. Moskau meldet, die Ukraine habe ihre Angriffe auf russische Raffinerien wieder aufgenommen, drei Raffinerien und ein Gas-Chemiekomplex seien getroffen worden. Das ist eine Angabe der russischen Seite, unabhängig überprüft ist sie nicht (dpa-AFX, 30.10.).",
+    "Morgen: Am Samstag rufen Jugendliche unter dem Namen Gen Z regelt zu Protesten auf; das Bundeskriminalamt erwartet laut ZDFheute keine Gewalt wie in Frankreich (ZDFheute, 29.10.). Außerdem entscheidet ein Sonderparteitag der Berliner Linken über Koalitionsgespräche mit SPD und Grünen (Berliner Zeitung, 30.10.). Aus China kommen um 2:30 Uhr die Einkaufsmanagerindizes für Oktober (dpa-AFX, Tagesvorschau). Am Sonntag tagen die Ölförderländer der OPEC+ (dpa-AFX, Tagesvorschau).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "dpa-AFX, 30.10.2026"
+    },
+    {
+     "titel": "taz, 25.09.2026"
+    },
+    {
+     "titel": "ORF, 28.10.2026"
+    },
+    {
+     "titel": "ZDFheute, 29.10.2026"
+    },
+    {
+     "titel": "Berliner Zeitung, 30.10.2026"
+    },
+    {
+     "titel": "dpa-AFX, Tagesvorschau 31.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,

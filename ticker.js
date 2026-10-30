@@ -2,31 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-10-30T05:54:00+01:00",
+ "stand": "2026-10-30T21:40:00+01:00",
  "items": [
   {
-   "z": "2026-10-29T18:53:00+01:00",
-   "t": "Der Dax schließt laut ZDFheute-Newsticker erstmals seit Anfang September über 26.000 Punkten; die EZB lässt die Zinsen unverändert",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "z": "2026-10-30T12:59:00+01:00",
+   "t": "Bundespräsident Steinmeier drängt laut dpa-AFX bei Staatspräsident Xi in Peking auf einen Abbau des deutschen Handelsdefizits, das 2025 bei rund 90 Milliarden Euro lag",
+   "q": "dpa-AFX",
+   "u": "https://www.ariva.de/news/roundup-steinmeier-draengt-bei-xi-auf-abbau-des-12188705"
   },
   {
-   "z": "2026-10-29T20:23:00+01:00",
-   "t": "Nach der Israel-Wahl hat laut ZDFheute keines der Lager die nötigen 61 Sitze; Netanjahus Block kommt auf 53, die Opposition auf 48",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/ausland/israel-wahl-auszaehlung-ergebnis-gewinner-netanjahu-eisenkot-100.html"
+   "z": "2026-10-30T15:08:00+01:00",
+   "t": "Die deutsche Wirtschaft wächst im dritten Quartal laut vorläufiger Schätzung um 0,2 Prozent, die Inflationsrate sinkt im Oktober auf 2,8 Prozent (dpa-AFX)",
+   "q": "dpa-AFX",
+   "u": "https://www.ariva.de/news/roundup-3-deutsche-wirtschaft-waechst-ueberraschend-12188963"
   },
   {
-   "z": "2026-10-29T22:45:00+01:00",
-   "t": "Das BKA erwartet laut ZDFheute für die Jugendproteste am Samstag keine so gewalttätigen Verläufe wie in Frankreich",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "z": "2026-10-30T15:08:00+01:00",
+   "t": "Die Zahl der Arbeitslosen sinkt im Oktober laut Bundesagentur um 40.000 auf 2,955 Millionen, im Vergleich zum Vorjahr sind es 44.000 mehr (dpa-AFX)",
+   "q": "dpa-AFX",
+   "u": "https://www.ariva.de/news/roundup-3-deutsche-wirtschaft-waechst-ueberraschend-12188963"
   },
   {
-   "z": "2026-10-30T05:00:00+01:00",
-   "t": "Bundespräsident Steinmeier wird laut ZDFheute heute in Peking von Staatspräsident Xi Jinping empfangen, es ist der erste China-Besuch eines Bundespräsidenten seit fast acht Jahren",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/deutschland/bundespraesident-steinmeier-china-100.html"
+   "z": "2026-10-30T17:04:00+01:00",
+   "t": "Bundeskanzler Merz fordert in Seoul laut dpa-AFX eine diplomatische Lösung im Iran-Konflikt; er lasse sich nicht militärisch lösen",
+   "q": "dpa-AFX",
+   "u": "https://www.finanzen.net/nachricht/aktien/dpa-afx-ueberblick-konjunktur-vom-30-10-2026-17-00-uhr-16023737"
   }
  ]
 };
