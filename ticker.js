@@ -2,37 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-10-29T21:35:00+01:00",
+ "stand": "2026-10-30T05:54:00+01:00",
  "items": [
   {
-   "z": "2026-10-29T10:44:00+01:00",
-   "t": "Für Samstag sind laut dpa Gen-Z-Demonstrationen in knapp 30 Städten angekündigt; das Bundesinnenministerium sieht vorerst keine konkreten Gewaltaufrufe",
-   "q": "Tagesspiegel/dpa",
-   "u": "https://www.tagesspiegel.de/politik/dpa-gen-z-regelt-demonstrationen-was-vom-protest-samstag-am-31-oktober-zu-erwarten-ist-16213315.html"
-  },
-  {
-   "z": "2026-10-29T11:44:00+01:00",
-   "t": "Nach der Israel-Wahl hat laut ZDFheute-Liveblog keiner der beiden Blöcke eine Mehrheit; ein vorläufiges Endergebnis wird am Abend erwartet",
+   "z": "2026-10-29T18:53:00+01:00",
+   "t": "Der Dax schließt laut ZDFheute-Newsticker erstmals seit Anfang September über 26.000 Punkten; die EZB lässt die Zinsen unverändert",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/ausland/israel-wahl-ergebnis-netanjahu-eisenkot-liveblog-100.html"
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-10-29T14:20:00+01:00",
-   "t": "Gesundheitsminister Linnemann schließt laut dpa Leistungskürzungen in der Pflegeversicherung nicht aus; für 2027 droht ohne Reform eine Lücke von etwa acht Milliarden Euro",
-   "q": "t-online/dpa",
-   "u": "https://www.t-online.de/nachrichten/deutschland/id_101503702/linnemann-schliesst-kuerzung-von-pflegeleistungen-nicht-aus.html"
+   "z": "2026-10-29T20:23:00+01:00",
+   "t": "Nach der Israel-Wahl hat laut ZDFheute keines der Lager die nötigen 61 Sitze; Netanjahus Block kommt auf 53, die Opposition auf 48",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/politik/ausland/israel-wahl-auszaehlung-ergebnis-gewinner-netanjahu-eisenkot-100.html"
   },
   {
-   "z": "2026-10-29T14:28:00+01:00",
-   "t": "Die EZB lässt den Einlagenzins bei 2,5 Prozent, obwohl die Inflation im Euroraum im September laut dpa-AFX bei 3,8 Prozent lag",
-   "q": "dpa-AFX",
-   "u": "https://www.finanzen.at/nachrichten/aktien/roundup-ezb-keine-zinserhoehung-trotz-steigender-inflation-1036685106"
+   "z": "2026-10-29T22:45:00+01:00",
+   "t": "Das BKA erwartet laut ZDFheute für die Jugendproteste am Samstag keine so gewalttätigen Verläufe wie in Frankreich",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-10-29T16:50:00+01:00",
-   "t": "EZB-Präsidentin Lagarde tritt laut EZB-Mitteilung zum 7. Februar 2027 zurück, knapp neun Monate vor Ende ihrer regulären Amtszeit",
-   "q": "dpa-AFX",
-   "u": "https://www.finanzen.at/nachrichten/devisen/devisen-euro-legt-nach-ezb-entscheidung-etwas-zu-1036685984"
+   "z": "2026-10-30T05:00:00+01:00",
+   "t": "Bundespräsident Steinmeier wird laut ZDFheute heute in Peking von Staatspräsident Xi Jinping empfangen, es ist der erste China-Besuch eines Bundespräsidenten seit fast acht Jahren",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/politik/deutschland/bundespraesident-steinmeier-china-100.html"
   }
  ]
 };

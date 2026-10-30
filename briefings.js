@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-30",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Israel-Wahl: Patt zwischen den Lagern, 61 Sitze nötig",
+    "EZB lässt Zinsen unverändert, Lagarde kündigt vorzeitigen Abschied an",
+    "Berlin: CDU bietet Grünen und SPD Gespräche an, Linke-Parteitag am Samstag",
+    "Gen-Z-Proteste am Samstag: BKA erwartet keine Gewalt wie in Frankreich"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Freitag, den 30. Oktober.",
+    "Gestern: Nach Auszählung aller Stimmen gibt es in Israel ein Patt. Das Lager von Regierungschef Netanjahu kommt laut ZDFheute auf 53 Sitze, die Opposition auf 48, die arabischen Parteien auf 19. Für eine Mehrheit sind 61 Sitze nötig. Die Zahlen stammen laut ZDFheute aus Berichten israelischer Medien. Likud-Vertreter sprechen von einer gestohlenen Wahl; belegt ist das nach dem ZDF-Bericht nicht. Der Inlandsgeheimdienst Schin Bet prüft Vorwürfe zur Finanzierung arabischer Parteien aus dem Ausland, öffentlich vorgelegte Belege gibt es bisher nicht (ZDFheute, 29.10.).",
+    "Die Europäische Zentralbank hat den Einlagenzins bei 2,5 Prozent belassen. EZB-Präsidentin Christine Lagarde tritt laut dpa-AFX-Bericht vorzeitig zurück, rund neun Monate vor dem regulären Ende ihrer Amtszeit (ZDFheute-Newsticker und dpa-AFX, 29.10.).",
+    "In Berlin kam das neu gewählte Abgeordnetenhaus zur ersten Sitzung zusammen. Die CDU hat Grüne und SPD zu vertraulichen Gesprächen eingeladen, die Linke wurde nicht eingeladen. Die SPD sagt, es sei keine Sondierung, die Grünen sprechen von der Gestaltung der Übergangszeit. Die Linke, stärkste Kraft mit 25,7 Prozent, entscheidet am 31. Oktober auf einem Parteitag über Koalitionsgespräche (Volksstimme, 29.10.).",
+    "Zuletzt: Für Samstag sind bundesweit Jugendproteste unter dem Namen Gen Z regelt angekündigt. Das Bundeskriminalamt erwartet laut ZDFheute keine so gewalttätigen Verläufe wie in Frankreich. Innenminister Dobrindt hatte vor einer Vereinnahmung durch Linksextremisten gewarnt und zugleich zwischen Schülerdemonstrationen und gewaltbereiten Extremisten unterschieden (ZDFheute, 21. und 29.10.).",
+    "Heute: Um 9:55 Uhr kommen die Arbeitslosenzahlen für Oktober, um 10 Uhr die erste Schätzung zum Bruttoinlandsprodukt im dritten Quartal, um 14 Uhr die vorläufigen Verbraucherpreise. Bundespräsident Steinmeier wird in Peking von Staatspräsident Xi Jinping empfangen; es ist der erste China-Besuch eines Bundespräsidenten seit fast acht Jahren (ZDFheute, 30.10.; dpa-AFX, Tagesvorschau 30.10.).",
+    "Diese Woche: Am Samstag, 31. Oktober, die Gen-Z-Demonstrationen und der Parteitag der Berliner Linken. Am Montag der Digitalgipfel der Bundesregierung in Berlin, am Dienstag die Kongresswahlen in den USA. Am Mittwoch verhandelt das Bundesverfassungsgericht über den Ausschluss eines Abgeordneten aus der AfD-Bundestagsfraktion, am Donnerstag der Bundesgerichtshof über die Abfrage von Login-Daten bei der Kündigung von Online-Verträgen (dpa-AFX, Wochenvorschau).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Freitag, 30. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Freitag, den 30. Oktober. Gestern: In Israel gibt es nach der Auszählung ein Patt, für eine Mehrheit sind 61 Sitze nötig. Die EZB lässt den Einlagenzins bei 2,5 Prozent. In Berlin lädt die CDU Grüne und SPD zu Gesprächen ein. Heute: BIP-Schätzung und Arbeitslosenzahlen, Steinmeier bei Xi Jinping in Peking. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Fr., 30. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Israel",
+        "text": "Patt nach der Wahl: Netanjahus Lager 53 Sitze, Opposition 48, arabische Parteien 19. Nötig sind 61 (laut ZDFheute)."
+       },
+       {
+        "kopf": "EZB",
+        "text": "Der Einlagenzins bleibt bei 2,5 Prozent. Lagarde kündigt laut dpa-AFX einen vorzeitigen Abschied an."
+       },
+       {
+        "kopf": "Berlin",
+        "text": "Die CDU lädt Grüne und SPD zu Gesprächen ein. Die Linke entscheidet am Samstag über Koalitionsgespräche."
+       },
+       {
+        "kopf": "Gen-Z-Proteste",
+        "text": "Das BKA erwartet laut ZDFheute keine so gewalttätigen Verläufe wie in Frankreich."
+       }
+      ],
+      "quelle": "ZDFheute, 29.10.2026; dpa-AFX, 29.10.2026; Volksstimme, 29.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 10 Uhr",
+        "text": "Erste BIP-Schätzung für das dritte Quartal, davor um 9:55 Uhr die Arbeitslosenzahlen."
+       },
+       {
+        "kopf": "Steinmeier in Peking",
+        "text": "Empfang bei Xi Jinping, der erste China-Besuch eines Bundespräsidenten seit fast acht Jahren."
+       },
+       {
+        "kopf": "Samstag, 31. Oktober",
+        "text": "Gen-Z-Demonstrationen und Parteitag der Berliner Linken."
+       },
+       {
+        "kopf": "Mittwoch, 4. November",
+        "text": "Das Bundesverfassungsgericht verhandelt über den Ausschluss eines Abgeordneten aus der AfD-Bundestagsfraktion."
+       }
+      ],
+      "quelle": "dpa-AFX, Tagesvorschau 30.10.2026 und Wochenvorschau; ZDFheute, 30.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "61 Sitze",
+      "text": "sind in der Knesset für eine Mehrheit nötig. Netanjahus Lager kommt laut ZDFheute auf 53, die Opposition auf 48.",
+      "quelle": "ZDFheute, 29.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Fr., 30. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Israel-Wahl, EZB, Berlin und Gen-Z-Proteste im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, 29.10.2026; dpa-AFX",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-29",
   "morgen": {
    "titel": "Morning Briefing",
