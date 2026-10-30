@@ -2433,6 +2433,82 @@ window.BRIEFINGS = [
       "frage": "Was würde berufstätigen Pflegenden am meisten helfen?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
+    "caption": "Vor 65 Jahren, am 30. Oktober 1961, vereinbarten die Bundesrepublik und die Türkei die Vermittlung türkischer Arbeitnehmer: höchstens zwei Jahre, keine Regelung zum Familiennachzug. Bis 1973 kamen rund 867.000 Menschen. 1964 fiel die Zwei-Jahres-Grenze, 1973 stoppte der Bund die Anwerbung, die Familien blieben. Unser Dossier erzählt die Chronik und die drei Räume dahinter: Opferraum, Konfliktraum, Syntheseraum. Mein Wort dazu: Doytsch. Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders? Das ganze Dossier: Link in der Bio.",
+    "hashtags": "#doytschlandtv #dossier #anwerbeabkommen #gastarbeiter #migration #zusammenleben #deutschtürken #einordnung",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Dossier · Migration und Zusammenleben",
+      "titel": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
+      "rot": "Jahrzehnte",
+      "bild": {
+       "url": "titel-anwerbeabkommen.jpg",
+       "fokus": 0.5,
+       "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "30. Oktober 1961",
+      "titel": "Ein Notenwechsel, kein Festakt.",
+      "text": "Die Bundesrepublik und die Türkei vereinbarten die Vermittlung türkischer Arbeitnehmer. Vorgesehen: höchstens zwei Jahre Aufenthalt (Art. 9), keine Regelung zum Familiennachzug.",
+      "quelle": "bpb (Abkommenstext, Art. 9); LpB Baden-Württemberg"
+     },
+     {
+      "typ": "zahl",
+      "label": "kamen bis 1973",
+      "zahl": "867.000",
+      "text": "Rund 80 Prozent arbeiteten in Industrie und am Bau. Im selben Zeitraum wurden etwa 500.000 Rückwanderungen registriert.",
+      "quelle": "bpb (Stefan Luft); LpB Baden-Württemberg"
+     },
+     {
+      "typ": "fakten",
+      "label": "1964 und 1973",
+      "titel": "Aus Gästen wurden Nachbarn.",
+      "text": "1964 fiel die Zwei-Jahres-Grenze, auf Wunsch der Arbeitgeber. Am 23. November 1973 stoppte der Bund die Anwerbung. Danach kamen die Familien: 53 Prozent der türkischstämmigen Einwohner kamen über den Familiennachzug.",
+      "quelle": "bpb, Anwerbung türkischer Arbeitnehmer und ihre Folgen"
+     },
+     {
+      "typ": "fakten",
+      "label": "Was die Chronik nicht zeigt",
+      "titel": "Drei Generationen, drei Fragen.",
+      "text": "Mein Großvater steht in keiner Zeitleiste. Er gab seine Jugend her für die Zukunft seiner Enkel. Sein Sohn übersetzte früh für die Familie. Ich frage heute, wem dieses Land gehört. Jede Generation lebte in einem anderen Raum.",
+      "quelle": "Eigene Familiengeschichte; Dossier, drei Räume"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Opferraum · erste Generation",
+      "titel": "Arbeiten und schweigen.",
+      "text": "Opfer heißt hier: Opfer bringen, nicht Opferrolle. Sie gaben ihre Jugend her, damit es den Kindern besser geht. Für das Land waren sie Arbeitskräfte, nicht Bürger. „Wir tragen heute, damit ihr morgen tragen könnt.“",
+      "quelle": "Dossier, drei Räume"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Konfliktraum · zweite Generation",
+      "titel": "Zwischen den Welten.",
+      "text": "Zerrissen zwischen Elternhaus und Gesellschaft. Schon als Kinder übersetzten sie bei Behörden, Ärzten und in der Schule. Das schärfte den Blick, doch Loyalität zu den Eltern und der Wunsch nach Aufstieg zogen in zwei Richtungen.",
+      "quelle": "Dossier, drei Räume"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Syntheseraum · dritte Generation",
+      "titel": "Aus beidem etwas Eigenes.",
+      "text": "Hier geboren, ausgebildet, verankert. Die Herkunft ist kein Hindernis mehr, sondern Ressource. Statt „Wer dürfen wir sein?“ lautet die Frage: Welche Verantwortung übernehmen wir für das Gemeinwesen?",
+      "quelle": "Dossier, drei Räume"
+     },
+     {
+      "typ": "meinung",
+      "text": "Mein Großvater wurde bis zuletzt „Almancı“ genannt. Er sprach „deutsch“ als „Doytsch“ aus. Für mich ist die dritte Generation irgendwo auch die Generation Y, und ein Y kann man „Why“ lesen: Ich frage. Das Y hat zwei Arme, die in einem Strich zusammenlaufen. Zwei Herkünfte, eine Linie. Das ist mein Wort: Doytsch."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders?"
+     }
+    ]
    }
   ],
   "storys": [

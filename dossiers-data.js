@@ -498,5 +498,356 @@ window.DOSSIERS = [
    }
   ],
   "motiv": "paragraph"
+ },
+ {
+  "id": "migration",
+  "titel": "Migration und Zusammenleben",
+  "teaser": "Wie kamen Menschen nach Deutschland, was wurde aus ihnen, und was sagen Zahlen, Gerichte und Studien dazu? Dazu persönliche Perspektiven, die wir klar als solche kennzeichnen.",
+  "methode": [
+   "Wir stützen uns auf Bundeszentralen und Landeszentralen für politische Bildung, Statistikämter, Forschungsinstitute und Medienberichte und nennen jede Quelle.",
+   "Wo Quellen sich widersprechen, zeigen wir die Spanne. Wertungen sind als unsere Einordnung gekennzeichnet, persönliche Texte als persönliche Sicht."
+  ],
+  "folgen": [
+   {
+    "id": "anwerbeabkommen-tuerkei-65-jahre",
+    "datum": "2026-10-30",
+    "titel": "65 Jahre Anwerbeabkommen: Was 1961 vereinbart wurde und was daraus wurde",
+    "teaser": "Von einem Notenwechsel am 30. Oktober 1961 bis heute: erst die Chronik mit Zahlen, Gesetzen und Ereignissen, dann ein Blick von innen.",
+    "aussage": {
+     "zitat": "Wir riefen Arbeitskräfte, und es kamen Menschen.",
+     "wer": "Max Frisch, Schriftsteller",
+     "datum": "1965",
+     "url": "https://docenti.unimc.it/d.minni/teaching/2023/29088/files/materiale-didattico-14.11.23/Die%20ersten%20Gastarbeiter%20-%20Bundesrepublik%20I%20_%20Zeitklicks.pdf",
+     "urteil": "Belegt, 1965 formuliert"
+    },
+    "kern": [
+     {
+      "z": "867.000",
+      "l": "Menschen kamen zwischen 1961 und 1973 aus der Türkei. Rund 500.000 Rückwanderungen wurden im selben Zeitraum registriert, ein Teil davon Pendelmigration (bpb)."
+     },
+     {
+      "z": "Zwei Jahre",
+      "l": "So lange sollte der Aufenthalt höchstens dauern (Art. 9 des Abkommens), mit keiner Regelung zum Familiennachzug. Schon 1964 fiel die Zwei-Jahres-Grenze, auf Druck der Arbeitgeber."
+     },
+     {
+      "z": "23.11.1973",
+      "l": "Anwerbestopp. Danach kamen vor allem Frauen und Kinder: 53 Prozent der türkischstämmigen Einwohner kamen laut bpb über den Familiennachzug."
+     },
+     {
+      "z": "3,1 Mio.",
+      "l": "Menschen mit türkischem Migrationshintergrund leben heute in Deutschland (Stand 2025), rund 1,7 Millionen davon mit deutscher Staatsangehörigkeit."
+     }
+    ],
+    "abschnitte": [
+     {
+      "h": "Worum es geht",
+      "t": [
+       "Am 30. Oktober 1961 schlossen die Bundesrepublik und die Türkei das Abkommen über die „Vermittlung türkischer Arbeitnehmer“. Aus einem Papier über Arbeitskräfte wurde die Geschichte von Familien, Kindern und Enkeln.",
+       "Dieses Dossier betrachtet sie aus zwei Richtungen. Von außen: Was ist geschehen, Jahr für Jahr, mit Zahlen, Gesetzen und Ereignissen. Von innen: Was ist in den Menschen geschehen. Dafür unterscheidet das Dossier drei Räume, in denen Identität jeweils nach einer anderen Logik entsteht: den Opferraum der ersten Generation, den Konfliktraum der zweiten und den Syntheseraum der dritten.",
+       "Die Räume sind meine Deutung, keine Statistik. Die Passagen in Ich-Form stammen von mir. Mein Großvater war einer der Arbeiter, die kamen.",
+       "Der Aufbau: Zuerst die Chronik. Dann die Frage, die sie offenlässt. Danach die drei Räume, einer nach dem anderen, und am Ende ein persönliches Wort.",
+       "Dies ist der Auftakt der Reihe „Migration und Zusammenleben“."
+      ]
+     },
+     {
+      "h": "Chronik: Die Zeitleiste auf einen Blick",
+      "t": [
+       "30. Oktober 1961: Notenwechsel zwischen Auswärtigem Amt und türkischer Botschaft, gültig ab 1. September 1961.",
+       "30. September 1964: Ein zweites Abkommen streicht die Zwei-Jahres-Grenze.",
+       "23. November 1973: Die Bundesregierung stoppt die Anwerbung. 1973 arbeiteten rund 605.000 türkische Arbeitnehmer in der Bundesrepublik.",
+       "1974 bis 1979: Frauen und Kinder kommen nach. Die Zahl der unter 15-Jährigen aus der Türkei verdoppelt sich auf rund 420.000.",
+       "1983 bis 1984: Arbeitslose Ausländer erhalten bei Rückkehr eine Hilfe von 10.500 D-Mark, die gezahlten Rentenbeiträge werden erstattet.",
+       "1992 und 1993: Brandanschläge in Mölln (3 Tote) und Solingen (5 Tote).",
+       "1. Januar 2000: Das Staatsangehörigkeitsrecht ermöglicht Kindern ausländischer Eltern unter bestimmten Voraussetzungen den Erwerb mit der Geburt. Im selben Jahr, am 9. September, wird Enver Şimşek erschossen, das erste Opfer der NSU-Mordserie.",
+       "2011: Der NSU fliegt auf.",
+       "27. Juni 2024: Die Reform des Staatsangehörigkeitsrechts erlaubt Mehrstaatigkeit bei der Einbürgerung.",
+       "20. Oktober 2026: Festakt zum 65. Jahrestag in Berlin. Bundeskanzler Merz würdigt die türkische Einwanderung und warnt vor Ausgrenzung: Der Begriff „Remigration“ sei ein Angriff auf das moderne Deutschland."
+      ]
+     },
+     {
+      "h": "Chronik 1961: Eine Lücke im Arbeitsmarkt",
+      "t": [
+       "Die Bundesrepublik erlebte ein Wirtschaftswunder: 1960 standen rund 650.000 offene Stellen etwa 150.000 Arbeitsuchenden gegenüber. Aus Italien (Abkommen 1955), Spanien und Griechenland kamen schon Arbeitskräfte. Arbeitgeber holten Türkinnen und Türken teils auf eigene Faust, das Abkommen sollte diese Zuwanderung ordnen. Es war ein Notenwechsel, keine feierliche Unterzeichnung.",
+       "Die Türkei hatte hohe Arbeitslosigkeit, 80 Prozent der Menschen lebten von der Landwirtschaft, und sie hoffte auf Überweisungen aus Deutschland. Außenpolitisch spielte die NATO-Mitgliedschaft eine Rolle. Die türkische Seite drängte schon im Dezember 1960, nicht hinter Griechenland zurückgesetzt zu werden.",
+       "Vorgesehen war ein Rotationsprinzip: höchstens zwei Jahre, dann Austausch. Das Abkommen regelt keinen Familiennachzug. Das Wort „Gast“ im Wort „Gastarbeiter“ meinte genau das."
+      ]
+     },
+     {
+      "h": "Chronik 1961 bis 1973: Istanbul, Auswahl, Arbeit",
+      "t": [
+       "Die Vorauswahl fand in Istanbul statt. Die ärztliche Untersuchung erlebten viele als erniedrigend, unter anderem weil sie sich bis auf die Unterwäsche ausziehen mussten. Laut einer Zeitzeugin kamen auf jede benötigte Arbeitskraft etwa zehn Bewerber. Zeitweise standen über eine Million Ausreisewillige auf Wartelisten, mit Wartezeiten von bis zu sieben Jahren.",
+       "Bis 1973 kamen rund 867.000 Menschen aus der Türkei. Etwa 80 Prozent arbeiteten im produzierenden Gewerbe und am Bau, meist als Angelernte oder Hilfsarbeiter. Etwa jeder Fünfte war eine Frau (21 Prozent laut Zentrum für Türkeistudien, andere Quellen nennen bis zu einem Drittel). Die Überweisungen in die Türkei stiegen von 8 Millionen US-Dollar (1964) auf rund 1,2 Milliarden US-Dollar (1973)."
+      ]
+     },
+     {
+      "h": "Chronik 1964 und 1973: Aus zwei Jahren wurden Jahrzehnte",
+      "t": [
+       "Arbeitgeber wollten die eingearbeiteten Beschäftigten behalten. Am 30. September 1964 strich ein zweites Abkommen die Zwei-Jahres-Grenze. Der Familiennachzug wurde möglich, fand aber überwiegend erst später statt.",
+       "Am 23. November 1973 stoppte die Bundesregierung die Anwerbung, wegen der Energiekrise. Damit endete der Zuzug von Arbeitskräften, aber nicht die Einwanderung. Wer jetzt zurückfuhr, konnte nicht mehr ohne Weiteres wiederkommen. Viele blieben deshalb und holten die Familie nach. 53 Prozent der türkischstämmigen Einwohner kamen laut Bundeszentrale für politische Bildung über den Familiennachzug. Zwischen 1974 und 1979 verdoppelte sich die Zahl der unter 15-Jährigen aus der Türkei auf rund 420.000."
+      ]
+     },
+     {
+      "h": "Chronik 1970er und 1980er: Stopp halten, Rückkehr fördern",
+      "t": [
+       "Die Politik jener Jahre konzentrierte sich darauf, den Anwerbestopp zu halten und die Rückkehr zu fördern. 1983 bis 1984 galt eine Rückkehrhilfe von 10.500 D-Mark für arbeitslose Ausländer, die gezahlten Rentenbeiträge wurden erstattet. Eine aktive Integrationspolitik fehlte weitgehend. Die Bundeszentrale für politische Bildung sieht darin eine Ursache für dauerhafte Nachteile.",
+       "Für die Kinder war das keine Politik, sondern Alltag. Sie kamen oft Jahre nach den Vätern, kamen in Vorbereitungsklassen und wuchsen in einem Haushalt auf, in dem alles nur „auf Zeit“ war."
+      ]
+     },
+     {
+      "h": "Chronik 1990er: Wenn Zugehörigkeit brennt",
+      "t": [
+       "In der Nacht zum 23. November 1992 legten Rechtsextreme in Mölln einen Brandanschlag auf von türkischen Familien bewohnte Häuser. Bahide Arslan (51), Ayşe Yilmaz (14) und Yeliz Arslan (10) starben, neun Menschen wurden verletzt. Am 29. Mai 1993 starben bei einem Brandanschlag in Solingen fünf Frauen und Mädchen der Familie Genç: Gürsün İnce (27), Hatice Genç (18), Gülüstan Öztürk (12), Hülya Genç (9) und Saime Genç (4).",
+       "Für eine Generation, die gerade versuchte, in diesem Land anzukommen, waren das Daten, die sich einbrannten. Sie zeigen, was „Dazwischen“ auch heißen kann."
+      ]
+     },
+     {
+      "h": "Chronik 2000 bis 2011: Papier und Misstrauen",
+      "t": [
+       "Zum 1. Januar 2000 trat ein neues Staatsangehörigkeitsrecht in Kraft: Kinder ausländischer Eltern können unter bestimmten Voraussetzungen mit der Geburt Deutsche werden.",
+       "Im selben Jahr, am 9. September 2000, wurde Enver Şimşek in Nürnberg erschossen. Er starb zwei Tage später. Es war der erste Mord der NSU-Serie, der bis 2007 zehn Menschen zum Opfer fielen, die meisten türkischer oder griechischer Herkunft. Die Ermittler suchten Motive im Umfeld der Familien oder im Drogenmilieu, Medien prägten das Wort „Döner-Morde“. Semiya Şimşek sagte später: „In den elf Jahren bis zur Aufklärung war mein Vater ein potenzieller Verbrecher.“ 2011 flog der NSU auf."
+      ]
+     },
+     {
+      "h": "Chronik heute: Zahlen und Ungleichheit",
+      "t": [
+       "Heute leben rund 3,1 Millionen Menschen mit türkischem Migrationshintergrund in Deutschland, etwa 1,7 Millionen davon mit deutscher Staatsangehörigkeit. Seit dem 27. Juni 2024 ist bei der Einbürgerung Mehrstaatigkeit zulässig: Man muss die Herkunft nicht mehr abgeben, um dazuzugehören.",
+       "Zugleich bleibt Ungleichheit messbar. Im Nationalen Diskriminierungs- und Rassismusmonitor (DeZIM, Dezember 2025, 9.512 Befragte) gaben 35 Prozent der muslimischen Befragten an, wegen Diskriminierung keine Einladung zu einer Wohnungsbesichtigung erhalten zu haben, bei nicht rassistisch markierten Personen waren es 11 Prozent. In einem Feldexperiment mit identischen Bewerbungen lag die Einladungsquote bei deutsch klingenden Namen bei 22 Prozent, bei Namen aus der Region Nordafrika, Naher Osten und Türkei bei 16 Prozent. Türkeistämmige werden dort nicht gesondert ausgewiesen. Integrationsbeauftragte Natalie Pawlik sagte laut Rheinischer Post, viele türkeistämmige Menschen erlebten weiterhin Benachteiligungen bei Wohnungssuche, Bewerbungen und in der Schule."
+      ]
+     },
+     {
+      "h": "Was die Chronik nicht zeigt",
+      "t": [
+       "Die Chronik erzählt, was geschah: ein Abkommen, ein Stopp, der Nachzug der Familien, neue Gesetze, Anschläge. Sie erzählt nicht, was das mit den Menschen gemacht hat. Mein Großvater steht in keiner Zeitleiste. Er stand am Band, und er stand mit seinem Koffer im Bahnhof von Dortmund.",
+       "Mein Großvater gab seine Jugend her für eine bessere Zukunft. Nicht für seine eigene, sondern für die seiner Kinder und Enkel. Mein Vater wuchs zwischen zwei Sprachen auf und musste früh für die Familie übersetzen. Ich frage heute, wem dieses Land gehört. Drei Männer, ein Land, drei völlig verschiedene Fragen.",
+       "Diese Fragen sind kein Zufall. Jede Generation lebte in einem anderen Raum, mit eigenen Regeln: was man leisten muss, was man sagen darf, wer man sein kann. Ich nenne sie den Opferraum, den Konfliktraum und den Syntheseraum.",
+       "Vorab zum Wort „Opfer“: Gemeint ist nicht die Opferrolle, sondern das Opfer, das man bringt. Die erste Generation gab ihre Jugend her, damit es ihren Kindern und Enkeln besser geht. Sie hielt sich nicht für ein Opfer, sie gab etwas. Der Opferraum ist der Raum der Hingabe.",
+       "Die Räume sind meine Deutung, keine Statistik. Sie beschreiben nicht jede Familie. Mir helfen sie zu verstehen, warum drei Generationen derselben Familie so verschieden antworten."
+      ]
+     },
+     {
+      "h": "Das Modell: Drei Räume, ein Generationenprozess",
+      "t": [
+       "Die drei Räume gehören zusammen. Sie folgen aufeinander wie Entbehrung (Opferraum), Aushandlung (Konfliktraum) und Mitgestaltung (Syntheseraum). Jeder ist aus dem vorhergehenden hervorgegangen, keiner wäre ohne ihn denkbar.",
+       "Die Kernbotschaft: Die Nachkommen der Gastarbeiter sind nicht einfach „besser integriert“. Sie handeln in einem völlig anderen Raum, mit anderen Zwängen, Möglichkeiten und Fragen.",
+       "Die Räume sind keine Zeitabschnitte, sondern Lagen. Sie überlappen sich, und manche Familie lebt in allen dreien zugleich."
+      ]
+     },
+     {
+      "h": "Erster Raum, Opferraum: Arbeiten und schweigen",
+      "t": [
+       "Kontext: Die erste Generation kam in ein fremdes Land, nicht zur Selbstverwirklichung, sondern aus wirtschaftlicher Notwendigkeit, um die Familie zu versorgen.",
+       "Lebensgefühl und Rolle: Der Alltag war von körperlich harter Arbeit, Entbehrung und oft prekären Lebensverhältnissen geprägt. Die Mehrheitsgesellschaft nahm sie vor allem als temporäre Arbeitskräfte wahr, nicht als gleichberechtigte Bürger.",
+       "Haltung: Pflichtidentität. Eigene Wünsche und Gefühle wurden zurückgestellt. Dahinter stand ein stilles Versprechen an die Nachkommen: „Wir tragen heute, damit ihr morgen tragen könnt.“",
+       "„Die erste Generation der türkischen Gastarbeiter kam nicht nach Deutschland, um sich zu verwirklichen. Sie kam, um zu arbeiten. [...] Migration war für sie kein Projekt der Identitätsfindung, sondern eine Entscheidung unter Bedingungen der Notwendigkeit.“",
+       "„Der Begriff ‚Gastarbeiter‘ trägt diese Ambivalenz bis heute in sich. Er suggeriert Gastfreundschaft, meint aber Funktion. Er klingt nach Einladung, beschreibt jedoch Austauschbarkeit. Wer als Gast kommt, bleibt nicht. Wer arbeitet, soll funktionieren.“",
+       "„Wer arbeitete, sollte funktionieren. Wer funktionierte, musste schweigen.“",
+       "Dieser Raum folgt einer einfachen Logik: Wer kommt, um zu arbeiten, stellt das Eigene zurück. Arbeit ist die Quelle von Würde, und die Hoffnung wandert zu den Kindern. Daraus wurde eine Haltung, die nicht aus Ehrgeiz entstand, sondern aus Verantwortung und als stilles Versprechen weitergegeben wurde: „Wir tragen heute, damit ihr morgen tragen könnt.“ Der Opferraum ist kein Ort der Lähmung, sondern der Ursprung einer besonderen Leistungsnorm."
+      ]
+     },
+     {
+      "h": "Der Koffer",
+      "t": [
+       "„Mein Großvater sagte oft: ‚Ich kam mit einem Koffer, mein Sohn.‘ Lange blieb das in meinem Kopf ein schlichtes Bild: ein Mann um die dreißig, ein Koffer in der Hand. Heute, da ich selbst in diesem Alter bin, wirkt der Satz anders. Ich sehe nicht zuerst den Koffer, ich frage mich, was er in seinem Herzen trug.“",
+       "„Wenn ich mir vorstelle, wie er in Dortmund ausstieg, sehe ich einen Bahnhof, der ihm nichts versprach, und eine Welt, die ihn nicht fragte, wer er war, sondern wozu er taugt.“",
+       "„Der Koffer war klein, abgewetzt, schwerer, als sein Inhalt vermuten ließ. Und doch trug er mehr als Hemden und ein paar persönliche Dinge. Er trug Erwartungen. Er trug ein Rückkehrversprechen. Er trug die stille Hoffnung, dass dieses Opfer eines Tages Sinn ergeben würde, im Leben der Kinder, nicht unbedingt im eigenen.“"
+      ]
+     },
+     {
+      "h": "Zweiter Raum, Konfliktraum: Zwischen den Welten übersetzen",
+      "t": [
+       "Kontext: Die zweite Generation wuchs zwischen zwei Welten auf, den traditionellen Werten des Elternhauses und den Erwartungen der deutschen Gesellschaft.",
+       "Lebensgefühl und Rolle: Dauerhafte Zerrissenheit, Zugehörigkeit musste ständig neu verhandelt werden. Früh übersetzten die Kinder für ihre Eltern, bei Behörden, Ärzten und in der Schule, und lernten dabei, Situationen und Machtverhältnisse genau zu lesen.",
+       "Haltung: Eine ambivalente Identität. Hohe Übersetzungs- und Anpassungsfähigkeit, aber ein Dauerspannungsfeld zwischen der Loyalität zum Opfer der Eltern und dem Wunsch nach Aufstieg und Eigenständigkeit.",
+       "„Viele kamen im Zuge der Familienzusammenführung erst Jahre später nach. [...] Sie lernten die Sprache der Herkunft, wuchsen in vertrauten sozialen Ordnungen auf, und kannten ihre Väter oft nur aus den Sommerferien. Manche vergaßen ihre Gesichter.“",
+       "„Meine Mutter erzählte mir, dass sie bei ihrer Ankunft in Deutschland ihren Vater zunächst als einen fremden Mann wahrnahm. Er roch anders als in ihrer Vorstellung: nicht nach Sonne und Erde, sondern nach Metall, Schweiß und kaltem Zigarettenrauch.“",
+       "„Mein Vater war ein sehr guter Schüler. [...] Er sollte den Geruch einer Flüssigkeit beschreiben. Auf Türkisch hätte er präzise Worte gefunden. Auf Deutsch blieb ihm nur eine ungenaue Formulierung: ‚stinkt nicht‘. Die Klasse lachte. Der Lehrer korrigierte nicht.“",
+       "„Kompetenz war vorhanden, doch sie fand keinen sicheren Ausdruck.“ Später wollte der Vater eine Ausbildung beim Elektrohändler, doch der Großvater wollte Sicherheit, also ThyssenKrupp. „Mein Vater beugte sich. Nicht aus Überzeugung, sondern aus Loyalität, gegenüber dem Opfer seines Vaters.“ Jahre später sagte er dem Sohn: „Wenn wir alle nur Arbeiter werden, werden wir dem Opfer deines Opas nicht gerecht. Wenn du studierst, kann dein Sohn vielleicht einmal mehr.“",
+       "Das war keine Rebellion, sondern ein leiser Dauerstress. Die zweite Generation lernte früh, zwischen Sprachen, Kulturen und Ämtern zu vermitteln. „Wer ständig vermittelt, steht selten selbst im Zentrum. Wer immer erklärt, kommt kaum dazu, sich zu fragen, was er eigentlich will.“"
+      ]
+     },
+     {
+      "h": "Dritter Raum, Syntheseraum: Aus beidem etwas Eigenes bauen",
+      "t": [
+       "Kontext: Die dritte Generation ist hier geboren, aufgewachsen, ausgebildet und gesellschaftlich wie beruflich verankert.",
+       "Lebensgefühl und Rolle: Die Herkunftskultur ist kein Hindernis mehr, und die deutsche Gesellschaft kein fremder Raum, in den man sich erst hineinbeweisen muss. Die Einflüsse beider Welten gehören selbstverständlich zusammen.",
+       "Haltung: Gestaltungsidentität. Die mehrkulturelle Prägung gilt als Ressource. An die Stelle der Frage „Wer dürfen wir sein?“ tritt die Frage „Welche Verantwortung übernehmen wir für das Gemeinwesen?“",
+       "„Die dritte Generation erlebt die Herkunftskultur nicht mehr primär als Verpflichtung oder Einschränkung, sondern als Ressource. Zugleich erlebt sie die deutsche Mehrheitsgesellschaft nicht als fremden Raum, in den man sich erst hineinbeweisen muss, sondern als selbstverständlichen sozialen Rahmen, als Heimat, die nicht nur bewohnt, sondern mitgestaltet werden darf. Sie navigiert nicht mehr zwischen Identitäten, sondern mit Identitäten.“",
+       "Die dritte Generation erbt von der ersten den Antrieb, etwas zu leisten, und von der zweiten die Erfahrung, zwischen den Welten zu stehen. Daraus kann etwas Eigenes entstehen: Herkunft und Zugehörigkeit stehen nicht mehr gegeneinander. „Der Syntheseraum ist kein harmonischer Ort. Er ist ein Arbeitsraum. Aber er ist handlungsfähig.“",
+       "Das Modell ist eine Deutung, keine Statistik. Es beansprucht nicht, jede Familie zu beschreiben, und nicht jeder Angehörige der dritten Generation nutzt diesen Raum."
+      ]
+     },
+     {
+      "h": "Unsere Einordnung",
+      "t": [
+       "Belegt ist: Das Abkommen war als befristete Lösung gedacht und wurde schon 1964 auf Wunsch der Arbeitgeber geöffnet. Der Anwerbestopp von 1973 beendete den Zuzug, aber nicht die Einwanderung. Strittig ist, wie viel Integrationspolitik damals fehlte und wie viel heute gelingt: Die Bundeszentrale für politische Bildung sieht langfristige Nachteile durch frühe Versäumnisse, die Integrationsbeauftragte sagt, Integrationspolitik habe aus Fehlern gelernt, und fordert dauerhaft finanzierte Strukturen.",
+       "Das Drei-Räume-Modell ist eine Deutung. Es hilft, Erfahrungen zu ordnen: Warum Eltern Sicherheit über Wünsche stellten, warum Kinder übersetzten und warum Enkel anders sprechen. Es ersetzt keine Zahlen und keine Einzelschicksale. Und doch fasst es zusammen, was Frisch 1965 in einem Satz sagte. Wer Menschen als Arbeitskräfte holt, bekommt Bürger. Das Grundgesetz kennt diese Unterscheidung nicht."
+      ]
+     },
+     {
+      "h": "Zum Schluss: Almancı",
+      "t": [
+       "„Jahrzehnte später stand ich in den staubigen Straßen seines Heimatviertels in der Türkei. Mein Großvater war verstorben, nicht in der Fremde, nicht in einem sterilen Krankenhausbett in Deutschland, sondern hier, wo seine Reise begonnen hatte. [...] Er war angekommen, bevor er ging.“",
+       "„Dann zerriss die Sela die Stille. Die Lautsprecher knackten, und die Stimme des Imams verkündete seinen Tod. ‚Almancı Mustafa Bozkurt vefat etmiştir.‘ Dieses Wort traf mich härter, als ich es erwartet hätte. Almancı. Der Deutsche.“",
+       "„In Deutschland war er für viele nie deutsch genug gewesen, ein Gast, der zu lange blieb. Und hier, in der Türkei, war er zu deutsch geworden, um einfach nur Mustafa zu sein. In einem einzigen Wort schloss sich der Kreis: Der Mann, der mit einem Koffer kam, wurde bis zuletzt über sein Dazwischen benannt.“",
+       "„Der Koffer war nie nur Gepäck. Er war Symbol. Für das Provisorische, das dauerhaft wurde.“"
+      ]
+     },
+     {
+      "h": "Mein Wort: Doytsch, mit Y",
+      "t": [
+       "Drei Räume, drei Wörter für einen Menschen wie meinen Großvater. Im Opferraum hieß er Gastarbeiter, ein Wort über seine Funktion. Im Konfliktraum hieß er Almancı, ein Wort über sein Dazwischen. Ich suche ein drittes Wort, eines, das man sich selbst gibt.",
+       "Mein Großvater sprach „deutsch“ als „Doytsch“ aus. Ich schreibe es so, mit y. Für mich ist die dritte Generation irgendwo auch die Generation Y, und ein Y kann man auch „Why“ lesen: Ich frage. Warum sind wir hier? Wem gehört dieses Land? Wer darf sagen, wer deutsch ist?",
+       "Das Y hat zwei Arme, die in einem Strich zusammenlaufen. So verstehe ich mich: zwei Herkünfte, eine Linie.",
+       "Mein Großvater wurde bis zuletzt „Almancı“ genannt. Ich sage Doytsch: nicht weniger deutsch, sondern deutsch mit der Stimme meines Großvaters. Das ist mein Wort. Es muss nicht deins sein.",
+       "Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders? Schreib es uns."
+      ]
+     }
+    ],
+    "quellen": [
+     {
+      "titel": "ZDFheute, 20.10.2026: 65 Jahre Türkei-Anwerbeabkommen",
+      "url": "https://www.zdfheute.de/politik/deutschland/tuerkei-anwerbeabkommen-65-jahre-gastarbeiter-deutschland-100.html"
+     },
+     {
+      "titel": "Landeszentrale für politische Bildung Baden-Württemberg: Anwerbeabkommen Türkei",
+      "url": "https://www.lpb-bw.de/anwerbeabkommen-tuerkei"
+     },
+     {
+      "titel": "Bundeszentrale für politische Bildung: Deutsch-türkisches Anwerbeabkommen",
+      "url": "https://www.bpb.de/kurz-knapp/taegliche-dosis-politik/514810/deutsch-tuerkisches-anwerbeabkommen"
+     },
+     {
+      "titel": "Bundeszentrale für politische Bildung (Stefan Luft, 2014): Die Anwerbung türkischer Arbeitnehmer und ihre Folgen",
+      "url": "https://www.bpb.de/themen/europa/tuerkei/184981/die-anwerbung-tuerkischer-arbeitnehmer-und-ihre-folgen/"
+     },
+     {
+      "titel": "Bundeszentrale für politische Bildung, Dossier „1961: Anwerbeabkommen mit der Türkei“",
+      "url": "https://www.bpb.de/themen/migration-integration/anwerbeabkommen/"
+     },
+     {
+      "titel": "bpb: Abkommenstext „Regelung der Vermittlung türkischer Arbeitnehmer“ (Art. 7 bis 12)",
+      "url": "https://www.bpb.de/themen/migration-integration/anwerbeabkommen/43264/regelung-der-vermittlung-tuerkischer-arbeitnehmer-nach-der-bundesrepublik-deutschland/"
+     },
+     {
+      "titel": "bpb: Anwerbestopp 1973 (Schreiben von Arbeitsminister Arendt, 23.11.1973)",
+      "url": "https://www.bpb.de/themen/migration-integration/anwerbeabkommen/43270/anwerbestopp-1973/"
+     },
+     {
+      "titel": "Virtuelles Migrationsmuseum: Rückkehrhilfe (Glossar)",
+      "url": "https://virtuelles-migrationsmuseum.org/en/Glossar/repatriation-grant/"
+     },
+     {
+      "titel": "Bundeszentrale für politische Bildung: 29. Mai 1993, Brandanschlag in Solingen",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/161980/29-mai-1993-brandanschlag-in-solingen/"
+     },
+     {
+      "titel": "Bundeszentrale für politische Bildung: Vor 30 Jahren, Brandanschlag in Mölln",
+      "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/515451/vor-30-jahren-rechtsextremer-brandanschlag-in-moelln/"
+     },
+     {
+      "titel": "asyl.net: Staatsangehörigkeit (Reform 2000 und 2024)",
+      "url": "https://www.asyl.net/themen/staatsangehoerigkeit-und-einbuergerung/staatsangehoerigkeit"
+     },
+     {
+      "titel": "Jüdische Allgemeine: 25 Jahre nach dem ersten NSU-Mordanschlag",
+      "url": "https://www.juedische-allgemeine.de/politik/der-schmerz-wird-immer-groesser-25-jahre-nach-dem-ersten-nsu-mordanschlag/"
+     },
+     {
+      "titel": "ad-hoc-news / Rheinische Post, 20.10.2026: Pawlik kritisiert Rassismus nach 65 Jahren",
+      "url": "https://www.ad-hoc-news.de/politik/anwerbeabkommen-pawlik-kritisiert-rassismus-nach-65-jahren/70367395"
+     },
+     {
+      "titel": "DeZIM-Institut, 8.12.2025: NaDiRa-Bericht „Gewohnt ungleich“ (Pressemitteilung)",
+      "url": "https://www.rassismusmonitor.de/fileadmin/user_upload/NaDiRa/Publikationen/Wohnenbericht/PM_Nadira_Wohnbericht.pdf"
+     },
+     {
+      "titel": "Zeitklicks: Die ersten Gastarbeiter (Frisch-Zitat, 1965)",
+      "url": "https://docenti.unimc.it/d.minni/teaching/2023/29088/files/materiale-didattico-14.11.23/Die%20ersten%20Gastarbeiter%20-%20Bundesrepublik%20I%20_%20Zeitklicks.pdf"
+     }
+    ],
+    "stand": "20.10.2026",
+    "karussell": {
+     "thema": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
+     "slides": [
+      {
+       "typ": "hook",
+       "kicker": "Dossier · Migration und Zusammenleben",
+       "titel": "65 Jahre Anwerbeabkommen: Aus zwei Jahren wurden Jahrzehnte",
+       "rot": "Jahrzehnte",
+       "bild": {
+        "url": "titel-anwerbeabkommen.jpg",
+        "fokus": 0.5,
+        "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)"
+       }
+      },
+      {
+       "typ": "fakten",
+       "label": "30. Oktober 1961",
+       "titel": "Ein Notenwechsel, kein Festakt.",
+       "text": "Die Bundesrepublik und die Türkei vereinbarten die Vermittlung türkischer Arbeitnehmer. Vorgesehen: höchstens zwei Jahre Aufenthalt (Art. 9), keine Regelung zum Familiennachzug.",
+       "quelle": "bpb (Abkommenstext, Art. 9); LpB Baden-Württemberg"
+      },
+      {
+       "typ": "zahl",
+       "label": "kamen bis 1973",
+       "zahl": "867.000",
+       "text": "Rund 80 Prozent arbeiteten in Industrie und am Bau. Im selben Zeitraum wurden etwa 500.000 Rückwanderungen registriert.",
+       "quelle": "bpb (Stefan Luft); LpB Baden-Württemberg"
+      },
+      {
+       "typ": "fakten",
+       "label": "1964 und 1973",
+       "titel": "Aus Gästen wurden Nachbarn.",
+       "text": "1964 fiel die Zwei-Jahres-Grenze, auf Wunsch der Arbeitgeber. Am 23. November 1973 stoppte der Bund die Anwerbung. Danach kamen die Familien: 53 Prozent der türkischstämmigen Einwohner kamen über den Familiennachzug.",
+       "quelle": "bpb, Anwerbung türkischer Arbeitnehmer und ihre Folgen"
+      },
+      {
+       "typ": "fakten",
+       "label": "Der Blick von innen",
+       "titel": "Drei Generationen, drei Räume.",
+       "text": "Die Chronik sagt, was geschah. Das Drei-Räume-Modell beschreibt, wie sich Identität über drei Generationen wandelt: von der Entbehrung über die Aushandlung zur Mitgestaltung. Die Enkel sind nicht einfach besser integriert, sie handeln in einem anderen Raum.",
+       "quelle": "Dossier, drei Räume"
+      },
+      {
+       "typ": "einordnung",
+       "label": "Opferraum · erste Generation",
+       "titel": "Arbeiten und schweigen.",
+       "text": "Sie kamen aus wirtschaftlicher Notwendigkeit, nicht zur Selbstverwirklichung. Für das Land waren sie Arbeitskräfte, nicht Bürger. Eigene Wünsche wurden zurückgestellt: „Wir tragen heute, damit ihr morgen tragen könnt.“",
+       "quelle": "Dossier, drei Räume"
+      },
+      {
+       "typ": "einordnung",
+       "label": "Konfliktraum · zweite Generation",
+       "titel": "Zwischen den Welten.",
+       "text": "Zerrissen zwischen Elternhaus und Gesellschaft. Schon als Kinder übersetzten sie bei Behörden, Ärzten und in der Schule. Das schärfte den Blick, doch Loyalität zu den Eltern und der Wunsch nach Aufstieg zogen in zwei Richtungen.",
+       "quelle": "Dossier, drei Räume"
+      },
+      {
+       "typ": "einordnung",
+       "label": "Syntheseraum · dritte Generation",
+       "titel": "Aus beidem etwas Eigenes.",
+       "text": "Hier geboren, ausgebildet, verankert. Die Herkunft ist kein Hindernis mehr, sondern Ressource. Statt „Wer dürfen wir sein?“ lautet die Frage: Welche Verantwortung übernehmen wir für das Gemeinwesen?",
+       "quelle": "Dossier, drei Räume"
+      },
+      {
+       "typ": "meinung",
+       "text": "Mein Großvater wurde bis zuletzt „Almancı“ genannt. Er sprach „deutsch“ als „Doytsch“ aus. Für mich ist die dritte Generation irgendwo auch die Generation Y, und ein Y kann man „Why“ lesen: Ich frage. Das Y hat zwei Arme, die in einem Strich zusammenlaufen. Zwei Herkünfte, eine Linie. Das ist mein Wort: Doytsch."
+      },
+      {
+       "typ": "cta",
+       "frage": "Wie nennst du dich: Almancı, Deutsch, Doytsch, oder ganz anders?"
+      }
+     ]
+    },
+    "bild": {
+     "src": "titel-anwerbeabkommen.jpg",
+     "w": 1920,
+     "h": 1046,
+     "alt": "Schwarz-Weiß-Foto: Türkische Arbeiter in Anzügen und Mänteln stehen nachts vor einem Flugzeug, im Hintergrund steigen weitere Männer die Treppe herunter.",
+     "unter": "Historisches Foto: Ankunft türkischer Arbeiter, Foto: BPA (Presse- und Informationsamt der Bundesregierung)."
+    }
+   }
+  ],
+  "motiv": "koffer"
  }
 ];

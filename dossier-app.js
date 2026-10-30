@@ -27,6 +27,13 @@
       lens.forEach(function (w, i) { sv("rect", { x: 210, y: 95 + i * 70, width: w, height: 22, rx: 11, "class": i === 3 ? "ds-hot" : "ds-dot" }, svg); });
       sv("circle", { cx: 1060, cy: 316, r: 150, fill: "none", "stroke-width": 14, "class": "ds-ring" }, svg);
       sv("line", { x1: 1166, y1: 422, x2: 1300, y2: 556, "stroke-width": 26, "stroke-linecap": "round", "class": "ds-ring" }, svg);
+    } else if (kind === "koffer") {
+      svg.setAttribute("aria-label", "Ein Koffer und eine Linie, die in die Ferne führt");
+      sv("rect", { x: 620, y: 250, width: 360, height: 250, rx: 22, fill: "none", "stroke-width": 14, "class": "ds-ring" }, svg);
+      sv("path", { d: "M740 250 V210 a20 20 0 0 1 20 -20 h80 a20 20 0 0 1 20 20 V250", fill: "none", "stroke-width": 14, "class": "ds-ring" }, svg);
+      sv("rect", { x: 780, y: 340, width: 40, height: 36, rx: 8, "class": "ds-hot" }, svg);
+      [0, 1, 2, 3, 4, 5].forEach(function (i) { sv("circle", { cx: 1080 + i * 80, cy: 470, r: 9 - i, "class": "ds-dot" }, svg); });
+      [0, 1, 2, 3, 4, 5].forEach(function (i) { sv("circle", { cx: 520 - i * 80, cy: 470, r: 9 - i, "class": "ds-dot" }, svg); });
     } else {
       svg.setAttribute("aria-label", "Paragraphenzeichen");
       [330, 250, 170].forEach(function (r) { sv("circle", { cx: W / 2, cy: H / 2, r: r, fill: "none", "stroke-width": 3, "class": "ds-line" }, svg); });
