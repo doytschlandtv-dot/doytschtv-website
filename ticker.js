@@ -2,31 +2,37 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-10-30T21:40:00+01:00",
+ "stand": "2026-10-31T05:50:00+01:00",
  "items": [
   {
-   "z": "2026-10-30T12:59:00+01:00",
-   "t": "Bundespräsident Steinmeier drängt laut dpa-AFX bei Staatspräsident Xi in Peking auf einen Abbau des deutschen Handelsdefizits, das 2025 bei rund 90 Milliarden Euro lag",
-   "q": "dpa-AFX",
-   "u": "https://www.ariva.de/news/roundup-steinmeier-draengt-bei-xi-auf-abbau-des-12188705"
-  },
-  {
-   "z": "2026-10-30T15:08:00+01:00",
-   "t": "Die deutsche Wirtschaft wächst im dritten Quartal laut vorläufiger Schätzung um 0,2 Prozent, die Inflationsrate sinkt im Oktober auf 2,8 Prozent (dpa-AFX)",
-   "q": "dpa-AFX",
-   "u": "https://www.ariva.de/news/roundup-3-deutsche-wirtschaft-waechst-ueberraschend-12188963"
-  },
-  {
-   "z": "2026-10-30T15:08:00+01:00",
-   "t": "Die Zahl der Arbeitslosen sinkt im Oktober laut Bundesagentur um 40.000 auf 2,955 Millionen, im Vergleich zum Vorjahr sind es 44.000 mehr (dpa-AFX)",
-   "q": "dpa-AFX",
-   "u": "https://www.ariva.de/news/roundup-3-deutsche-wirtschaft-waechst-ueberraschend-12188963"
+   "z": "2026-10-30T14:38:00+01:00",
+   "t": "Die Berliner SPD plant laut ZDFheute ein verbindliches Mitgliedervotum über einen möglichen Koalitionsvertrag mit Linken und Grünen",
+   "q": "ZDFheute-Newsticker",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
    "z": "2026-10-30T17:04:00+01:00",
    "t": "Bundeskanzler Merz fordert in Seoul laut dpa-AFX eine diplomatische Lösung im Iran-Konflikt; er lasse sich nicht militärisch lösen",
    "q": "dpa-AFX",
    "u": "https://www.finanzen.net/nachricht/aktien/dpa-afx-ueberblick-konjunktur-vom-30-10-2026-17-00-uhr-16023737"
+  },
+  {
+   "z": "2026-10-30T17:06:00+01:00",
+   "t": "Für Samstag sind laut NWZ Proteste der Initiative Gen Z regelt in mindestens 34 deutschen Städten angekündigt",
+   "q": "NWZ",
+   "u": "https://www.nwzonline.de/region/gen-z-regelt-proteste-am-31-oktober-2026-in-bremen-hamburg-hannover-und-weiteren-staedten_a_4,3,2240945584.html"
+  },
+  {
+   "z": "2026-10-30T17:06:00+01:00",
+   "t": "Katarische Unterhändler sind laut ZDFheute in Teheran eingetroffen, inmitten von Spekulationen über eine Eskalation zwischen den USA und Iran",
+   "q": "ZDFheute-Newsticker",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+  },
+  {
+   "z": "2026-10-30T18:22:00+01:00",
+   "t": "In Bad Oldesloe ist ein Linienbus gegen eine Hauswand geprallt; laut ZDFheute schweben vier Menschen in Lebensgefahr, zwölf wurden verletzt",
+   "q": "ZDFheute-Newsticker",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   }
  ]
 };

@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-10-31",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Berlin: SPD plant verbindliches Mitgliedervotum, Linke-Parteitag heute",
+    "Gen Z regelt: Proteste heute in mindestens 34 Städten",
+    "Iran-Konflikt: Katarische Unterhändler in Teheran, Merz fordert diplomatische Lösung",
+    "Bad Oldesloe: Linienbus prallt gegen Hauswand, vier Menschen in Lebensgefahr"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Samstag, den 31. Oktober.",
+    "Gestern: In Berlin plant die SPD laut ZDFheute-Newsticker ein verbindliches Mitgliedervotum über einen möglichen Koalitionsvertrag mit Linken und Grünen; die Verhandlungen sollen demnach am Montag beginnen. Heute entscheidet ein Parteitag der Linken, ob sie in Koalitionsverhandlungen eintritt. SPD und Grüne hatten dem bereits am 19. Oktober zugestimmt. Die Linke wurde bei der Wahl am 20. September mit 25,7 Prozent stärkste Kraft (ZDFheute, 30.10. und 19.10.).",
+    "Für heute rufen Jugendliche unter dem Namen Gen Z regelt zu Protesten in mindestens 34 Städten auf, darunter Bremen, Hamburg, Hannover und Berlin. Die Initiative richtet sich nach eigenen Angaben gegen die Kürzungspolitik der Bundesregierung, gegen Wehrpflicht und Überwachung und fordert gerechten Klimaschutz; sie bezeichnet die Proteste als friedlich und überparteilich. Die Linke unterstützt die Proteste, die AfD warnt vor einer Vereinnahmung durch Extremisten. Bundesbildungsministerin Karin Prien bot allen, die friedlich protestieren, Gespräche an (NWZ, 30.10.; ZDFheute-Newsticker, 30.10.).",
+    "Zuletzt: Katarische Unterhändler sind laut ZDFheute-Newsticker in Teheran eingetroffen, inmitten von Spekulationen über eine Eskalation zwischen den USA und Iran. Bundeskanzler Merz forderte laut dpa-AFX eine diplomatische Lösung des Iran-Konflikts (ZDFheute, dpa-AFX, 30.10.).",
+    "In Bad Oldesloe ist ein Linienbus gegen eine Hauswand geprallt. Laut ZDFheute-Newsticker schweben vier Menschen, darunter ein Kind, in Lebensgefahr, zwölf weitere wurden verletzt (ZDFheute, 30.10.).",
+    "Heute: Neben den Gen-Z-Protesten tagt der Parteitag der Berliner Linken. Um 2:30 Uhr kamen die chinesischen Einkaufsmanagerindizes für Oktober (dpa-AFX, Tagesvorschau).",
+    "Diese Woche: Am Sonntag tagen die Ölförderländer der OPEC+. Am Montag, 2. November, kommen um 8 Uhr die deutschen Einzelhandelsumsätze, die Bundesregierung veranstaltet einen Digitalgipfel in Berlin mit KI-Schwerpunkt. Am Dienstag sind Kongresswahlen in den USA. Am Mittwoch verhandelt das Bundesverfassungsgericht um 10 Uhr über den Ausschluss eines Abgeordneten aus der AfD-Bundestagsfraktion. Am Donnerstag entscheidet die Bank of England, am Freitag folgt die deutsche Industrieproduktion (dpa-AFX, Tages- und Wochenvorschau).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Samstag, 31. Oktober 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Samstag, den 31. Oktober. Gestern: In Berlin plant die SPD ein Mitgliedervotum zur Koalition mit Linken und Grünen, heute tagt der Linke-Parteitag. Gen Z regelt ruft heute in mindestens 34 Städten zu Protesten auf. Katarische Unterhändler sind in Teheran eingetroffen. Heute und diese Woche: Parteitag, Digitalgipfel am Montag, US-Kongresswahlen am Dienstag, Bundesverfassungsgericht zur AfD-Fraktion am Mittwoch. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Sa., 31. Oktober",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Berlin",
+        "text": "Die SPD plant laut ZDFheute ein verbindliches Mitgliedervotum zur Koalition mit Linken und Grünen."
+       },
+       {
+        "kopf": "Gen Z regelt",
+        "text": "Proteste am Samstag in mindestens 34 Städten. Die Linke unterstützt, die AfD warnt vor Vereinnahmung."
+       },
+       {
+        "kopf": "Iran",
+        "text": "Katarische Unterhändler sind laut ZDFheute in Teheran eingetroffen. Merz fordert eine diplomatische Lösung."
+       },
+       {
+        "kopf": "Bad Oldesloe",
+        "text": "Ein Linienbus prallt gegen eine Hauswand: vier Menschen in Lebensgefahr, zwölf verletzt."
+       }
+      ],
+      "quelle": "ZDFheute-Newsticker, NWZ, dpa-AFX, 30.10.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute",
+        "text": "Parteitag der Berliner Linken über Koalitionsverhandlungen, dazu die Gen-Z-Proteste."
+       },
+       {
+        "kopf": "Montag, 2. November",
+        "text": "Einzelhandelsumsätze um 8 Uhr, Digitalgipfel der Bundesregierung in Berlin."
+       },
+       {
+        "kopf": "Dienstag und Mittwoch",
+        "text": "US-Kongresswahlen. Karlsruhe verhandelt um 10 Uhr über den Ausschluss eines Abgeordneten aus der AfD-Fraktion."
+       },
+       {
+        "kopf": "Donnerstag und Freitag",
+        "text": "Zinsentscheid der Bank of England, dann die deutsche Industrieproduktion."
+       }
+      ],
+      "quelle": "dpa-AFX, Tagesvorschau und Wochenvorschau; ZDFheute, 19.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "34 Städte",
+      "text": "in denen laut NWZ heute Proteste unter dem Namen Gen Z regelt angekündigt sind, mindestens.",
+      "quelle": "NWZ, 30.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Sa., 31. Oktober",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Berlin, Gen-Z-Proteste, Iran und Bad Oldesloe im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute-Newsticker, 30.10.2026; NWZ, 30.10.2026; dpa-AFX, 30.10.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-30",
   "morgen": {
    "titel": "Morning Briefing",
