@@ -22,7 +22,47 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Gen Z regelt: Zehntausende demonstrieren, am Abend Böllerwürfe und verletzte Polizisten",
+    "Berlin: Linken-Parteitag stimmt für Koalitionsverhandlungen mit SPD und Grünen",
+    "Iran-Konflikt: Chameneis Drohung, Vermittlung über Katar, Zwischenfälle in der Straße von Hormus"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Samstag, 31. Oktober.",
+    "Erstens: Gen Z regelt. Bei den bundesweiten Protesten der Initiative demonstrierten laut einem Bericht auf Basis von dpa-Material mehrere Zehntausend Menschen. Die Veranstalter nannten am späten Nachmittag mehr als 68.000 Teilnehmende in den ersten zwölf Städten; das ist eine Eigenangabe, bundesweite Polizeizahlen lagen nicht vor. In Berlin zählte die Polizei am Brandenburger Tor zeitweise bis zu 5.000 Menschen, die Veranstalter nannten über 11.000. In Köln, Frankfurt und Stuttgart stoppte die Polizei Aufzüge wegen Vermummung und Pyrotechnik. Am Abend wurden in mehreren Städten Böller auf Einsatzkräfte geworfen. In Frankfurt löste die Polizei die Demonstration auf, Hessens Innenminister Roman Poseck sprach von mehreren verletzten Polizisten; in Hannover und Bremen wurden Beamte laut t-online leicht verletzt, in Hamburg brannten Barrikaden. Eine bundesweite Bilanz zu Festnahmen und Verletzten liegt noch nicht vor. Die im Morning Briefing genannte Zahl von mindestens 34 Städten bestätigte sich. Unsere Einordnung: Das Demonstrationsrecht schützt den friedlichen Protest; Gewalt gegen Einsatzkräfte ist dadurch nicht gedeckt und sollte nicht den vielen friedlich Demonstrierenden angelastet werden (Südtirol News, 31.10.; Tagesspiegel, 31.10.; t-online, 31.10.).",
+    "Zweitens: Berlin. Ein Parteitag der Berliner Linken hat laut ZDFheute für Koalitionsverhandlungen mit SPD und Grünen gestimmt. Stimmenzahlen nennt der Bericht nicht. SPD und Grüne hatten bereits zugestimmt. Grundlage ist ein Sondierungspapier, das unter anderem die Vergesellschaftung von rund 160.000 Wohnungen von fünf Konzernen vorsieht und umstritten ist. Die drei Parteien einigten sich laut ZDFheute zudem auf eine Erklärung zu Antisemitismus, dem Existenzrecht Israels und jüdischem Leben, bei Verstößen sind Sanktionen bis zum Fraktionsausschluss angedacht. Die Dreiergespräche könnten am Montag beginnen. Die Linke war bei der Wahl am 20. September mit 25,7 Prozent stärkste Kraft geworden (ZDFheute, 31.10.).",
+    "Drittens: Iran-Konflikt. Nach der Ankunft katarischer Unterhändler in Teheran drohte Irans Oberster Führer Modschtaba Chamenei laut taz bei neuen US-Angriffen mit einer sofortigen Antwort; das ist eine Eigenangabe. Zugleich laufen diplomatische Bemühungen unter anderem über Katar und Pakistan, und laut Wall Street Journal schickte US-Vizepräsident Vance einen Brief zu einem möglichen Verhandlungsrahmen. Aus der Straße von Hormus werden Zwischenfälle gemeldet, darunter nach Angaben iranischer Staatsmedien ein brennender Supertanker; diese Angaben sind unabhängig nicht bestätigt. Laut Berliner Zeitung liegen die Positionen weit auseinander: Die USA wollen von Beginn an über das Atomprogramm sprechen, Iran zuerst das Ende von Hafenblockade und Ölsanktionen. Bundeskanzler Merz hatte am Freitag eine diplomatische Lösung gefordert (taz, 31.10.; Berliner Zeitung, 30.10.).",
+    "Morgen: Sonntag, 1. November. Laut dpa-AFX-Tagesvorschau tagen im Laufe des Tages die Ölförderländer der OPEC+ auf Ministerebene, und in den USA endet die Sommerzeit. In Berlin könnten am Montag die Dreiergespräche von Linken, SPD und Grünen beginnen; am Montag um 8 Uhr erscheinen außerdem die deutschen Einzelhandelsumsätze für September (dpa-AFX, 31.10.; ZDFheute, 31.10.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Südtirol News, 31.10.2026"
+    },
+    {
+     "titel": "Tagesspiegel, 31.10.2026"
+    },
+    {
+     "titel": "t-online, 31.10.2026"
+    },
+    {
+     "titel": "ZDFheute, 31.10.2026"
+    },
+    {
+     "titel": "taz, 31.10.2026"
+    },
+    {
+     "titel": "Berliner Zeitung, 30.10.2026"
+    },
+    {
+     "titel": "dpa-AFX, Tagesvorschau, 31.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
