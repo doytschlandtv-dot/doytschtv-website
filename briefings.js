@@ -22,7 +22,44 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Gen Z regelt: Friedliche Proteste, Randale danach, Streit um die Deutung",
+    "Iran-Konflikt: Gespräche über Katar, Bedingungen und ein Hormus-Vorschlag",
+    "Berlin: Koalitionsgespräche von Linke, Grünen und SPD beginnen am Montag"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Sonntag, 1. November.",
+    "Erstens: Gen Z regelt. Zur Einordnung der Proteste vom Samstag liegen heute neue Zahlen vor. Demonstriert wurde in über 30 Städten, laut ZDFheute waren es Zehntausende. Ein Sprecher der Initiative nannte rund hunderttausend Menschen; das ist eine Angabe der Organisatoren, keine Polizeizahl. Die Polizei zählte in Frankfurt zeitweise bis zu 8.000 Teilnehmende, die Veranstalter etwa 9.000 (newstime/Joyn, 31.10.). Nach dem Ende der Kundgebungen kam es zu Ausschreitungen. Wir haben im Morning Briefing von mindestens 30 vorläufigen Festnahmen in Frankfurt berichtet; nach dpa-Stand vom Nachmittag sind es 54 Festgenommene im Alter von 13 bis 29 Jahren, 17 Geschäfte wurden beschädigt und fünf geplündert. In Köln gab es laut ZDFheute fünf Ingewahrsamnahmen, in Berlin laut Polizei 27 leicht verletzte Beamte und bis zu 56 vorübergehend Festgenommene. Bundesinnenminister Dobrindt machte gegenüber der Bild gewaltbereite linke Gruppen und „Chaoten aus dem migrantischen Milieu“ verantwortlich und kündigte harte Strafen an; das ist seine Darstellung. Andreas Roßkopf von der Gewerkschaft der Polizei sagte, die Proteste seien sehr friedlich gewesen, die Gewalt sei von autonomen und teils vermummten Personen ausgegangen. Der Protestforscher Florian Staudt nannte einen Generalverdacht gegen alle Demonstrierenden ein falsches Signal. Die Initiative will in drei Wochen erneut mobilisieren. Unsere Einordnung: Gewalt und Plünderungen sind Straftaten, die verfolgt werden müssen; sie sagen aber nichts über die Anliegen der friedlich Demonstrierenden und rechtfertigen keine Zuschreibung an ganze Gruppen (ZDFheute, 1.11.; Wirtschaftswoche mit dpa, 1.11.; newstime/Joyn, 31.10.).",
+    "Zweitens: Iran-Konflikt. Iranische und katarische Vertreter haben nach Angaben von CGTN unter Berufung auf Reuters am Wochenende über Vorschläge zur Beendigung des Konflikts mit den USA gesprochen, am Freitag in Teheran, am Samstag in Doha. Über Vermittler soll ein Brief von US-Vizepräsident Vance an Irans Sicherheitschef Rezaei übergeben worden sein; US-Medien berichteten, er schlage direkte Gespräche vor, bei denen das iranische Atomprogramm von Beginn an auf der Tagesordnung stehe. Außenminister Araghtschi erklärte, Teheran entscheide erst über direkte oder indirekte Gespräche, wenn Washington seine Bedingungen akzeptiere, darunter die Aufhebung von Sanktionen, die Freigabe eingefrorener Gelder und ein Ende der Kampfhandlungen an allen Fronten; das sind Eigenangaben. Er sagte zudem, Iran und die Vermittler hätten sich auf einen Vorschlag geeinigt, der die Straße von Hormus binnen zwei Tagen vollständig öffnen könnte. US-Außenminister Rubio sagte laut dem Bericht, Präsident Trump habe nicht über eine Wiederaufnahme der Militärschläge entschieden. Unabhängig bestätigt sind diese Angaben nicht. Gegenüber unserem Morning Briefing, in dem von sieben Bedingungen Irans die Rede war, ist die Lage damit etwas konkreter, aber weiter offen (CGTN/Sunday World, 1.11.).",
+    "Drittens: Berlin. Die Koalitionsgespräche von Linke, Grünen und SPD beginnen laut Jüdischer Allgemeine am Montag im Abgeordnetenhaus. Grundlage ist ein Sondierungspapier. Grüne und SPD hatten vorab zugestimmt, die Linke folgte auf ihrem Parteitag mit klarer Mehrheit. Bei der Wahl am 20. September kam die Linke auf 25,7 Prozent, die CDU auf 18,8, die AfD auf 16,3, die Grünen auf 14,3 und die SPD auf 12,1 Prozent. Als schwierig gilt die Debatte über den Umgang mit Antisemitismus; in einem offenen Brief warnen unter anderem Karl Lauterbach, Sigmar Gabriel und Franziska Giffey vor einer Koalition mit der Linken (Jüdische Allgemeine, 1.11.).",
+    "Morgen: Montag, 2. November. Laut dpa-AFX-Tagesvorschau beginnt um 10 Uhr in Berlin der Digitalgipfel der Bundesregierung mit Schwerpunkt Künstliche Intelligenz, um 14:50 Uhr nimmt Kanzler Merz an einem Roundtable teil, gegen 16 Uhr folgt eine Pressekonferenz mit Digitalminister Wildberger. Um 13 Uhr beginnt der Deutsche Verbrauchertag, um 8 Uhr erscheinen die Einzelhandelsumsätze für September (dpa-AFX, Tagesvorschau, 30.10.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 01.11.2026"
+    },
+    {
+     "titel": "Wirtschaftswoche (dpa), 01.11.2026"
+    },
+    {
+     "titel": "newstime/Joyn, 31.10.2026"
+    },
+    {
+     "titel": "CGTN (Sunday World), 01.11.2026"
+    },
+    {
+     "titel": "Jüdische Allgemeine, 01.11.2026"
+    },
+    {
+     "titel": "dpa-AFX, Tagesvorschau, 30.10.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
