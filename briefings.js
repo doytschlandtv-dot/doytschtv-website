@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-01",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Gen-Z-Proteste: Zumeist friedlich, abends Ausschreitungen",
+    "Iran nennt den USA sieben Bedingungen",
+    "Berlin: Weg frei für Koalitionsgespräche",
+    "Ukraine: USA genehmigen Verkauf von 500 Patriot-Raketen"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Sonntag, den 1. November.",
+    "Gestern: Bei den Gen-Z-Protesten demonstrierten laut ZDFheute in über 30 Städten Zehntausende, zumeist friedlich. Die Initiative „Gen Z regelt“ nennt über 68.000 Teilnehmende (Eigenangabe). Am Abend kam es laut ZDFheute in Berlin, Hamburg, Frankfurt und Bremen zu Gewalt gegen Polizisten. In Berlin-Mitte wurden laut Polizei 27 Beamte leicht verletzt, bis zu 56 Personen wurden vorübergehend festgenommen (t-online mit dpa, 1.11.). Aus Frankfurt meldet dpa über 30 vorläufige Festnahmen (ad-hoc-news, 1.11.). Die SPD-Fraktion fordert wegen der Proteste einen Bildungsgipfel (ZDFheute, 31.10.).",
+    "Im Iran-Konflikt nennt Teheran den USA laut ZDFheute sieben Bedingungen für Diplomatie und droht bei weiterer Eskalation mit neuen Waffen (Eigenangabe). Eine Zustimmung der USA gilt demnach als unwahrscheinlich (ZDFheute, 31.10.). Außenminister Araghtschi drohte Kanzler Merz laut t-online mit einem „vernichtenden Schlag“, nachdem Merz in Seoul gesagt hatte, der Konflikt sei militärisch nicht lösbar (t-online/dpa, 31.10.).",
+    "In Berlin ist der Weg frei für Koalitionsgespräche: Die Linke hat auf ihrem Parteitag zugestimmt (ZDFheute, 31.10.).",
+    "Zuletzt: Die USA haben den Verkauf von 500 Patriot-Raketen für rund 2,1 Milliarden Dollar an die Ukraine genehmigt. Präsident Selenskyj erwägt Tauschgeschäfte mit Partnern, um schneller Raketen zu erhalten (ZDFheute, 31.10.).",
+    "Heute: Sonntag, laut dpa-AFX-Wochenvorschau sind für heute keine Termine verzeichnet.",
+    "Diese Woche: Am Montag beginnt in Berlin der Digitalgipfel der Bundesregierung mit Schwerpunkt KI, Kanzler Merz nimmt um 14:50 Uhr an einem Roundtable teil. Am Dienstag finden in den USA die Kongresswahlen statt. Am Mittwoch verhandelt das Bundesverfassungsgericht in Karlsruhe über den Ausschluss eines Abgeordneten aus der AfD-Bundestagsfraktion (dpa-AFX, Wochenvorschau vom 30.10.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Sonntag, 1. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Sonntag, den 1. November. Gestern: Die Gen-Z-Proteste verliefen laut ZDFheute zumeist friedlich, am Abend gab es Ausschreitungen. Der Iran nennt den USA sieben Bedingungen. In Berlin ist der Weg für Koalitionsgespräche frei. Die USA genehmigen den Verkauf von 500 Patriot-Raketen an die Ukraine. Diese Woche: Digitalgipfel am Montag, US-Wahlen am Dienstag, Verfassungsgericht am Mittwoch. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · So., 1. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Gen-Z-Proteste",
+        "text": "In über 30 Städten zumeist friedlich. Abends Gewalt gegen Polizisten, in Berlin 27 leicht verletzte Beamte laut Polizei."
+       },
+       {
+        "kopf": "Iran",
+        "text": "Teheran nennt den USA sieben Bedingungen für Diplomatie (Eigenangabe). Zustimmung gilt als unwahrscheinlich."
+       },
+       {
+        "kopf": "Berlin",
+        "text": "Die Linke stimmt auf ihrem Parteitag für Koalitionsgespräche."
+       },
+       {
+        "kopf": "Ukraine",
+        "text": "Die USA genehmigen den Verkauf von 500 Patriot-Raketen für rund 2,1 Milliarden Dollar."
+       }
+      ],
+      "quelle": "ZDFheute, 31.10.2026; t-online (dpa), 01.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute",
+        "text": "Sonntag, in der dpa-AFX-Wochenvorschau sind für heute keine Termine verzeichnet."
+       },
+       {
+        "kopf": "Montag, 2. November",
+        "text": "Digitalgipfel der Bundesregierung in Berlin, Schwerpunkt KI. Roundtable mit Kanzler Merz um 14:50 Uhr."
+       },
+       {
+        "kopf": "Dienstag, 3. November",
+        "text": "Kongresswahlen in den USA."
+       },
+       {
+        "kopf": "Mittwoch, 4. November",
+        "text": "Das Bundesverfassungsgericht verhandelt um 10 Uhr über den Ausschluss eines Abgeordneten aus der AfD-Bundestagsfraktion."
+       }
+      ],
+      "quelle": "dpa-AFX, Wochenvorschau vom 30.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "Über 30",
+      "text": "Städte, in denen gestern bei den Gen-Z-Protesten demonstriert wurde, zumeist friedlich. Die Veranstalter nennen über 68.000 Teilnehmende.",
+      "quelle": "ZDFheute, 31.10.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · So., 1. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Gen-Z-Proteste, Iran, Berlin und Ukraine im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, 31.10.2026; t-online (dpa), 01.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-10-31",
   "morgen": {
    "titel": "Morning Briefing",

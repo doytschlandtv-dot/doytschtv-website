@@ -2,31 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-10-31T21:25:00+01:00",
+ "stand": "2026-11-01T05:49:00+01:00",
  "items": [
   {
-   "z": "2026-10-31T15:36:00+01:00",
-   "t": "Irans Oberster Führer Chamenei droht laut taz bei neuen US-Angriffen mit einer sofortigen Antwort (Eigenangabe); parallel laufen Vermittlungsbemühungen unter anderem über Katar und Pakistan",
-   "q": "taz",
-   "u": "https://taz.de/Chamenei-droht-mit-geografisch-uneingeschraenkter-Antwort/!6226346/"
-  },
-  {
-   "z": "2026-10-31T16:50:00+01:00",
-   "t": "Die Berliner Linke hat auf ihrem Parteitag laut ZDFheute für Koalitionsverhandlungen mit SPD und Grünen gestimmt; die Dreiergespräche könnten am Montag beginnen",
+   "z": "2026-10-31T17:57:00+01:00",
+   "t": "Bei den Gen-Z-Protesten demonstrierten laut ZDFheute in über 30 Städten Zehntausende, zumeist friedlich; die Initiative nennt über 68.000 Teilnehmende (Eigenangabe)",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/deutschland/berlin-linke-gruene-spd-koalitionsverhandlungen-wahl-100.html"
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-10-31T18:03:00+01:00",
-   "t": "Bei den Gen-Z-Protesten demonstrierten bundesweit mehrere Zehntausend Menschen; in Köln, Frankfurt und Stuttgart stoppte die Polizei Aufzüge wegen Vermummung und Pyrotechnik",
-   "q": "Südtirol News",
-   "u": "https://suedtirolnews.it/politik/zehntausende-bei-deutschlandweiten-jugendprotesten-2"
+   "z": "2026-10-31T22:01:00+01:00",
+   "t": "Der Iran nennt den USA sieben Bedingungen für Diplomatie (Eigenangabe); eine Zustimmung der USA gilt laut ZDFheute als unwahrscheinlich",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-10-31T18:40:00+01:00",
-   "t": "In Frankfurt löste die Polizei die Gen-Z-Demonstration nach Böller- und Steinwürfen auf; Hessens Innenminister Poseck sprach laut Tagesspiegel von mehreren verletzten Polizisten",
-   "q": "Tagesspiegel",
-   "u": "https://www.tagesspiegel.de/gesellschaft/liveblog/barrikaden-brennen-in-hamburg-bollerwurfe-in-berlin-wasserwerfer-einsatz-in-koln-16223578.html"
+   "z": "2026-10-31T22:56:00+01:00",
+   "t": "Die USA haben den Verkauf von 500 Patriot-Raketen für rund 2,1 Milliarden Dollar genehmigt, meldet ZDFheute; Kiew will sie früher erhalten",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+  },
+  {
+   "z": "2026-11-01T02:03:00+01:00",
+   "t": "Nach der Abenddemo in Berlin-Mitte wurden laut Polizei 27 Beamte leicht verletzt; bis zu 56 Personen wurden vorübergehend festgenommen",
+   "q": "t-online (mit dpa)",
+   "u": "https://berlin.t-online.de/region/berlin/id_101506976/27-polizisten-bei-abenddemo-in-berlin-mitte-leicht-verletzt-festnahmen.html"
   }
  ]
 };
