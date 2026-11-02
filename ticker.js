@@ -2,31 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-02T05:55:00+01:00",
+ "stand": "2026-11-02T21:40:00+01:00",
  "items": [
   {
-   "z": "2026-11-01T13:44:00+01:00",
-   "t": "Nach den Ausschreitungen in Frankfurt nennt Hessens Innenminister Poseck 54 Festnahmen und mehr als 100 verletzte Polizisten; die meisten Festgenommenen haben laut Poseck die deutsche Staatsbürgerschaft",
-   "q": "Tagesspiegel (dpa)",
-   "u": "https://www.tagesspiegel.de/politik/dpa-krawalle-in-frankfurt-und-koln-mehr-als-100-verletzte-polizisten--dobrindt-macht-linke-und-chaoten-aus-migrantischem-milieu-verantwortlich-16225091.html"
-  },
-  {
-   "z": "2026-11-01T19:45:00+01:00",
-   "t": "Verteidigungsminister Pistorius distanziert sich von Innenminister Dobrindts Wortwahl zu den Krawallen: Die Täter seien Extremisten und Straftäter, die Frage nach „migrantischen Gruppen“ führe in die falsche Richtung",
+   "z": "2026-11-02T06:00:00+01:00",
+   "t": "Der zweitägige Digitalgipfel der Bundesregierung in Berlin beginnt; laut ZDFheute geht es mit rund 1.000 Teilnehmenden um einfachere KI-Regeln und digitale Souveränität",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/boris-pistorius-interview-wehrpflicht-gen-z-krawalle-100.html"
+   "u": "https://www.zdfheute.de/politik/deutschland/digitalgipfel-bundesregierung-merz-ki-sicherheit-souveraenitaet-100.html"
   },
   {
-   "z": "2026-11-01T20:30:00+01:00",
-   "t": "Nach einer Apple-Warnung hat das BSI Bundestagsabgeordnete und Regierungsmitglieder über mögliche Spyware-Angriffe auf iPhones informiert; Digitalminister Wildberger bestätigte dies",
-   "q": "ad-hoc-news (dpa)",
-   "u": "https://www.ad-hoc-news.de/politik/bsi-warnt-politiker-vor-spyware-angriff-auf-iphones/70442488"
+   "z": "2026-11-02T14:00:00+01:00",
+   "t": "In Berlin haben die Koalitionsverhandlungen über ein Bündnis aus SPD, Grünen und Linken begonnen",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/video/heute-in-deutschland/heute---in-deutschland-vom-2-november-2026-100.html"
   },
   {
-   "z": "2026-11-01T21:49:00+01:00",
-   "t": "Selenskyj sagt, er sei zu einem direkten Treffen mit Putin in der Türkei bereit; ein Treffen in Moskau lehnt er ab",
-   "q": "dpa-AFX (finanzen.net)",
-   "u": "https://www.finanzen.net/nachricht/aktien/selenskyj-zu-treffen-mit-putin-in-der-tuerkei-bereit-16027560"
+   "z": "2026-11-02T14:11:00+01:00",
+   "t": "Kanzler Merz befürwortet laut dpa ein hartes Vorgehen gegen Gewalttäter nach den Ausschreitungen bei den Jugenddemonstrationen und betont, die meisten Jugendlichen hätten friedlich demonstriert",
+   "q": "t-online (dpa)",
+   "u": "https://www.t-online.de/nachrichten/deutschland/id_101508936/merz-befuerwortet-hartes-vorgehen-gegen-krawallmacher.html"
+  },
+  {
+   "z": "2026-11-02T16:51:00+01:00",
+   "t": "Außenpolitiker der AfD-Fraktion fordern in zwei Positionspapieren mehr Nähe zur Trump-Regierung, ein Ende der Ukraine-Unterstützung und eine Annäherung an Russland",
+   "q": "ZDFheute Newsticker",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   }
  ]
 };

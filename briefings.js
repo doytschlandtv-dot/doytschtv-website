@@ -21,7 +21,46 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Krawalle nach den Jugenddemos: Merz fordert hartes Vorgehen, Streit um Dobrindts Worte",
+    "CDU: Merz trifft Kreisvorsitzende, Basis fordert Kurswechsel",
+    "AfD-Fraktion: Papiere für Nähe zu Trump und Ende der Ukraine-Hilfen",
+    "Berlin: Koalitionsgespräche von Linke, Grünen und SPD beginnen"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Montag, 2. November.",
+    "Erstens: die Krawalle nach den Jugenddemonstrationen. Wir haben im Morning Briefing über Frankfurt berichtet. Heute hat Bundeskanzler Friedrich Merz laut dpa ein hartes Vorgehen gegen gewalttätige Randalierer befürwortet; seine Regierung werde keine Toleranz zeigen. Zugleich dankte er der Polizei, betonte, dass die meisten Jugendlichen friedlich demonstrierten, und räumte Mängel beim bezahlbaren Wohnen ein. In Frankfurt wurden Steine und Molotowcocktails geworfen, mehr als 100 Polizisten wurden verletzt. Auch in Köln, Hamburg und Berlin gab es Gewalt, weniger schwer. Innenminister Alexander Dobrindt hatte gewaltbereite linke Gruppen und „migrantische Chaoten“ verantwortlich gemacht; Verteidigungsminister Boris Pistorius stellte die Unschärfe von „migrantischen Gruppen“ infrage, Bildungsministerin Karin Prien stützte Dobrindts Darstellung teilweise (t-online/dpa, 2.11.). Hessens Innenminister Roman Poseck sagte, die Täter in Frankfurt seien überwiegend migrantischer Herkunft, viele Festgenommene hätten aber die deutsche Staatsbürgerschaft (t-online/dpa, 2.11.). Unsere Einordnung: Wer Gewalt verübt, wird unabhängig von seiner Herkunft verfolgt; die Zuschreibung ganzer Gruppen hilft der Aufklärung nicht.",
+    "Zweitens: die CDU. Rund 160 der etwa 330 Kreisvorsitzenden trafen Merz heute in einer nicht öffentlichen Konferenz im Konrad-Adenauer-Haus in Berlin. Hintergrund sind laut t-online die Niederlagen bei den Landtagswahlen; in Mecklenburg-Vorpommern zog die CDU erstmals nicht in den Landtag ein. Mehrere Kreisvorsitzende forderten laut dpa, die Führung solle zuhören und spürbare Entscheidungen treffen, vor allem bei den Energiepreisen. Ein Kreisvorsitzender schlug vor, Kanzleramt und Parteivorsitz zu trennen. Ein Ergebnis der Konferenz lag uns bis Redaktionsschluss nicht vor (Tagesspiegel/dpa, 2.11.; t-online/dpa, 2.11.; ariva/dpa-AFX, 2.11.).",
+    "Drittens: die AfD. Außenpolitiker der Bundestagsfraktion stellten heute zwei Positionspapiere vor. Gefordert werden laut dpa-AFX die Wiederinbetriebnahme von Nord Stream, das Ende der Wirtschaftssanktionen gegen Russland und die Einstellung der Militärhilfen für die Ukraine. Der russische Angriff wird in dem Papier nicht verurteilt, die Ukraine soll weder NATO- noch EU-Mitglied werden. Zudem begrüßt die Fraktion Teile der Neuausrichtung unter US-Präsident Donald Trump und mögliche Truppenreduzierungen der USA in Deutschland (ariva/dpa-AFX, 2.11.). Unsere Einordnung: Eine Friedenslösung, die den russischen Angriff nicht als Völkerrechtsbruch benennt, blendet das Gewaltverbot der UN-Charta aus.",
+    "Viertens: Berlin. Gut sechs Wochen nach der Wahl zum Abgeordnetenhaus haben heute die Koalitionsverhandlungen von Linke, Grünen und SPD begonnen (ZDFheute, 2.11.). Sie dürften laut ZDFheute mehrere Wochen dauern, ein Koalitionsvertrag könnte bis Dezember vorliegen. Verteidigungsminister Pistorius sprach sich gestern dagegen aus, die Gespräche fortzusetzen. Er kritisierte unter anderem, die Linke sei in der Frage des Antisemitismus gespalten; das ist seine Einschätzung. Er hat nach ZDF-Angaben einen Brief unterzeichnet, den mehr als 700 SPD-Politiker gegen ein rot-grün-rotes Bündnis unterschrieben haben (ZDFheute, 1.11.). Die Entscheidung liegt bei den Mitgliedern von Linke und SPD sowie bei den Grünen.",
+    "Morgen: Am Dienstag finden in den USA die Kongresswahlen statt. In Frankfurt tagt ab 9 Uhr die Konferenz zur Bankenunion, um 9:30 Uhr gibt es ein Pressebriefing zum Klimagipfel COP31 in Antalya, der vom 9. bis 20. November dauert. Unter anderem Lufthansa und Bayer legen Quartalszahlen vor. Am Mittwoch verhandelt das Bundesverfassungsgericht über den Ausschluss eines Abgeordneten aus der AfD-Bundestagsfraktion (dpa-AFX, Tages- und Wochenvorschau).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "t-online (dpa), 2.11.2026"
+    },
+    {
+     "titel": "Tagesspiegel (dpa), 2.11.2026"
+    },
+    {
+     "titel": "ariva (dpa-AFX), 2.11.2026"
+    },
+    {
+     "titel": "ZDFheute, 2.11.2026"
+    },
+    {
+     "titel": "ZDFheute, 1.11.2026"
+    },
+    {
+     "titel": "finanznachrichten (dpa-AFX Tagesvorschau), 2.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
