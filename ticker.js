@@ -2,31 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-01T21:35:00+01:00",
+ "stand": "2026-11-02T05:55:00+01:00",
  "items": [
   {
-   "z": "2026-11-01T08:42:00+01:00",
-   "t": "Die Koalitionsgespräche von Linke, Grünen und SPD in Berlin beginnen am Montag im Abgeordnetenhaus; Grundlage ist ein Sondierungspapier",
-   "q": "Jüdische Allgemeine",
-   "u": "https://www.juedische-allgemeine.de/politik/koalitionsgespraeche-von-rot-gruen-rot-in-berlin-vor-dem-start/"
+   "z": "2026-11-01T13:44:00+01:00",
+   "t": "Nach den Ausschreitungen in Frankfurt nennt Hessens Innenminister Poseck 54 Festnahmen und mehr als 100 verletzte Polizisten; die meisten Festgenommenen haben laut Poseck die deutsche Staatsbürgerschaft",
+   "q": "Tagesspiegel (dpa)",
+   "u": "https://www.tagesspiegel.de/politik/dpa-krawalle-in-frankfurt-und-koln-mehr-als-100-verletzte-polizisten--dobrindt-macht-linke-und-chaoten-aus-migrantischem-milieu-verantwortlich-16225091.html"
   },
   {
-   "z": "2026-11-01T10:48:00+01:00",
-   "t": "Die Proteste von Gen Z regelt fanden in über 30 Städten statt, laut ZDFheute demonstrierten Zehntausende; die Initiative nennt rund hunderttausend (Eigenangabe)",
+   "z": "2026-11-01T19:45:00+01:00",
+   "t": "Verteidigungsminister Pistorius distanziert sich von Innenminister Dobrindts Wortwahl zu den Krawallen: Die Täter seien Extremisten und Straftäter, die Frage nach „migrantischen Gruppen“ führe in die falsche Richtung",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-pluenderungen-gewalt-100.html"
+   "u": "https://www.zdfheute.de/politik/boris-pistorius-interview-wehrpflicht-gen-z-krawalle-100.html"
   },
   {
-   "z": "2026-11-01T12:22:00+01:00",
-   "t": "Iran und Katar haben am Wochenende über ein Ende des Konflikts mit den USA gesprochen; Außenminister Araghtschi knüpft Gespräche an Bedingungen (Eigenangabe), laut Rubio ist keine Entscheidung über neue US-Angriffe gefallen",
-   "q": "CGTN (Sunday World)",
-   "u": "https://sundayworld.co.za/world/iran-qatar-hold-talks-as-tehran-weighs-us-diplomatic-overture/"
+   "z": "2026-11-01T20:30:00+01:00",
+   "t": "Nach einer Apple-Warnung hat das BSI Bundestagsabgeordnete und Regierungsmitglieder über mögliche Spyware-Angriffe auf iPhones informiert; Digitalminister Wildberger bestätigte dies",
+   "q": "ad-hoc-news (dpa)",
+   "u": "https://www.ad-hoc-news.de/politik/bsi-warnt-politiker-vor-spyware-angriff-auf-iphones/70442488"
   },
   {
-   "z": "2026-11-01T14:48:00+01:00",
-   "t": "Nach den Ausschreitungen in Frankfurt meldet dpa 54 Festgenommene im Alter von 13 bis 29 Jahren, 17 beschädigte und fünf geplünderte Geschäfte",
-   "q": "Wirtschaftswoche (dpa)",
-   "u": "https://www.wiwo.de/politik/deutschland/krawalle-nach-gen-z-regelt-festnahmen-und-pluenderungen/100266314.html"
+   "z": "2026-11-01T21:49:00+01:00",
+   "t": "Selenskyj sagt, er sei zu einem direkten Treffen mit Putin in der Türkei bereit; ein Treffen in Moskau lehnt er ab",
+   "q": "dpa-AFX (finanzen.net)",
+   "u": "https://www.finanzen.net/nachricht/aktien/selenskyj-zu-treffen-mit-putin-in-der-tuerkei-bereit-16027560"
   }
  ]
 };

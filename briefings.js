@@ -1,5 +1,123 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-02",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Frankfurt: 54 Festnahmen, Streit um Dobrindts Aussagen zu den Krawallen",
+    "Spyware-Warnung: BSI informiert Abgeordnete und Regierungsmitglieder",
+    "Selenskyj: Zu einem Treffen mit Putin in der Türkei bereit",
+    "Heute: Digitalgipfel in Berlin, Koalitionsgespräche beginnen"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Montag, den 2. November.",
+    "Gestern: Nach den Ausschreitungen bei den Jugenddemonstrationen in Frankfurt nennt Hessens Innenminister Roman Poseck 54 Festnahmen, die Festgenommenen sind 13 bis 29 Jahre alt, die meisten haben laut Poseck die deutsche Staatsbürgerschaft. Mehr als 100 Polizisten wurden verletzt, 17 Geschäfte beschädigt, fünf geplündert (Tagesspiegel/dpa, 1.11.; ZDFheute, 1.11.). Innenminister Alexander Dobrindt (CSU) macht laut Bild „gewaltbereite linke Gruppen“ und „Chaoten aus dem migrantischen Milieu“ verantwortlich. Verteidigungsminister Boris Pistorius (SPD) distanziert sich: „Was sind denn migrantische Gruppen?“, das führe in die falsche Richtung. Die Täter seien Extremisten und Straftäter (ZDFheute, 1.11.).",
+    "Das Bundesamt für Sicherheit in der Informationstechnik hat Bundestagsabgeordnete und Regierungsmitglieder informiert, nachdem Apple vor möglichen Angriffen auf iPhones gewarnt hatte. Digitalminister Karsten Wildberger (CDU) bestätigte die Warnung. Welche Geräte betroffen sind und wer dahintersteckt, ist laut Bericht offen (dpa/ad-hoc-news, 1.11.).",
+    "Der ukrainische Präsident Wolodymyr Selenskyj sagte dem Sender CNN Türk, er sei zu einem direkten Treffen mit Putin in der Türkei bereit. Ein Treffen in Moskau lehnt er ab. Eine Reaktion des Kremls nennt die Meldung nicht. Mitte November sollen Delegationen in Abu Dhabi verhandeln (dpa-AFX, 1.11.).",
+    "Heute: In Berlin beginnt um 10 Uhr der Digitalgipfel der Bundesregierung mit Schwerpunkt Künstliche Intelligenz, um 14:50 Uhr nimmt Kanzler Friedrich Merz an einem Roundtable teil. Um 13 Uhr beginnt der Deutsche Verbrauchertag. Außerdem sollen in Berlin die Koalitionsgespräche von Linke, Grünen und SPD beginnen (dpa-AFX, Tagesvorschau; news.de, 2.11.).",
+    "Diese Woche: Am Dienstag finden in den USA die Kongresswahlen statt. Am Mittwoch verhandelt das Bundesverfassungsgericht um 10 Uhr über den Ausschluss eines Abgeordneten aus der AfD-Bundestagsfraktion, um 11 Uhr folgt die vorläufige Inflationszahl der Eurozone für Oktober (dpa-AFX, Wochenvorschau).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Montag, 2. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Montag, den 2. November. Gestern: Nach den Krawallen in Frankfurt gibt es 54 Festnahmen und Streit um Dobrindts Aussagen. Das BSI warnt Abgeordnete vor möglicher Spyware auf iPhones. Selenskyj ist zu einem Treffen mit Putin in der Türkei bereit. Heute: Digitalgipfel in Berlin, Koalitionsgespräche beginnen. Diese Woche: US-Kongresswahlen am Dienstag, Bundesverfassungsgericht am Mittwoch. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Mo., 2. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Drei Dinge",
+      "punkte": [
+       {
+        "kopf": "Frankfurt",
+        "text": "54 Festnahmen, mehr als 100 verletzte Polizisten laut Innenminister Poseck. Pistorius widerspricht Dobrindts Wortwahl."
+       },
+       {
+        "kopf": "Spyware",
+        "text": "Nach einer Apple-Warnung informiert das BSI Abgeordnete und Regierungsmitglieder. Die Hintergründe sind offen."
+       },
+       {
+        "kopf": "Ukraine",
+        "text": "Selenskyj ist zu einem Treffen mit Putin in der Türkei bereit. Eine Kreml-Reaktion nennt die Meldung nicht."
+       }
+      ],
+      "quelle": "Tagesspiegel (dpa), ZDFheute, dpa-AFX, 01.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 2. November",
+        "text": "Digitalgipfel in Berlin ab 10 Uhr, Roundtable mit Kanzler Merz um 14:50 Uhr. Beginn der Berliner Koalitionsgespräche."
+       },
+       {
+        "kopf": "Dienstag, 3. November",
+        "text": "Kongresswahlen in den USA."
+       },
+       {
+        "kopf": "Mittwoch, 4. November",
+        "text": "Das Bundesverfassungsgericht verhandelt um 10 Uhr über den Ausschluss eines Abgeordneten aus der AfD-Fraktion."
+       }
+      ],
+      "quelle": "dpa-AFX, Tages- und Wochenvorschau; news.de, 02.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "Über 100",
+      "text": "Polizisten wurden bei den Ausschreitungen in Frankfurt laut Hessens Innenminister Poseck verletzt. 54 Menschen wurden festgenommen.",
+      "quelle": "ZDFheute, 01.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Mo., 2. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Frankfurt, Spyware-Warnung und Ukraine im Karussell. Link in der Bio.",
+    "quelle": "Tagesspiegel (dpa), ZDFheute, dpa-AFX, 01.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-01",
   "morgen": {
    "titel": "Morning Briefing",
