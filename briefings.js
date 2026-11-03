@@ -1,5 +1,133 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-03",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Digitalgipfel: Merz fordert mehr Tempo bei KI",
+    "Berlin: Koalitionsgespräche von SPD, Linke und Grünen gestartet",
+    "Nach den Krawallen: Gewerkschaft der Polizei verteidigt Täterzuordnung",
+    "Ukraine: Gespräche in Abu Dhabi für kommende Woche angekündigt",
+    "Heute: US-Kongresswahlen"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Dienstag, den 3. November.",
+    "Gestern: Auf dem Digitalgipfel der Bundesregierung in Berlin hat Kanzler Friedrich Merz gefordert, Deutschland und Europa müssten deutlich schneller werden, digitale Technologien zu entwickeln und zu nutzen. Im Zentrum stehe der Mensch, nicht die Technik. Der Abschlussbericht der KI-Taskforce warnt laut ZDFheute, Deutschland könne gegenüber den USA und China weiter zurückfallen; die nächsten 12 bis 18 Monate seien entscheidend. Bis 2030 sollen mindestens 80 Prozent der Großunternehmen und 55 Prozent der kleinen und mittleren Unternehmen KI einsetzen (ZDFheute, 2.11.).",
+    "In Berlin haben die Koalitionsgespräche von SPD, Linken und Grünen begonnen. Laut ZDFheute nennt das Sondierungspapier die Vergesellschaftung von 160.000 Wohnungen als zentrales Ziel. Linken-Fraktionschefin Elif Eralp sprach nach dem ersten Verhandlungstag von „sehr guten Gesprächen“, im Mittelpunkt stand der Landeshaushalt. Die Dachgruppe der Hauptverhandler trifft sich am Mittwoch wieder (ZDFheute, 2.11.; news.de/dpa, 3.11.).",
+    "Nach den Ausschreitungen vom Wochenende wehrt sich die Gewerkschaft der Polizei gegen Kritik an der Zuordnung der Taten zu jungen Männern aus dem „migrantischen Milieu“. GdP-Bundespolizei-Chef Andreas Roßkopf sagte der Bild, Polizisten bestätigten diese Tätergruppen in ihren Berichten (Eigenangabe laut news.de/dpa, 3.11.). Kanzler Merz verurteilte die Krawalle; die meisten Jugendlichen hätten friedlich demonstriert (t-online/dpa, 2.11.).",
+    "Ukraine: Vertreter aus Kiew, Moskau und Washington sollen sich laut dem US-Sondergesandten Steve Witkoff nächste Woche in Abu Dhabi zu zweitägigen Gesprächen treffen (Witkoff auf X, laut news.de/dpa, 3.11.).",
+    "Heute: In den USA finden die Kongresswahlen statt, gewählt werden alle 435 Sitze im Repräsentantenhaus und gut ein Drittel der 100 Senatssitze. Ab 7 Uhr legen Lufthansa, Zalando und Bayer Quartalszahlen vor. Um 9:30 Uhr gibt es in Berlin ein Pressebriefing zum UN-Klimagipfel COP31 in Antalya. Um 15:30 Uhr tritt die Generalversammlung des polnischen Verfassungsgerichts zusammen (dpa-AFX, Tagesvorschau; news.de/dpa, 3.11.).",
+    "Diese Woche: Am Mittwoch verhandelt das Bundesverfassungsgericht in Karlsruhe um 10 Uhr über den Ausschluss eines Abgeordneten aus der AfD-Bundestagsfraktion, um 11 Uhr folgt die vorläufige Inflationszahl der Eurozone für Oktober (dpa-AFX, Wochenvorschau).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Dienstag, 3. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Dienstag, den 3. November. Gestern: Merz fordert auf dem Digitalgipfel mehr Tempo bei KI, in Berlin haben die Koalitionsgespräche von SPD, Linken und Grünen begonnen. Zuletzt: Streit um die Einordnung der Krawalle vom Wochenende, neue Ukraine-Gespräche für kommende Woche angekündigt. Heute: Kongresswahlen in den USA. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Di., 3. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Digitalgipfel",
+        "text": "Merz fordert mehr Tempo bei KI. Bis 2030 sollen 80 Prozent der Großunternehmen KI einsetzen."
+       },
+       {
+        "kopf": "Berlin",
+        "text": "Die Koalitionsgespräche von SPD, Linken und Grünen haben begonnen. Im Mittelpunkt: der Landeshaushalt."
+       },
+       {
+        "kopf": "Krawalle",
+        "text": "Die Polizeigewerkschaft verteidigt die Täterzuordnung gegen Kritik. Merz: Die meisten demonstrierten friedlich."
+       },
+       {
+        "kopf": "Ukraine",
+        "text": "Gespräche von Kiew, Moskau und Washington in Abu Dhabi, laut Witkoff nächste Woche."
+       }
+      ],
+      "quelle": "ZDFheute, 2.11.2026; t-online/dpa, 2.11.2026; news.de/dpa, 3.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, USA",
+        "text": "Kongresswahlen: alle 435 Sitze im Repräsentantenhaus, gut ein Drittel des Senats."
+       },
+       {
+        "kopf": "Heute, ab 7 Uhr",
+        "text": "Lufthansa, Bayer und Zalando legen Quartalszahlen vor."
+       },
+       {
+        "kopf": "Heute, 9:30 Uhr",
+        "text": "Pressebriefing in Berlin zum UN-Klimagipfel COP31 in Antalya."
+       },
+       {
+        "kopf": "Mittwoch",
+        "text": "Karlsruhe verhandelt um 10 Uhr über den Ausschluss eines AfD-Abgeordneten, um 11 Uhr folgt die Inflation der Eurozone."
+       }
+      ],
+      "quelle": "dpa-AFX, Tagesvorschau 3.11.2026 und Wochenvorschau; news.de/dpa, 3.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "435",
+      "text": "Sitze im Repräsentantenhaus stehen heute bei den US-Kongresswahlen zur Wahl, dazu gut ein Drittel der 100 Senatssitze.",
+      "quelle": "news.de/dpa, 3.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Di., 3. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Digitalgipfel, Berlin, Krawalle, Ukraine und US-Wahl im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, 2.11.2026; news.de/dpa, 3.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-02",
   "morgen": {
    "titel": "Morning Briefing",
