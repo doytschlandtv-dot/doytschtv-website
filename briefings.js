@@ -118,14 +118,11 @@ window.BRIEFINGS = [
     "hashtags": "#doytschlandtv #nsu #nsu15 #rechtsterror #gedenken #jena #einordnung #nachrichten",
     "slides": [
      {
-      "typ": "hook",
+      "typ": "cover",
+      "titel": "Zehn Menschen wurden ermordet. 15 Jahre nach der Enttarnung des NSU.",
       "kicker": "NSU · 4. November 2011 bis 2026",
-      "titel": "15 Jahre nach der Selbstenttarnung des NSU: Was ist geklärt, was nicht?",
-      "rot": "was nicht?",
       "bild": {
-       "url": "nsu-opfer.jpg",
-       "fokus": 0.5,
-       "unter": "Die zehn Opfer des NSU"
+       "url": "nsu-cover.jpg"
       }
      },
      {
@@ -194,6 +191,22 @@ window.BRIEFINGS = [
     "text": "US-Wahl, Selenskyj in Berlin, Enteignungs-Gesetz und Frührente im Karussell. Link in der Bio.",
     "quelle": "ZDFheute, dpa-AFX, news.de (dpa), 3./4.11.2026",
     "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "kicker": "NSU · 15 Jahre",
+    "titel": "Zehn Menschen wurden ermordet.",
+    "rot": "ermordet.",
+    "text": "Heute vor 15 Jahren flog der NSU auf. Im Karussell: was geklärt ist und was offen bleibt. Link in der Bio.",
+    "quelle": "Bundeszentrale für politische Bildung",
+    "theme": "dark",
+    "bild": {
+     "url": "nsu-opfer.jpg",
+     "karte": true,
+     "fokus": 0.5,
+     "unter": "Die zehn Opfer des NSU"
+    }
    }
   ]
  },

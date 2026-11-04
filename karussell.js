@@ -151,6 +151,7 @@
   function draw(canvas, s, i, n, img) {
     canvas.width = W; canvas.height = H;
     var ctx = canvas.getContext("2d");
+    if (s.typ === "cover" && img) { ctx.drawImage(img, 0, 0, W, H); return; }
     var T = TH[s.theme || THEME_OF[s.typ] || "light"];
     var fg = T.fg, mu = T.mu, ac = T.ac;
     ctx.fillStyle = T.bg; ctx.fillRect(0, 0, W, H);
