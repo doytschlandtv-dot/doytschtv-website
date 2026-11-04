@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-04",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "US-Zwischenwahl: Demokraten gewinnen Senatssitze, Mehrheit im Repräsentantenhaus laut Hochrechnungen bei den Demokraten",
+    "Selenskyj auf der Berliner Sicherheitskonferenz: Appell an die Europäer",
+    "Merz: Gesetzentwurf gegen Enteignungen von Wohnungsunternehmen fast fertig",
+    "IW: Nur 37 Prozent eines Jahrgangs gingen 2025 regulär in Rente"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Mittwoch, den 4. November.",
+    "Gestern und in der Nacht: Bei den US-Kongresswahlen haben die Demokraten nach Angaben von ZDFheute (4.11., 3:45 Uhr) die Senatssitze in North Carolina (Roy Cooper) und New Hampshire (Chris Pappas) den Republikanern abgenommen. Ob die Demokraten das Repräsentantenhaus übernehmen, war zu diesem Zeitpunkt offen. Laut news.de auf Basis von dpa-Material (4.11., 5:08 Uhr) verlieren die Republikaner nach Hochrechnungen von CNN und NBC News ihre Mehrheit dort. Ein amtliches Endergebnis liegt noch nicht vor.",
+    "Auf der Berliner Sicherheitskonferenz hat der ukrainische Präsident Selenskyj die Europäer zu mehr gemeinsamen Anstrengungen für ihre eigene Verteidigung aufgerufen und vor Illusionen über Putins militärische Pläne gewarnt. Er behauptete, Russland habe entschieden, ein friedliches, geeintes Europa als Feind zu sehen. Das ist eine Eigenangabe Selenskyjs. Zuvor hatte er den Kanzler in Berlin getroffen (dpa-AFX, 3.11.).",
+    "Kanzler Merz sagte bei einer Veranstaltung der IHK in Berlin, der Gesetzentwurf zum Verbot von Enteignungen von Wohnungsgesellschaften sei praktisch fertig. Offen sei nur, ob im Enteignungsfall 100 oder 80 Prozent des Verkehrswerts zu ersetzen wären (news.de auf Basis von dpa-Material, 3.11.).",
+    "Zuletzt: Laut einer Erhebung des Instituts der deutschen Wirtschaft gingen 2025 nur 37 Prozent eines Jahrgangs regulär in Rente. 1,1 Millionen Menschen der Jahrgänge 1960 bis 1963 bezogen eine Altersrente, obwohl sie die Regelaltersgrenze noch nicht erreicht hatten (IW, laut news.de, 4.11.).",
+    "Heute: Um 10 Uhr verhandelt das Bundesverfassungsgericht in Karlsruhe über den Ausschluss eines Abgeordneten aus der AfD-Bundestagsfraktion. Der Antragsteller sieht seine Abgeordnetenrechte aus Artikel 38 des Grundgesetzes verletzt; der Fraktionsbeschluss stammt vom 3. März 2026 (Bundesverfassungsgericht, Pressemitteilung 59/2026). Außerdem: um 9:55 Uhr der Einkaufsmanagerindex Dienste für Deutschland, um 11 Uhr die vorläufigen Verbraucherpreise der Eurozone, am Nachmittag laut news.de die Abstimmung im Umweltausschuss des Europaparlaments zur Lockerung des Verbrenner-Aus, und ab dem Nachmittag die Konsultationen von Israels Präsident Herzog zur Regierungsbildung (dpa-AFX Tagesvorschau, news.de, 4.11.).",
+    "Diese Woche: Am Donnerstag verhandelt der Bundesgerichtshof um 10 Uhr über Login-Daten bei der Kündigung von Online-Verträgen, um 8 Uhr kommen die Auftragseingänge der deutschen Industrie, und um 13 Uhr entscheidet die Bank of England über die Zinsen. Am Freitag um 8 Uhr folgt die deutsche Industrieproduktion und um 14:30 Uhr der US-Arbeitsmarktbericht (dpa-AFX Wochenvorschau, 3.11.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Mittwoch, 4. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Mittwoch, den 4. November. Gestern und zuletzt: Die US-Kongresswahl (Demokraten gewinnen Senatssitze, Mehrheit im Repräsentantenhaus laut Hochrechnungen bei den Demokraten), Selenskyjs Appell an die Europäer in Berlin, Merz zum Gesetz gegen Enteignungen und die IW-Zahlen zur Frührente. Heute: Das Bundesverfassungsgericht verhandelt um 10 Uhr über den Ausschluss eines Abgeordneten aus der AfD-Fraktion. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Mi., 4. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "US-Wahl",
+        "text": "Demokraten gewinnen Senatssitze in North Carolina und New Hampshire. Das Repräsentantenhaus geht laut Hochrechnungen an sie."
+       },
+       {
+        "kopf": "Selenskyj",
+        "text": "Appell an die Europäer in Berlin: mehr gemeinsame Verteidigung, keine Illusionen über Putin (Eigenangabe)."
+       },
+       {
+        "kopf": "Enteignungen",
+        "text": "Merz: Gesetzentwurf fast fertig. Offen: 100 oder 80 Prozent des Verkehrswerts."
+       },
+       {
+        "kopf": "Frührente",
+        "text": "Laut IW gingen 2025 nur 37 Prozent eines Jahrgangs regulär in Rente."
+       }
+      ],
+      "quelle": "ZDFheute, 4.11.; dpa-AFX, 3.11.; news.de (dpa), 3./4.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 10 Uhr",
+        "text": "Bundesverfassungsgericht verhandelt über den Ausschluss eines Abgeordneten aus der AfD-Fraktion."
+       },
+       {
+        "kopf": "Heute",
+        "text": "Einkaufsmanagerindex Dienste (9:55 Uhr) und Verbraucherpreise der Eurozone (11 Uhr)."
+       },
+       {
+        "kopf": "Donnerstag",
+        "text": "BGH zu Login-Daten bei Kündigung von Online-Verträgen, Zinsentscheid der Bank of England."
+       },
+       {
+        "kopf": "Freitag",
+        "text": "Deutsche Industrieproduktion (8 Uhr), US-Arbeitsmarktbericht (14:30 Uhr)."
+       }
+      ],
+      "quelle": "dpa-AFX, Tagesvorschau 4.11. und Wochenvorschau; BVerfG, PM 59/2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "37 Prozent",
+      "text": "eines Jahrgangs gingen 2025 laut Institut der deutschen Wirtschaft regulär in Rente.",
+      "quelle": "IW, laut news.de (dpa), 4.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Mi., 4. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "US-Wahl, Selenskyj in Berlin, Enteignungs-Gesetz und Frührente im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, dpa-AFX, news.de (dpa), 3./4.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-03",
   "morgen": {
    "titel": "Morning Briefing",
