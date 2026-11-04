@@ -110,6 +110,77 @@ window.BRIEFINGS = [
       ]
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "NSU: 15 Jahre nach der Selbstenttarnung",
+    "caption": "Am 4. November 2011 flog der NSU auf. Zehn Menschen wurden zwischen 2000 und 2007 ermordet: neun mit Migrationsgeschichte und eine Polizistin. Das Urteil gegen Beate Zschäpe fiel im Juli 2018, 15 Untersuchungsausschüsse haben seit 2012 aufgearbeitet, offen sind laut bpb unter anderem die Größe des Netzwerks und die Rolle der Behörden. Heute zeigt eine Studie aus Jena, wie sich das Trio auch in einem städtischen Jugendclub radikalisierte. Der Bundestag debattiert am Donnerstag. Was muss nach 15 Jahren noch aufgeklärt werden? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #nsu #nsu15 #rechtsterror #gedenken #jena #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "NSU · 4. November 2011 bis 2026",
+      "titel": "15 Jahre nach der Selbstenttarnung des NSU: Was ist geklärt, was nicht?",
+      "rot": "was nicht?",
+      "bild": {
+       "url": "nsu-opfer.jpg",
+       "fokus": 0.5,
+       "unter": "Die zehn Opfer des NSU"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "4. November 2011",
+      "titel": "Zwei Tote im Wohnmobil, eine brennende Wohnung.",
+      "text": "In Eisenach finden Polizisten Uwe Mundlos und Uwe Böhnhardt nach einem Schusswechsel tot in einem brennenden Wohnmobil. In Zwickau setzt Beate Zschäpe die gemeinsame Wohnung in Brand und stellt sich später. Ein Video, in dem die Gruppe mit ihren Taten prahlt, wird verschickt.",
+      "quelle": "Bundeszentrale für politische Bildung (bpb)"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "10",
+      "text": "Morde zwischen 2000 und 2007: neun Menschen mit Migrationsgeschichte und die Polizistin Michèle Kiesewetter. Bei Sprengstoffanschlägen in Köln 2001 und 2004 wurden 23 Menschen verletzt.",
+      "quelle": "bpb"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Wie es in Jena begann",
+      "titel": "Radikalisiert in einem städtischen Jugendclub.",
+      "text": "Die Historikerin Leonie Dellen wertete Jugendamtsakten aus: Das Trio radikalisierte sich auch im „Winzerclub“, einem städtischen Jugendclub, Sozialarbeiter ließen sie gewähren. Rechte Jugendliche verdrängten andere aus öffentlichen Räumen. Rechter Terror wachse dort, wo es keinen Widerspruch und keine politische Bildung gebe.",
+      "quelle": "ZDFheute, 4.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was bis heute nachwirkt",
+      "titel": "Urteil, Ausschüsse, offene Fragen.",
+      "punkte": [
+       {
+        "kopf": "Urteil",
+        "text": "Juli 2018: lebenslang für Zschäpe. Frühester Entlassungstermin 2035, laut OLG München, noch nicht rechtskräftig."
+       },
+       {
+        "kopf": "Aufarbeitung",
+        "text": "15 Untersuchungsausschüsse seit 2012. Offen: Größe des Netzwerks, Auswahl der Opfer, Rolle der Behörden."
+       },
+       {
+        "kopf": "Heute",
+        "text": "Rechtsextreme Straftaten Jugendlicher sanken 2025 kaum, die meisten Verdächtigen sind 14 bis 17."
+       }
+      ],
+      "quelle": "bpb, ZDFheute (Bundesinnenministerium)"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Im Bundestag",
+      "titel": "Zwei Debatten zum Jahrestag.",
+      "text": "Donnerstag, 5. November, ab 11:20 Uhr: vereinbarte Debatte „15 Jahre Aufdeckung des NSU“. Ab 20 Uhr: erste Lesung eines Linken-Antrags, „Den Terror von gestern aufklären, den Terror von morgen verhindern“.",
+      "quelle": "Deutscher Bundestag"
+     },
+     {
+      "typ": "cta",
+      "frage": "Was muss nach 15 Jahren noch aufgeklärt werden?"
+     }
+    ]
    }
   ],
   "storys": [
