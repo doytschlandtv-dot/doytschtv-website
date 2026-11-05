@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-05",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Hubert Aiwanger tot in Berliner Hotel aufgefunden, Behörden nennen noch keine Details",
+    "Berlin: Linke, Grüne und SPD wollen Koalitionsverhandlungen erst im Januar abschließen",
+    "Bundespräsidentenwahl: Hagel unterstützt Ilse Aigner, Entscheidung der CDU Anfang nächster Woche erwartet",
+    "Nach den US-Midterms: Vance führt Niederlage laut X-Beitrag auf den Iran-Krieg zurück"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Donnerstag, den 5. November.",
+    "Gestern Abend: Der bayerische Wirtschaftsminister und stellvertretende Ministerpräsident Hubert Aiwanger (Freie Wähler) ist tot. Er wurde laut ZDFheute (4.11., 21:49 Uhr) in einem Berliner Hotel tot aufgefunden, die Freie-Wähler-Generalsekretärin Susann Enders bestätigte den Tod. Eine Todesursache nannte der Bericht nicht. Laut news.de auf Basis von dpa-Material (5.11.) kann die Berliner Staatsanwaltschaft die Auffindesituation aus ermittlungstaktischen Gründen noch nicht preisgeben. Bayerns Ministerpräsident Markus Söder schrieb auf X, der Tod sei „eine absolute Tragödie“ (ZDFheute, 4.11.). Spekulationen über die Umstände verbieten sich, solange die Behörden nichts mitgeteilt haben.",
+    "In Berlin wollen Linke, Grüne und SPD ihre Koalitionsverhandlungen erst im Januar abschließen. Laut ZDFheute (4.11., 20:59 Uhr) nannte SPD-Landeschefin Bettina König als Ziel einen Koalitionsvertrag Anfang des Jahres; bei Linken und SPD entscheiden die Mitglieder.",
+    "Zur Wahl des Bundespräsidenten: Der baden-württembergische CDU-Chef Manuel Hagel sagte der dpa, Ilse Aigner (CSU) habe seine volle Unterstützung als gemeinsame Kandidatin. Die Bundesversammlung tritt am 30. Januar 2027 in Berlin zusammen. Eine Entscheidung der CDU wird laut dpa Anfang kommender Woche erwartet, wenn sich Präsidium und Vorstand damit befassen (news.de, dpa, 5.11., 2:02 Uhr).",
+    "Nach den US-Zwischenwahlen schrieb Vizepräsident JD Vance auf X, der Grund für die Niederlage sei der Krieg, gemeint ist der Iran-Krieg. Präsident Trump verteidigte den Krieg nach ZDFheute-Angaben trotz der Wahlniederlage (4.11., Newsticker). Zuletzt: Deutschland erhöht die humanitäre Hilfe für Jemen um 10 Millionen auf insgesamt 38 Millionen Euro; Außenminister Johann Wadephul schrieb auf X, die Huthi müssten ihre Angriffe einstellen (ZDFheute, 4.11.).",
+    "Heute: Im Bundestag stimmen die Abgeordneten gegen 15:15 Uhr über die Änderung des Fahrlehrergesetzes ab, zudem gibt es eine vereinbarte Debatte zu 15 Jahren Aufdeckung des NSU und eine Aktuelle Stunde zum Investitionsgipfel (news.de, 5.11.; Bundestag über mitmischen.de). Um 10 Uhr verhandelt der Bundesgerichtshof, ob bei der Kündigung von Online-Verträgen Login-Daten abgefragt werden dürfen. Um 8 Uhr kommen die Auftragseingänge der Industrie (dpa-AFX Tagesvorschau, 4.11.).",
+    "Diese Woche: Am Freitag debattiert der Bundestag auf Verlangen der Linken in einer Aktuellen Stunde über die Generation-Z-Proteste und über die Weltklimakonferenz COP31 in Antalya, die vom 9. bis 20. November stattfindet (Bundestag über mitmischen.de). Die deutsche Industrieproduktion folgt am Freitag um 8 Uhr (dpa-AFX Wochenvorschau, 2.11., sinngemäß).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Donnerstag, 5. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Donnerstag, den 5. November. Gestern und zuletzt: Der Tod des bayerischen Wirtschaftsministers Hubert Aiwanger, der Zeitplan der Berliner Koalitionsverhandlungen, die Unterstützung für Ilse Aigner als Bundespräsidentin und Vances Reaktion auf die US-Midterms. Heute: Der Bundestag debattiert 15 Jahre NSU-Aufdeckung, der BGH verhandelt zu Online-Verträgen. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Do., 5. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Aiwanger",
+        "text": "Bayerns Wirtschaftsminister tot in Berliner Hotel aufgefunden. Zur Todesursache ist nichts bekannt."
+       },
+       {
+        "kopf": "Berlin",
+        "text": "Linke, Grüne und SPD wollen die Koalitionsverhandlungen erst im Januar abschließen."
+       },
+       {
+        "kopf": "Bundespräsident",
+        "text": "Hagel unterstützt Aigner. CDU-Entscheidung Anfang nächster Woche erwartet."
+       },
+       {
+        "kopf": "US-Midterms",
+        "text": "Vance schreibt auf X, der Krieg sei der Grund der Niederlage. Gemeint ist der Iran-Krieg."
+       }
+      ],
+      "quelle": "ZDFheute, 4.11.; news.de (dpa), 5.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 10 Uhr",
+        "text": "BGH: Dürfen bei der Kündigung von Online-Verträgen Login-Daten abgefragt werden?"
+       },
+       {
+        "kopf": "Heute, Bundestag",
+        "text": "Debatte zu 15 Jahren NSU-Aufdeckung, Abstimmung zum Fahrlehrergesetz gegen 15:15 Uhr."
+       },
+       {
+        "kopf": "Heute, 8 Uhr",
+        "text": "Auftragseingang der deutschen Industrie."
+       },
+       {
+        "kopf": "Freitag",
+        "text": "Bundestag zu Generation-Z-Protesten und COP31 (Antalya, 9. bis 20. November)."
+       }
+      ],
+      "quelle": "dpa-AFX, Tagesvorschau 4.11.; Bundestag (mitmischen.de); news.de, 5.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "38 Millionen Euro",
+      "text": "humanitäre Hilfe für Jemen: Deutschland erhöht um 10 Millionen Euro, laut Außenminister Wadephul.",
+      "quelle": "ZDFheute, 4.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Do., 5. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Aiwanger, Berlin-Koalition, Bundespräsidentenwahl und US-Midterms im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, news.de (dpa), 4./5.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-04",
   "morgen": {
    "titel": "Morning Briefing",

@@ -2,31 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-04T05:55:00+01:00",
+ "stand": "2026-11-05T06:00:00+01:00",
  "items": [
   {
-   "z": "2026-11-03T09:34:00+01:00",
-   "t": "Kanzler Merz sagt bei einer IHK-Veranstaltung in Berlin, der Gesetzentwurf zum Verbot von Enteignungen von Wohnungsgesellschaften sei praktisch fertig; offen sei, ob 100 oder 80 Prozent des Verkehrswerts zu ersetzen wären",
-   "q": "news.de (dpa)",
-   "u": "https://www.news.de/wirtschaft/860154889/merz-anti-enteignungs-gesetz-ist-fast-fertig-friedrich-merz-news-der-dpa-aktuell-zu-wirtschaftspolitik-und-bundesregierung/1/"
-  },
-  {
-   "z": "2026-11-03T16:54:00+01:00",
-   "t": "Selenskyj ruft auf der Berliner Sicherheitskonferenz die Europäer zu mehr gemeinsamer Verteidigung auf und warnt vor Illusionen über Putins militärische Pläne (Eigenangabe: Russland sehe ein geeintes Europa als Feind)",
-   "q": "dpa-AFX",
-   "u": "https://www.onvista.de/news/2026/11-03-selenskyj-warnt-europaeer-vor-russischer-aufruestung-0-10-26571972"
-  },
-  {
-   "z": "2026-11-04T03:45:00+01:00",
-   "t": "Bei der US-Kongresswahl gewinnen die Demokraten laut ZDFheute die Senatssitze in North Carolina (Roy Cooper) und New Hampshire (Chris Pappas); die Mehrheit im Repräsentantenhaus ist zu diesem Zeitpunkt offen",
+   "z": "2026-11-04T20:29:00+01:00",
+   "t": "Deutschland erhöht die humanitäre Hilfe für Jemen um 10 Millionen auf insgesamt 38 Millionen Euro; Außenminister Wadephul schreibt auf X, die Huthi müssten ihre Angriffe einstellen",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/ausland/midterms-usa-wahl-kongress-100.html"
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-11-04T05:08:00+01:00",
-   "t": "Nach Hochrechnungen von CNN und NBC News verlieren Trumps Republikaner die Mehrheit im Repräsentantenhaus; ein Endergebnis liegt noch nicht vor",
+   "z": "2026-11-04T20:59:00+01:00",
+   "t": "Linke, Grüne und SPD in Berlin wollen ihre Koalitionsverhandlungen erst im Januar abschließen, ein Koalitionsvertrag soll Anfang des Jahres stehen",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+  },
+  {
+   "z": "2026-11-04T21:49:00+01:00",
+   "t": "Bayerns Wirtschaftsminister Hubert Aiwanger (Freie Wähler) wird laut ZDFheute tot in einem Berliner Hotel aufgefunden; die Freie-Wähler-Generalsekretärin bestätigt den Tod, eine Todesursache nennt der Bericht nicht",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/politik/deutschland/hubert-aiwanger-tot-aufgefunden-100.html"
+  },
+  {
+   "z": "2026-11-05T02:02:00+01:00",
+   "t": "CDU-Landeschef Manuel Hagel unterstützt laut dpa Ilse Aigner (CSU) als gemeinsame Kandidatin für das Amt der Bundespräsidentin; die Bundesversammlung tritt am 30. Januar 2027 zusammen",
    "q": "news.de (dpa)",
-   "u": "https://www.news.de/panorama/860157736/4-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-04-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+   "u": "https://news.de/politik/860160784/auch-suedwest-cdu-chef-hagel-will-aigner-als-staatsoberhaupt-bundesversammlung-news-der-dpa-aktuell-zu-bundespraesidenten-und-bundesregierung/1"
   }
  ]
 };
