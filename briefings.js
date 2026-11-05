@@ -22,7 +22,49 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Aiwanger: vorläufige Obduktion ohne Hinweis auf Fremdverschulden, weitere Untersuchungen stehen aus",
+    "NSU: Bundestag debattiert 15 Jahre nach der Aufdeckung, Streit um Aufklärung und Dokumentationszentrum",
+    "Industrie: Auftragseingang im September um 4,4 Prozent gestiegen",
+    "Führerschein: Bundestag beschließt erste Reform für günstigere Ausbildung"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Donnerstag, 5. November.",
+    "Erstens: Der Tod von Hubert Aiwanger. Im Morning Briefing war die Todesursache offen. Inzwischen teilte die Berliner Staatsanwaltschaft laut ZDFheute (5.11., 15:20 Uhr) mit, der 55-Jährige sei nach dem vorläufigen Ergebnis der Obduktion ohne Fremdverschulden gestorben. Eine Todesursache nannte der Bericht nicht, weitere gerichtsmedizinische Untersuchungen stehen laut ZDFheute noch an. Die Freien Wähler wollen laut ZDFheute bis zum Wochenende über die nächsten Schritte beraten. Ministerpräsident Markus Söder kündigte an, die Koalition in Bayern werde fortgesetzt.",
+    "Zweitens: 15 Jahre Aufdeckung des NSU. Der Bundestag debattierte am Vormittag, aber ohne Abstimmung und ohne Beschluss (Bundestag, 5.11.; ZDFheute, 5.11., 11:38 Uhr). Die Mordserie forderte zehn Todesopfer: neun Gewerbetreibende türkischer und griechischer Herkunft und eine Polizistin. Staatsministerin Natalie Pawlik (SPD) sagte, die Opfer hätten erleben müssen, dass der Staat ihnen misstraute, und kündigte laut Bericht ein NSU-Dokumentationszentrum in Nürnberg an. Irene Mihalic (Grüne) sprach von eklatantem Staatsversagen und forderte, noch nicht entschlüsselte Datenträger endlich zu entschlüsseln. Clara Bünger (Linke) lehnte einen Schlussstrich ab. Beatrix von Storch (AfD) behauptete, der Verfassungsschutz habe das Netzwerk aufgebaut und gelenkt; einen Beleg dafür nennen die Berichte nicht. Unsere Einordnung: Nach fünfzehn Jahren bleibt die Aufklärung offenbar unvollständig, und die Opfer und ihre Angehörigen verdienen, dass der Staat dem ernsthaft nachgeht.",
+    "Drittens: Die Wirtschaft. Der Auftragseingang der deutschen Industrie stieg im September um 4,4 Prozent gegenüber dem Vormonat, meldete das Statistische Bundesamt laut Reuters (5.11.). Ökonomen hatten 4,8 Prozent erwartet. Ohne Großaufträge lag das Plus bei 5,1 Prozent. Zu beachten ist die Vorgeschichte: Im August waren die Aufträge laut Reuters revidiert um 10,1 Prozent gefallen, der Anstieg ist also auch eine Gegenbewegung. Im Dreimonatsvergleich, drittes gegen zweites Quartal, ergibt sich ein Plus von 0,2 Prozent.",
+    "Viertens: Die Führerschein-Reform. Der Bundestag hat laut ZDFheute (5.11., 18:09 Uhr) Änderungen des Fahrlehrergesetzes und des Straßenverkehrsgesetzes beschlossen, damit den ersten Teil der Reform. Die Pflicht zum Präsenzunterricht in der Theorie entfällt, die Zahl der Prüfungsfragen sinkt von 1.169 auf rund 840, die praktische Prüfung mit dem Pkw soll 40 statt 55 Minuten dauern. Eltern oder andere Begleitpersonen sollen unter Bedingungen mitwirken dürfen. Den Führerschein der Klasse B beziffert das Verkehrsministerium im Schnitt auf rund 3.400 Euro; Minister Steffen Bilger rechnet laut Welt mit mehreren hundert, im besten Fall bis zu 1.000 Euro Ersparnis. Der Fahrlehrerverband bezweifelt die Rechnung. Der Bundesrat muss noch zustimmen, ein zweites Paket soll per Verordnung folgen, in Kraft treten soll es im Wesentlichen ab kommendem Juli.",
+    "Morgen: Um 8 Uhr erscheint die deutsche Industrieproduktion für September, um 14:30 Uhr folgt der US-Arbeitsmarktbericht für Oktober. Um 9 Uhr beginnt ein Wirtschaftsgipfel zur Biodiversität mit Bundesumweltminister Carsten Schneider, und Daimler Truck legt seine Quartalszahlen vor (dpa-AFX Tagesvorschau, 5.11.). In München liegt ab Freitag ein Kondolenzbuch für Hubert Aiwanger aus (ZDFheute, 5.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 5.11.2026 (Aiwanger)"
+    },
+    {
+     "titel": "Tagesspiegel, 5.11.2026"
+    },
+    {
+     "titel": "ZDFheute, 5.11.2026 (NSU-Debatte)"
+    },
+    {
+     "titel": "Deutscher Bundestag, 5.11.2026"
+    },
+    {
+     "titel": "Reuters via onvista, 5.11.2026"
+    },
+    {
+     "titel": "ZDFheute, 5.11.2026 (Führerschein-Reform)"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau, 5.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
