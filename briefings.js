@@ -109,7 +109,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "Trump kündigt großes Abkommen mit Russland an",
-    "caption": "Trump kündigt nach einem Treffen mit Putins Gesandtem Kirill Dmitrijew ein „großes Abkommen“ an, das über die Ukraine hinausgehen und ganz Europa betreffen könnte. Inhalte nannte er nicht. Ukrainer und Europäer fürchten einen Kurswechsel Washingtons, Meloni verlangt, dass die EU klärt, wer für sie verhandelt. Unsere Einordnung: Der Krieg muss enden, und Europa darf nicht allein dastehen. Wer soll für Europa am Verhandlungstisch sitzen? Quellen auf unserer Website, Link in der Bio.",
+    "caption": "Trump kündigt nach einem Treffen mit Putins Gesandtem Kirill Dmitrijew ein „großes Abkommen“ an, das über die Ukraine hinausgehen und ganz Europa betreffen könnte. Inhalte nannte er nicht. Ukrainer und Europäer fürchten einen Kurswechsel Washingtons, Meloni verlangt, dass die EU klärt, wer für sie verhandelt. Unsere Meinung: Der Krieg muss enden. Nach der Zwischenwahl braucht Trump Ergebnisse, die Teuerung trifft seine Wähler. Zieht sich Washington zurück, steht Europa mit der Ukraine allein da. Von langen Kriegen leben Ölkonzerne und Rüstungsindustrie. Deutschland braucht Frieden und gute Beziehungen zu Russland. Wer soll für Europa am Verhandlungstisch sitzen? Quellen auf unserer Website, Link in der Bio.",
     "hashtags": "#doytschlandtv #ukraine #trump #russland #europa #frieden #einordnung #nachrichten",
     "slides": [
      {
@@ -174,7 +174,7 @@ window.BRIEFINGS = [
    {
     "zusatz": true,
     "thema": "Ölkonzerne und der Iran-Krieg: 36 Milliarden Zusatzgewinn",
-    "caption": "Ein Greenpeace-Bericht schätzt, dass Ölkonzerne zwischen März und Oktober 2026 beim Verkauf von Diesel und Benzin in der EU rund 36 Mrd. Euro mehr verdient haben, davon 6,7 Mrd. in Deutschland. Die Industrie sagt, sie gebe nur höhere Rohölpreise weiter. Klingbeil will Krisengewinne abschöpfen, Wirtschaftsministerin Reiche lehnt die Übergewinnsteuer ab. Unsere Einordnung: Sie ist nötig. Übergewinnsteuer: Gerechtigkeit oder Eingriff in den Markt? Quellen auf unserer Website, Link in der Bio.",
+    "caption": "Eine Studie im Auftrag von Greenpeace beziffert den Zusatzgewinn der Ölkonzerne durch den Iran-Krieg auf rund 36 Milliarden Euro (1.3. bis 19.10.2026), die Branche widerspricht: Sie gebe nur Rohölpreise weiter. Für Deutschland nennt die Studie 6,7 Milliarden Euro. Das Kartellamt prüft seit 2025 und hat bislang kein Ergebnis. Unsere Meinung: Eine Übergewinnsteuer ist unbedingt nötig. Das Nein von Wirtschaftsministerin Reiche schützt die Gewinne der Konzerne, nicht die Menschen an der Zapfsäule. Übergewinnsteuer: Gerechtigkeit oder Eingriff in den Markt? Quellen auf unserer Website, Link in der Bio.",
     "hashtags": "#doytschlandtv #ölpreise #übergewinnsteuer #iran #energie #spritpreise #einordnung #nachrichten",
     "slides": [
      {
