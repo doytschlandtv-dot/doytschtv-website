@@ -173,8 +173,8 @@ window.BRIEFINGS = [
    },
    {
     "zusatz": true,
-    "thema": "Ölkonzerne und der Iran-Krieg: 36 Milliarden Zusatzgewinn",
-    "caption": "Eine Studie im Auftrag von Greenpeace beziffert den Zusatzgewinn der Ölkonzerne durch den Iran-Krieg auf rund 36 Milliarden Euro (1.3. bis 19.10.2026), die Branche widerspricht: Sie gebe nur Rohölpreise weiter. Für Deutschland nennt die Studie 6,7 Milliarden Euro. Das Kartellamt prüft seit 2025 und hat bislang kein Ergebnis. Unsere Meinung: Eine Übergewinnsteuer ist unbedingt nötig. Das Nein von Wirtschaftsministerin Reiche schützt die Gewinne der Konzerne, nicht die Menschen an der Zapfsäule. Übergewinnsteuer: Gerechtigkeit oder Eingriff in den Markt? Quellen auf unserer Website, Link in der Bio.",
+    "thema": "Ölkonzerne und der Iran-Krieg: 36 Milliarden Zusatzmarge",
+    "caption": "Eine Studie im Auftrag von Greenpeace schätzt, dass die Spanne zwischen Rohöl- und Zapfsäulenpreis (vor Steuern) durch den Iran-Krieg in der EU rund 36 Milliarden Euro größer war als zuvor (1.3. bis 19.10.2026), und nennt das Übergewinn. Die Branche widerspricht: Sie gebe nur Rohölpreise weiter. Für Deutschland nennt die Studie 6,7 Milliarden Euro. Das Kartellamt prüft seit 2025 und hat bislang kein Ergebnis. Unsere Meinung: Eine Übergewinnsteuer ist unbedingt nötig. Das Nein von Wirtschaftsministerin Reiche schützt die Gewinne der Konzerne, nicht die Menschen an der Zapfsäule. Übergewinnsteuer: Gerechtigkeit oder Eingriff in den Markt? Quellen auf unserer Website, Link in der Bio.",
     "hashtags": "#doytschlandtv #ölpreise #übergewinnsteuer #iran #energie #spritpreise #einordnung #nachrichten",
     "slides": [
      {
@@ -188,15 +188,15 @@ window.BRIEFINGS = [
      {
       "typ": "fakten",
       "label": "Der Bericht",
-      "titel": "Greenpeace beziffert die Zusatzgewinne.",
-      "text": "Ein von Greenpeace Deutschland beauftragter Bericht schätzt: Zwischen 1. März und 19. Oktober 2026 verdienten Ölkonzerne beim Verkauf von Diesel und Benzin in der EU rund 36 Mrd. Euro mehr als zuvor, im Schnitt 154 Mio. Euro pro Tag. Gut 28 Mrd. davon entfallen auf Diesel. Die Industrie sagt, sie gebe nur höhere Rohölpreise weiter.",
+      "titel": "Greenpeace beziffert die Zusatzmarge.",
+      "text": "Ein von Greenpeace beauftragter Bericht schätzt: Zwischen 1. März und 19. Oktober 2026 war die Spanne zwischen Rohölpreis und Zapfsäulenpreis (vor Steuern) in der EU rund 36 Mrd. Euro größer als vor dem Krieg, im Schnitt 154 Mio. Euro pro Tag. Gut 28 Mrd. entfallen auf Diesel. Greenpeace nennt das Übergewinn. Es ist eine Schätzung, kein ausgewiesener Gewinn. Die Industrie sagt, sie gebe nur höhere Rohölpreise weiter.",
       "quelle": "Euronews (5.11.2026), Greenpeace"
      },
      {
       "typ": "zahl",
       "label": "Die Zahl",
       "zahl": "6,7 Mrd. €",
-      "text": "Zusatzgewinne entfallen auf Deutschland, rund 28,7 Mio. Euro pro Tag. Das ist der höchste Tageswert in der EU.",
+      "text": "Zusatzmarge entfallen laut Greenpeace auf Deutschland, im Schnitt rund 28,7 Mio. Euro pro Tag. Das ist der höchste Tagesdurchschnitt in der EU.",
       "quelle": "Euronews (5.11.2026), Greenpeace"
      },
      {
@@ -206,7 +206,7 @@ window.BRIEFINGS = [
       "punkte": [
        {
         "kopf": "Preis",
-        "text": "Diesel vor Steuern stieg laut Greenpeace 22,7 Cent pro Liter stärker als Rohöl, Benzin 13,3 Cent."
+        "text": "Im EU-Schnitt stieg Diesel vor Steuern laut Greenpeace 22,7 Cent pro Liter stärker als Rohöl, Benzin 13,3 Cent."
        },
        {
         "kopf": "Entlastung",
@@ -268,7 +268,7 @@ window.BRIEFINGS = [
     "zusatz": true,
     "art": "nachricht",
     "kicker": "Iran-Krieg · Spritpreise",
-    "titel": "36 Milliarden Euro Zusatzgewinn für Ölkonzerne?",
+    "titel": "36 Milliarden Euro Zusatzmarge für Ölkonzerne?",
     "rot": "Ölkonzerne?",
     "text": "So schätzt es eine Studie im Auftrag von Greenpeace. Die Branche widerspricht. Im Karussell: Zahlen, Streit um die Übergewinnsteuer, unsere Einordnung. Link in der Bio.",
     "quelle": "Euronews, Greenpeace · Foto: J. Rużyczka/CC BY-SA 4.0",
