@@ -105,6 +105,136 @@ window.BRIEFINGS = [
       ]
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Trump kündigt großes Abkommen mit Russland an",
+    "caption": "Trump kündigt nach einem Treffen mit Putins Gesandtem Kirill Dmitrijew ein „großes Abkommen“ an, das über die Ukraine hinausgehen und ganz Europa betreffen könnte. Inhalte nannte er nicht. Ukrainer und Europäer fürchten einen Kurswechsel Washingtons, Meloni verlangt, dass die EU klärt, wer für sie verhandelt. Unsere Einordnung: Der Krieg muss enden, und Europa darf nicht allein dastehen. Wer soll für Europa am Verhandlungstisch sitzen? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #ukraine #trump #russland #europa #frieden #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Ein „großes Abkommen“ mit Russland. Inhalt unbekannt.",
+      "kicker": "Ukraine · USA · Europa",
+      "bild": {
+       "url": "trump-cover.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "5. November, Weißes Haus",
+      "titel": "Ungeplantes Treffen mit Putins Gesandtem.",
+      "text": "Nach einer Veranstaltung von Melania Trump traf Trump Kirill Dmitrijew. Danach sagte er, es werde ein „big agreement“ geben, das über die Ukraine hinausgehe und womöglich ganz Europa betreffe. Was besprochen wurde, nannte er nicht. Ukrainische Vertreter, die an dem Tag im Haus waren, traf er nicht.",
+      "quelle": "RTÉ, Malay Mail (6.11.2026)"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "6 Tage",
+      "text": "gilt die lokale Waffenruhe in Oleschky, die Melania Trump vermittelt hat. Sie fordert nun eine dauerhafte Waffenruhe.",
+      "quelle": "RTÉ (6.11.2026)"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was als Nächstes kommt",
+      "titel": "Europa sucht seine Rolle.",
+      "punkte": [
+       {
+        "kopf": "Brüssel",
+        "text": "Jared Kushner sprach mit ukrainischen, NATO- und EU-Vertretern über Sicherheitsgarantien für die Ukraine."
+       },
+       {
+        "kopf": "Abu Dhabi",
+        "text": "Die Dreiergespräche USA, Russland, Ukraine sollen nächste Woche weitergehen, erstmals seit Februar."
+       },
+       {
+        "kopf": "EU",
+        "text": "Italiens Regierungschefin Meloni verlangt zu klären, wer für die EU verhandelt. Entscheidung im Dezember."
+       }
+      ],
+      "quelle": "RTÉ, Malay Mail (6.11.2026)"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Zwei Lesarten",
+      "titel": "Chance oder Kurswechsel?",
+      "text": "Ukrainer und Europäer fürchten, dass sich Washington dem Kreml zuwendet und US-Truppen in Europa reduziert. Trump sagt, am Ende seien alle zufrieden. Ob ein Abkommen kommt und was darin steht, ist offen.",
+      "quelle": "Malay Mail (6.11.2026)"
+     },
+     {
+      "typ": "meinung",
+      "text": "Der Krieg muss enden. Nach der Zwischenwahl braucht Trump Ergebnisse: Die Teuerung trifft seine Wähler. Zieht sich Washington zurück, steht Europa mit der Ukraine allein da. Von langen Kriegen leben Ölkonzerne und Rüstungsindustrie. Deutschland braucht Frieden und gute Beziehungen zu Russland."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wer soll für Europa am Verhandlungstisch sitzen?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Ölkonzerne und der Iran-Krieg: 36 Milliarden Zusatzgewinn",
+    "caption": "Ein Greenpeace-Bericht schätzt, dass Ölkonzerne zwischen März und Oktober 2026 beim Verkauf von Diesel und Benzin in der EU rund 36 Mrd. Euro mehr verdient haben, davon 6,7 Mrd. in Deutschland. Die Industrie sagt, sie gebe nur höhere Rohölpreise weiter. Klingbeil will Krisengewinne abschöpfen, Wirtschaftsministerin Reiche lehnt die Übergewinnsteuer ab. Unsere Einordnung: Sie ist nötig. Übergewinnsteuer: Gerechtigkeit oder Eingriff in den Markt? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #ölpreise #übergewinnsteuer #iran #energie #spritpreise #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Milliarden für die Ölkonzerne?",
+      "kicker": "Iran-Krieg · Spritpreise",
+      "bild": {
+       "url": "oel-cover.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Bericht",
+      "titel": "Greenpeace beziffert die Zusatzgewinne.",
+      "text": "Ein von Greenpeace Deutschland beauftragter Bericht schätzt: Zwischen 1. März und 19. Oktober 2026 verdienten Ölkonzerne beim Verkauf von Diesel und Benzin in der EU rund 36 Mrd. Euro mehr als zuvor, im Schnitt 154 Mio. Euro pro Tag. Gut 28 Mrd. davon entfallen auf Diesel. Die Industrie sagt, sie gebe nur höhere Rohölpreise weiter.",
+      "quelle": "Euronews (5.11.2026), Greenpeace"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "6,7 Mrd. €",
+      "text": "Zusatzgewinne entfallen auf Deutschland, rund 28,7 Mio. Euro pro Tag. Das ist der höchste Tageswert in der EU.",
+      "quelle": "Euronews (5.11.2026), Greenpeace"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was heißt das für mich",
+      "titel": "Was an der Zapfsäule ankommt.",
+      "punkte": [
+       {
+        "kopf": "Preis",
+        "text": "Diesel vor Steuern stieg laut Greenpeace 22,7 Cent pro Liter stärker als Rohöl, Benzin 13,3 Cent."
+       },
+       {
+        "kopf": "Entlastung",
+        "text": "Die Koalition senkte im Frühjahr die Energiesteuer um 17 Cent für zwei Monate, Kosten rund 1,6 Mrd. Euro."
+       },
+       {
+        "kopf": "Kartellamt",
+        "text": "Es prüft den Wettbewerb unter Mineralölkonzernen seit 2025. Konzerne legten Beschwerden ein, ein Ende ist nicht absehbar."
+       }
+      ],
+      "quelle": "Euronews, ZDFheute"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Für und gegen die Steuer",
+      "titel": "Übergewinnsteuer: Streit in der Koalition.",
+      "text": "Dafür: Finanzminister Klingbeil (SPD) und mehrere EU-Staaten wollen Krisengewinne abschöpfen, Portugal besteuert sie mit 33 %. Dagegen: Wirtschaftsministerin Reiche (CDU) nennt den Plan teuer, wirkungsschwach und verfassungsrechtlich fragwürdig. Der Ökonom Ben McWilliams warnt, Subventionen verlagerten die Kosten nur auf die Steuerzahler.",
+      "quelle": "ZDFheute (14.4.2026), Euronews"
+     },
+     {
+      "typ": "meinung",
+      "text": "Eine Übergewinnsteuer ist unbedingt nötig. Das Kartellamt prüft seit 2025 und liefert bislang kein Ergebnis, die Verbraucher zahlen jetzt. Das Nein von Wirtschaftsministerin Reiche schützt die Gewinne der Konzerne, nicht die Menschen an der Zapfsäule."
+     },
+     {
+      "typ": "cta",
+      "frage": "Übergewinnsteuer: Gerechtigkeit oder Eingriff in den Markt?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -118,6 +248,36 @@ window.BRIEFINGS = [
     "text": "Frankreich-Proteste, Benko-Urteil, Trump zur Ukraine und der Prozess gegen das Königreich Deutschland im Karussell. Link in der Bio.",
     "quelle": "ZDFheute, news.de (dpa), 5./6.11.2026",
     "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "kicker": "Ukraine · USA · Europa",
+    "titel": "Ein „großes Abkommen“ mit Russland. Inhalt unbekannt.",
+    "rot": "Inhalt unbekannt.",
+    "text": "Trump kündigt es nach dem Treffen mit Putins Gesandtem Dmitrijew an. Im Karussell: was bekannt ist und unsere Einordnung. Link in der Bio.",
+    "quelle": "RTÉ, Malay Mail · Archivfoto: kremlin.ru/CC BY 4.0",
+    "theme": "dark",
+    "bild": {
+     "url": "trump-foto.jpg",
+     "fokus": 0.4,
+     "unter": "Archivfoto 5.9.2026 · kremlin.ru / CC BY 4.0"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "kicker": "Iran-Krieg · Spritpreise",
+    "titel": "36 Milliarden Euro Zusatzgewinn für Ölkonzerne?",
+    "rot": "Ölkonzerne?",
+    "text": "So schätzt es eine Studie im Auftrag von Greenpeace. Die Branche widerspricht. Im Karussell: Zahlen, Streit um die Übergewinnsteuer, unsere Einordnung. Link in der Bio.",
+    "quelle": "Euronews, Greenpeace · Foto: J. Rużyczka/CC BY-SA 4.0",
+    "theme": "dark",
+    "bild": {
+     "url": "oel-foto.jpg",
+     "fokus": 0.3,
+     "unter": "Foto: Jacek Rużyczka · CC BY-SA 4.0"
+    }
    }
   ]
  },
