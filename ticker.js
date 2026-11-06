@@ -2,31 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-05T21:45:00+01:00",
+ "stand": "2026-11-06T05:55:00+01:00",
  "items": [
   {
-   "z": "2026-11-05T07:42:00+01:00",
-   "t": "Der Auftragseingang der deutschen Industrie ist im September laut Reuters um 4,4 Prozent gegenüber dem Vormonat gestiegen, Experten hatten 4,8 Prozent erwartet",
-   "q": "Reuters via onvista",
-   "u": "https://onvista.de/news/2026/11-05-industrie-zieht-wieder-mehr-auftraege-an-land-erholung-nach-auftragsschwund-0-20-26572751"
+   "z": "2026-11-05T17:08:00+01:00",
+   "t": "Beim Protesttag in Frankreich nannte das Innenministerium laut ZDFheute gegen 13 Uhr rund 270.000 Teilnehmer, die Gewerkschaften sprachen von 250.000 bis Mittag",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-11-05T11:38:00+01:00",
-   "t": "Der Bundestag debattiert 15 Jahre nach der Aufdeckung des NSU; Staatsministerin Pawlik kündigt laut ZDFheute ein NSU-Dokumentationszentrum in Nürnberg an",
+   "z": "2026-11-05T18:36:00+01:00",
+   "t": "Das Landesgericht Innsbruck sieht laut ZDFheute schweren Betrug durch René Benko als erwiesen an und verhängt eine Zusatzstrafe von zwei Jahren",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/deutschland/nsu-gedenken-folgen-aufarbeitung-bundestag-debatte-100.html"
+   "u": "https://www.zdfheute.de/wirtschaft/benko-betrug-urteil-zwei-jahre-100.html"
   },
   {
-   "z": "2026-11-05T15:20:00+01:00",
-   "t": "Hubert Aiwanger starb laut Staatsanwaltschaft Berlin nach vorläufigem Obduktionsergebnis ohne Fremdverschulden; weitere gerichtsmedizinische Untersuchungen stehen laut ZDFheute noch an",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/deutschland/aiwanger-tod-obduktion-ermittlungen-100.html"
+   "z": "2026-11-06T05:03:00+01:00",
+   "t": "Trump sagt nach eigenen Angaben, er habe Kremlunterhändler Dmitrijew getroffen, und spricht von einem großen Abkommen; Details nannte er laut dpa nicht",
+   "q": "news.de (dpa)",
+   "u": "https://www.news.de/panorama/860164168/6-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-06-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
   },
   {
-   "z": "2026-11-05T18:09:00+01:00",
-   "t": "Der Bundestag beschließt den ersten Teil der Führerschein-Reform, der Bundesrat muss laut ZDFheute noch zustimmen",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/deutschland/fahrschule-fuehrerschein-guenstiger-gesetz-faq-100.html"
+   "z": "2026-11-06T05:04:00+01:00",
+   "t": "Vor dem Oberlandesgericht Düsseldorf beginnt um 9.30 Uhr der Prozess gegen vier mutmaßliche Rädelsführer der Gruppe Königreich Deutschland, laut dpa",
+   "q": "news.de (dpa)",
+   "u": "https://www.news.de/panorama/860164168/6-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-06-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
   }
  ]
 };

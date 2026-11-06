@@ -1,5 +1,127 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-06",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Frankreich: Protesttag der Gewerkschaften, Gelbwesten rufen zu Blockaden auf",
+    "Benko: Landesgericht Innsbruck sieht schweren Betrug als erwiesen an, Zusatzstrafe von zwei Jahren",
+    "Ukraine-Krieg: Trump spricht nach eigenen Angaben von einem großen Abkommen nach Treffen mit Kremlunterhändler Dmitrijew",
+    "Heute: Prozessbeginn gegen die Gruppe Königreich Deutschland, Bundestag zu K.-o.-Tropfen"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Freitag, den 6. November.",
+    "Frankreich: Beim Protesttag der Gewerkschaften nannte das Innenministerium laut ZDFheute (5.11., 17:08 Uhr) gegen 13 Uhr rund 270.000 Teilnehmer, die Gewerkschaften sprachen von 250.000 in gut 70 Orten bis Mittag. Der Eiffelturm blieb wegen des Streiks geschlossen, Regionalzüge fielen aus. Für den Gesamttag nennt news.de auf Basis von dpa-Material (6.11.) rund 575.000 Teilnehmer; die Gewerkschaften wollten höhere Gehälter und einen höheren Mindestlohn. Die Gelbwestenbewegung ruft laut derselben Meldung zu Blockaden und weiteren Aktionen auf.",
+    "Österreich: Das Landesgericht Innsbruck hat den Investor René Benko erneut verurteilt. Laut ZDFheute (5.11., 18:36 Uhr) sah das Gericht schweren Betrug als erwiesen an, ein Investor sei um fünf Millionen Euro geschädigt worden. Es verhängte eine Zusatzstrafe von zwei Jahren, die bisherige Strafe von zweieinhalb Jahren wird ausgeweitet.",
+    "Ukraine-Krieg: US-Präsident Donald Trump sagte laut news.de auf Basis von dpa-Material (6.11.), er habe sich in Washington mit dem Kremlunterhändler Kirill Dmitrijew getroffen. Details nannte er nicht. „Es wird ein großes Abkommen sein“, sagte er auf eine Reporterfrage. Das sind Angaben Trumps, eine Bestätigung von russischer Seite lag in den gelesenen Quellen nicht vor.",
+    "Heute: Um 9.30 Uhr beginnt vor dem Oberlandesgericht Düsseldorf der Prozess gegen vier mutmaßliche Rädelsführer der Gruppe „Königreich Deutschland“, darunter Peter Fitzek. Bundesinnenminister Alexander Dobrindt (CSU) hatte die Gruppe im Mai 2025 verboten (news.de, dpa, 6.11.). Es gilt die Unschuldsvermutung. Der Bundestag will heute laut news.de beschließen, dass der Einsatz von K.-o.-Tropfen für eine Vergewaltigung oder einen Raub mit mindestens fünf Jahren Freiheitsstrafe bestraft wird. Zudem behandelt das Plenum laut mitmischen.de eine Aktuelle Stunde der Linken zu den Generation-Z-Protesten, einen Antrag der Koalition zur Klimakonferenz COP31 und einen AfD-Antrag zur Verringerung des EU-Haushalts. Um 8 Uhr kommt die deutsche Industrieproduktion für September, um 9 Uhr beginnt ein Wirtschaftsgipfel Biodiversität mit Bundesumweltminister Carsten Schneider (SPD) (dpa-AFX Tagesvorschau, 5.11.).",
+    "Diese Woche: Am Montag, 9. November, beginnt in Antalya die UN-Klimakonferenz COP31, ebenfalls an diesem Tag treffen sich laut dpa-AFX Wochenvorschau (2.11.) die EU-Finanzminister in Brüssel, ein G7-Außenministertreffen in Marseille ist geplant. Am Mittwoch, 11. November, folgt der Gipfel der Staats- und Regierungschefs auf der COP31, um 10 Uhr prüft der Bundesgerichtshof einen Streit um die Rechtsschutzversicherung bei einer Impfschaden-Klage nach einer Corona-Impfung. Am Freitag, 13. November, treffen sich die EU-Staats- und Regierungschefs informell in Irland.",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Freitag, 6. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Freitag, den 6. November. Gestern und zuletzt: Der Protesttag in Frankreich, die erneute Verurteilung von René Benko in Innsbruck und Trumps Angaben zu einem möglichen Abkommen im Ukraine-Krieg. Heute: Prozessbeginn gegen die Gruppe Königreich Deutschland, der Bundestag zu K.-o.-Tropfen und Generation-Z-Protesten. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Fr., 6. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Drei Dinge",
+      "punkte": [
+       {
+        "kopf": "Frankreich",
+        "text": "Protesttag der Gewerkschaften: laut news.de (dpa) rund 575.000 Teilnehmer. Gelbwesten rufen zu Blockaden auf."
+       },
+       {
+        "kopf": "Benko",
+        "text": "Landesgericht Innsbruck sieht schweren Betrug als erwiesen an: Zusatzstrafe von zwei Jahren."
+       },
+       {
+        "kopf": "Ukraine-Krieg",
+        "text": "Trump spricht nach eigenen Angaben von einem großen Abkommen. Er habe Kremlunterhändler Dmitrijew getroffen."
+       }
+      ],
+      "quelle": "ZDFheute, 5.11.; news.de (dpa), 6.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 9.30 Uhr",
+        "text": "OLG Düsseldorf: Prozess gegen vier mutmaßliche Rädelsführer der Gruppe Königreich Deutschland."
+       },
+       {
+        "kopf": "Heute, Bundestag",
+        "text": "Beschluss zu K.-o.-Tropfen geplant: mindestens fünf Jahre Haft. Aktuelle Stunde zu Generation Z."
+       },
+       {
+        "kopf": "Heute, 8 Uhr",
+        "text": "Industrieproduktion für September."
+       },
+       {
+        "kopf": "Ab Montag",
+        "text": "COP31 in Antalya, EU-Finanzminister in Brüssel. Mittwoch Gipfel der Staatschefs."
+       }
+      ],
+      "quelle": "news.de (dpa), 6.11.; dpa-AFX Tagesvorschau 5.11., Wochenvorschau 2.11.; mitmischen.de"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "5 Jahre",
+      "text": "Mindeststrafe für den Einsatz von K.-o.-Tropfen bei Vergewaltigung oder Raub. Der Bundestag will heute beschließen.",
+      "quelle": "news.de (dpa), 6.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Fr., 6. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Frankreich-Proteste, Benko-Urteil, Trump zur Ukraine und der Prozess gegen das Königreich Deutschland im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, news.de (dpa), 5./6.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-05",
   "morgen": {
    "titel": "Morning Briefing",
