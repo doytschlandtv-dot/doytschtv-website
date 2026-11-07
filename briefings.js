@@ -110,6 +110,60 @@ window.BRIEFINGS = [
       ]
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Atomschlag auf Iran? Was belegt ist und was nicht",
+    "caption": "Atomschlag auf Iran? Der US-Moderator Tucker Carlson behauptet, die US-Regierung sei womöglich nur Tage davon entfernt, und nennt als Quelle einen ungenannten Beobachter. Das Weiße Haus bestätigt das nicht, hält sich aber „viele Optionen“ offen. Trump selbst verneinte laut Reuters neue Angriffe nach der Zwischenwahl. In Bushehr verteilen iranische Behörden laut Agenturberichten Jodtabletten, Teil eines älteren Notfallplans. Fachleute halten einen US-Atomangriff für sehr unwahrscheinlich. Warnung und Spekulation liegen hier nah beieinander. Wie weit sollten Medien solche Szenarien durchspielen? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #iran #usa #trump #atomwaffen #nahost #einordnung #nachrichten",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Iran · USA · Atomdebatte",
+      "titel": "Atomschlag auf Iran? Was belegt ist und was nicht.",
+      "rot": "Was belegt ist"
+     },
+     {
+      "typ": "fakten",
+      "label": "Anfang November, X-Post",
+      "titel": "Eine Behauptung, kein Beleg.",
+      "text": "Der US-Moderator Tucker Carlson schrieb, die US-Regierung sei womöglich nur Tage von einem Atomschlag auf die iranische Anlage Pickaxe Mountain bei Natans entfernt. Israels Premier Netanjahu dränge darauf. Als Quelle nannte er einen ungenannten Beobachter.",
+      "quelle": "Jerusalem Post (3.11.2026), IBTimes (4.11.2026)"
+     },
+     {
+      "typ": "fakten",
+      "label": "2. bis 4. November, Washington",
+      "titel": "Das Weiße Haus bestätigt nichts.",
+      "text": "Ein Regierungsvertreter sagte, Trump habe viele Optionen, Carlson habe keinen Einblick in die Militärplanung. Atomwaffen bestätigte oder schloss er nicht ausdrücklich aus. Trump verneinte laut Reuters neue Angriffe nach der Zwischenwahl, laut Financial Times gibt es keinen unmittelbaren Angriffsplan.",
+      "quelle": "IBTimes mit Reuters und Financial Times (4.11.2026)"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "180.000",
+      "text": "Jodtabletten sind laut iranischen Agenturen in Bushehr verteilt worden, rund um das einzige laufende Atomkraftwerk des Landes. Sie schützen die Schilddrüse bei einem Strahlenunfall. Das Programm gehört laut TRT World zu einem Notfallplan aus der Zeit vor dem Krieg im Juni 2025.",
+      "quelle": "TRT World nach YJC und Anadolu; Anews (6.11.2026)"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was Fachleute sagen",
+      "titel": "Der Berg ist real. Ein Atomplan ist nicht belegt.",
+      "text": "Satellitenbilder des CSIS vom September zeigen Bauarbeiten und verstärkte Eingänge an Pickaxe Mountain. Ob dort Zentrifugen stehen, lässt sich laut den Forschern weder belegen noch widerlegen. Fachleute halten einen US-Atomangriff für sehr unwahrscheinlich, sehen bei einem Einsatz aber große Risiken.",
+      "quelle": "IBTimes (4.11.2026) zur CSIS-Analyse (September 2026)"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Das spricht für Besorgnis",
+      "behauptung": "Trump droht Pickaxe Mountain seit Monaten mit einem Angriff, zuletzt im September. In Iran wird Jod verteilt, türkische Sender wie CNN Türk zeigen Szenario-Karten zum radioaktiven Fallout.",
+      "labelB": "Das spricht für Zurückhaltung",
+      "fakt": "Carlson nennt keine Belege, das Weiße Haus widerspricht, Trump verneint neue Angriffe. Die Jodausgabe in Bushehr folgt laut TRT einem älteren Notfallplan, die Fallout-Karte ist ein Szenario, kein Plan.",
+      "quelle": "Al Jazeera (5.9.2026), CNN Türk, TRT World, IBTimes (4.11.2026)"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie weit sollten Medien solche Szenarien durchspielen?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -122,6 +176,16 @@ window.BRIEFINGS = [
     "rot": "Das Wichtigste",
     "text": "Aigner, Trump und Wiles, IPCC-Antrag und Dax im Karussell. Link in der Bio.",
     "quelle": "ZDFheute, 6.11.2026; dpa",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "kicker": "Iran · USA",
+    "titel": "Atomschlag auf Iran? Eine Behauptung, keine Bestätigung.",
+    "rot": "keine Bestätigung.",
+    "text": "Was Carlson sagt, was das Weiße Haus antwortet und was Fachleute sagen. Im Karussell mit Quellen. Link in der Bio.",
+    "quelle": "IBTimes, Jerusalem Post, TRT World",
     "theme": "dark"
    }
   ]
