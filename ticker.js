@@ -2,31 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-06T05:55:00+01:00",
+ "stand": "2026-11-07T05:50:00+01:00",
  "items": [
   {
-   "z": "2026-11-05T17:08:00+01:00",
-   "t": "Beim Protesttag in Frankreich nannte das Innenministerium laut ZDFheute gegen 13 Uhr rund 270.000 Teilnehmer, die Gewerkschaften sprachen von 250.000 bis Mittag",
+   "z": "2026-11-06T18:28:00+01:00",
+   "t": "Die CDU-Spitze will Ilse Aigner (CSU) als Bundespräsidentin vorschlagen; laut dpa will Merz sie am Sonntag und Montag den Gremien vorschlagen",
    "q": "ZDFheute",
    "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-11-05T18:36:00+01:00",
-   "t": "Das Landesgericht Innsbruck sieht laut ZDFheute schweren Betrug durch René Benko als erwiesen an und verhängt eine Zusatzstrafe von zwei Jahren",
+   "z": "2026-11-06T19:14:00+01:00",
+   "t": "Der Dax schließt am Freitag bei 25.820,36 Punkten, minus 1,92 Prozent, nachdem er am Vortag einen Rekord erreicht hatte",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/wirtschaft/benko-betrug-urteil-zwei-jahre-100.html"
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-11-06T05:03:00+01:00",
-   "t": "Trump sagt nach eigenen Angaben, er habe Kremlunterhändler Dmitrijew getroffen, und spricht von einem großen Abkommen; Details nannte er laut dpa nicht",
-   "q": "news.de (dpa)",
-   "u": "https://www.news.de/panorama/860164168/6-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-06-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+   "z": "2026-11-06T20:58:00+01:00",
+   "t": "Der Bundestag lehnt den AfD-Antrag auf Austritt aus dem Weltklimarat IPCC ab; alle anderen Fraktionen stimmen dagegen",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-11-06T05:04:00+01:00",
-   "t": "Vor dem Oberlandesgericht Düsseldorf beginnt um 9.30 Uhr der Prozess gegen vier mutmaßliche Rädelsführer der Gruppe Königreich Deutschland, laut dpa",
-   "q": "news.de (dpa)",
-   "u": "https://www.news.de/panorama/860164168/6-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-06-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+   "z": "2026-11-06T21:28:00+01:00",
+   "t": "Trump entlässt laut ZDFheute Stabschefin Susie Wiles; Nachfolger wird ihr Stellvertreter Stephen Miller",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/politik/ausland/trump-wiles-entlassung-miller-stabschef-100.html"
   }
  ]
 };

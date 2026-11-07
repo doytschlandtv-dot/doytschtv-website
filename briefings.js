@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-07",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Bundespräsident: CDU-Spitze will Ilse Aigner vorschlagen, SPD signalisiert Unterstützung",
+    "USA: Trump ersetzt Stabschefin Wiles durch Stephen Miller",
+    "Bundestag lehnt AfD-Antrag zum Austritt aus dem Weltklimarat ab",
+    "Dax schließt bei 25.820 Punkten, minus 1,92 Prozent"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Samstag, den 7. November.",
+    "Bundespräsidentenwahl: Die CDU-Spitze will die CSU-Politikerin und bayerische Landtagspräsidentin Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Laut dpa will Kanzler Merz sie am Sonntag und Montag den Gremien vorschlagen (ZDFheute-Newsticker, 6.11., 18:28 Uhr). SPD-Chef Lars Klingbeil sagte laut ZDFheute (6.11., 21:13 Uhr), die SPD würde Aigner bei einer offiziellen Kandidatur unterstützen, sobald die Union am Montag entschieden hat. Die Bundesversammlung tritt am 30. Januar 2027 zusammen (dpa, 5.11.).",
+    "USA: Präsident Donald Trump entlässt Stabschefin Susie Wiles. Nachfolger wird ihr Stellvertreter Stephen Miller. Trump kündigte den Wechsel laut ZDFheute (6.11., 21:28 Uhr) auf Truth Social an. Es ist demnach seine erste Personalentscheidung seit der Wahlniederlage der Republikaner bei den Midterms.",
+    "Bundestag: Der Bundestag hat den AfD-Antrag abgelehnt, aus dem Weltklimarat IPCC auszusteigen. Laut ZDFheute-Newsticker (6.11., 20:58 Uhr) stimmten alle anderen Fraktionen dagegen. Die Weltklimakonferenz COP31 in Antalya beginnt am Montag.",
+    "Börse: Der Dax schloss am Freitag bei 25.820,36 Punkten, ein Minus von 1,92 Prozent. Am Vortag hatte er laut ZDFheute (6.11., 19:14 Uhr) mit 26.692 Punkten einen Rekord erreicht und zeitweise über 1.000 Punkte verloren.",
+    "Heute: Für den Samstag liegen in den gelesenen Terminvorschauen keine politischen Termine vor. Am Sonntag soll nach ZDFheute (6.11., 20:43 Uhr) Israels Staatspräsident Herzog voraussichtlich Gadi Eisenkot mit der Regierungsbildung beauftragen. Merz stellt Aigner laut dpa am Sonntag und Montag den Gremien vor.",
+    "Diese Woche: Am Montag, 9. November, beginnt die UN-Klimakonferenz COP31 in Antalya, in Brüssel treffen sich die EU-Finanzminister und die Eurogruppe, in Marseille die G7-Außenminister, und um 10 Uhr stellt die Telekom in München ihre Pläne zur KI-Infrastruktur vor. Am Dienstag empfängt Merz den ungarischen Ministerpräsidenten Peter Magyar, am Mittwoch tagt das Kabinett, und der BGH prüft um 10 Uhr einen Streit um die Rechtsschutzversicherung bei einer Impfschaden-Klage. Am Donnerstag legt die Bundesbank ihren Finanzstabilitätsbericht vor (dpa-AFX Wochenvorschau, 6.11.; ZDFheute, 6.11.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Samstag, 7. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Samstag, den 7. November. Gestern: Die CDU-Spitze will Ilse Aigner als Bundespräsidentin vorschlagen, die SPD signalisiert Unterstützung. Trump ersetzt Stabschefin Wiles durch Stephen Miller. Der Bundestag lehnt den AfD-Antrag zum IPCC-Austritt ab. Der Dax schließt 1,92 Prozent im Minus. Diese Woche: COP31 in Antalya beginnt am Montag. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Sa., 7. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Bundespräsident",
+        "text": "Die CDU-Spitze will Ilse Aigner vorschlagen. Die SPD würde sie laut Klingbeil unterstützen."
+       },
+       {
+        "kopf": "USA",
+        "text": "Trump ersetzt Stabschefin Susie Wiles durch Stephen Miller."
+       },
+       {
+        "kopf": "Weltklimarat",
+        "text": "Der Bundestag lehnt den AfD-Antrag zum IPCC-Austritt ab. Alle anderen Fraktionen stimmen dagegen."
+       },
+       {
+        "kopf": "Dax",
+        "text": "Schluss bei 25.820 Punkten, minus 1,92 Prozent."
+       }
+      ],
+      "quelle": "ZDFheute, 6.11.2026 (Newsticker und Artikel); dpa"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Sonntag",
+        "text": "Israels Präsident Herzog soll Gadi Eisenkot voraussichtlich mit der Regierungsbildung beauftragen."
+       },
+       {
+        "kopf": "Sonntag und Montag",
+        "text": "Merz stellt Aigner den Gremien der Union vor."
+       },
+       {
+        "kopf": "Montag, 9. November",
+        "text": "COP31 in Antalya beginnt, EU-Finanzminister treffen sich in Brüssel, G7-Außenminister in Marseille."
+       },
+       {
+        "kopf": "Mittwoch und Donnerstag",
+        "text": "Kabinettssitzung; BGH-Verhandlung zur Rechtsschutzversicherung bei Impfschaden-Klage, Bundesbank-Finanzstabilitätsbericht."
+       }
+      ],
+      "quelle": "ZDFheute, 6.11.2026; dpa-AFX, Wochenvorschau 6.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "25.820 Punkte",
+      "text": "Schlussstand des Dax am Freitag, ein Minus von 1,92 Prozent. Am Vortag hatte er laut ZDFheute bei 26.692 Punkten einen Rekord erreicht.",
+      "quelle": "ZDFheute, 6.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Sa., 7. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Aigner, Trump und Wiles, IPCC-Antrag und Dax im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, 6.11.2026; dpa",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-06",
   "morgen": {
    "titel": "Morning Briefing",
