@@ -118,10 +118,12 @@ window.BRIEFINGS = [
     "hashtags": "#doytschlandtv #krakau #polen #nachrichten #einordnung #aktuell",
     "slides": [
      {
-      "typ": "hook",
+      "typ": "cover",
+      "titel": "Schüsse in Krakau. Motiv noch nicht geklärt.",
       "kicker": "Polen · Krakau",
-      "titel": "Schüsse in Krakau: Was bisher bekannt ist.",
-      "rot": "Was bisher bekannt ist."
+      "bild": {
+       "url": "krakau-cover.jpg"
+      }
      },
      {
       "typ": "fakten",
