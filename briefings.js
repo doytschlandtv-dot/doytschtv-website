@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-08",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Krakau: Schüsse auf dem Hauptmarkt, laut Regionalverwaltung sechs Tote und 15 Verletzte",
+    "Israel: Herzog will Gadi Eisenkot mit der Regierungsbildung beauftragen",
+    "SPD: Klingbeil lässt offen, ob er im Januar wieder als Parteichef antritt",
+    "Wehrpflicht: Söder fordert Rückkehr, Pistorius sieht keine Notwendigkeit"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Sonntag, den 8. November.",
+    "Polen: Auf dem Großen Ring in Krakau wurde am Samstagnachmittag aus einem fahrenden Auto auf Passanten geschossen. Laut der Regionalverwaltung kamen sechs Menschen ums Leben, 15 wurden verletzt, darunter zwei Polizisten. Der mutmaßliche Täter, ein polnischer Staatsbürger, wurde laut Polizei angeschossen und festgenommen; die Polizei geht von einem Einzeltäter aus. Ein Motiv ist laut ZDFheute zunächst nicht bekannt. Innenminister Marcin Kierwinski sagte später, der Schütze soll sehr radikale Ansichten vertreten haben; die Wohnung werde durchsucht (ZDFheute, 7.11., 16:22 und 22:11 Uhr). Die Zahlen stammen von Behörden und können sich noch ändern.",
+    "Israel: Präsident Isaac Herzog will nach den Konsultationen Gadi Eisenkot mit der Regierungsbildung beauftragen. Der offizielle Auftrag soll am Sonntagnachmittag erteilt werden, Eisenkot hat danach zunächst 28 Tage Zeit. Bei der Wahl am 27. Oktober hatte laut ZDFheute keines der beiden Lager eine klare Mehrheit. Ministerpräsident Netanjahu wirbt für eine Regierung der nationalen Einheit, Eisenkot nannte das eine billige PR-Masche; beides sind Aussagen der Beteiligten (ZDFheute, 7.11., 21:12 Uhr).",
+    "SPD: Parteichef Lars Klingbeil hat beim Mitgliederkonvent der Ruhr-SPD in Bochum offengelassen, ob er bei der Neuwahl der Parteispitze erneut antritt. Der Konvent war laut ZDFheute am Samstag; die Wahl der neuen Spitze soll im Dezember oder Januar stattfinden (ZDFheute, 7.11., 21:27 Uhr).",
+    "Wehrpflicht: CSU-Chef Markus Söder bekräftigte auf X die Forderung der Union nach einer Wiedereinführung der Wehrpflicht. Verteidigungsminister Boris Pistorius sieht laut ZDFheute keine Notwendigkeit, weil die Maßnahmen zur Vergrößerung der Bundeswehr auf freiwilliger Basis griffen (ZDFheute-Newsticker, 7.11., 17:57 Uhr).",
+    "Heute: Am Sonntagnachmittag soll Israels Präsident Herzog den Regierungsbildungsauftrag an Eisenkot erteilen. In Krakau ist laut ZDFheute ein Gottesdienst in der Marienkirche geplant. Politische Termine in Deutschland verzeichnet die dpa-AFX-Wochenvorschau für den Sonntag nicht.",
+    "Diese Woche: Am Montag, 9. November, treffen sich in Brüssel die EU-Finanzminister und die Eurogruppe, in Marseille die G7-Außenminister, und die UN-Klimakonferenz COP31 läuft in Antalya. Am Mittwoch, 11. November, meldet Destatis um 8 Uhr die endgültige Inflationsrate für Oktober, in Antalya kommen die Staats- und Regierungschefs zusammen. Am Donnerstag legt die Bundesbank ihren Finanzstabilitätsbericht vor, am Freitag stehen die Insolvenzzahlen für August an (dpa-AFX, Wochenvorschau, 6.11.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Sonntag, 8. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Sonntag, den 8. November. Zuletzt: In Krakau fallen Schüsse auf dem Hauptmarkt, laut Regionalverwaltung sechs Tote und 15 Verletzte. Israels Präsident Herzog will Gadi Eisenkot mit der Regierungsbildung beauftragen. Klingbeil lässt offen, ob er SPD-Chef bleiben will. Söder fordert die Wehrpflicht, Pistorius sieht keine Notwendigkeit. Diese Woche: COP31 in Antalya, Inflationszahl am Mittwoch. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · So., 8. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Krakau",
+        "text": "Schüsse aus einem Auto auf dem Hauptmarkt: laut Regionalverwaltung sechs Tote, 15 Verletzte. Motiv offen."
+       },
+       {
+        "kopf": "Israel",
+        "text": "Herzog will Gadi Eisenkot mit der Regierungsbildung beauftragen."
+       },
+       {
+        "kopf": "SPD",
+        "text": "Klingbeil lässt offen, ob er bei der Neuwahl der Spitze antritt."
+       },
+       {
+        "kopf": "Wehrpflicht",
+        "text": "Söder fordert die Rückkehr, Pistorius sieht keine Notwendigkeit."
+       }
+      ],
+      "quelle": "ZDFheute, 7.11.2026 (Artikel und Newsticker)"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Sonntag",
+        "text": "Herzog erteilt Eisenkot laut Ankündigung am Nachmittag den Regierungsauftrag."
+       },
+       {
+        "kopf": "Montag, 9. November",
+        "text": "EU-Finanzminister und Eurogruppe in Brüssel, G7-Außenminister in Marseille, COP31 in Antalya."
+       },
+       {
+        "kopf": "Mittwoch, 11. November",
+        "text": "Endgültige Inflationsrate für Oktober um 8 Uhr; Gipfel der Staats- und Regierungschefs bei COP31."
+       },
+       {
+        "kopf": "Donnerstag und Freitag",
+        "text": "Bundesbank-Finanzstabilitätsbericht; Insolvenzzahlen für August."
+       }
+      ],
+      "quelle": "ZDFheute, 7.11.2026; dpa-AFX, Wochenvorschau 6.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "28 Tage",
+      "text": "So viel Zeit hat Gadi Eisenkot zunächst für die Regierungsbildung in Israel, sobald Präsident Herzog ihn beauftragt hat.",
+      "quelle": "ZDFheute, 7.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · So., 8. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Krakau, Israel, Klingbeil und Wehrpflicht im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, 7.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-07",
   "morgen": {
    "titel": "Morning Briefing",
