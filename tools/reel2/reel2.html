@@ -302,7 +302,7 @@ if(MODE==="kx"){
   const a=S.t0,b=S.t1,L=S.typ;
   if(L==="hook"){
    add(KK(S.kicker),a,b);add(HH(red(S.titel,S.rot),300,S.fs||104),a,b);
-   const iw=S.w||940,il=(1080-iw)/2;const im=E(`<div class="abs" style="left:${il}px;width:${iw}px;top:${S.top||930}px;height:${S.h||620}px;border-radius:40px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.2);opacity:0"><img src="${S.img}" style="width:100%;height:100%;object-fit:${S.fit||"cover"};object-position:50% ${(S.fokus||.5)*100}%"></div>`);add(im,a,b,.5);
+   if(S.img){const iw=S.w||940,il=(1080-iw)/2;const im=E(`<div class="abs" style="left:${il}px;width:${iw}px;top:${S.top||930}px;height:${S.h||620}px;border-radius:40px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.2);opacity:0"><img src="${S.img}" style="width:100%;height:100%;object-fit:${S.fit||"cover"};object-position:50% ${(S.fokus||.5)*100}%"></div>`);add(im,a,b,.5);}
    if(S.unter)add(NOTE(S.unter,1580),a,b,.9);
   }else if(L==="zahl"){
    add(KK(S.label),a,b);add(E(`<div class="abs num" style="left:70px;top:330px;opacity:0;font-size:${S.fs||260}px">${S.zahl}</div>`),a,b);add(BB(S.text,S.top||780,"font-size:"+(S.tfs||56)+"px"),a,b,.9);
