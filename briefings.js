@@ -110,6 +110,52 @@ window.BRIEFINGS = [
       ]
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Krakau: Was nach den Schüssen auf dem Hauptmarkt bekannt ist",
+    "caption": "Krakau: Am Samstagnachmittag fuhr ein 25-Jähriger auf den Hauptmarkt und schoss aus dem Auto auf Passanten. Laut Ministerpräsident Tusk starben sechs Menschen, 16 wurden verletzt, darunter zwei Polizisten. In der Wohnung des Verdächtigen fand die Polizei drei weitere Tote, laut Tusk vermutlich Angehörige. Der Innenminister sagt, die Beamten hätten innerhalb von drei Minuten geschossen und ein größeres Massaker verhindert. Zum Motiv nennt er Anzeichen für eine Faszination für rechtsextreme Ideologien, die noch überprüft werden. Polen trauert am Sonntag und Montag. Stand: 7. November, Zahlen vorläufig. Wie sollten Medien über Tatverdächtige berichten, solange das Motiv nicht geklärt ist? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #krakau #polen #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "kicker": "Polen · Krakau",
+      "titel": "Schüsse in Krakau: Was bisher bekannt ist.",
+      "rot": "Was bisher bekannt ist."
+     },
+     {
+      "typ": "fakten",
+      "label": "Samstag, 7. November, gegen 15 Uhr",
+      "titel": "Schüsse vom Auto aus auf dem Hauptmarkt.",
+      "text": "Laut Polizei fuhr ein Mann mit einem Auto auf den Platz und schoss auf zufällige Personen. Laut Ministerpräsident Tusk starben sechs Menschen, vier Frauen und zwei Männer. 16 weitere wurden verletzt, darunter zwei Polizisten. Unter den Toten ist mindestens ein Ausländer.",
+      "quelle": "ZDFheute (7.11.2026, 21:53 Uhr)"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "3 Minuten",
+      "text": "So schnell haben Polizisten laut Innenminister Kierwiński nach der ersten Meldung geschossen. Der Verdächtige wurde getroffen und festgenommen. Der Minister sagt, so sei ein größeres Massaker verhindert worden.",
+      "quelle": "ZDFheute (7.11.2026)"
+     },
+     {
+      "typ": "fakten",
+      "label": "Der Verdächtige",
+      "titel": "Ein 25-Jähriger, die Polizei geht von einem Einzeltäter aus.",
+      "text": "Festgenommen wurde ein polnischer Staatsbürger aus der Woiwodschaft Heiligkreuz. In seiner Wohnung fand die Polizei drei weitere Tote, zwei Frauen und einen Mann. Laut Tusk sind es höchstwahrscheinlich Angehörige. Berichte über einen zweiten Täter wurden dementiert.",
+      "quelle": "ZDFheute (7.11.2026), Webnachrichten (7.11.2026)"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Was der Innenminister sagt",
+      "titel": "Hinweise auf Rechtsextremismus, noch nicht überprüft.",
+      "text": "Kierwiński sagt, der Mann vertrete sehr radikale Ansichten. Es gebe Anzeichen für eine Faszination für rechtsextreme Ideologien, die noch überprüft werden müssten. Das Motiv ist laut ZDF nicht abschließend geklärt. Das Verteidigungsministerium weist Spekulationen zurück, er sei Soldat oder Ex-Soldat gewesen.",
+      "quelle": "ZDFheute (7.11.2026)"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie sollten Medien über Tatverdächtige berichten, solange das Motiv nicht geklärt ist?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -121,6 +167,16 @@ window.BRIEFINGS = [
     "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
     "rot": "Das Wichtigste",
     "text": "Krakau, Israel, Klingbeil und Wehrpflicht im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, 7.11.2026",
+    "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "kicker": "Polen · Krakau",
+    "titel": "Schüsse in Krakau: Was bisher bekannt ist.",
+    "rot": "Was bisher bekannt ist.",
+    "text": "Sechs Tote auf dem Hauptmarkt, Motiv noch nicht geklärt. Im Karussell mit Quellen. Link in der Bio.",
     "quelle": "ZDFheute, 7.11.2026",
     "theme": "dark"
    }
