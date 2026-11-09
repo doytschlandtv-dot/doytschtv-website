@@ -1,5 +1,42 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-09",
+  "morgen": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Bundespräsident: Merz schlägt Ilse Aigner (CSU) vor, die Linke kündigt eigenen Vorschlag an",
+    "SPD: Personalvorschlag für die neue Spitze bis Dezember, Parteitag Mitte Januar",
+    "Krakau: Ermittlungen dauern an, vier Schusswaffen und etwa 500 Schuss Munition gefunden",
+    "Frankreich macht Iran für Cyberangriffe auf Kühlanlagen verantwortlich"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Montag, 9. November.",
+    "Erstens: Bundespräsident. Kanzler Friedrich Merz hat die CSU-Politikerin Ilse Aigner offiziell für das Amt der Bundespräsidentin vorgeschlagen. Söder hatte seit Wochen für sie geworben und hofft laut ZDFheute auf eine breite demokratische Mehrheit in der Bundesversammlung am 30. Januar. Laut ZDFheute gibt es kaum Zweifel, dass auch SPD und Grüne für sie stimmen werden. Die Linke kündigte einen eigenen Vorschlag an, der in den kommenden Tagen in den Gremien beraten werden soll (ZDFheute-Analyse, 9.11., 16:50 Uhr; ZDFheute-Newsticker, 9.11.). Unsere Einordnung: Bei der Wahl des Staatsoberhaupts zählt die Eignung für das Amt, nicht der Streit darüber, welche Partei den Vorschlag für sich beansprucht.",
+    "Zweitens: SPD. Generalsekretär Tim Klüssendorf sagte am Montag, der Parteivorstand wolle spätestens im Dezember einen Personalvorschlag für die neue Führung vorlegen. Der Parteitag soll laut ZDFheute am 16. und 17. Januar in Bremen stattfinden. Offen ist, ob es eine Doppelspitze oder eine Einzelperson wird; eine Kandidatur hat bisher niemand offiziell erklärt. Damit präzisiert sich, was wir im Morning Briefing mit Dezember oder Januar gemeldet hatten (ZDFheute, 9.11., 16:01 Uhr).",
+    "Drittens: Krakau. Zum Anschlag vom Samstag gibt es laut ZDFheute-Newsticker weiter kein bekanntes Motiv. Beim mutmaßlichen Täter und in seinem Auto wurden demnach vier Schusswaffen und rund 500 Schuss Munition gefunden, darunter zwei Sturmgewehre und zwei Pistolen. In Sachsen wurde für Montag Trauerbeflaggung angeordnet (ZDFheute-Newsticker, 9.11., 14:16 und 17:16 Uhr). Es gilt die Unschuldsvermutung, die Ermittlungen laufen.",
+    "Viertens: Frankreich und Iran. Die französische Regierung macht Iran für einen groß angelegten Cyberangriff auf Kühlanlagen im Oktober verantwortlich. Nach Angaben von Außenminister Jean-Noël Barrot waren rund 700 Standorte an zwei Tagen betroffen; verantwortlich seien die Revolutionsgarden. Die Staatsanwaltschaft beantragte internationale Haftbefehle, Barrot kündigte EU-Sanktionen an. Das sind Angaben der französischen Seite; eine unabhängige Bestätigung nennt der Artikel nicht (ZDFheute, 9.11., 17:44 Uhr).",
+    "Morgen: In Berlin findet der Deutsche Eigenkapitaltag unter anderem mit Wirtschaftsministerin Katherina Reiche statt, außerdem der 16. Deutsche Maschinenbaugipfel. Um 14:30 Uhr werden in den USA die Verbraucherpreise für Oktober veröffentlicht (dpa-AFX, Tagesvorschau, 9.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 9.11.2026 (Analyse Aigner, SPD-Vorstand, Frankreich/Iran)"
+    },
+    {
+     "titel": "ZDFheute-Newsticker, 9.11.2026"
+    },
+    {
+     "titel": "dpa-AFX, Tagesvorschau 10.11.2026"
+    }
+   ]
+  },
+  "karussells": [],
+  "storys": []
+ },
+ {
   "datum": "2026-11-08",
   "morgen": {
    "titel": "Morning Briefing",
