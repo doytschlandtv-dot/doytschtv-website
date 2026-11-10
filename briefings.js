@@ -110,6 +110,219 @@ window.BRIEFINGS = [
       ]
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Palästina-Fahne am Reichstag: Wie viel Schutz braucht das Parlament?",
+    "caption": "Am Sonntag tauschte ein 22-Jähriger auf dem Fahnenmast vor dem Reichstag die Deutschlandflagge gegen eine Palästina-Fahne und blieb laut Polizei etwa eine Stunde oben. Die Gruppe „Peacefully Against Genocide“ bekannte sich dazu. Bundestagspräsidentin Klöckner fordert mehr Schutz, Innenminister Dobrindt spricht von „absoluter Respektlosigkeit“, SPD-Geschäftsführer Wiese hält eine Bannmeilen-Debatte für denkbar. Unsere Einordnung: Protest für Palästina ist legitim, ein Parlament muss aber vor jedem Angriff geschützt sein, von welcher Seite auch immer. Wie viel Schutz braucht der Bundestag, ohne dass Protest eingeschränkt wird? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #reichstag #bundestag #palästina #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Eine Fahne am Reichstag. Wie viel Schutz braucht das Parlament?",
+      "kicker": "Berlin · Reichstag",
+      "bild": {
+       "url": "cover-reichstag-2026-11-10.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Sonntag, 8. November",
+      "titel": "Ein Mann tauscht die Deutschlandflagge gegen die Palästina-Fahne.",
+      "text": "Ein 22-Jähriger kletterte auf den Fahnenmast und blieb laut Polizei etwa eine Stunde oben. Zwei Männer (20 und 32) halfen und filmten. Die Gruppe „Peacefully Against Genocide“ bekannte sich und sprach von „zivilgesellschaftlicher Solidarität mit den Menschen in Palästina“. Die Feuerwehr nahm die Fahne mittags ab.",
+      "quelle": "ZDFheute, Stuttgarter Zeitung/dpa (8.11.2026)"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "1 Stunde",
+      "text": "So lange hing der Kletterer laut Polizei am Mast. Alle drei sind deutsche Staatsbürger. Der Staatsschutz ermittelt wegen Verunglimpfung des Staates und seiner Symbole, Sachbeschädigung und Hausfriedensbruch.",
+      "quelle": "ZDFheute, Stuttgarter Zeitung/dpa (8.11.2026)"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Die Reaktionen",
+      "titel": "Mehr Schutz, mehr Streit.",
+      "punkte": [
+       {
+        "kopf": "Klöckner (CDU)",
+        "text": "„Unser Deutscher Bundestag braucht mehr Schutz!“ Auch das Land Berlin sei in der Pflicht."
+       },
+       {
+        "kopf": "Dobrindt (CSU)",
+        "text": "„Akt der absoluten Respektlosigkeit“, eine geplante Aktion „linker Chaoten“."
+       },
+       {
+        "kopf": "Wiese (SPD)",
+        "text": "Eine Debatte über eine Bannmeile am Reichstag ist für ihn denkbar."
+       }
+      ],
+      "quelle": "ZDFheute (8. und 10.11.2026)"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Es war nicht das erste Mal am Reichstag.",
+      "text": "Am 29. August 2020 durchbrachen Hunderte Demonstranten bei Corona-Protesten eine Absperrung vor dem Reichstag. Drei Polizisten verhinderten laut Tagesspiegel einen Sturm auf das Gebäude. Die Schutzfrage gilt unabhängig von der politischen Richtung.",
+      "quelle": "Tagesspiegel (29.8.2020)"
+     },
+     {
+      "typ": "meinung",
+      "text": "Auf Palästina aufmerksam zu machen ist richtig und wichtig, Protest ist legitim. Ein Parlament muss aber vor jedem Angriff geschützt sein, von welcher Seite auch immer. Wenn heute eine Fahne am Mast hängt, kann morgen jemand versuchen, das Gebäude zu stürmen, wie 2020. Mehr Schutz heißt nicht weniger Protest.",
+      "bild": {
+       "url": "foto-reichstag-abend.jpg",
+       "fokus": 0.45,
+       "unter": "Reichstag · Jürgen Matern / CC BY-SA 3.0"
+      }
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie viel Schutz braucht der Bundestag, ohne dass Protest eingeschränkt wird?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Iran-Krieg „effektiv vorüber“: Die Blockade bleibt",
+    "caption": "Nach einem Treffen mit Katars Regierungschef sagte Trump am Montag, der Iran-Krieg sei „effektiv vorüber“. Die Seeblockade bleibe, ebenso die Tausenden Soldaten. Teheran widerspricht und nennt sieben Bedingungen. Durch die Straße von Hormus fuhren zeitweise nur 4 bis 5 Schiffe pro Tag statt rund 150. Brent liegt bei etwa 91 US-Dollar. Völkerrechtler wie Dominik Steiger sehen im Angriff ohne UN-Mandat einen Verstoß gegen das Gewaltverbot. Unsere Einordnung: Ein Satz ist keine Waffenruhe, und wir zahlen mit. Was muss passieren, damit der Iran-Krieg wirklich vorbei ist? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #iran #trump #hormus #völkerrecht #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Trump: Der Krieg sei „effektiv vorüber“. Die Blockade bleibt.",
+      "kicker": "Iran · USA",
+      "bild": {
+       "url": "cover-iran-2026-11-10.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Montag, 9. November",
+      "titel": "Trump erklärt den Krieg für beendet. Die Blockade bleibt.",
+      "text": "Nach einem Treffen mit Katars Regierungschef sagte Trump im Weißen Haus, der Krieg sei „effektiv vorüber“. Neue Angriffe seien nicht geplant. Die „größte Seeblockade aller Zeiten“ bleibe, ebenso die Tausenden Soldaten in der Region.",
+      "quelle": "dpa via Yahoo Nachrichten (10.11.2026)"
+     },
+     {
+      "typ": "vergleich",
+      "labelA": "Trump",
+      "behauptung": "„Der Krieg ist effektiv vorüber.“",
+      "labelB": "Teheran widerspricht",
+      "fakt": "Die USA sollen „Fake News“ lassen, sagt Sicherheitsratschef Rezaei. Iran nennt sieben Bedingungen, u. a. Ende der Blockade und der Sanktionen.",
+      "quelle": "Reuters, dpa (10.11.2026)"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "5 statt 150",
+      "text": "Zeitweise passierten nur vier bis fünf Handelsschiffe täglich die Straße von Hormus, vor dem Krieg rund 150. Dort läuft etwa ein Fünftel des weltweiten Ölbedarfs durch. Zeitweise saßen über 2.000 Schiffe fest, mindestens 50 davon von deutschen Reedereien.",
+      "quelle": "dpa, Verband Deutscher Reeder (10.11.2026)"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was heißt das für uns",
+      "titel": "Öl, Meerenge, Pipeline.",
+      "punkte": [
+       {
+        "kopf": "Ölpreis",
+        "text": "Brent liegt am 10.11. bei rund 91 US-Dollar, WTI bei 84. Beide fielen nach Trumps Aussage."
+       },
+       {
+        "kopf": "Hormus",
+        "text": "Die Meerenge bleibt de facto blockiert."
+       },
+       {
+        "kopf": "Saudi-Arabien",
+        "text": "Meldet einen Angriff auf die Ost-West-Ölpipeline bei Medina. Feuer gelöscht, keine Verletzten."
+       }
+      ],
+      "quelle": "finanzen.net/dpa-AFX (10.11.2026), ZDFheute (9.11.2026)"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Völkerrecht",
+      "titel": "Ein UN-Mandat gab es nicht.",
+      "text": "Völkerrechtler Dominik Steiger (TU Dresden) sagte im März im ZDF: Die UN-Charta verbietet Gewalt, ein Sicherheitsratsmandat liege „offensichtlich nicht vor“, einen unmittelbar bevorstehenden iranischen Angriff sehe er nicht. Das Atomprogramm verstoße gegen internationale Verpflichtungen, rechtfertige aber keinen Angriff.",
+      "quelle": "ZDFheute (2.3.2026)"
+     },
+     {
+      "typ": "meinung",
+      "text": "Ein Satz im Weißen Haus ist keine Waffenruhe. Solange Blockade, Truppen und Drohungen bleiben und Teheran widerspricht, ist der Krieg nicht vorbei. Der Angriff ohne UN-Mandat war nach Einschätzung von Völkerrechtlern nicht erlaubt, daran ändert auch ein Ende nichts. Und wir zahlen mit: bei Energie, Schifffahrt und Sicherheit.",
+      "bild": {
+       "url": "foto-tanker-golf.jpg",
+       "fokus": 0.5,
+       "unter": "Öltanker im Persischen Golf (Archiv) · U.S. Navy / gemeinfrei"
+      }
+     },
+     {
+      "typ": "cta",
+      "frage": "Was muss passieren, damit der Iran-Krieg wirklich vorbei ist?"
+     }
+    ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Merz will mehr Ukraine-Hilfe: Wer zahlt, und wie viel?",
+    "caption": "Vor dem informellen EU-Gipfel in Dublin fordert Merz in einem Brief an Ratspräsident Costa, dass sich alle EU-Staaten „ausnahmslos“ mit einem „fairen Beitrag“ an der Finanzlücke der Ukraine beteiligen. Für 2027 beziffert die EU-Kommission sie auf 70 Milliarden Euro, 45 Milliarden davon sollen aus der EU kommen. Deutschland nennt 100,9 Milliarden Euro Gesamthilfe, davon sind laut Kiel Institut 41,7 Milliarden Hilfe für die Ukraine. Unsere Einordnung: Hilfe ja, aber mit Transparenz darüber, wer wie viel zahlt und wofür. Welche Angaben wollt ihr sehen, bevor Deutschland neue Milliarden zusagt? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #ukraine #merz #eu #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Merz will mehr Ukraine-Hilfe. Wer zahlt, und wie viel?",
+      "kicker": "EU · Ukraine",
+      "bild": {
+       "url": "cover-ukraine-2026-11-10.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Brief an Ratspräsident Costa",
+      "titel": "Merz: Alle EU-Staaten sollen „ausnahmslos“ zahlen.",
+      "text": "Vor dem informellen EU-Gipfel in Dublin am Freitag fordert Merz, dass sich alle EU-Staaten mit einem „fairen Beitrag“ an der Finanzlücke der Ukraine beteiligen. Bulgariens Regierungschef Radew und der slowakische Ministerpräsident Fico wollen nicht mitmachen.",
+      "quelle": "dpa (nw.de, 10.11.2026)"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "70 Mrd. €",
+      "text": "So groß ist die Finanzlücke der Ukraine 2027 laut EU-Kommission, 45 Mrd. davon sollen aus der EU kommen. Für 2026 und 2027 sind bereits 90 Mrd. € bewilligt. Selenskyj hatte zusätzlich 70 Mrd. gefordert.",
+      "quelle": "dpa (nw.de, 10.11.2026)"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Wer hat wie viel festgelegt?",
+      "titel": "Europa vor den USA.",
+      "punkte": [
+       {
+        "kopf": "EU-Staaten und EU-Institutionen",
+        "text": "200,5 Mrd. €"
+       },
+       {
+        "kopf": "USA",
+        "text": "115,4 Mrd. €, seit 2025 kaum Neues."
+       },
+       {
+        "kopf": "Deutschland",
+        "text": "30,8 Mrd. € an die Ukraine."
+       }
+      ],
+      "quelle": "Kiel Institut, Ukraine Support Tracker (Stand 31.8.2026)"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "100 Milliarden sind nicht 100 Milliarden.",
+      "text": "Die Bundesregierung nennt 100,9 Mrd. € (Stand 30.6.2026). Davon sind laut Kiel Institut 41,7 Mrd. Hilfe für die Ukraine. 35,9 Mrd. sind Kosten in Deutschland (Bürgergeld, Unterbringung), rund 22 Mrd. Zusagen für spätere Jahre. Dazu kommt der deutsche Anteil an EU-Hilfen (rund 22,7 Mrd., meist Kredite), den man nicht dazuaddieren darf.",
+      "quelle": "Bundesregierung, Kiel Institut"
+     },
+     {
+      "typ": "meinung",
+      "text": "Die Unterstützung der Ukraine bleibt richtig. Aber Bürger sollen wissen, wer wie viel zahlt und wofür. Die 100-Milliarden-Zahl mischt Hilfe, Inlandskosten und spätere Zusagen. Wer neue Milliarden fordert, muss offenlegen, was geliefert wird, was Kredit ist und was zurückfließen soll."
+     },
+     {
+      "typ": "cta",
+      "frage": "Welche Angaben wollt ihr sehen, bevor Deutschland neue Milliarden zusagt?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -123,6 +336,51 @@ window.BRIEFINGS = [
     "text": "Aldi-Mindestlohn, Trump und die Midterms, Spanien und TikTok, Sentix im Karussell. Link in der Bio.",
     "quelle": "ZDFheute-Newsticker, 9.11.2026; dpa-AFX",
     "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "kicker": "Berlin · Reichstag",
+    "titel": "Palästina-Fahne am Reichstag: Wie viel Schutz braucht das Parlament?",
+    "rot": "Wie viel Schutz braucht das Parlament?",
+    "text": "Ein 22-Jähriger tauschte am Sonntag die Deutschlandflagge am Mast. Im Karussell mit Quellen und unserer Einordnung. Link in der Bio.",
+    "quelle": "ZDFheute, 8.11.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "foto-reichstag-abend.jpg",
+     "fokus": 0.5,
+     "unter": "Archivfoto · Jürgen Matern / CC BY-SA 3.0"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "kicker": "Iran · USA",
+    "titel": "Trump: Der Krieg sei „effektiv vorüber“. Die Blockade bleibt.",
+    "rot": "Die Blockade bleibt.",
+    "text": "Teheran widerspricht, Hormus bleibt blockiert. Im Karussell mit Quellen und Einordnung. Link in der Bio.",
+    "quelle": "dpa, 10.11.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "foto-tanker-golf.jpg",
+     "fokus": 0.5,
+     "unter": "Archivfoto · U.S. Navy / gemeinfrei"
+    }
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "kicker": "EU · Ukraine",
+    "titel": "Merz will mehr Ukraine-Hilfe. Wer zahlt, und wie viel?",
+    "rot": "Wer zahlt, und wie viel?",
+    "text": "70 Milliarden Euro Finanzlücke 2027. Im Karussell mit Zahlen und Einordnung. Link in der Bio.",
+    "quelle": "dpa, 10.11.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "foto-ukraine-flaggen.jpg",
+     "fokus": 0.5,
+     "unter": "Ukrainische Flaggen, Kiew · Світлана 743 / CC BY-SA 4.0"
+    }
    }
   ]
  },
