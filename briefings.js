@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-10",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Aldi Süd erhöht den Mindestlohn von 15 auf 16 Euro",
+    "USA: Trump stellt Fairness der Midterm-Wahl infrage, laut Truth-Social-Beitrag ohne Belege",
+    "Spanien erwägt laut Medien eine vorübergehende Sperre von TikTok",
+    "Eurozone: Sentix-Konjunkturindex sinkt auf 2,4 Punkte"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Dienstag, den 10. November.",
+    "Gestern: Aldi Süd erhöht ab Dezember den Mindestlohn im Unternehmen von 15 auf 16 Euro. Der gesetzliche Mindestlohn liegt aktuell bei 13,90 Euro und steigt im Januar auf 14,60 Euro. Aldi verweist laut ZDFheute auf die erneut gestiegene Inflation (ZDFheute-Newsticker, 9.11., 15:01 Uhr).",
+    "USA: Nach dem Wahlsieg der Demokraten bei den Midterms stellt Präsident Trump laut einem Beitrag auf Truth Social die Fairness der Wahl infrage, ohne Belege zu nennen. In der Wahlnacht hatte er angekündigt, das Ergebnis zu akzeptieren (ZDFheute-Newsticker, 9.11., 18:14 Uhr).",
+    "Spanien: Die Regierung erwägt laut Medienberichten eine vorübergehende Sperrung von TikTok wegen Kindesmissbrauchs. Laut der Rechercheplattform maldita.es wurden mehr als 1.000 Videos mit Missbrauchsdarstellungen gefunden, die zusammen über 48 Millionen Mal aufgerufen wurden. Eine Entscheidung ist nach diesen Angaben nicht gefallen (ZDFheute-Newsticker, 9.11., 18:46 Uhr).",
+    "Zuletzt: Der Sentix-Konjunkturindex für die Eurozone ist im November um 0,3 auf 2,4 Punkte gesunken. Anleger zweifeln laut ZDFheute am Aufschwung (ZDFheute-Newsticker, 9.11., 16:44 Uhr).",
+    "Heute: Ab 7:30 Uhr legen unter anderem Infineon (Jahreszahlen), Henkel und Uniper Zahlen vor. Um 14:30 Uhr kommen die US-Verbraucherpreise für Oktober. In Berlin findet der Deutsche Eigenkapitaltag mit Wirtschaftsministerin Katherina Reiche statt, außerdem der 16. Deutsche Maschinenbaugipfel (dpa-AFX, Tagesvorschau 10.11.).",
+    "Diese Woche: Am Mittwoch um 8 Uhr folgen die endgültigen deutschen Verbraucherpreise für Oktober, um 10 Uhr verhandelt der Bundesgerichtshof in Karlsruhe über Rechtsschutzversicherung bei einer Impfschaden-Klage. Am Donnerstag legen unter anderem Allianz, Munich Re und Siemens Zahlen vor (dpa-AFX, Wochenvorschau).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Dienstag, 10. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Dienstag, den 10. November. Gestern: Aldi Süd erhöht den Mindestlohn auf 16 Euro. Trump stellt laut Truth-Social-Beitrag die Fairness der Midterm-Wahl infrage. Spanien erwägt laut Medien eine TikTok-Sperre. Der Sentix-Index für die Eurozone sinkt. Heute: Infineon, Henkel und Uniper mit Zahlen, um 14:30 Uhr die US-Verbraucherpreise. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Di., 10. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Aldi Süd",
+        "text": "Ab Dezember 16 statt 15 Euro Mindestlohn im Unternehmen. Der gesetzliche liegt bei 13,90 Euro."
+       },
+       {
+        "kopf": "USA",
+        "text": "Trump stellt laut Truth-Social-Beitrag die Fairness der Midterm-Wahl infrage, ohne Belege."
+       },
+       {
+        "kopf": "Spanien",
+        "text": "Die Regierung erwägt laut Medien eine vorübergehende TikTok-Sperre."
+       },
+       {
+        "kopf": "Eurozone",
+        "text": "Der Sentix-Index sinkt im November um 0,3 auf 2,4 Punkte."
+       }
+      ],
+      "quelle": "ZDFheute-Newsticker, 9.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, ab 7:30 Uhr",
+        "text": "Infineon, Henkel und Uniper legen Zahlen vor."
+       },
+       {
+        "kopf": "Heute, 14:30 Uhr",
+        "text": "Die US-Verbraucherpreise für Oktober."
+       },
+       {
+        "kopf": "Mittwoch",
+        "text": "8 Uhr: deutsche Verbraucherpreise. 10 Uhr: BGH zu Rechtsschutz bei Impfschaden-Klage."
+       },
+       {
+        "kopf": "Donnerstag",
+        "text": "Allianz, Munich Re und Siemens mit Zahlen."
+       }
+      ],
+      "quelle": "dpa-AFX, Tagesvorschau 10.11.2026 und Wochenvorschau"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "16 Euro",
+      "text": "zahlt Aldi Süd ab Dezember als Mindestlohn im Unternehmen. Der gesetzliche Mindestlohn liegt aktuell bei 13,90 Euro.",
+      "quelle": "ZDFheute-Newsticker, 9.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Di., 10. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Aldi-Mindestlohn, Trump und die Midterms, Spanien und TikTok, Sentix im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute-Newsticker, 9.11.2026; dpa-AFX",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-09",
   "morgen": null,
   "abend": {
