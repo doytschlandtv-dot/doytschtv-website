@@ -22,7 +22,34 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Iran: Ölpreis fällt erstmals seit August unter 90 Dollar",
+    "Ukraine und Russland: erste direkte Gespräche seit mehr als acht Monaten",
+    "Rente: Reserven schrumpfen, Beitragssatz 2028 laut Prognose bei 19,7 Prozent",
+    "Bundespolitik: SPD stützt Aigner, Einigung in Mecklenburg-Vorpommern"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Dienstag, 10. November.",
+    "Erstens: Iran und der Ölpreis. Der Preis für Brent-Öl fiel laut ZDFheute erstmals seit August unter 90 Dollar je Barrel; gegen Mittag kostete die Sorte mit Lieferung Januar 89,92 Dollar, ein Minus von 2,9 Prozent. Präsident Trump hat den Krieg mit dem Iran nach dieser Meldung für effektiv vorüber erklärt. Das ist eine Aussage Trumps; eine Bestätigung von iranischer Seite nennt die Meldung nicht. Außerdem wies der Iran den Vorwurf Frankreichs zurück, die Revolutionsgarden steckten hinter Cyberangriffen auf Kühlanlagen; das Außenministerium nannte die Anschuldigungen verantwortungslos und lächerlich. Frankreich hatte den Vorwurf am Montag erhoben. Die sechs Staaten des Golf-Kooperationsrats wollen zudem einen gemeinsamen Kommandoposten in Kuwait aufbauen (ZDFheute-Newsticker, 10.11.). Unsere Einordnung: Ein sinkender Ölpreis ist noch kein Friedensschluss; belastbar wird die Lage erst durch überprüfbare Schritte beider Seiten.",
+    "Zweitens: Ukraine und Russland. In Abu Dhabi haben unter US-Vermittlung zweitägige Gespräche begonnen, die ersten direkten seit mehr als acht Monaten. Laut dem ukrainischen Portal Ukrajinska Prawda, das sich auf Quellen in der ukrainischen Verhandlungsgruppe beruft, sollen beide Seiten am ersten Tag einen großen Gefangenenaustausch in naher Zukunft vereinbart haben. Eine Bestätigung der Regierungen liegt uns nicht vor. Auf einer Hilfskonferenz in Paris kamen außerdem 303 Millionen Euro für die Sanierung der Schutzhülle über dem Reaktor von Tschernobyl zusammen; Ziel waren mehr als 300 Millionen (ZDFheute-Newsticker, 10.11.).",
+    "Drittens: Rente. Die Reserve der Rentenversicherung liegt Ende 2027 laut Anja Piel, Vorsitzende des Bundesvorstands der Rentenversicherung, nur noch knapp über der gesetzlichen Untergrenze. Der Beitragssatz bleibt 2027 bei 18,6 Prozent des Bruttolohns. Für 2028 wird ein Anstieg auf 19,7 Prozent erwartet, also um 1,1 Prozentpunkte. Zugleich ringt die Koalition um den Haushalt 2027: Laut einer Vorlage des Finanzministeriums für die Bereinigungssitzung, die der dpa vorliegt, soll das Darlehen an die Bundesagentur für Arbeit um drei Milliarden auf 8,2 Milliarden Euro steigen (ZDFheute-Newsticker, 10.11.).",
+    "Viertens: Bundespolitik. Die SPD-Fraktion stellt sich bei der Bundespräsidentenwahl hinter die Unionskandidatin Ilse Aigner; Fraktionschef Matthias Miersch sagte das laut ZDFheute nach einem Besuch bei ihr, auch die SPD-Spitze habe Unterstützung zugesagt. In Mecklenburg-Vorpommern haben sich SPD, Linke und Grüne laut Ministerpräsidentin Manuela Schwesig auf ein Koalitionsprogramm mit dem Titel Zusammenhalt, Zuversicht, Zukunft geeinigt. Die Basis der drei Parteien muss dem Text noch zustimmen (ZDFheute-Newsticker, 10.11.).",
+    "Morgen: Um 8 Uhr stehen laut Terminkalender die endgültigen deutschen Verbraucherpreise für Oktober an. Um 10 Uhr prüft der Bundesgerichtshof in Karlsruhe einen Streit um Rechtsschutzversicherung für eine Klage nach Impfschaden. Um 14:30 Uhr folgt das Jahresgutachten der Wirtschaftsweisen 2026/27. In Berlin findet der Maschinenbau-Gipfel mit Wirtschaftsministerin Katherina Reiche statt, in Antalya beginnt der Gipfel der Staats- und Regierungschefs auf der UN-Klimakonferenz COP31 (dpa-AFX, Tagesvorschau 11.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute-Newsticker, 10.11.2026"
+    },
+    {
+     "titel": "dpa-AFX, Tagesvorschau 11.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
