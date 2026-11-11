@@ -22,7 +22,49 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Wirtschaftsweise heben Wachstumsprognose auf 1,3 Prozent an und warnen vor Haushaltslücken",
+    "Abu Dhabi: Zwei Verhandlungstage ohne Waffenruhe, Gefangenenaustausch in Vorbereitung",
+    "Integrationsbericht: Fortschritte bei Bildung und Beschäftigung, aber auch wachsende Ausgrenzung",
+    "COP31: Viele europäische Regierungschefs bleiben dem Gipfel fern, auch Merz"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Mittwoch, 11. November.",
+    "Erstens: Der Sachverständigenrat, die Wirtschaftsweisen, hat sein Jahresgutachten vorgelegt. Er erwartet laut dpa-AFX für dieses Jahr ein Wachstum der Wirtschaftsleistung von 1,3 Prozent und für das kommende Jahr von 1,0 Prozent. Im Frühjahr hatte der Rat laut ad-hoc-news (dpa) noch 0,5 und 0,8 Prozent erwartet. Zugleich warnt der Rat vor den Staatsfinanzen: Laut ad-hoc-news (dpa) nennt die Vorsitzende Monika Schnitzer für die Finanzierungslücke im Bundeshaushalt bis 2040 Größenordnungen von 175 beziehungsweise 300 Milliarden Euro. Der Rat empfiehlt unter anderem, die Energiesteuervergünstigung für Diesel abzubauen und die Ausweitung der Mütterrente zurückzunehmen; Ratsmitglied Veronika Grimm hat zu den Steuerfragen eine abweichende Meinung. Im Morning Briefing hatten wir die Vorlage des Gutachtens für 14:30 Uhr angekündigt (dpa-AFX, 11.11.; ad-hoc-news/dpa, 11.11.).",
+    "Zweitens: Abu Dhabi. Der zweite Tag der von den USA vermittelten Gespräche zwischen Russland und der Ukraine ist laut Berichten ohne Friedensabkommen und ohne Waffenruhe zu Ende gegangen. Laut Berliner Zeitung arbeiten beide Seiten an einem umfangreichen Gefangenenaustausch; im Gespräch sind laut Bericht 1.000 gegen 1.000 oder 1.500 gegen 1.500 Gefangene, die endgültigen Zahlen sollen am Donnerstag verkündet werden. Strittig bleiben laut Berliner Zeitung Gebietsfragen, Sicherheitsgarantien und die Beteiligung Europas. Der russische Delegationsvertreter Medinski sagte nach diesem Bericht, in einigen Punkten habe man gegenseitiges Verständnis erzielt, in anderen nicht; das ist eine Eigenangabe. Die Ukraine meldete laut Reuters in der Nacht russische Angriffe auf Umspannwerke, Russland meldete nach AP den Abschuss von 627 ukrainischen Drohnen; beides sind Angaben der Konfliktparteien, von Reuters und AP nicht unabhängig überprüft (Berliner Zeitung, 11.11.; Reuters, 11.11.; AP, 11.11.).",
+    "Drittens: Integrationsbericht. Die Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration, Natalie Pawlik (SPD), hat den 15. Integrationsbericht vorgelegt. Laut ZDFheute zeigt er Fortschritte bei Bildung und Beschäftigung, zugleich aber ungleiche Chancen und wachsende Ausgrenzung (ZDFheute, 11.11.).",
+    "Viertens: Klimagipfel in Antalya. Zur Eröffnung des Gipfels der Staats- und Regierungschefs bei der UN-Klimakonferenz COP31 sprach UN-Generalsekretär António Guterres. Laut ZDFheute sind viele europäische Regierungschefs nicht gekommen, auch Bundeskanzler Merz nicht, dessen Absage wir heute früh gemeldet haben. Außerdem sei Deutschland in der Klimaschutz-Rangliste weiter abgerutscht (ZDFheute, 11.11.).",
+    "Morgen: Laut dpa-AFX-Tagesvorschau geht der Gipfel der Staats- und Regierungschefs auf der COP31 zu Ende. Die Bundesbank stellt ihren Finanzstabilitätsbericht 2026 vor, um 9 Uhr startet Volkswagen im Werk Emden die Serienproduktion des ID. Tiguan, und Allianz, Siemens und Munich Re legen Zahlen vor. Aus Abu Dhabi sollen laut Berliner Zeitung die endgültigen Zahlen zum Gefangenenaustausch verkündet werden, und die US-Unterhändler Witkoff und Kushner wollen Putin in Moskau die Ergebnisse vorstellen (dpa-AFX, 11.11.; Berliner Zeitung, 11.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "dpa-AFX (onvista), 11.11.2026"
+    },
+    {
+     "titel": "ad-hoc-news (dpa), 11.11.2026"
+    },
+    {
+     "titel": "Berliner Zeitung, 11.11.2026"
+    },
+    {
+     "titel": "Reuters (Kathmandu Post), 11.11.2026"
+    },
+    {
+     "titel": "AP (Boston Globe), 11.11.2026"
+    },
+    {
+     "titel": "ZDFheute, 11.11.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau, 11.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,

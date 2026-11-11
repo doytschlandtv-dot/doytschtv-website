@@ -2,37 +2,37 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-11T05:55:00+01:00",
+ "stand": "2026-11-11T21:30:00+01:00",
  "items": [
   {
-   "z": "2026-11-10T16:20:00+01:00",
-   "t": "Finanzminister Klingbeil will laut Finanzministerium die Steuerklassen III und V abschaffen; der Bund verhandelt darüber mit den Ländern",
-   "q": "dpa-AFX",
-   "u": "https://onvista.de/news/2026/11-10-dpa-afx-ueberblick-konjunktur-vom-10-11-2026-17-15-uhr-0-10-26574736"
+   "z": "2026-11-11T13:35:00+01:00",
+   "t": "Die Wirtschaftsweisen erwarten laut dpa-AFX für 2026 ein Wachstum von 1,3 Prozent und für 2027 von 1,0 Prozent",
+   "q": "dpa-AFX (onvista)",
+   "u": "https://www.onvista.de/news/2026/11-11-wirtschaftsweise-heben-wachstumsprognose-an-0-10-26575132"
   },
   {
-   "z": "2026-11-10T16:20:00+01:00",
-   "t": "Das Darlehen des Bundes an die Bundesagentur für Arbeit soll laut Vorlage des Finanzministeriums um 3 Milliarden auf 8,2 Milliarden Euro steigen",
-   "q": "dpa-AFX",
-   "u": "https://onvista.de/news/2026/11-10-dpa-afx-ueberblick-konjunktur-vom-10-11-2026-17-15-uhr-0-10-26574736"
+   "z": "2026-11-11T16:13:00+01:00",
+   "t": "Die Gespräche in Abu Dhabi enden laut Berliner Zeitung ohne Friedensabkommen und ohne Waffenruhe; die Zahlen zum Gefangenenaustausch sollen am Donnerstag verkündet werden",
+   "q": "Berliner Zeitung",
+   "u": "https://www.berliner-zeitung.de/article/ukraine-verhandlungen-in-abu-dhabi-kein-frieden-aber-fortschritte-10587516"
   },
   {
-   "z": "2026-11-10T16:20:00+01:00",
-   "t": "Der erste Verhandlungstag zwischen Russland und der Ukraine in Abu Dhabi ist laut russischen Staatsmedien (Tass) beendet; am Mittwoch geht es weiter",
-   "q": "dpa-AFX",
-   "u": "https://onvista.de/news/2026/11-10-dpa-afx-ueberblick-konjunktur-vom-10-11-2026-17-15-uhr-0-10-26574736"
+   "z": "2026-11-11T17:00:00+01:00",
+   "t": "Laut einer neuen Studie sind sexualisierte Vorfälle in der Bundeswehr schwerwiegender als befürchtet, berichtet ZDFheute",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/video/heute-nachrichten/sexualisiertes-fehlverhalten-bundeswehr-video-100.html"
   },
   {
-   "z": "2026-11-11T05:03:00+01:00",
-   "t": "Die Wirtschaftsweisen legen laut dpa heute um 14:30 Uhr ihr Jahresgutachten vor; erwartet wird eine deutlich höhere Wachstumsprognose",
-   "q": "news.de (dpa)",
-   "u": "https://www.news.de/panorama/860178241/11-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-11-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+   "z": "2026-11-11T19:00:00+01:00",
+   "t": "Beauftragte Natalie Pawlik legt laut ZDFheute den 15. Integrationsbericht vor: Fortschritte bei Bildung und Beschäftigung, aber auch wachsende Ausgrenzung",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/video/heute-nachrichten/integrationsbericht-bundesregierung-fortschritte-video-100.html"
   },
   {
-   "z": "2026-11-11T05:03:00+01:00",
-   "t": "Kanzler Merz sagt laut dpa seine Teilnahme am Gipfel der UN-Klimakonferenz in Antalya wegen anderer Verpflichtungen ab",
-   "q": "news.de (dpa)",
-   "u": "https://www.news.de/panorama/860178241/11-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-11-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+   "z": "2026-11-11T19:00:00+01:00",
+   "t": "Zum COP31-Gipfel in Antalya sind laut ZDFheute viele europäische Regierungschefs nicht gekommen, auch Kanzler Merz nicht",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/video/heute-nachrichten/cop31-handlungsbedarf-klimaschutz-video-100.html"
   }
  ]
 };
