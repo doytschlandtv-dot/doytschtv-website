@@ -110,6 +110,71 @@ window.BRIEFINGS = [
       ]
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Klimagipfel in Antalya: Der Kanzler reist nicht",
+    "caption": "Die Weltklimakonferenz COP31 läuft vom 9. bis 20. November in Antalya, erwartet werden fast 200 Staaten. Bundeskanzler Merz reist nicht, der Regierungssprecher nennt einen vollen Terminkalender. Umweltminister Schneider fährt. Zugesagt waren jährlich 6 Milliarden Euro Klimafinanzierung für den globalen Süden, erreicht wurden 4,7 Milliarden. Unsere Einordnung: Wer Zusagen macht, sollte bei den Verhandlungen selbst am Tisch sitzen. Wie verlässlich sind Finanzzusagen, wenn jedes Jahr 1,3 Milliarden fehlen? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #cop31 #klima #antalya #türkei #merz #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Klimagipfel in Antalya. Der Kanzler reist nicht.",
+      "kicker": "Türkei · Weltklimakonferenz COP31",
+      "bild": {
+       "url": "cover-cop31-2026-11-11.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "COP31 in der Türkei",
+      "titel": "Merz fährt nicht nach Antalya.",
+      "text": "Die Konferenz läuft vom 9. bis 20. November, erwartet werden fast 200 Staaten und rund 70 Staats- und Regierungschefs. Der Regierungssprecher begründet Merz’ Absage mit den Worten „Der Terminkalender ist sehr voll“. Umweltminister Schneider (SPD) und Fachverhandler reisen.",
+      "quelle": "ZDFheute, 8.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "4,7 statt 6 Mrd. €",
+      "text": "Jährlich 6 Milliarden Euro für Klimaschutz und Anpassung im globalen Süden hatte die Bundesregierung zugesagt. Erreicht wurden 4,7 Milliarden Euro, also 1,3 Milliarden weniger.",
+      "quelle": "ZDFheute, 8.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was steht auf dem Spiel?",
+      "titel": "Zusagen und Politik im Inland.",
+      "punkte": [
+       {
+        "kopf": "Klimafinanzierung",
+        "text": "4,7 statt 6 Mrd. € im Jahr für Länder des globalen Südens."
+       },
+       {
+        "kopf": "Brasilianischer Regenwaldfonds",
+        "text": "Die zugesagte Milliarde sollen Unionsabgeordnete laut ZDFheute nicht freigeben."
+       },
+       {
+        "kopf": "Im Inland",
+        "text": "Merz setzte sich für eine Lockerung des Verbrenner-Aus 2035 ein, das Gebäudegesetz erlaubt weiter Öl- und Gasheizungen."
+       }
+      ],
+      "quelle": "ZDFheute, 8.11.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Neu ist das Fehlen nicht.",
+      "text": "Auch Schröder, Merkel und Scholz fehlten bei Klimakonferenzen. Neu ist, dass die Absage auf eine Finanzlücke trifft. Fridays for Future projizierte am 5. November „Merzloser Klimagipfel“ auf das Marie-Elisabeth-Lüders-Haus des Bundestags.",
+      "quelle": "ZDFheute, Volksstimme"
+     },
+     {
+      "typ": "meinung",
+      "text": "Wer sechs Milliarden im Jahr zusagt und 4,7 liefert, gehört bei den Verhandlungen selbst an den Tisch. Das Signal zählt vor allem für die Länder, die auf das Geld warten. Und die Türkei richtet als Gastgeberin eine Konferenz mit fast 200 Staaten aus. Wer sie als Partner ernst nimmt, reist hin."
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie verlässlich sind Finanzzusagen, wenn jedes Jahr 1,3 Mrd. € fehlen?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -123,6 +188,21 @@ window.BRIEFINGS = [
     "text": "Steuerklassen, BA-Darlehen, Rentenkasse und Abu Dhabi im Karussell. Link in der Bio.",
     "quelle": "dpa-AFX, 10.11.2026; news.de/dpa, 11.11.2026",
     "theme": "dark"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "AKTUELL",
+    "kicker": "Türkei · COP31",
+    "titel": "Klimagipfel in Antalya: Der Kanzler reist nicht.",
+    "rot": "Der Kanzler reist nicht.",
+    "text": "Zugesagt: 6 Mrd. € Klimafinanzierung im Jahr, erreicht: 4,7 Mrd. €. Alle Folien im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, 8.11.2026",
+    "theme": "dark",
+    "bild": {
+     "url": "foto-merz-story.jpg",
+     "unter": "Archivbild: Stepro · Wikimedia Commons · CC BY-SA 4.0"
+    }
    }
   ]
  },
