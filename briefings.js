@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-11",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Klingbeil will Steuerklassen III und V abschaffen",
+    "Haushalt 2027: BA-Darlehen soll auf 8,2 Milliarden Euro steigen",
+    "Rentenversicherung: Reserve laut Piel bald nur noch knapp über der Untergrenze",
+    "Ukraine und Russland: erster Verhandlungstag in Abu Dhabi beendet"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Mittwoch, den 11. November.",
+    "Gestern: Finanzminister Lars Klingbeil (SPD) will die Steuerklassen III und V abschaffen, um die Steuererklärung zu vereinfachen. Das teilte laut dpa das Finanzministerium mit, zuerst hatte das Handelsblatt berichtet. Der Bund verhandelt darüber mit den Ländern (dpa-AFX, 10.11.).",
+    "Außerdem soll laut einer Vorlage des Finanzministeriums für die Bereinigungssitzung des Haushaltsausschusses am Donnerstag das Darlehen des Bundes an die Bundesagentur für Arbeit um 3 Milliarden auf 8,2 Milliarden Euro steigen. Begründet wird das mit dem angespannten Arbeitsmarkt. Die Vorlage liegt der dpa vor (dpa-AFX, 10.11.).",
+    "Die Vorsitzende des Bundesvorstands der Rentenversicherung, Anja Piel, sagte in Würzburg, die Reserve der Rentenkasse werde Ende kommenden Jahres nur noch knapp über der gesetzlichen Untergrenze liegen (dpa-AFX, 10.11.).",
+    "Zuletzt: In Abu Dhabi ist der erste Verhandlungstag zwischen Russland und der Ukraine unter US-Vermittlung beendet, laut russischen Staatsmedien (Tass) nach etwa viereinhalb Stunden. Heute geht es weiter. Der ukrainische Präsident Selenskyj nannte den zweiten Tag den Haupttag und kündigte an, ein mögliches Dreiertreffen auf Präsidentenebene zu besprechen. Weitere Themen sind laut dpa Angriffe auf Energieanlagen, das Schwarze Meer und ein weiterer Gefangenenaustausch (dpa-AFX, 10.11.; news.de/dpa, 11.11.).",
+    "Heute: Um 8 Uhr veröffentlicht Destatis die endgültigen Verbraucherpreise für Oktober. Um 14:30 Uhr legen die Wirtschaftsweisen ihr Jahresgutachten vor, erwartet wird laut dpa eine deutlich höhere Wachstumsprognose. In Antalya beginnt der Gipfel der Staats- und Regierungschefs der UN-Klimakonferenz COP31, Kanzler Merz sagt laut dpa ab. In Berlin wird die Leipziger Autoritarismus-Studie vorgestellt (dpa-AFX, 10.11.; news.de/dpa, 11.11.).",
+    "Diese Woche: Am Donnerstag tagt der Haushaltsausschuss zur Bereinigungssitzung des Haushalts 2027. Am Dienstag, 17. November, um 11 Uhr folgen die ZEW-Konjunkturerwartungen (dpa-AFX-Wochenvorschau, 9.11.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Mittwoch, 11. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Mittwoch, den 11. November. Gestern: Klingbeil will die Steuerklassen III und V abschaffen, das BA-Darlehen soll laut Vorlage auf 8,2 Milliarden Euro steigen, und die Rentenkasse hat laut Piel Ende 2027 nur noch knapp Reserve. In Abu Dhabi läuft der zweite Verhandlungstag zwischen Russland und der Ukraine. Heute: Verbraucherpreise um 8 Uhr, Jahresgutachten der Wirtschaftsweisen um 14:30 Uhr. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Mi., 11. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "Steuerklassen",
+        "text": "Klingbeil will III und V abschaffen, laut Finanzministerium. Der Bund verhandelt mit den Ländern."
+       },
+       {
+        "kopf": "BA-Darlehen",
+        "text": "Laut Vorlage soll es um 3 Milliarden auf 8,2 Milliarden Euro steigen."
+       },
+       {
+        "kopf": "Rentenkasse",
+        "text": "Die Reserve liegt Ende 2027 laut Piel nur noch knapp über der Untergrenze."
+       },
+       {
+        "kopf": "Abu Dhabi",
+        "text": "Erster Gesprächstag Russland und Ukraine beendet, laut Tass nach etwa viereinhalb Stunden."
+       }
+      ],
+      "quelle": "dpa-AFX, 10.11.2026; news.de/dpa, 11.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 8:00 Uhr",
+        "text": "Destatis: endgültige Verbraucherpreise für Oktober."
+       },
+       {
+        "kopf": "Heute, 14:30 Uhr",
+        "text": "Die Wirtschaftsweisen legen ihr Jahresgutachten vor."
+       },
+       {
+        "kopf": "Heute, Antalya",
+        "text": "Gipfel der UN-Klimakonferenz COP31. Merz sagt laut dpa ab."
+       },
+       {
+        "kopf": "Donnerstag und Dienstag",
+        "text": "Haushaltsausschuss zum Haushalt 2027, am 17.11. die ZEW-Erwartungen."
+       }
+      ],
+      "quelle": "dpa-AFX, Tagesvorschau 11.11.2026 und Wochenvorschau; news.de/dpa"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "8,2 Mrd. Euro",
+      "text": "soll das Darlehen des Bundes an die Bundesagentur für Arbeit laut Vorlage des Finanzministeriums betragen, ein Plus von 3 Milliarden Euro.",
+      "quelle": "dpa-AFX, 10.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Mi., 11. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Steuerklassen, BA-Darlehen, Rentenkasse und Abu Dhabi im Karussell. Link in der Bio.",
+    "quelle": "dpa-AFX, 10.11.2026; news.de/dpa, 11.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-10",
   "morgen": {
    "titel": "Morning Briefing",

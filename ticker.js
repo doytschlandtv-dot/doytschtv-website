@@ -2,37 +2,37 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-10T21:40:00+01:00",
+ "stand": "2026-11-11T05:55:00+01:00",
  "items": [
   {
-   "z": "2026-11-10T14:44:00+01:00",
-   "t": "Der Ölpreis fällt laut ZDFheute erstmals seit August unter 90 Dollar; Brent (Lieferung Januar) kostete gegen Mittag 89,92 Dollar, ein Minus von 2,9 Prozent",
-   "q": "ZDFheute-Newsticker",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "z": "2026-11-10T16:20:00+01:00",
+   "t": "Finanzminister Klingbeil will laut Finanzministerium die Steuerklassen III und V abschaffen; der Bund verhandelt darüber mit den Ländern",
+   "q": "dpa-AFX",
+   "u": "https://onvista.de/news/2026/11-10-dpa-afx-ueberblick-konjunktur-vom-10-11-2026-17-15-uhr-0-10-26574736"
   },
   {
-   "z": "2026-11-10T15:37:00+01:00",
-   "t": "Laut Rentenversicherungs-Vorstandschefin Anja Piel bleibt der Beitragssatz 2027 bei 18,6 Prozent, für 2028 wird ein Anstieg auf 19,7 Prozent erwartet",
-   "q": "ZDFheute-Newsticker",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "z": "2026-11-10T16:20:00+01:00",
+   "t": "Das Darlehen des Bundes an die Bundesagentur für Arbeit soll laut Vorlage des Finanzministeriums um 3 Milliarden auf 8,2 Milliarden Euro steigen",
+   "q": "dpa-AFX",
+   "u": "https://onvista.de/news/2026/11-10-dpa-afx-ueberblick-konjunktur-vom-10-11-2026-17-15-uhr-0-10-26574736"
   },
   {
-   "z": "2026-11-10T16:38:00+01:00",
-   "t": "In Mecklenburg-Vorpommern haben sich SPD, Linke und Grüne laut Ministerpräsidentin Schwesig auf ein Koalitionsprogramm geeinigt; die Basis muss noch zustimmen",
-   "q": "ZDFheute-Newsticker",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "z": "2026-11-10T16:20:00+01:00",
+   "t": "Der erste Verhandlungstag zwischen Russland und der Ukraine in Abu Dhabi ist laut russischen Staatsmedien (Tass) beendet; am Mittwoch geht es weiter",
+   "q": "dpa-AFX",
+   "u": "https://onvista.de/news/2026/11-10-dpa-afx-ueberblick-konjunktur-vom-10-11-2026-17-15-uhr-0-10-26574736"
   },
   {
-   "z": "2026-11-10T17:51:00+01:00",
-   "t": "Die SPD-Fraktion unterstützt laut Fraktionschef Miersch die Unionskandidatin Ilse Aigner bei der Bundespräsidentenwahl",
-   "q": "ZDFheute-Newsticker",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "z": "2026-11-11T05:03:00+01:00",
+   "t": "Die Wirtschaftsweisen legen laut dpa heute um 14:30 Uhr ihr Jahresgutachten vor; erwartet wird eine deutlich höhere Wachstumsprognose",
+   "q": "news.de (dpa)",
+   "u": "https://www.news.de/panorama/860178241/11-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-11-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
   },
   {
-   "z": "2026-11-10T18:18:00+01:00",
-   "t": "Ukraine und Russland sollen laut Ukrajinska Prawda in Abu Dhabi einen großen Gefangenenaustausch vereinbart haben; die Gespräche sind die ersten direkten seit mehr als acht Monaten",
-   "q": "ZDFheute-Newsticker",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "z": "2026-11-11T05:03:00+01:00",
+   "t": "Kanzler Merz sagt laut dpa seine Teilnahme am Gipfel der UN-Klimakonferenz in Antalya wegen anderer Verpflichtungen ab",
+   "q": "news.de (dpa)",
+   "u": "https://www.news.de/panorama/860178241/11-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-11-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
   }
  ]
 };
