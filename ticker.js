@@ -2,37 +2,25 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-11T21:30:00+01:00",
+ "stand": "2026-11-12T06:00:00+01:00",
  "items": [
   {
-   "z": "2026-11-11T13:35:00+01:00",
-   "t": "Die Wirtschaftsweisen erwarten laut dpa-AFX für 2026 ein Wachstum von 1,3 Prozent und für 2027 von 1,0 Prozent",
+   "z": "2026-11-11T17:14:00+01:00",
+   "t": "Nach den Gesprächen in Abu Dhabi wurde laut dpa ein weiterer großer Gefangenenaustausch bekannt; Zahlen sollen am Donnerstag mitgeteilt werden",
+   "q": "dpa (Rhein-Zeitung)",
+   "u": "https://www.rhein-zeitung.de/deutschland-welt/politik/medinski-gefangenenaustausch-mit-ukraine-vereinbart_arid-4169265.html"
+  },
+  {
+   "z": "2026-11-11T21:14:00+01:00",
+   "t": "Die Koalition einigt sich laut dpa-AFX im Haushalt 2027 auf einen späteren Start der Zuckersteuer (Anfang 2028) und nimmt Kürzungen bei Familien teilweise zurück",
    "q": "dpa-AFX (onvista)",
-   "u": "https://www.onvista.de/news/2026/11-11-wirtschaftsweise-heben-wachstumsprognose-an-0-10-26575132"
+   "u": "https://www.onvista.de/news/2026/11-11-gesamt-roundup-koalition-findet-haushalts-kompromisse-zuckersteuer-spaeter-0-10-26575288"
   },
   {
-   "z": "2026-11-11T16:13:00+01:00",
-   "t": "Die Gespräche in Abu Dhabi enden laut Berliner Zeitung ohne Friedensabkommen und ohne Waffenruhe; die Zahlen zum Gefangenenaustausch sollen am Donnerstag verkündet werden",
-   "q": "Berliner Zeitung",
-   "u": "https://www.berliner-zeitung.de/article/ukraine-verhandlungen-in-abu-dhabi-kein-frieden-aber-fortschritte-10587516"
-  },
-  {
-   "z": "2026-11-11T17:00:00+01:00",
-   "t": "Laut einer neuen Studie sind sexualisierte Vorfälle in der Bundeswehr schwerwiegender als befürchtet, berichtet ZDFheute",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/video/heute-nachrichten/sexualisiertes-fehlverhalten-bundeswehr-video-100.html"
-  },
-  {
-   "z": "2026-11-11T19:00:00+01:00",
-   "t": "Beauftragte Natalie Pawlik legt laut ZDFheute den 15. Integrationsbericht vor: Fortschritte bei Bildung und Beschäftigung, aber auch wachsende Ausgrenzung",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/video/heute-nachrichten/integrationsbericht-bundesregierung-fortschritte-video-100.html"
-  },
-  {
-   "z": "2026-11-11T19:00:00+01:00",
-   "t": "Zum COP31-Gipfel in Antalya sind laut ZDFheute viele europäische Regierungschefs nicht gekommen, auch Kanzler Merz nicht",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/video/heute-nachrichten/cop31-handlungsbedarf-klimaschutz-video-100.html"
+   "z": "2026-11-11T23:39:00+01:00",
+   "t": "Unionsfraktionschef Frei: Das Ziel einer Stromsteuersenkung für alle bleibt, eine Gegenfinanzierung im Haushalt ist laut ihm bislang nicht gefunden",
+   "q": "dpa-AFX (onvista)",
+   "u": "https://www.onvista.de/news/2026/11-11-koalitionsfraktionen-grosse-brocken-fuer-haushalt-geklaert-0-10-26575296"
   }
  ]
 };

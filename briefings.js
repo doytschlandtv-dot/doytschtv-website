@@ -1,5 +1,126 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-12",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Haushalt 2027: Koalition einigt sich bei Zuckersteuer und Familienkürzungen",
+    "Stromsteuer für alle: Gegenfinanzierung fehlt bislang",
+    "Abu Dhabi: Gefangenenaustausch als einziges konkretes Ergebnis"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Donnerstag, den 12. November.",
+    "Gestern: Die schwarz-rote Koalition hat sich laut dpa-AFX auf Kompromisse im Haushalt 2027 verständigt. Die Zuckersteuer auf stark gesüßte Getränke soll erst Anfang 2028 starten statt wie im Kabinettsentwurf am 1. Juli 2027, künftig in drei statt zwei Stufen. Die neue Steuer auf Plastikverpackungen soll im nächsten Jahr vorerst nicht erhoben werden. Vorgesehene Einsparungen bei Familien werden laut SPD-Fraktionschef Matthias Miersch größtenteils zurückgenommen. Die Angaben stammen aus Kreisen der Koalitionsfraktionen und aus Äußerungen der Fraktionsspitzen (dpa-AFX, 11.11.).",
+    "Bei der Stromsteuer wird eine Senkung für alle laut dpa-AFX unwahrscheinlicher. Dafür wären rund 5,4 Milliarden Euro nötig, eine Gegenfinanzierung ist bisher nicht gefunden. Unionsfraktionschef Thorsten Frei sagte, das Ziel bleibe, es sei aber noch keine Gegenfinanzierung gelungen. Bisher gilt die Senkung nur für das produzierende Gewerbe sowie die Land- und Forstwirtschaft (dpa-AFX, 11.11.).",
+    "Zuletzt: Nach zweitägigen Verhandlungen in Abu Dhabi unter US-Vermittlung war laut dpa als einziges konkretes Ergebnis ein weiterer großer Gefangenenaustausch bekannt geworden. Zahlen sollen am Donnerstag mitgeteilt werden. Der US-Unterhändler Jared Kushner sprach von der bisher größten humanitären Freilassung in diesem Krieg, das ist eine Eigenangabe der US-Seite. Die Bundesregierung verlangt laut Regierungssprecher Stefan Kornelius eine direkte Beteiligung Europas an der Fortsetzung der Gespräche (dpa, 11.11.).",
+    "Heute: Der Haushaltsausschuss des Bundestags kommt zur Bereinigungssitzung zum Etat 2027 zusammen. Kushner und Witkoff wollen laut dpa in Moskau Präsident Putin treffen. Um 8 Uhr legt Siemens Jahreszahlen vor, um 9:30 Uhr Allianz Zahlen zum dritten Quartal. Die Bundesbank stellt ihren Finanzstabilitätsbericht 2026 vor, in Antalya endet der Gipfel der UN-Klimakonferenz COP31 (dpa-AFX-Tagesvorschau, 11.11.).",
+    "Diese Woche: Am Freitag, 13. November, veröffentlicht Destatis um 8 Uhr Großhandelspreise und Insolvenzzahlen. Am Montag, 16. November, entscheidet das Bundesverfassungsgericht um 10 Uhr über Klagen gegen das Sonderkündigungsrecht für Fernsehverträge. Am Dienstag folgen um 11 Uhr die ZEW-Konjunkturerwartungen (dpa-AFX-Wochenvorschau, 11.11.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Donnerstag, 12. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Donnerstag, den 12. November. Gestern: Die Koalition einigt sich beim Haushalt 2027, die Zuckersteuer soll erst Anfang 2028 starten. Für eine Stromsteuersenkung für alle fehlt bislang die Gegenfinanzierung. Zuletzt: In Abu Dhabi wurde ein weiterer Gefangenenaustausch bekannt. Heute: Bereinigungssitzung im Haushaltsausschuss, Siemens und Allianz mit Zahlen. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Do., 12. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Drei Dinge",
+      "punkte": [
+       {
+        "kopf": "Haushalt 2027",
+        "text": "Zuckersteuer erst ab Anfang 2028, Plastiksteuer 2027 vorerst nicht, Kürzungen bei Familien größtenteils zurück."
+       },
+       {
+        "kopf": "Stromsteuer",
+        "text": "Senkung für alle kostet rund 5,4 Milliarden Euro. Eine Gegenfinanzierung ist bislang nicht gefunden."
+       },
+       {
+        "kopf": "Abu Dhabi",
+        "text": "Einziges konkretes Ergebnis: ein weiterer Gefangenenaustausch. Zahlen sollen am Donnerstag folgen."
+       }
+      ],
+      "quelle": "dpa-AFX, 11.11.2026; dpa, 11.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute",
+        "text": "Haushaltsausschuss: Bereinigungssitzung zum Etat 2027."
+       },
+       {
+        "kopf": "Heute, 8 und 9:30 Uhr",
+        "text": "Siemens mit Jahreszahlen, Allianz mit Zahlen zum dritten Quartal."
+       },
+       {
+        "kopf": "Freitag, 13.11.",
+        "text": "Destatis: Großhandelspreise und Insolvenzen, 8 Uhr."
+       },
+       {
+        "kopf": "Montag und Dienstag",
+        "text": "Montag, 10 Uhr: Bundesverfassungsgericht zu Fernsehverträgen. Dienstag, 11 Uhr: ZEW-Erwartungen."
+       }
+      ],
+      "quelle": "dpa-AFX, Tagesvorschau 12.11.2026 und Wochenvorschau"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "5,4 Mrd. Euro",
+      "text": "wären laut dpa-AFX nötig, um die Stromsteuer für alle auf das europäische Mindestmaß zu senken. Eine Gegenfinanzierung fehlt bislang.",
+      "quelle": "dpa-AFX, 11.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Do., 12. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Haushalt 2027, Stromsteuer und Abu Dhabi im Karussell. Link in der Bio.",
+    "quelle": "dpa-AFX, 11.11.2026; dpa (Rhein-Zeitung), 11.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-11",
   "morgen": {
    "titel": "Morning Briefing",
