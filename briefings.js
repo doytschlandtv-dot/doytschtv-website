@@ -20,7 +20,47 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Haushalt 2027: Koalition streicht Familienkürzungen, Zuckersteuer rückt auf 2028",
+    "Stromsteuer für alle: Union hält fest, Gegenfinanzierung fehlt weiter",
+    "Ukraine: Nach Abu Dhabi reisen die US-Gesandten zu Putin, Austausch-Zahlen offen"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Donnerstag, 12. November.",
+    "Erstens: Haushalt 2027. Der Haushaltsausschuss des Bundestags kam laut dpa-AFX zur Bereinigungssitzung zusammen, die bis in den frühen Freitagmorgen dauern dürfte. Ein Ergebnis lag in den von uns gelesenen Quellen am Abend noch nicht vor. Bekannt sind die Einigungen der Koalition vom Mittwoch: Die Zuckersteuer auf stark gesüßte Getränke kommt zum 1. Januar 2028 statt zum 1. Juli 2027, die Plastiksteuer wird im nächsten Jahr nicht erhoben, die Erhöhung der Schaumweinsteuer ist vom Tisch. Zurückgenommen werden laut dpa-AFX unter anderem Kürzungen von mehr als 300 Millionen Euro beim Wohngeld sowie beim Kindersofortzuschlag. Der Kernhaushalt umfasst rund 555 Milliarden Euro, die Kredite liegen bei 118,7 Milliarden Euro; in der Finanzplanung klafft laut dpa-AFX für 2028 ein Loch von mehr als 25 Milliarden Euro. Die Zuckersteuer soll künftig drei statt zwei Stufen haben. Unsere Einordnung: Wer Kürzungen bei Familien zurücknimmt und Einnahmen verschiebt, vergrößert die Lücke in den Folgejahren, deshalb gehört die Frage nach der Gegenfinanzierung zu jeder Entlastung dazu (dpa-AFX, 12.11.).",
+    "Zweitens: Stromsteuer. Die Union hält laut dpa-AFX an der Senkung für alle auf das EU-Mindestmaß von 0,1 Cent je Kilowattstunde fest, aktuell sind es 2,05 Cent. Dafür wären 5,4 Milliarden Euro im Jahr nötig, umgesetzt ist die Senkung bisher nur für das produzierende Gewerbe sowie die Land- und Forstwirtschaft. Eine Gegenfinanzierung gibt es nicht. Genannt werden laut dpa-AFX Subventionsabbau, Überschüsse auf dem EEG-Konto und Kürzungen im Klima- und Transformationsfonds, jeweils mit Hindernissen. Die letzte Hoffnung ruht auf dem Koalitionsausschuss am kommenden Dienstag; die Chance auf einen Durchbruch gilt laut dpa als gering. Für einen Drei-Personen-Haushalt mit 4.000 Kilowattstunden Jahresverbrauch wären es laut Verivox 7,75 Euro im Monat. DIHK-Präsident Peter Adrian kritisierte den Zickzackkurs der Regierung. Im Morning Briefing nannten wir die Gegenfinanzierung offen, das gilt unverändert (dpa-AFX, 12.11.).",
+    "Drittens: Ukraine. Laut Euronews hatten die USA, die Ukraine und Russland in Abu Dhabi einen Gefangenenaustausch vereinbart. Der US-Gesandte Jared Kushner sprach laut Euronews von der bisher größten humanitären Freilassung, das ist eine Eigenangabe der US-Seite. Eine endgültige Zahl nennt keine der von uns gelesenen Quellen. Selenskyj sprach laut Euronews zuvor von mehr als 1.000 Gefangenen je Seite, möglich seien bis zu 1.500; der russische Generalleutnant Alexander Sorin nannte laut JKN einen Austausch binnen zwei bis drei Wochen mit jeweils mehr als 1.000 Gefangenen. Beides sind Eigenangaben der Konfliktparteien. Die im Morning Briefing angekündigte Zahlenmitteilung für Donnerstag haben wir damit nicht bestätigt gefunden. Laut h.ua trafen Kushner und Witkoff am Donnerstag im Kreml Wladimir Putin; es gab demnach weder eine gemeinsame Erklärung noch eine Waffenruhe, und die USA wollen laut Artikel keine Sicherheitsvereinbarung ohne Zustimmung der Ukraine und Europas unterzeichnen. Putin sagte laut h.ua, Russland kontrolliere Kostjantyniwka; das ist eine Eigenangabe, die die Ukraine bestreitet. Die Berichte zum Kreml-Treffen stützen sich auf eine einzige gelesene Quelle. Unsere Einordnung: Ein Gefangenenaustausch ist für die Betroffenen und ihre Familien ein humanitärer Schritt, er ersetzt aber keine Waffenruhe (Euronews, 11.11.; h.ua, 12.11.; JKN, 12.11.).",
+    "Morgen: Laut dpa-AFX-Tagesvorschau stehen um 8 Uhr Großhandelspreise für Oktober und Insolvenzzahlen für August an, in Göttingen setzt die Energieministerkonferenz von Bund und Ländern ihre Beratungen fort, um 11 Uhr folgt die zweite Veröffentlichung des Bruttoinlandsprodukts der Eurozone für das dritte Quartal. In Irland treffen sich die EU-Staats- und Regierungschefs zu einem informellen Treffen, in Antalya läuft die Klimakonferenz COP31 weiter, und die Bereinigungssitzung des Haushaltsausschusses dürfte in den Morgen reichen (dpa-AFX, 12.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "dpa-AFX (ariva.de), Die Nacht der Milliarden im Bundestag, 12.11.2026"
+    },
+    {
+     "titel": "dpa-AFX (ariva.de), Wut und Frust: Union gibt Stromsteuersenkung noch nicht auf, 12.11.2026"
+    },
+    {
+     "titel": "dpa (t-online), Wut und Frust: Union gibt Stromsteuersenkung noch nicht auf, 12.11.2026"
+    },
+    {
+     "titel": "Euronews, Abu Dhabi: Ukraine und Russland vereinbaren Gefangenenaustausch, 11.11.2026"
+    },
+    {
+     "titel": "h.ua, Witkoff und Kushner in Moskau, 12.11.2026"
+    },
+    {
+     "titel": "JKN (deutsche Ausgabe), US-Gesandte vermitteln Gefangenenaustausch, 12.11.2026"
+    },
+    {
+     "titel": "dpa-AFX, TAGESVORSCHAU: Termine am 13. November 2026, 12.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
