@@ -22,7 +22,44 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Bundestag beschließt Reform der Nachrichtendienste",
+    "Kabinett beschließt Elterngeld-Reform",
+    "Nachtrag: Kita-Tests und Cyberabwehr liegen beim Bundesrat"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Freitag, der 13. November.",
+    "Erstens: Nachrichtendienste. Der Bundestag hat die Reform der Nachrichtendienste beschlossen. In namentlicher Abstimmung gab es 308 Ja-Stimmen, 190 Nein-Stimmen und 71 Enthaltungen. CDU/CSU und SPD stimmten dafür, AfD und Linke dagegen, die Grünen enthielten sich. BND und Verfassungsschutz sollen operative Befugnisse erhalten, darunter Hackerangriffe zur Manipulation oder Löschung von Daten. Erweitert werden auch die Auswertung von Daten, unter anderem mit künstlicher Intelligenz, und unter bestimmten Voraussetzungen das heimliche Betreten von Wohnungen und Geschäftsräumen. Gewalt gegen Menschen bleibt den Diensten untersagt, ein unabhängiger Kontrollrat soll eingerichtet werden. Innenminister Dobrindt nennt das Vorhaben eine Jahrhundertreform, Anlass sind laut ZDFheute hybride Angriffe, unter anderem aus Russland. Die Linke-Politikerin Clara Bünger kritisiert die Reform als neue deutsche Geheimpolizei, Kritiker warnen vor Eingriffen in den Datenschutz. Unsere Einordnung: Je mehr Befugnisse die Dienste erhalten, desto wichtiger ist, dass der Kontrollrat unabhängig und wirksam arbeiten kann (Bundestag, 13.11.; ZDFheute, 13.11.).",
+    "Zweitens: Elterngeld. Das Bundeskabinett hat einen Gesetzentwurf zur Reform von Elterngeld und Mutterschutz beschlossen. Ziel ist, die Elterngeldmonate gleichmäßiger aufzuteilen: Nach Angaben des Statistischen Bundesamts beziehen Frauen im Schnitt 14,9 Monate, Männer 3,8 Monate. Das Basiselterngeld bleibt bei 14 Monaten, wenn beide Elternteile jeweils mindestens vier Monate nehmen. In den ersten vier Bezugsmonaten jedes Elternteils sollen 80 Prozent des Nettoverdienstes gezahlt werden, danach 50 Prozent, bisher sind es rund 65 Prozent. Der Mindestsatz steigt von 300 auf 320 Euro, der Höchstsatz von 1.800 auf 1.900 Euro. Die Änderungen sind für November 2027 vorgesehen, als Nächstes befasst sich der Bundestag. Schleswig-Holsteins Sozialministerin Aminata Touré von den Grünen kritisiert, die Erhöhungen deckten nicht einmal die Inflation seit Einführung des Elterngeldes ab (t-online nach dpa, 13.11.).",
+    "Drittens, ein Nachtrag zum Morning Briefing: Laut den Berichten vom 12. November muss der Bundesrat dem Kita-Gesetz und den neuen Cyberabwehr-Befugnissen noch zustimmen. Neuere Angaben dazu lagen uns heute nicht vor (ZDFheute und news.de nach dpa, 12.11.).",
+    "Morgen: Für Samstag verzeichnen die von uns gelesenen Terminvorschauen keine Termine. Am Montag, 16. November, entscheidet das Bundesverfassungsgericht um 10 Uhr über Klagen gegen das Sonderkündigungsrecht für Fernsehverträge, außerdem beginnt der ASEAN-Gipfel in Manila, und die UN-Klimakonferenz COP31 in Antalya läuft weiter (dpa-AFX, Wochenvorschau, 13.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Bundestag, 13.11.2026"
+    },
+    {
+     "titel": "ZDFheute, 13.11.2026"
+    },
+    {
+     "titel": "t-online nach dpa, 13.11.2026"
+    },
+    {
+     "titel": "ZDFheute, 12.11.2026"
+    },
+    {
+     "titel": "news.de nach dpa, 12.11.2026"
+    },
+    {
+     "titel": "dpa-AFX, Wochenvorschau, 13.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
