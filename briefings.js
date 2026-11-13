@@ -1,5 +1,132 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-13",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "IG Metall kündigt ganztägige Warnstreiks an",
+    "Bundestag beschließt bundesweite Entwicklungstests für Kita-Kinder",
+    "Bundestag beschließt neue Cyberabwehr-Befugnisse für Sicherheitsbehörden",
+    "Überschuldung: 7,36 Millionen Menschen betroffen"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Freitag, den 13. November.",
+    "Der Vorstand der IG Metall hat nach drei erfolglosen Verhandlungsrunden ganztägige Warnstreiks in hunderten Betrieben der Metall- und Elektroindustrie beschlossen. Die Gewerkschaft fordert fünf Prozent mehr Geld innerhalb eines Jahres für rund 3,7 Millionen Beschäftigte. Die Arbeitgeber bieten laut Bericht eine widerrufbare Einmalzahlung und 1,3 Prozent mehr bei deutlich längerer Laufzeit. Welche Betriebe wann bestreikt werden, ist offen. Ganztägige Warnstreiks hat die IG Metall bisher nur 2018 eingesetzt (ZDFheute, 12.11., nach dpa, Reuters, AFP).",
+    "Der Bundestag hat das Gesetz zur Förderung frühkindlicher Bildung beschlossen. Vierjährige Kita-Kinder sollen bundesweit nach einheitlichen Standards auf Sprache und Entwicklung getestet werden. Der Bund will die Länder bis 2034 mit rund neun Milliarden Euro unterstützen. Das Gesetz ist im Bundesrat zustimmungspflichtig, die Länder haben laut Bericht mit dem Vermittlungsausschuss gedroht (ZDFheute, 12.11., nach dpa und epd).",
+    "Der Bundestag hat mit den Stimmen von CDU/CSU und SPD neue Befugnisse zur aktiven Cyberabwehr beschlossen. AfD, Linke und Grüne stimmten dagegen. BSI, Bundespolizei und BKA sollen unter anderem den Betrieb gefährdender IT-Systeme untersagen und Datenverkehr umleiten können. Der Bundesrat muss noch zustimmen und hat Nachbesserungsbedarf angemeldet (news.de nach dpa, 12.11.).",
+    "Laut Creditreform-Schuldneratlas sind 7,36 Millionen Menschen ab 18 Jahren überschuldet, 293.000 mehr als im Vorjahr. Wegen einer neuen Berechnungsmethode sind die Werte nur eingeschränkt mit früheren vergleichbar (ZDFheute, 12.11., nach dpa und KNA).",
+    "Heute: Um 8:30 Uhr wird die Energieministerkonferenz von Bund und Ländern in Göttingen fortgesetzt. Um 8:00 Uhr werden in Deutschland unter anderem die Insolvenzzahlen für August und die Großhandelspreise gemeldet. In Irland treffen sich die EU-Staats- und Regierungschefs informell, in Antalya läuft die UN-Klimakonferenz COP31 (dpa-AFX, Tagesvorschau 13.11.).",
+    "Diese Woche: Am Montag, 16. November, entscheidet das Bundesverfassungsgericht über Klagen gegen das Sonderkündigungsrecht für Fernsehverträge. Am Dienstag kommen die ZEW-Konjunkturerwartungen. Am Donnerstag verhandelt der Bundesgerichtshof über Impfschäden nach einer Corona-Impfung und die Maklerprovision beim Mietervorkaufsrecht. Am Freitag, 20. November, findet der zweite EU-UK-Gipfel in Brüssel statt (dpa-AFX, Wochenvorschau, 12.11.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Freitag, 13. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Freitag, den 13. November. Gestern und zuletzt: Die IG Metall kündigt ganztägige Warnstreiks an, der Bundestag beschließt Entwicklungstests für Kita-Kinder und neue Cyberabwehr-Befugnisse, und laut Creditreform sind 7,36 Millionen Menschen überschuldet. Heute: Energieministerkonferenz in Göttingen, Insolvenzzahlen und Großhandelspreise. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Fr., 13. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Vier Dinge",
+      "punkte": [
+       {
+        "kopf": "IG Metall",
+        "text": "Ganztägige Warnstreiks in hunderten Betrieben beschlossen. Forderung: 5 Prozent, Angebot laut Bericht: 1,3 Prozent."
+       },
+       {
+        "kopf": "Kita-Gesetz",
+        "text": "Der Bundestag beschließt bundesweite Tests für Vierjährige. Bis 2034 rund 9 Milliarden Euro vom Bund."
+       },
+       {
+        "kopf": "Cyberabwehr",
+        "text": "Neue Befugnisse für BSI, Bundespolizei und BKA beschlossen. Der Bundesrat muss noch zustimmen."
+       },
+       {
+        "kopf": "Überschuldung",
+        "text": "Laut Creditreform 7,36 Millionen Betroffene, 293.000 mehr als im Vorjahr."
+       }
+      ],
+      "quelle": "ZDFheute, 12.11.2026; news.de nach dpa, 12.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, 8:30 Uhr",
+        "text": "Die Energieministerkonferenz von Bund und Ländern wird in Göttingen fortgesetzt."
+       },
+       {
+        "kopf": "Heute, 8:00 Uhr",
+        "text": "Deutschland meldet unter anderem Insolvenzen und Großhandelspreise."
+       },
+       {
+        "kopf": "Montag, 10 Uhr",
+        "text": "Das Bundesverfassungsgericht entscheidet über das Sonderkündigungsrecht für Fernsehverträge."
+       },
+       {
+        "kopf": "Donnerstag, BGH",
+        "text": "Verhandlungen über Impfschäden und die Maklerprovision beim Mietervorkaufsrecht."
+       }
+      ],
+      "quelle": "dpa-AFX, Tagesvorschau 13.11.2026 und Wochenvorschau"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "7,36 Mio.",
+      "text": "Menschen ab 18 Jahren gelten laut Creditreform-Schuldneratlas als überschuldet. Das sind 293.000 mehr als im Vorjahr.",
+      "quelle": "ZDFheute nach dpa und KNA, 12.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Fr., 13. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "IG Metall, Kita-Gesetz, Cyberabwehr und Überschuldung im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, 12.11.2026; news.de nach dpa, 12.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-12",
   "morgen": {
    "titel": "Morning Briefing",
