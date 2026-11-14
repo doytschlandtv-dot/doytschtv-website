@@ -20,7 +20,40 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Stromsteuer: Der Druck auf Kanzler Merz wächst",
+    "SPD: Klingbeil verteidigt Doppelrolle, Rot-Rot-Grün in Mecklenburg-Vorpommern",
+    "Ukraine: Selenskyj zu US-Vorschlag zum Donbass",
+    "AfD will Thomas Berthold als Bundespräsidenten-Kandidaten"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Samstag, 14. November.",
+    "Erstens: Stromsteuer. Mehrere Ministerpräsidenten und die CDU-Basis fordern Kanzler Friedrich Merz auf, die versprochene Senkung der Stromsteuer zügig durchzusetzen (ZDFheute, 14.11.). Hintergrund: Laut dpa-AFX konnten sich die Spitzen der Koalitionsfraktionen am Mittwoch nicht auf eine Gegenfinanzierung einigen. Für wichtige Industriebranchen ist die Steuer bereits gesenkt, Merz hatte die Senkung für alle Unternehmen und Haushalte versprochen. Die Ministerpräsidentenkonferenz hatte am 22. Oktober eine Senkung für alle gefordert. SPD-Finanzminister Lars Klingbeil bekommt Rückendeckung aus SPD-regierten Ländern, die eine seriöse Gegenfinanzierung verlangen. Ein Koalitionsausschuss ist für Dienstag angesetzt (dpa-AFX, 13.11.; ZDFheute, 14.11.).",
+    "Zweitens: SPD. Klingbeil hat seine Doppelrolle als Parteichef und Finanzminister gegen Kritik verteidigt. Anlass ist laut ZDFheute ein Bericht des Spiegel, wonach mehrere SPD-Arbeitsgemeinschaften eine erneute Kandidatur Klingbeils für den Parteivorsitz verhindern wollen (ZDFheute, 14.11.). In Mecklenburg-Vorpommern stimmte ein SPD-Sonderparteitag in Güstrow einstimmig dem Koalitionsvertrag für eine Regierung aus SPD, Linken und Grünen zu; die Unterzeichnung war für den Abend in Greifswald geplant (ZDFheute, 14.11.).",
+    "Drittens: Ukraine. Laut ZDFheute sagte Präsident Selenskyj, US-Unterhändler hätten nach der Verhandlungsrunde in Abu Dhabi einen Rückzug aus dem Donbass im Tausch gegen einen Nato-Beitritt angeregt. Das ist seine Darstellung. Kiew wolle keine Gebiete abtreten; bei einem Sicherheitspaket würde er die Frage in einem Referendum zur Abstimmung stellen. ZDF-Korrespondent Dara Hassanzadeh nannte den Vorschlag ein reines Gedankenspiel (ZDFheute, 14.11.).",
+    "Viertens: Bundespräsidentenwahl. Die AfD will den Fußball-Weltmeister von 1990, Thomas Berthold, ins Rennen schicken. Bekannt gegeben hat das Parteichef Tino Chrupalla auf X. Die Bundesversammlung wählt am 30. Januar 2027 (ZDFheute, 14.11.).",
+    "Morgen: Auf den Philippinen findet laut dpa-AFX-Tagesvorschau der Asean-Gipfel statt. Am Montag verkündet das Bundesverfassungsgericht um 10 Uhr sein Urteil zu Bezugsverträgen für Telekommunikationsdienste, um 11 Uhr folgen Zahlen zur Industrieproduktion im Euroraum, am Dienstag der Koalitionsausschuss (dpa-AFX/Dow Jones, 13.11.; BVerfG, 7.10.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute Newsticker, 14.11.2026"
+    },
+    {
+     "titel": "ZDFheute heute 19:00 Uhr, 14.11.2026"
+    },
+    {
+     "titel": "dpa-AFX (BörsenNEWS), 13.11.2026"
+    },
+    {
+     "titel": "dpa-AFX/Dow Jones Tagesvorschau, 13.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
