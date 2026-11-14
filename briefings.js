@@ -1,5 +1,130 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-14",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Bundestag beschließt Geheimdienstreform",
+    "308 Ja, 190 Nein, 71 Enthaltungen",
+    "Montag: Urteil des Bundesverfassungsgerichts zu TV-Verträgen"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Samstag, den 14. November.",
+    "Gestern: Der Bundestag hat die Reform des Nachrichtendienstrechts beschlossen. Laut dpa erhalten der Bundesnachrichtendienst und das Bundesamt für Verfassungsschutz erweiterte Befugnisse, vor allem bei der Telekommunikationsüberwachung und beim Abgleich biometrischer Daten. In bestimmten Fällen sollen sie künftig auch operativ tätig sein dürfen. Festnahmen und offene Durchsuchungen bleiben der Polizei vorbehalten (t-online/dpa, 13.11.).",
+    "Ein Unabhängiger Kontrollrat, überwiegend mit ehemaligen Richterinnen und Richtern besetzt, soll bestimmte Maßnahmen vorab auf ihre Rechtmäßigkeit prüfen, zum Beispiel das heimliche Betreten einer Wohnung. Innenminister Alexander Dobrindt (CSU) verteidigte die Reform im Bundestag gegen den Vorwurf der Opposition, es entstehe eine Geheimpolizei (t-online/dpa, 13.11.).",
+    "Die namentliche Abstimmung ergab laut Bundestag 308 Ja-Stimmen, 190 Nein-Stimmen und 71 Enthaltungen. CDU/CSU und SPD stimmten dafür, AfD und Linke dagegen, die Grünen enthielten sich (Deutscher Bundestag, 13.11.).",
+    "Heute: Die dpa-AFX-Vorschau nennt für Samstag keine Termine.",
+    "Diese Woche: Am Montag um 10 Uhr verkündet das Bundesverfassungsgericht sein Urteil zu Bezugsverträgen für Telekommunikationsdienste; es geht um Klagen gegen das Sonderkündigungsrecht für Fernsehverträge (BVerfG, Pressemitteilung vom 7.10.; dpa-AFX, Wochenvorschau vom 13.11.). Am Dienstag um 11 Uhr folgen die ZEW-Konjunkturerwartungen, am Donnerstag um 10 Uhr verhandelt der Bundesgerichtshof zu Impfschäden nach Corona-Schutzimpfungen und zu Amtshaftungsansprüchen (dpa-AFX, Wochenvorschau vom 13.11.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Samstag, 14. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Samstag, den 14. November. Gestern: Der Bundestag hat die Geheimdienstreform beschlossen. BND und Verfassungsschutz bekommen mehr Befugnisse, ein Unabhängiger Kontrollrat soll bestimmte Maßnahmen vorab prüfen. Die Abstimmung: 308 Ja, 190 Nein, 71 Enthaltungen. Diese Woche: Am Montag verkündet das Bundesverfassungsgericht sein Urteil zu TV-Verträgen. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · Sa., 14. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Die Geheimdienstreform",
+      "punkte": [
+       {
+        "kopf": "Befugnisse",
+        "text": "BND und Verfassungsschutz bekommen mehr Befugnisse, etwa bei Telekommunikationsüberwachung. Festnahmen bleiben bei der Polizei."
+       },
+       {
+        "kopf": "Kontrolle",
+        "text": "Ein Unabhängiger Kontrollrat prüft bestimmte Maßnahmen vorab, zum Beispiel das heimliche Betreten einer Wohnung."
+       },
+       {
+        "kopf": "Streit",
+        "text": "Dobrindt sagt, die Reform schütze die Demokratie. Die Opposition warnt vor einer Geheimpolizei."
+       },
+       {
+        "kopf": "Abstimmung",
+        "text": "Union und SPD dafür, AfD und Linke dagegen, die Grünen enthielten sich."
+       }
+      ],
+      "quelle": "t-online (dpa), 13.11.2026; Deutscher Bundestag, 13.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, Samstag",
+        "text": "Die dpa-AFX-Vorschau nennt keine Termine."
+       },
+       {
+        "kopf": "Montag, 10 Uhr",
+        "text": "Das Bundesverfassungsgericht verkündet sein Urteil zu Bezugsverträgen für Telekommunikationsdienste."
+       },
+       {
+        "kopf": "Dienstag, 11 Uhr",
+        "text": "ZEW-Konjunkturerwartungen für November."
+       },
+       {
+        "kopf": "Donnerstag, 10 Uhr",
+        "text": "Der BGH verhandelt zu Impfschäden nach Corona-Schutzimpfung."
+       }
+      ],
+      "quelle": "dpa-AFX, Wochenvorschau 13.11.2026; BVerfG, 7.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "308 Ja",
+      "text": "bei der namentlichen Abstimmung zur Geheimdienstreform, dazu 190 Nein-Stimmen und 71 Enthaltungen.",
+      "quelle": "Deutscher Bundestag, 13.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · Sa., 14. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Geheimdienstreform und BVerfG-Urteil am Montag im Karussell. Link in der Bio.",
+    "quelle": "t-online (dpa), 13.11.2026; Bundestag, 13.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-13",
   "morgen": {
    "titel": "Morning Briefing",

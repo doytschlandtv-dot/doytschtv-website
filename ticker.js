@@ -2,25 +2,19 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-13T21:40:00+01:00",
+ "stand": "2026-11-14T06:10:00+01:00",
  "items": [
   {
-   "z": "2026-11-12T23:32:00+01:00",
-   "t": "Der Bundestag hat laut dpa die ärztliche Zwangsbehandlung für Menschen mit Betreuer ausgeweitet; sie muss nicht mehr zwingend im Krankenhaus stattfinden",
-   "q": "t-online (dpa)",
-   "u": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101526734/bundestag-beschliesst-zwangsbehandlung-wird-ausgeweitet.html"
+   "z": "2026-11-13T12:31:00+01:00",
+   "t": "Der Bundestag hat die Geheimdienstreform namentlich mit 308 Ja-, 190 Nein-Stimmen und 71 Enthaltungen beschlossen; CDU/CSU und SPD stimmten dafür, AfD und Linke dagegen, die Grünen enthielten sich",
+   "q": "Deutscher Bundestag",
+   "u": "https://bundestag.de/dokumente/textarchiv/2026/kw46-de-nachrichtendienste-1231530"
   },
   {
-   "z": "2026-11-13T13:18:00+01:00",
-   "t": "Der Bundestag hat laut ZDFheute die Reform der Nachrichtendienste beschlossen; BND und Verfassungsschutz sollen operative Befugnisse erhalten, ein unabhängiger Kontrollrat soll eingerichtet werden",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/deutschland/nachrichtendienst-reform-bundestag-bnd-gesetz-100.html"
-  },
-  {
-   "z": "2026-11-13T15:58:00+01:00",
-   "t": "Das Bundeskabinett hat laut dpa einen Gesetzentwurf zur Elterngeld-Reform beschlossen; der Mindestsatz soll von 300 auf 320 Euro steigen",
+   "z": "2026-11-13T12:54:00+01:00",
+   "t": "Laut dpa erhalten BND und Verfassungsschutz mehr Befugnisse, ein Unabhängiger Kontrollrat soll bestimmte Maßnahmen vorab prüfen; Festnahmen bleiben der Polizei vorbehalten",
    "q": "t-online (dpa)",
-   "u": "https://www.t-online.de/nachrichten/deutschland/id_101528212/kabinett-einigt-sich-auf-elterngeldreform.html"
+   "u": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101527584/geheimdienstreform-bundestag-weitet-befugnisse-von-bnd-und-bfv-aus.html"
   }
  ]
 };
