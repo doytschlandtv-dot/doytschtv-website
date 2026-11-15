@@ -134,6 +134,43 @@ window.BRIEFINGS = [
       "quelle": "dpa-AFX, 14.11.2026"
      },
      {
+      "typ": "ausloeser",
+      "label": "So wird der Deckel ausgelöst",
+      "titel": "Drei Wochen in Folge zu viel.",
+      "faelle": [
+       {
+        "titel": "Fall 1: Sprit steigt hier stärker",
+        "eu": [
+         2,
+         2,
+         2
+        ],
+        "de": [
+         8,
+         8,
+         8
+        ],
+        "greift": true
+       },
+       {
+        "titel": "Fall 2: Sprit steigt überall gleich",
+        "eu": [
+         8,
+         8,
+         8
+        ],
+        "de": [
+         8,
+         8,
+         8
+        ],
+        "greift": false
+       }
+      ],
+      "text": "Gestrichelt: Schwelle (EU + 5 Punkte). Rechenbeispiel.",
+      "quelle": "Entwurf laut dpa-AFX, 14.11.2026 und ZDFheute, 2.11.2026; Zahlen: Beispiel"
+     },
+     {
       "typ": "zahl",
       "label": "Die Zahl",
       "zahl": "Kein Mal",

@@ -266,6 +266,41 @@
       }
       ctx.font = "700 30px " + SANS; ctx.fillStyle = mu; ctx.fillText("MEINUNG, KEINE NACHRICHT", x, H - 110);
       counter();
+    } else if (s.typ === "ausloeser") {
+      lab(ctx, s.label || "So funktioniert es", x, y, ac);
+      var yA = head(ctx, s.titel, IS, 400, x, y + 80, mw, 200, 104, 70, 1.04, fg, null, ac, 0.004);
+      ctx.font = "400 30px " + SANS; ctx.fillStyle = mu;
+      ctx.fillText("Preisanstieg pro Woche.  Grau: EU-Schnitt.  Rot: Deutschland.", x, yA + 24);
+      var fy0 = yA + 84, ph = 330, gap = 28, SC = 14;
+      (s.faelle || []).forEach(function (fa, fi) {
+        var py = fy0 + fi * (ph + gap);
+        ctx.fillStyle = T.soft; rr(ctx, x, py, mw, ph, 18); ctx.fill();
+        ctx.font = "700 36px " + SANS; ctx.fillStyle = fg; ctx.textBaseline = "top";
+        ctx.fillText(fa.titel, x + 28, py + 24);
+        var bt = fa.greift ? "Deckel greift" : "Deckel greift nicht", bw;
+        ctx.font = "700 30px " + SANS; bw = ctx.measureText(bt).width + 44;
+        ctx.fillStyle = fa.greift ? ac : fg; rr(ctx, x + mw - bw - 24, py + 20, bw, 52, 12); ctx.fill();
+        ctx.fillStyle = "#ffffff"; ctx.fillText(bt, x + mw - bw - 24 + 22, py + 30);
+        var base = py + ph - 54;
+        for (var wk = 0; wk < 3; wk++) {
+          var gx = x + 34 + wk * 310, eu = fa.eu[wk], de = fa.de[wk];
+          var he = eu * SC, hd = de * SC, th = (eu + 5) * SC;
+          ctx.fillStyle = "#b9b4a6"; ctx.fillRect(gx + 14, base - he, 96, he);
+          ctx.fillStyle = ac; ctx.fillRect(gx + 130, base - hd, 96, hd);
+          ctx.font = "700 28px " + SANS; ctx.textAlign = "center";
+          ctx.fillStyle = mu; ctx.fillText("+" + eu + " %", gx + 62, base - he - 36);
+          ctx.fillStyle = fg; ctx.fillText("+" + de + " %", gx + 178, base - hd - 36);
+          ctx.setLineDash([10, 8]); ctx.lineWidth = 3; ctx.strokeStyle = fg;
+          ctx.beginPath(); ctx.moveTo(gx + 4, base - th); ctx.lineTo(gx + 236, base - th); ctx.stroke();
+          ctx.setLineDash([]);
+          ctx.font = "400 26px " + SANS; ctx.fillStyle = mu; ctx.fillText("Woche " + (wk + 1), gx + 120, base + 12);
+          ctx.textAlign = "left";
+        }
+      });
+      var yEnd = fy0 + (s.faelle || []).length * (ph + gap) - gap;
+      ctx.font = "400 26px " + SANS; ctx.fillStyle = mu; ctx.textBaseline = "top";
+      ctx.fillText(s.text || "", x, yEnd + 22);
+      foot(s.quelle);
     } else if (s.typ === "cta") {
       lab(ctx, "Deine Meinung", x, y, ac);
       var yq = head(ctx, s.frage || "Was denkst du?", IS, 400, x, y + 80, mw, 520, 180, 90, 1.05, fg, null, ac, 0.025);
