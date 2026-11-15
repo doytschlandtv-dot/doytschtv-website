@@ -44,6 +44,12 @@ html,body{width:1080px;height:1920px;overflow:hidden;background:#f8f7f2}
 .big2{position:absolute;left:90px;right:90px;border-radius:40px;padding:56px 56px;background:#fff;box-shadow:0 30px 80px rgba(0,0,0,.16);font:600 62px/1.2 Inter}
 .tab{position:absolute;left:110px;right:70px;height:130px;border-radius:26px;background:#fff;border:4px solid #0a0a0a;display:flex;align-items:center;gap:30px;padding:0 38px;font:700 48px/1.1 Inter}
 .tab u{text-decoration:none;font:700 54px "Bodoni Moda",serif;color:#b2231c;width:60px}
+.fd{position:absolute;will-change:transform,opacity}
+.mono{font-family:"Liberation Mono","DejaVu Sans Mono",monospace}
+.fold .tab{position:absolute;left:0;top:0;width:330px;height:72px;border-radius:22px 22px 0 0;background:#c2ab76;font:700 30px/1 "Liberation Mono",monospace;padding:22px 28px;color:#3a3220;letter-spacing:.06em}
+.fold .body{position:absolute;left:0;top:60px;right:0;bottom:0;background:linear-gradient(#d9c796,#c4ad78);border-radius:0 26px 26px 26px;box-shadow:0 50px 110px rgba(0,0,0,.7)}
+.fold .sheet{position:absolute;left:34px;right:34px;top:96px;bottom:44px;background:#efe9d8;border-radius:10px;padding:48px 54px;transform:rotate(-.7deg);color:#1a1814;box-shadow:0 6px 18px rgba(0,0,0,.25)}
+.paper{background:#efe9d8;color:#1a1814;border-radius:12px;box-shadow:0 40px 100px rgba(0,0,0,.7)}
 </style></head><body><div id="st"></div>
 <script>
 const MODE=new URLSearchParams(location.search).get("m");
@@ -407,6 +413,157 @@ if(MODE==="inv"){
   const k1=eo(seg(t,58.9,60.3));$("#b1").style.width=(50*k1)+"%";
   const k2=eo(seg(t,61.5,63));$("#b2").style.width=(100-20*k2)+"%";$("#b2t").textContent="−"+Math.round(20*k2)+" %";
   end.style.opacity=eo(seg(t,TE+.2,TE+.8));
+ };
+}
+
+if(MODE==="film"){
+ document.body.style.background="#070708";ST.style.background="#070708";
+ const RED="#d6322a",WH="#f3efe4",TE=95;
+ const cam=E(`<div class="abs" style="inset:0"></div>`);
+ const vig=E(`<div class="abs" style="inset:0;background:radial-gradient(ellipse at center,rgba(0,0,0,0) 45%,rgba(0,0,0,.65) 100%);pointer-events:none;z-index:50"></div>`);
+ const gr=E(`<canvas id="gr" width="270" height="480" class="abs" style="inset:0;width:1080px;height:1920px;mix-blend-mode:overlay;opacity:.55;z-index:51"></canvas>`);
+ const flash=E(`<div class="abs" style="inset:0;background:#fff;opacity:0;z-index:52"></div>`);
+ const fade=E(`<div class="abs" style="inset:0;background:#000;opacity:0;z-index:53"></div>`);
+ const gctx=gr.getContext("2d"),gimg=gctx.createImageData(270,480);
+ const U=[],SL=[];
+ const P=(h,css="")=>{const d=document.createElement("div");d.className="fd";d.style.cssText="opacity:0;"+css;d.innerHTML=h;cam.appendChild(d);return d};
+ const vis=(el,t,a,b,fi=.35,fo=.35)=>{el.style.opacity=Math.min(eo(seg(t,a,a+fi)),1-seg(t,b-fo,b))};
+ const typ=(el,s,t,a,cps=26)=>{const n=Math.floor(cl((t-a)*cps,0,s.length));el.textContent=s.slice(0,n)+(n>0&&n<s.length?"▌":"")};
+ const slam=t0=>SL.push(t0);
+ const SH="/*shot*/";
+ const shot=(a,b,fx,fy,s0,s1,dim=.55)=>{
+  const w=E(`<div class="abs" style="inset:0;overflow:hidden;opacity:0"><img src="../../foto-regierungsviertel-koreng.jpg" style="position:absolute;height:1920px;width:2880px;left:${540-fx*2880}px;top:0;transform-origin:${fx*2880}px ${fy*1920}px;filter:brightness(${dim}) contrast(1.12) saturate(.85)"><div class="abs" style="inset:0;background:linear-gradient(180deg,rgba(0,0,0,.55),rgba(0,0,0,.1) 40%,rgba(0,0,0,.75))"></div></div>`);
+  cam.insertBefore(w,cam.firstChild);const im=w.firstElementChild;
+  U.push(t=>{if(t<a-.1||t>b+.1){w.style.opacity=0;return}const k=eio(seg(t,a,b));const s=s0+(s1-s0)*k;im.style.transform=`scale(${s}) translateX(${(s1>s0?-1:1)*k*20}px)`;w.style.opacity=Math.min(seg(t,a,a+.5),1-seg(t,b-.4,b+.05))});};
+ // ---------- Szene 1: Kaltstart
+ {const a=0,b=9.6;
+  shot(a,b+.3,.33,.5,1.0,1.38,.75);
+  const p1=P(`<div class="serif" style="font:600 68px/1.15 'Bodoni Moda',serif;color:${WH}"></div>`,"left:80px;right:80px;top:1010px");
+  const p2=P(`<div class="serif" style="font:600 68px/1.15 'Bodoni Moda',serif;color:${WH}"></div>`,"left:80px;right:80px;top:1160px");
+  const p3=P(`<div style="font:800 46px/1.2 Inter;letter-spacing:.06em;text-transform:uppercase;color:${RED}"></div>`,"left:80px;right:80px;top:1470px");
+  const s1="208 Abgeordnete der Union.",s2="Sie entscheiden über deine Steuern, deine Rente, dein Geld.",s3="Und was verdienen sie nebenbei?";
+  U.push(t=>{if(t>b+.2){[p1,p2,p3].forEach(p=>p.style.opacity=0);return}
+   p1.style.opacity=1;p2.style.opacity=1;p3.style.opacity=1;
+   typ(p1.firstChild,s1,t,1.6,24);typ(p2.firstChild,s2,t,3.4,26);typ(p3.firstChild,s3,t,6.6,22);
+   const o=1-seg(t,b-.5,b);[p1,p2,p3].forEach(p=>p.style.opacity=o)});
+  U.push(t=>{fade.style.opacity=Math.max(1-seg(t,0,1.5),seg(t,TE-1.2,TE-.4)*(t<TE?1:0))});}
+ // Titelkarte
+ {const a=9.6,b=13;
+  shot(a,b+.3,.39,.36,1.9,2.3,.6);
+  const k=P(`<div class="kick" style="color:${RED}">Dossier · Die Abgeordneten</div>`,"left:80px;top:760px");
+  const h1=P(`<div class="serif" style="font:700 196px/.95 'Bodoni Moda',serif;white-space:nowrap;color:${WH};letter-spacing:-.02em">DIE AKTE</div>`,"left:70px;top:860px");
+  const h2=P(`<div class="serif" style="font:700 196px/.95 'Bodoni Moda',serif;white-space:nowrap;color:${RED};letter-spacing:-.02em">UNION</div>`,"left:70px;top:1075px");
+  const ln=P(`<div style="height:8px;background:${RED}"></div>`,"left:80px;top:1330px;width:0");
+  slam(a+.5);
+  U.push(t=>{vis(k,t,a+.1,b);vis(h1,t,a+.4,b);vis(h2,t,a+1.0,b);ln.style.opacity=1-seg(t,b-.3,b);ln.style.width=(900*eo(seg(t,a+1.4,a+2.4)))+"px";if(t<a||t>b){ln.style.opacity=0}});}
+ // ---------- Szene 2: 11.833
+ {const a=13,b=20.5;
+  shot(a,b,.65,.85,1.2,1.5,.35);
+  const n=P(`<div class="serif" style="font:700 232px/1 'Bodoni Moda',serif;color:${WH};white-space:nowrap;letter-spacing:-.02em"></div>`,"left:70px;top:520px");
+  const l1=P(`<div class="mono" style="font:700 46px/1.2 'Liberation Mono',monospace;color:${RED};letter-spacing:.08em"></div>`,"left:80px;top:830px");
+  const l2=P(`<div style="font:600 54px/1.25 Inter;color:${WH}">Dazu dürfen Abgeordnete unbegrenzt hinzuverdienen. Gemeldet werden muss es, erlaubt ist es.</div>`,"left:80px;right:80px;top:1000px");
+  const nt=P(`<div style="font:500 32px/1.3 Inter;color:#9a978c">Quelle: abgeordnetenwatch und SPIEGEL, 22.6.2026</div>`,"left:80px;right:80px;top:1600px");
+  slam(a+1.9);
+  U.push(t=>{if(t<a||t>b){[n,l1,l2,nt].forEach(e=>e.style.opacity=0);return}
+   const o=1-seg(t,b-.4,b);n.style.opacity=Math.min(seg(t,a+.2,a+.5),o);
+   const v=Math.round(11833*eo(seg(t,a+.4,a+1.9)));n.firstChild.textContent=v.toLocaleString("de-DE")+" €";
+   l1.style.opacity=o;typ(l1.firstChild,"DIÄTEN. PRO MONAT.",t,a+2.6,24);
+   l2.style.opacity=Math.min(eo(seg(t,a+3.8,a+4.4)),o);nt.style.opacity=Math.min(seg(t,a+4.2,a+4.8),o)});}
+ // ---------- Szene 3: drei Zahlen
+ {const a0=20.5,d=2.8;
+  [["208","Sitze von 630 hat die Union.",.31,.45],["50 %","der Unionsabgeordneten melden bezahlte Nebentätigkeiten.",.88,.6],["7,9 Mio. €","Großspenden an CDU und CSU im Wahljahr 2025.",.5,.5]].forEach(([v,lb,fx,fy],i)=>{
+   const a=a0+i*d,b=a+d;shot(a,b,fx,fy,1.4,1.65,.4);
+   const n=P(`<div class="serif" style="font:700 270px/1 'Bodoni Moda',serif;color:${WH};white-space:nowrap;letter-spacing:-.02em"></div>`,"left:70px;top:620px");
+   const l=P(`<div style="font:700 56px/1.2 Inter;color:${WH}"></div>`,"left:80px;right:80px;top:960px");
+   const bar=P(`<div style="height:8px;background:${RED}"></div>`,"left:80px;top:925px;width:0");
+   slam(a+.75);
+   U.push(t=>{if(t<a||t>b){[n,l,bar].forEach(e=>e.style.opacity=0);return}
+    const o=1-seg(t,b-.3,b);n.style.opacity=Math.min(seg(t,a+.05,a+.2),o);
+    const k=eo(seg(t,a+.1,a+.75));
+    n.firstChild.textContent=v==="208"?Math.round(208*k):v==="50 %"?Math.round(50*k)+" %":(Math.round(79*k)/10).toLocaleString("de-DE",{minimumFractionDigits:1})+" Mio. €";
+    bar.style.opacity=o;bar.style.width=(300*eo(seg(t,a+.8,a+1.3)))+"px";
+    l.style.opacity=o;typ(l.firstChild,lb,t,a+.9,40)});});}
+ // ---------- Szene 4: fünf Akten
+ const akten=[
+  ["Alexander Engelhard","CSU · Agrarausschuss","1,5 Mio. €","Einkünfte aus der eigenen Getreidemühle seit Beginn der Wahlperiode. Zu einem möglichen Interessenkonflikt äußerte er sich nicht.","NEBENEINKÜNFTE",.38,.38],
+  ["Fritz Güntzler","CDU","425.000 €","vor allem Gewinnbeteiligungen an zwei Steuerberatungskanzleien. Platz 4 aller Abgeordneten.","PLATZ 4",.87,.6],
+  ["Christian von Stetten","CDU","16","direkte und indirekte Beteiligungen an Firmen aus Bau, Immobilien und Energie.","BETEILIGUNGEN",.95,.5],
+  ["Lars Rohwer","CDU · Ausschuss für Wirtschaft und Energie","LEAG","Vergütung als Aufsichtsrat des Kohlekonzerns. Der Ausschuss befasste sich mit den Entschädigungen für den Kohleausstieg.","MÖGLICHE NÄHE",.31,.45],
+  ["Julia Klöckner","CDU · Bundestagspräsidentin","1 Jahr","lang nicht gemeldet: Beraterkreis eines Lobbyclubs, laut ihr unentgeltlich. Folgen hatte es nicht.","VERSPÄTET GEMELDET",.65,.85]];
+ {const a0=33.1,d=4.9,tot=akten.length*d;
+  const kk=P(`<div class="kick" style="color:${RED}">Fünf Akten</div>`,"left:80px;top:210px");
+  U.push(t=>vis(kk,t,a0,a0+tot));
+  const note=P(`<div style="font:500 32px/1.3 Inter;color:#9a978c">Alles gemeldet und erlaubt. Quellen: abgeordnetenwatch, Tagesspiegel, Stand 15.11.2026</div>`,"left:80px;right:80px;top:1640px");
+  U.push(t=>vis(note,t,a0+.5,a0+tot));
+  akten.forEach((k,i)=>{const a=a0+i*d,b=a+d;shot(a,b,k[5],k[6],1.5,1.75,.3);
+   const f=P(`<div class="fold" style="position:absolute;inset:0"><div class="tab">AKTE ${i+1}/5</div><div class="body"><div class="sheet"><div class="serif nm" style="font:700 70px/1.05 'Bodoni Moda',serif"></div><div class="sb" style="font:600 34px/1.2 Inter;color:#5e5b53;margin-top:12px"></div><div style="border-top:3px dashed #b9b19b;margin:30px 0"></div><div class="serif fg" style="font:700 ${k[2].length>8?126:k[2].length>6?150:190}px/1.05 'Bodoni Moda',serif;color:#b2231c;opacity:0;white-space:nowrap">${k[2]}</div><div class="tx mono" style="font:500 38px/1.35 'Liberation Mono',monospace;margin-top:20px"></div></div></div></div>`,"left:80px;width:920px;top:300px;height:1200px");
+   const st=P(`<div class="stamp" style="right:70px;top:1330px;font-size:40px;background:transparent;opacity:0">${k[4]}</div>`);
+   const nm=f.querySelector(".nm"),sb=f.querySelector(".sb"),fg=f.querySelector(".fg"),tx=f.querySelector(".tx");
+   slam(a+1.9);slam(a+3.2);
+   U.push(t=>{if(t<a-.05||t>b){f.style.opacity=0;st.style.opacity=0;return}
+    const k1=eo(seg(t,a,a+.6)),k2=seg(t,b-.4,b);f.style.opacity=1;
+    f.style.transform=`translateY(${(1-k1)*1100+k2*-900}px) rotate(${(1-k1)*5}deg)`;
+    typ(nm,k[0],t,a+.6,30);sb.textContent=t>a+1.3?k[1]:"";
+    fg.style.opacity=t>a+1.9?1:0;fg.style.transform=`scale(${t>a+1.9?1+.35*Math.exp(-(t-a-1.9)*14):1})`;fg.style.transformOrigin="left center";
+    typ(tx,k[3],t,a+2.2,48);
+    const sk=seg(t,a+3.2,a+3.45);st.style.opacity=(sk>0&&t<b-.4)?1:0;st.style.transform=`rotate(-6deg) scale(${1+1.6*(1-eo(sk))})`;});});}
+ // ---------- Szene 5: Kontrolle
+ {const a=57.6,b=65.6;
+  shot(a,b,.9,.5,1.5,1.7,.25);
+  const kk=P(`<div class="kick" style="color:${RED}">Wer kontrolliert das?</div>`,"left:80px;top:210px");
+  const doc=P(`<div class="mono" style="font:500 42px/1.4 'Liberation Mono',monospace;padding:60px 56px;min-height:900px"><div class="l1"></div><div class="l2" style="margin-top:38px"></div><div class="l3" style="margin-top:38px"></div><div class="l4" style="margin-top:38px"></div></div>`,"left:80px;width:920px;top:380px");
+  doc.classList.add("paper");
+  const ring=P(`<svg width="260" height="120" viewBox="0 0 260 120"><ellipse cx="130" cy="60" rx="118" ry="44" fill="none" stroke="#b2231c" stroke-width="7" stroke-dasharray="600" stroke-dashoffset="600" id="rg"/></svg>`,"left:674px;top:507px");
+  const st=P(`<div class="stamp" style="left:210px;top:1040px;font-size:56px;background:transparent;opacity:0;border-color:#b2231c">NUR ERMAHNUNG</div>`);
+  slam(a+5.2);
+  const L=["VERMERK, STAND 15.11.2026","VERSTÖSSE 2021 BIS 2025: 261","FOLGE: jeweils eine interne Ermahnung.","ZUSTÄNDIG: die Bundestagspräsidentin, selbst Abgeordnete."];
+  const T0=[.6,1.7,3.4,5.0];
+  U.push(t=>{if(t<a||t>b){[kk,doc,ring,st].forEach(e=>e.style.opacity=0);return}
+   const o=1-seg(t,b-.4,b);kk.style.opacity=o;const k1=eo(seg(t,a,a+.5));doc.style.opacity=Math.min(k1,o);doc.style.transform=`translateY(${(1-k1)*80}px)`;
+   L.forEach((s,i)=>typ(doc.querySelector(".l"+(i+1)),s,t,a+T0[i],44));
+   ring.style.opacity=o;document.getElementById("rg").style.strokeDashoffset=600*(1-eo(seg(t,a+3.0,a+3.6)));
+   const sk=seg(t,a+5.2,a+5.45);st.style.opacity=(sk>0)?o:0;st.style.transform=`rotate(-5deg) scale(${1+1.6*(1-eo(sk))})`;});}
+ // ---------- Szene 6: Gegenseite
+ {const a=65.6,b=71.8;
+  shot(a,b,.31,.42,1.9,2.1,.7);
+  const kk=P(`<div class="kick" style="color:${RED}">Die andere Seite</div>`,"left:80px;top:210px");
+  const w=["Legal.","Gemeldet.","Öffentlich."].map((s,i)=>P(`<div class="serif" style="font:700 170px/1 'Bodoni Moda',serif;color:${WH}">${s}</div>`,`left:80px;top:${520+i*210}px`));
+  const tx=P(`<div style="font:600 46px/1.3 Inter;color:${WH}">Ein generelles Verbot von Nebentätigkeiten wäre grundgesetzwidrig, sagte Armin Laschet 2021.</div>`,"left:80px;right:80px;top:1250px");
+  const nt=P(`<div style="font:500 32px/1.3 Inter;color:#9a978c">Quelle: t-online, 9.3.2021</div>`,"left:80px;top:1600px");
+  U.push(t=>{vis(kk,t,a,b);w.forEach((e,i)=>{vis(e,t,a+.4+i*.8,b,.15);e.style.transform=`translateX(${(1-eo(seg(t,a+.4+i*.8,a+.9+i*.8)))*-60}px)`});vis(tx,t,a+3.2,b);vis(nt,t,a+3.6,b)});}
+ // ---------- Szene 7: Land dahinter
+ {const a=71.8,b=79.6;
+  shot(a,b,.5,.85,1.3,1.5,.3);
+  const kk=P(`<div class="kick" style="color:${RED}">Das Land dahinter</div>`,"left:80px;top:210px");
+  const blk=P(`<div><div class="mono" style="font:700 36px/1.2 'Liberation Mono',monospace;letter-spacing:.08em;color:#b9b6aa">REICHSTE 10 PROZENT</div><div style="height:64px;border-radius:32px;background:rgba(255,255,255,.14);margin:18px 0 14px;overflow:hidden"><div id="f1" style="height:100%;width:0;background:${RED}"></div></div><div style="font:600 54px/1.2 Inter;color:${WH}">besitzen <b>mehr als die Hälfte</b> des Vermögens.</div><div class="mono" style="font:700 36px/1.2 'Liberation Mono',monospace;letter-spacing:.08em;color:#b9b6aa;margin-top:110px">UNTERE HÄLFTE, NETTOVERMÖGEN</div><div style="height:64px;border-radius:32px;background:rgba(255,255,255,.14);margin:18px 0 14px;overflow:hidden"><div id="f2" style="height:100%;width:100%;background:${WH}"></div></div><div class="serif" id="f2t" style="font:700 200px/1 'Bodoni Moda',serif;color:${RED}"></div><div style="font:600 46px/1.2 Inter;color:${WH};margin-top:8px">von 2021 bis 2023, preisbereinigt.</div></div>`,"left:80px;right:80px;top:420px");
+  const nt=P(`<div style="font:500 32px/1.3 Inter;color:#9a978c">Quellen: Bundesbank (Haushaltsbefragung 2023), Armuts- und Reichtumsbericht der Bundesregierung</div>`,"left:80px;right:80px;top:1640px");
+  slam(a+5.2);
+  U.push(t=>{vis(kk,t,a,b);vis(blk,t,a+.4,b);vis(nt,t,a+1,b);
+   document.getElementById("f1").style.width=(50*eo(seg(t,a+1.2,a+2.6)))+"%";
+   const k=eo(seg(t,a+4.0,a+5.2));document.getElementById("f2").style.width=(100-20*k)+"%";document.getElementById("f2t").textContent=t>a+3.9?"−"+Math.round(20*k)+" %":"";});}
+ // ---------- Szene 8: Abstimmungen
+ {const a=79.6,b=90.4;
+  shot(a,b,.31,.45,1.3,1.1,.3);
+  const kk=P(`<div class="kick" style="color:${RED}">Was der Bundestag entschied</div>`,"left:80px;top:210px");
+  const rows=[["19.12.2025","Linke-Antrag: Erbschaftsteuer-Privilegien streichen. Abgelehnt, 47 zu 507 Stimmen.",.6],["19.12.2025","Grünen-Antrag zu Erbschaft und Immobilien. Dagegen: CDU/CSU, AfD und SPD.",2.5],["7.10.2026","Antrag auf Wiedererhebung der Vermögensteuer. Der Finanzausschuss empfiehlt Ablehnung.",4.4]].map((r,i)=>[P(`<div class="mono" style="font:700 36px/1 'Liberation Mono',monospace;color:${RED}">${r[0]}</div><div class="tq" style="font:600 46px/1.25 Inter;color:${WH};margin-top:14px"></div>`,`left:80px;right:80px;top:${380+i*300}px`),r[1],r[2]]);
+  const fin=P(`<div style="border-left:8px solid ${RED};padding-left:30px;font:700 54px/1.25 Inter;color:${WH}">Nicht nur die Union: Auch die SPD stimmte dagegen. Die Bundesregierung verfolgt keine quantitativen Ziele für die Vermögensverteilung.</div>`,"left:80px;right:80px;top:1300px");
+  const nt=P(`<div style="font:500 32px/1.3 Inter;color:#9a978c">Quellen: Bundestag (Textarchiv; Drucksachen 21/627, 21/2028, 21/8481), hib vom 3.8.2026</div>`,"left:80px;right:80px;top:1660px");
+  U.push(t=>{vis(kk,t,a,b);vis(nt,t,a+.8,b);
+   rows.forEach(([e,s,off])=>{vis(e,t,a+off,b,.2);typ(e.querySelector(".tq"),s,t,a+off+.2,40)});vis(fin,t,a+7.0,b,.5)});}
+ // ---------- Szene 9: Frage
+ {const a=90.4,b=94.4;
+  shot(a,b,.33,.5,1.4,1.05,.7);
+  const q=P(`<div class="serif" style="font:700 112px/1.05 'Bodoni Moda',serif;color:${WH}"></div>`,"left:80px;right:80px;top:760px");
+  const s=P(`<div style="font:600 46px/1.3 Inter;color:${WH}">Jeder zweite Unionsabgeordnete verdient nebenbei.</div>`,"left:80px;right:80px;top:1260px");
+  U.push(t=>{const o=1-seg(t,b-.4,b);q.style.opacity=(t>=a&&t<b)?o:0;s.style.opacity=(t>=a+2.4&&t<b)?Math.min(seg(t,a+2.4,a+2.9),o):0;typ(q.firstChild,"Wie viel Nähe zur Wirtschaft ist okay?",t,a+.3,22)});}
+ const end=END("Wissen,<br>worum es geht.","Wie viel Nähe ist okay? Schreib es in die Kommentare. Dossier auf doytschtv.de.");
+ R=t=>{
+  U.forEach(f=>f(t));
+  let sx=0,sy=0,fl=0;SL.forEach(s=>{if(t>=s){const m=Math.exp(-(t-s)*9);sx+=Math.sin(t*71)*20*m;sy+=Math.cos(t*83)*20*m;fl=Math.max(fl,.28*Math.exp(-(t-s)*16))}});
+  cam.style.transform=`translate(${sx}px,${sy}px)`;flash.style.opacity=fl;
+  let seed=Math.floor(t*30)*9301+49297;const d=gimg.data;for(let i=0;i<d.length;i+=4){seed=(seed*9301+49297)%233280;const v=seed/233280*255;d[i]=d[i+1]=d[i+2]=v;d[i+3]=255}gctx.putImageData(gimg,0,0);
+  end.style.opacity=eo(seg(t,TE-.3,TE+.3));end.style.zIndex=60;
+  fade.style.opacity=Math.max(1-seg(t,0,1.5),seg(t,94.2,94.8)*(t<TE?1:0));
  };
 }
 function render(t){R(t)}
