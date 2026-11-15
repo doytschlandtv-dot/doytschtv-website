@@ -329,5 +329,85 @@ if(MODE==="kx"){
   end.style.opacity=eo(seg(t,TE+.2,TE+.8));
  };
 }
+
+if(MODE==="inv"){
+ const TE=88.5, RED="<span style='color:#b2231c'>", X="</span>";
+ const els=[];const add=(el,a,b,off=0)=>els.push([el,a+off,b]);
+ const tiles=[];const stamps=[];
+ // 1 Hook
+ {const a=.2,b=6.4;
+  add(KK("Dossier · Die Abgeordneten"),a,b);add(HH(`Wer entscheidet über ${RED}dein Geld?${X}`,300,112),a,b);
+  const im=E(`<div class="abs" style="left:70px;right:70px;top:800px;height:700px;border-radius:40px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.2);opacity:0"><img src="../../foto-regierungsviertel-koreng.jpg" style="width:100%;height:100%;object-fit:cover;object-position:30% 50%"></div>`);add(im,a,b,.5);
+  const st=E(`<div class="stamp" style="left:50%;top:1390px;font-size:54px;opacity:0;transform:translateX(-50%) rotate(-4deg)">DIE AKTE UNION</div>`);stamps.push([st,a+2.2,b]);
+  add(NOTE("Foto: Ansgar Koreng / CC BY-SA 3.0 (DE)",1560),a,b,1);}
+ // 2 Zahl
+ {const a=6.4,b=12.6;
+  add(KK("Die Diäten"),a,b);
+  const n=E(`<div class="abs num" style="left:70px;top:330px;opacity:0;font-size:250px">11.833 €</div>`);add(n,a,b);
+  add(BB("im Monat. Dazu dürfen Abgeordnete unbegrenzt hinzuverdienen. Gemeldet werden muss es, erlaubt ist es.",780,"font-size:58px"),a,b,.9);
+  add(NOTE("Quelle: abgeordnetenwatch und SPIEGEL, 22.6.2026",1420),a,b,1.4);}
+ // 3 Kacheln
+ {const a=12.6,b=21;
+  add(KK("Die Fraktion"),a,b);
+  [["208","von 630 Sitzen hat die Union (164 CDU, 44 CSU).",330,0],["50 %","der Unionsabgeordneten melden bezahlte Nebentätigkeiten.",700,1.3],["7,9 Mio. €","Großspenden an CDU und CSU im Wahljahr 2025.",1070,2.6]].forEach(([nu,lb,top,off],i)=>{
+   const e=E(`<div class="big2" style="top:${top}px;height:320px;opacity:0;padding:36px 56px"><div class="serif" style="font:700 124px/1 'Bodoni Moda',serif;color:#b2231c;white-space:nowrap"></div><div style="font:600 44px/1.2 Inter;margin-top:14px">${lb}</div></div>`);
+   add(e,a,b,off);tiles.push([e,nu,a+off+.1,a+off+1.1]);});
+  add(NOTE("Quellen: Wikipedia, abgeordnetenwatch, Berliner Zeitung, Schwäbische Zeitung",1450),a,b,1.5);}
+ // 4 Akten
+ const akten=[
+  ["Alexander Engelhard","CSU · Agrarausschuss","1,5 Mio. €","Einkünfte aus der eigenen Getreidemühle seit Beginn der Wahlperiode. Zu einem möglichen Interessenkonflikt äußerte er sich nicht.","NEBENEINKÜNFTE"],
+  ["Fritz Güntzler","CDU","425.000 €","vor allem Gewinnbeteiligungen an zwei Steuerberatungskanzleien. Platz 4 aller Abgeordneten.","PLATZ 4"],
+  ["Christian von Stetten","CDU","16","direkte und indirekte Beteiligungen an Firmen aus Bau, Immobilien und Energie.","BETEILIGUNGEN"],
+  ["Lars Rohwer","CDU · Ausschuss für Wirtschaft und Energie","LEAG","Vergütung als Aufsichtsrat des Kohlekonzerns. Der Ausschuss befasste sich mit den Entschädigungen für den Kohleausstieg.","MÖGLICHE NÄHE"],
+  ["Julia Klöckner","CDU · Bundestagspräsidentin","1 Jahr","lang nicht gemeldet: Beraterkreis eines Lobbyclubs, laut ihr unentgeltlich. Folgen hatte es nicht.","VERSPÄTET GEMELDET"]];
+ {const a0=21,d=4.3;
+  add(KK("Fünf Akten"),a0,a0+5*d);
+  akten.forEach((k,i)=>{const a=a0+i*d,b=a+d;
+   const big=k[2].length>6?"font-size:150px":"font-size:190px";
+   const e=E(`<div class="pay" style="top:380px;opacity:0;height:1050px;padding:56px 60px"><div class="kick" style="font-size:28px;color:#5e5b53">Akte ${i+1} von 5</div><div class="serif" style="font:700 78px/1.05 'Bodoni Moda',serif;margin-top:28px">${k[0]}</div><div style="font:600 38px/1.2 Inter;color:#5e5b53;margin-top:14px">${k[1]}</div><div style="border-top:3px dashed #d9d6cb;margin:36px 0"></div><div class="num" style="${big};line-height:1.05">${k[2]}</div><div style="font:600 46px/1.25 Inter;margin-top:26px">${k[3]}</div></div>`);
+   add(e,a,b);
+   const st=E(`<div class="stamp" style="right:90px;top:1330px;font-size:40px;opacity:0;transform:rotate(-5deg)">${k[4]}</div>`);stamps.push([st,a+1.4,b-.1]);});
+  add(NOTE("Alles gemeldet und erlaubt. Quellen: abgeordnetenwatch, Tagesspiegel, Stand 15.11.2026",1500),a0+.3,a0+5*d);}
+ // 5 Kontrolle
+ {const a=42.5,b=51;
+  add(KK("Wer kontrolliert das?"),a,b);add(HH(`Wer ahndet ${RED}Verstöße?${X}`,300,108),a,b);
+  [["261","Meldeverstöße in der Wahlperiode 2021 bis 2025 (alle Fraktionen)."],["0","spürbare Sanktionen: Es blieb jeweils bei einer internen Ermahnung."],["!","Die Präsidentin ahndet Verstöße von Kolleginnen und Kollegen, auch aus der eigenen Partei."]].forEach((r,i)=>{
+   add(BB(`<b style="color:#b2231c;font:700 76px 'Bodoni Moda',serif;margin-right:26px">${r[0]==="0"?"Keine":r[0]}</b>${r[1]}`,640+i*300,"font-size:46px;height:260px;display:flex;align-items:center"),a,b,.8+i*1.5);});
+  add(NOTE("Quelle: abgeordnetenwatch, 9.6.2025",1580),a,b,1.5);}
+ // 6 Gegenseite
+ {const a=51,b=58;
+  add(KK("Die andere Seite"),a,b);add(HH(`Legal, gemeldet, ${RED}öffentlich.${X}`,300,108),a,b);
+  add(BB("Nebeneinkünfte sind erlaubt. Ein generelles Verbot wäre grundgesetzwidrig, sagte der damalige CDU-Chef Armin Laschet 2021. Seitdem werden sie betragsgenau veröffentlicht.",760,"font-size:54px"),a,b,.9);
+  add(NOTE("Quellen: t-online 2021, parlamentjobs.de",1500),a,b,1.5);}
+ // 7 Balken
+ const bars=E(`<div class="abs" style="left:70px;right:70px;top:640px;opacity:0"><div style="font:700 36px/1.2 Inter;letter-spacing:.1em;text-transform:uppercase;color:#5e5b53">Reichste 10 Prozent</div><div style="height:56px;border-radius:28px;background:#cfcdc4;margin:18px 0 12px;overflow:hidden"><div id="b1" style="height:100%;width:0;background:#b2231c"></div></div><div style="font:600 50px/1.2 Inter">besitzen <b>mehr als die Hälfte</b> des Vermögens.</div><div style="font:700 36px/1.2 Inter;letter-spacing:.1em;text-transform:uppercase;color:#5e5b53;margin-top:90px">Untere Hälfte, Nettovermögen</div><div style="height:56px;border-radius:28px;background:#cfcdc4;margin:18px 0 12px;overflow:hidden;position:relative"><div id="b2" style="height:100%;width:100%;background:#0a0a0a"></div></div><div style="font:600 50px/1.2 Inter"><b id="b2t">0 %</b> von 2021 bis 2023, preisbereinigt.</div></div>`);
+ {const a=58,b=66;
+  add(KK("Das Land dahinter"),a,b);add(HH(`Wer besitzt ${RED}was?${X}`,300,108),a,b);add(bars,a,b,.8);
+  add(NOTE("Quellen: Bundesbank (Haushaltsbefragung 2023), Armuts- und Reichtumsbericht der Bundesregierung",1560),a,b,1.5);}
+ // 8 Abstimmungen
+ {const a=66,b=76.5;
+  add(KK("Was der Bundestag entschied"),a,b);
+  [["19.12.2025","Linke-Antrag, Erbschaftsteuer-Privilegien zu streichen: abgelehnt, 47 zu 507 Stimmen."],["19.12.2025","Grünen-Antrag zu Erbschaft und Immobilien: dagegen CDU/CSU, AfD und SPD."],["7.10.2026","Antrag, die Vermögensteuer wieder zu erheben: Der Finanzausschuss empfiehlt Ablehnung."]].forEach((r,i)=>{
+   add(BB(`<div class="kick" style="font-size:28px;margin-bottom:12px">${r[0]}</div>${r[1]}`,330+i*350,"font-size:46px;height:310px;display:flex;flex-direction:column;justify-content:center"),a,b,.6+i*1.6);});
+  add(NOTE("Quellen: Bundestag (Textarchiv, Drucksachen 21/627, 21/2028, 21/8481)",1480),a,b,1.5);}
+ {const a=76.5,b=82.5;
+  add(KK("Einordnung"),a,b);add(HH(`Nicht nur die ${RED}Union.${X}`,300,108),a,b);
+  add(BB("Bei den Erbschaft-Anträgen stimmte auch die SPD dagegen. Die Union warnt vor einer Besteuerung der Vermögenssubstanz.",700,"font-size:50px"),a,b,.8);
+  add(BB("Die Bundesregierung verfolgt keine quantitativen Ziele für die Vermögensverteilung (hib, 3.8.2026).",1130,"font-size:50px;background:#0a0a0a;color:#f8f7f2"),a,b,2.0);}
+ // 9 Frage
+ {const a=82.5,b=TE;
+  add(KK("Offene Frage"),a,b);add(HH(`Wie viel Nähe zur Wirtschaft ist ${RED}okay?${X}`,300,104),a,b);
+  add(BB("Jeder zweite Unionsabgeordnete verdient nebenbei. Reicht, was veröffentlicht wird, um das zu beurteilen?",830,"font-size:54px"),a,b,1);}
+ const end=END("Wissen,<br>worum es geht.","Wie viel Nähe ist okay? Schreib es in die Kommentare. Dossier auf doytschtv.de.");
+ R=t=>{
+  els.forEach(e=>sc(e[0],t,e[1],e[2]));
+  stamps.forEach(s=>{s[0].style.opacity=win(t,s[1],s[1]+.3,s[2]-.4,s[2])});
+  tiles.forEach(([e,nu,a,b])=>{const k=eo(seg(t,a,b));const d=e.firstElementChild;
+   if(nu==="208")d.textContent=Math.round(208*k);else if(nu==="50 %")d.textContent=Math.round(50*k)+" %";else d.textContent=(Math.round(79*k)/10).toLocaleString("de-DE",{minimumFractionDigits:1})+" Mio. €";});
+  const k1=eo(seg(t,58.9,60.3));$("#b1").style.width=(50*k1)+"%";
+  const k2=eo(seg(t,61.5,63));$("#b2").style.width=(100-20*k2)+"%";$("#b2t").textContent="−"+Math.round(20*k2)+" %";
+  end.style.opacity=eo(seg(t,TE+.2,TE+.8));
+ };
+}
 function render(t){R(t)}
 </script></body></html>
