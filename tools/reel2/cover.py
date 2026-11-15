@@ -14,7 +14,7 @@ body{{width:1080px;height:1920px;background:#f8f7f2;font-family:Inter;color:#0a0
 .p img{{width:100%;height:100%;object-fit:cover;object-position:{pos}}}
 .l{{position:absolute;left:80px;top:1530px;display:flex;align-items:center;gap:24px;font:700 30px/1 Inter;letter-spacing:.16em;text-transform:uppercase;color:#5e5b53}}
 .l img{{height:64px}}
-</style><div class=k>{kick}</div><div class=h>{head}</div><div class=p><img src="file://{W}/{img}"></div><div class=l><img src="file://{W}/logo.png"><span>Auf den Punkt</span></div>'''
+.h{{font-weight:700!important;font-variation-settings:"opsz" 28!important;font-optical-sizing:none!important}}</style><div class=k>{kick}</div><div class=h>{head}</div><div class=p><img src="file://{W}/{img}"></div><div class=l><img src="file://{W}/logo.png"><span>Auf den Punkt</span></div>'''
 items={"cover-israel-wahl":("Erklärt · Israel-Wahl","Israel wählt am Dienstag. <span>So läuft das.</span>","titel-hebron.jpg","50% 50%"),
 "cover-stromsteuer":("Erklärt · Stromsteuer","Stromsteuer runter: <span>Was bringt dir das?</span>","titel-stromsteuer.jpg","50% 50%")}
 out=pathlib.Path("cover");out.mkdir(exist_ok=True)
