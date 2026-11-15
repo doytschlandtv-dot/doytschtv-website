@@ -421,10 +421,10 @@ if(MODE==="film"){
  const RED="#d6322a",WH="#f3efe4",TE=95;
  const cam=E(`<div class="abs" style="inset:0"></div>`);
  const vig=E(`<div class="abs" style="inset:0;background:radial-gradient(ellipse at center,rgba(0,0,0,0) 45%,rgba(0,0,0,.65) 100%);pointer-events:none;z-index:50"></div>`);
- const gr=E(`<canvas id="gr" width="270" height="480" class="abs" style="inset:0;width:1080px;height:1920px;mix-blend-mode:overlay;opacity:.55;z-index:51"></canvas>`);
+ const gr=E(`<canvas id="gr" width="540" height="960" class="abs" style="inset:0;width:1080px;height:1920px;mix-blend-mode:overlay;opacity:.13;z-index:51"></canvas>`);
  const flash=E(`<div class="abs" style="inset:0;background:#fff;opacity:0;z-index:52"></div>`);
  const fade=E(`<div class="abs" style="inset:0;background:#000;opacity:0;z-index:53"></div>`);
- const gctx=gr.getContext("2d"),gimg=gctx.createImageData(270,480);
+ const gctx=gr.getContext("2d"),gimg=gctx.createImageData(540,960);
  const U=[],SL=[];
  const P=(h,css="")=>{const d=document.createElement("div");d.className="fd";d.style.cssText="opacity:0;"+css;d.innerHTML=h;cam.appendChild(d);return d};
  const vis=(el,t,a,b,fi=.35,fo=.35)=>{el.style.opacity=Math.min(eo(seg(t,a,a+fi)),1-seg(t,b-fo,b))};
