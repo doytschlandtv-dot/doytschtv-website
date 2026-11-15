@@ -175,6 +175,7 @@
 
     var x = PAD, mw = W - 2 * PAD, y = 240, bottom = H - 150;
     function counter() {
+      if (!n) return;
       ctx.font = "700 40px " + PF; ctx.fillStyle = ac; ctx.textBaseline = "top";
       var cnt = (i + 1) + "/" + n; ctx.fillText(cnt, W - PAD - ctx.measureText(cnt).width, H - 110);
     }
@@ -287,6 +288,14 @@
   function drawStory(canvas, s, img, i, n, live) {
     canvas.width = SW; canvas.height = SH;
     var ctx = canvas.getContext("2d");
+    /* Story im Folien-Look (typ "betrifft"): dieselbe Folie wie im Karussell, ohne Zaehler, mit sicherem Rand oben */
+    if (s.typ === "betrifft") {
+      var sl = document.createElement("canvas");
+      draw(sl, s, 0, 0, null);
+      ctx.fillStyle = TH.light.bg; ctx.fillRect(0, 0, SW, SH);
+      ctx.drawImage(sl, 0, 250);
+      return;
+    }
     var photo = !!img;
     var T = TH[s.theme || (i === 0 ? "dark" : "dark")];
     var fg = T.fg, ac = T.ac, mu = T.mu;
