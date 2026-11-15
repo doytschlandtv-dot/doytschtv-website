@@ -1,5 +1,133 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-15",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "SPD kritisiert Spritpreisdeckel von Ministerin Reiche",
+    "Mecklenburg-Vorpommern: SPD billigt Rot-Rot-Grün",
+    "Merz dringt auf schnelle Reformen",
+    "AfD will Thomas Berthold für die Bundespräsidentenwahl aufstellen",
+    "Montag: Urteil zu TV-Verträgen in Karlsruhe"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Sonntag, den 15. November.",
+    "Gestern: SPD-Fraktionschef Matthias Miersch hat laut ZDFheute gegenüber den Funke-Medien strengere Regeln für den geplanten Spritpreisdeckel von Wirtschaftsministerin Katherina Reiche (CDU) verlangt. Ein Deckel wie im Entwurf hätte in den letzten zehn Jahren nie gegriffen, sagte er demnach. Das Gesetz müsse bis Mitte Dezember stehen. Der Deckel soll Anfang 2027 den Tankrabatt ablösen. Laut Entwurf greifen Höchstpreise erst, wenn die Preise drei Wochen in Folge deutlich stärker steigen als im EU-Schnitt, und gelten höchstens drei Monate (ZDFheute, 14.11.).",
+    "In Mecklenburg-Vorpommern hat ein SPD-Sonderparteitag in Güstrow dem Koalitionsvertrag für ein Bündnis mit Linken und Grünen einstimmig zugestimmt. Die Unterzeichnung war laut ZDFheute für den Abend in Greifswald geplant. Ministerpräsidentin Manuela Schwesig sprach vor rund 120 Delegierten (ZDFheute, 14.11.).",
+    "Kanzler Friedrich Merz hat auf dem CDU-Landesparteitag in Schleswig-Holstein in Neumünster auf schnelle Reformen gedrungen, ohne Details zu nennen. Er räumte laut ZDFheute ein, das Zielbild Deutschland 2040 nicht immer ausreichend erklärt zu haben (ZDFheute, 14.11.).",
+    "Die AfD will laut ZDFheute den früheren Fußball-Weltmeister Thomas Berthold für die Wahl des Bundespräsidenten aufstellen. Das gab Parteichef Tino Chrupalla auf X bekannt. Die Bundesversammlung wählt am 30. Januar 2027 (ZDFheute, 14.11.).",
+    "Heute: Die dpa-AFX-Vorschau nennt für Sonntag keine Termine. In Antalya läuft weiter die UN-Klimakonferenz COP31 (dpa-AFX, Wochenvorschau vom 13.11.).",
+    "Diese Woche: Am Montag um 10 Uhr entscheidet das Bundesverfassungsgericht über Klagen gegen das Sonderkündigungsrecht für Fernsehverträge, um 11 Uhr folgt der Nationale Stahlgipfel in Salzgitter. Am Dienstag um 11 Uhr erscheinen die ZEW-Konjunkturerwartungen. Am Donnerstag verhandelt der Bundesgerichtshof ab 10 Uhr zu Impfschäden nach Corona-Schutzimpfungen und ab 11 Uhr zur Teilung der Maklerprovision beim Mietervorkaufsrecht; um 12 Uhr findet in Berlin der Deutsch-Türkische Automobilgipfel statt (dpa-AFX, Wochenvorschau vom 13.11.).",
+    "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Morning Briefing, Sonntag, 15. November 2026",
+    "caption": "Guten Morgen. Dein Morning Briefing für Sonntag, den 15. November. Gestern: Die SPD verlangt strengere Regeln für den geplanten Spritpreisdeckel, in Mecklenburg-Vorpommern billigt die SPD Rot-Rot-Grün, Kanzler Merz dringt auf schnelle Reformen und die AfD will Thomas Berthold für die Bundespräsidentenwahl aufstellen. Diese Woche: Am Montag entscheidet das Bundesverfassungsgericht zu TV-Verträgen, am Dienstag kommt das ZEW-Barometer. Welches Thema sollen wir heute einordnen? Schreib es in die Kommentare.",
+    "hashtags": "#doytschlandtv #morningbriefing #nachrichten #deutschland #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Briefing",
+      "kicker": "Morning Briefing · So., 15. November",
+      "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+      "rot": "Das Wichtigste",
+      "bild": {
+       "url": "titel-morning-briefing.jpg",
+       "fokus": 0.5,
+       "unter": "Grafik, DoytschlandTv"
+      }
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Gestern und zuletzt",
+      "titel": "Was am Samstag wichtig war",
+      "punkte": [
+       {
+        "kopf": "Spritpreisdeckel",
+        "text": "SPD-Fraktionschef Miersch fordert laut ZDFheute strengere Regeln für den Entwurf von Ministerin Reiche."
+       },
+       {
+        "kopf": "Mecklenburg-Vorpommern",
+        "text": "Die SPD stimmt dem Koalitionsvertrag mit Linken und Grünen einstimmig zu."
+       },
+       {
+        "kopf": "Reformen",
+        "text": "Kanzler Merz dringt in Neumünster auf schnelle Reformen, nennt aber keine Details."
+       },
+       {
+        "kopf": "Bundespräsident",
+        "text": "Die AfD will Thomas Berthold aufstellen. Die Wahl ist am 30. Januar 2027."
+       }
+      ],
+      "quelle": "ZDFheute, 14.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Briefing",
+      "label": "Heute und diese Woche",
+      "titel": "Was ansteht",
+      "punkte": [
+       {
+        "kopf": "Heute, Sonntag",
+        "text": "Die dpa-AFX-Vorschau nennt keine Termine."
+       },
+       {
+        "kopf": "Montag, 10 Uhr",
+        "text": "Das Bundesverfassungsgericht entscheidet über das Sonderkündigungsrecht für Fernsehverträge."
+       },
+       {
+        "kopf": "Dienstag, 11 Uhr",
+        "text": "ZEW-Konjunkturerwartungen für November."
+       },
+       {
+        "kopf": "Donnerstag, 10 Uhr",
+        "text": "Der BGH verhandelt zu Impfschäden nach Corona-Schutzimpfung."
+       }
+      ],
+      "quelle": "dpa-AFX, Wochenvorschau 13.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "band": "Briefing",
+      "label": "Zahl des Tages",
+      "zahl": "3 Monate",
+      "text": "soll der Spritpreisdeckel laut Entwurf höchstens gelten. Er greift erst nach drei Wochen deutlich stärkerer Preisanstiege als im EU-Schnitt.",
+      "quelle": "ZDFheute, 14.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Briefing",
+      "frage": "Welches Thema sollen wir heute einordnen?",
+      "zeilen": [
+       "Schreib es in die Kommentare.",
+       "Folge uns für das Briefing am Morgen."
+      ]
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Briefing",
+    "kicker": "Morning Briefing · So., 15. November",
+    "titel": "Guten Morgen: Das Wichtigste vor dem Start in den Tag",
+    "rot": "Das Wichtigste",
+    "text": "Spritpreisdeckel, Rot-Rot-Grün in MV und BVerfG-Urteil am Montag im Karussell. Link in der Bio.",
+    "quelle": "ZDFheute, 14.11.2026; dpa-AFX, 13.11.2026",
+    "theme": "dark"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-14",
   "morgen": {
    "titel": "Morning Briefing",
