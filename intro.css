@@ -38,3 +38,5 @@
 .in-go:hover{color:#0a0a0a}
 @keyframes in-ph{to{opacity:1;transform:none}}
 @media (prefers-reduced-motion:reduce){.in-s1.go .in-ring{animation:in-away .8s ease forwards}.in-ph{transform:none}.in-s2.on .in-ph{animation:in-fade 1s ease forwards}}
+
+.in-ring span,.st-in{font-weight:700;font-variation-settings:"opsz" 28!important;font-optical-sizing:none!important}

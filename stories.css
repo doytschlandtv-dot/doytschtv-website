@@ -40,3 +40,5 @@
 .st-pick[hidden] { display: none; }
 .st-pick label { display: flex; align-items: center; gap: .6rem; cursor: pointer; min-height: 2.25rem; }
 .st-pick input { width: 1.25rem; height: 1.25rem; accent-color: #b2231c; flex: none; }
+
+.in-ring span,.st-in{font-weight:700;font-variation-settings:"opsz" 28!important;font-optical-sizing:none!important}

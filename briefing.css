@@ -210,3 +210,6 @@ button.b-chip.on { background: var(--fg, #1d1d1f); color: var(--bg, #fff); }
 .b-host { margin: 0 0 1.25rem; display: flex; align-items: center; gap: 0.9rem; }
 .b-host img { width: 5.5rem; height: 5.5rem; border-radius: 50%; object-fit: cover; object-position: 50% 30%; background: #fff; border: 2px solid var(--accent, #b2231c); flex: none; }
 .b-host figcaption { font-size: 0.85rem; color: var(--muted, #6e6e73); line-height: 1.4; }
+
+:root .b-title,:root .b-h,:root .k-h,:root .b-sec-h,:root .mk-h1,:root .mk-big h2,:root .kol h2{font-weight:700;font-variation-settings:"opsz" 28;font-optical-sizing:none}
+:root .b-day-n{font-weight:800;font-variation-settings:"opsz" 11;font-optical-sizing:none}

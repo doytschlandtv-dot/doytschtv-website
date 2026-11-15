@@ -10,7 +10,7 @@ html=("""<!doctype html><meta charset=utf-8><link rel=stylesheet href=fonts.css>
 .top{position:absolute;left:0;right:0;top:0;height:840px;background:#b3241c}
 .ring{position:absolute;left:80px;top:150px;width:104px;height:104px;border-radius:50%;border:8px solid #f8f7f2;padding:7px}
 .ring div{width:100%;height:100%;border-radius:50%;background:#0a0a0a;color:#f8f7f2;font-family:'Bodoni Moda',serif;font-weight:600;font-size:54px;display:flex;align-items:center;justify-content:center;padding-bottom:3px}
-.nm{position:absolute;left:206px;top:172px;font-family:'Instrument Serif',serif;font-size:60px;color:#f8f7f2;letter-spacing:-.02em}
+.nm{position:absolute;left:206px;top:172px;font-family:'Bodoni Moda',serif;font-size:56px;color:#f8f7f2;letter-spacing:-.02em}
 .k{position:absolute;left:80px;top:420px;font-weight:800;letter-spacing:.2em;text-transform:uppercase;font-size:30px;color:#f8f7f2;opacity:.9}
 .t{position:absolute;left:80px;top:480px;font-family:'Bodoni Moda',serif;font-weight:500;font-size:140px;line-height:1.02;letter-spacing:-.02em;color:#f8f7f2;width:900px}
 .l{position:absolute;left:80px;right:80px;top:930px}
@@ -19,7 +19,7 @@ html=("""<!doctype html><meta charset=utf-8><link rel=stylesheet href=fonts.css>
 .r span{font-size:46px;font-weight:600;line-height:1.2}
 .bar{position:absolute;left:0;right:0;bottom:0;height:230px;background:#0a0a0a;color:#f8f7f2;padding:62px 80px}
 .bar div{font-size:40px;font-weight:700}.bar small{display:block;margin-top:12px;font-size:28px;font-weight:500;color:#d8d6cf}
-</style><div class=top></div><div class=ring><div>D</div></div><div class=nm>DoytschlandTv</div>
+.ring div,.t,.nm{font-weight:700!important;font-variation-settings:"opsz" 28!important;font-optical-sizing:none!important}</style><div class=top></div><div class=ring><div>D</div></div><div class=nm>DoytschlandTv</div>
 <div class=k>Morning Briefing · """+DATUM+"""</div><div class=t>Dein Morgen auf Doytsch.</div>
 <div class=l>"""+"".join('<div class=r><b>%d</b><span>%s</span></div>'%(i+1,t) for i,t in enumerate(THEMEN))+"""</div>
 <div class=bar><div>Alle Themen im Karussell. Link in der Bio.</div><small>Quelle: """+QUELLE+"""</small></div>""")
