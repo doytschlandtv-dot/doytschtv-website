@@ -2,37 +2,37 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-15T05:55:00+01:00",
+ "stand": "2026-11-15T21:20:00+01:00",
  "items": [
   {
-   "z": "2026-11-14T12:51:00+01:00",
-   "t": "Selenskyj sagt laut ZDFheute, US-Unterhändler hätten einen Donbass-Rückzug im Tausch gegen einen Nato-Beitritt angeregt; Kiew will keine Gebiete abtreten",
+   "z": "2026-11-15T13:33:00+01:00",
+   "t": "Zum Volkstrauertag spricht Österreichs Bundespräsident Van der Bellen bei der zentralen Gedenkveranstaltung im Bundestag, Steinmeier das Totengedenken",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/politik/deutschland/volkstrauertag-gedenken-krieg-veranstaltung-gedenktag-berlin-100.html"
+  },
+  {
+   "z": "2026-11-15T17:46:00+01:00",
+   "t": "Die iranischen Revolutionsgarden melden laut ZDFheute erneut Explosionen an Schiffen in der Straße von Hormus; zwei Öltanker seien auf Seeminen gefahren, die Besatzung ist laut UKMTO vollzählig und sicher (Eigenangabe, unabhängig nicht geprüft)",
    "q": "ZDFheute",
    "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-11-14T13:26:00+01:00",
-   "t": "SPD-Fraktionschef Matthias Miersch fordert laut ZDFheute (Funke-Medien) strengere Regeln für den geplanten Spritpreisdeckel",
+   "z": "2026-11-15T18:23:00+01:00",
+   "t": "Estland schließt laut Außenminister Tsahkna ab 1. Dezember alle Grenzübergänge zu Russland, nachdem ein Brandanschlag auf einen Drohnenhersteller laut estnischen Behörden vom russischen Geheimdienst GRU gesteuert wurde",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "u": "https://www.zdfheute.de/politik/ausland/estland-grenze-russland-sabotage-drohnenhersteller-100.html"
   },
   {
-   "z": "2026-11-14T14:00:00+01:00",
-   "t": "Kanzler Merz dringt laut ZDFheute auf dem CDU-Landesparteitag in Neumünster auf schnelle Reformen, ohne Details zu nennen",
+   "z": "2026-11-15T18:39:00+01:00",
+   "t": "Hubertus Heil kandidiert laut ZDFheute als Erster für den SPD-Vorsitz; gewählt wird in zwei Monaten beim Bundesparteitag in Bremen",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "u": "https://www.zdfheute.de/politik/deutschland/spd-vorsitz-kandidatur-hubertus-heil-andreas-schmidt-cdu-100.html"
   },
   {
-   "z": "2026-11-14T14:35:00+01:00",
-   "t": "Ein SPD-Sonderparteitag in Mecklenburg-Vorpommern stimmt laut ZDFheute einstimmig dem Koalitionsvertrag für Rot-Rot-Grün zu",
+   "z": "2026-11-15T18:40:00+01:00",
+   "t": "In Prag demonstrieren laut Veranstaltern 350.000 bis 400.000 Menschen gegen die geplante Abschaffung der Rundfunkgebühr",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
-  },
-  {
-   "z": "2026-11-14T15:13:00+01:00",
-   "t": "Die AfD will laut ZDFheute Thomas Berthold als Kandidaten für die Bundespräsidentenwahl am 30. Januar 2027 aufstellen",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "u": "https://www.zdfheute.de/politik/ausland/tschechien-demo-medien-reform-protest-100.html"
   }
  ]
 };

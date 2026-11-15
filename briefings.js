@@ -23,7 +23,34 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Karussell auf Instagram und TikTok."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Tschechien: Hunderttausende demonstrieren in Prag gegen Rundfunkreform",
+    "Estland schließt ab 1. Dezember die Grenzübergänge zu Russland",
+    "SPD-Vorsitz: Hubertus Heil kandidiert, Debatte um Amt und Partei",
+    "Volkstrauertag: Gedenkstunde im Bundestag mit Van der Bellen"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Sonntag, 15. November.",
+    "Erstens: Tschechien. In Prag haben am Sonntag laut den Veranstaltern 350.000 bis 400.000 Menschen auf der Letna-Ebene gegen die geplante Rundfunkreform der Regierung von Andrej Babis demonstriert. Der Gesetzentwurf streicht die monatliche Rundfunkgebühr von 205 Kronen, rund 8,50 Euro je Haushalt. Der öffentlich-rechtliche Rundfunk soll aus dem Staatshaushalt finanziert werden, die Mittel sollen zugleich um 15 Prozent sinken. Kritiker sehen die Gefahr politischer Kontrolle durch die Regierung. Babis sagt, man löse das Versprechen finanzieller Entlastung ein. Der Entwurf hat laut ZDFheute eine erste parlamentarische Hürde genommen. Eine Polizeizahl nennt die Quelle nicht. Unsere Einordnung: Wer die Finanzierung von Medien an den Haushalt der jeweiligen Regierung bindet, macht sie von dieser abhängig; entscheidend ist deshalb, ob der Entwurf unabhängige Mittel und Aufsicht sichert (ZDFheute, 15.11.).",
+    "Zweitens: Estland. Außenminister Margus Tsahkna kündigte auf X an, dass Estland ab dem 1. Dezember alle Grenzübergänge zu Russland schließt. Anlass ist ein versuchter Brandanschlag in der Nacht zum Samstag auf die Fabrik des Drohnenherstellers Threod Systems bei Tallinn, der auch für die Ukraine produziert. Hauseigene Sicherheitsleute verhinderten laut ZDFheute größeren Schaden. Acht in Lettland wohnhafte Verdächtige wurden festgenommen, gegen fünf besteht Haftbefehl. Nach Angaben estnischer Behörden steckt der russische Militärgeheimdienst GRU dahinter; Tsahkna spricht von eindeutigen Beweisen. Das sind Behördenangaben, unabhängig geprüft sind sie nicht, eine Stellungnahme aus Moskau nennt die Quelle nicht (ZDFheute, 15.11.).",
+    "Drittens: SPD. Hubertus Heil hat laut ZDFheute als Erster seine Kandidatur für den SPD-Vorsitz bekannt gegeben. Gewählt wird in zwei Monaten beim Bundesparteitag in Bremen. Der sachsen-anhaltische Landeschef Andreas Schmidt unterstützt Heil und fordert, Ministeramt und Parteivorsitz zu trennen. Parteichef Lars Klingbeil hatte am Vortag auf Synergien bei einer Hand für beide Ämter verwiesen. Das sind Positionen aus dem Interview mit Schmidt; Heil selbst kommt in dem gelesenen Beitrag nicht zu Wort (ZDFheute, 15.11.).",
+    "Viertens: Volkstrauertag. Im Bundestag fand die zentrale Gedenkveranstaltung des Volksbundes Deutsche Kriegsgräberfürsorge statt. Österreichs Bundespräsident Alexander Van der Bellen hielt die Rede, Österreich ist in diesem Jahr Partnerland. Bundespräsident Frank-Walter Steinmeier sprach das Totengedenken. An der Neuen Wache wurde ein Kranz niedergelegt. Das Gedenken schließt seit dem Vorjahr auch wegen ihrer geschlechtlichen oder sexuellen Identität Verfolgte sowie im Einsatz gestorbene Polizistinnen und Polizisten ein (ZDFheute, 15.11.).",
+    "Morgen: Am Montag um 10 Uhr entscheidet das Bundesverfassungsgericht in Karlsruhe über Klagen gegen das Sonderkündigungsrecht für Fernsehverträge. Um 11 Uhr beginnt in Salzgitter der Nationale Stahlgipfel. In Frankfurt eröffnet um 9 Uhr die Euro Finance Week. In Brüssel treffen sich die EU-Außenminister, in Manila beginnt der Asean-Gipfel, in Antalya läuft die UN-Klimakonferenz COP31 weiter (dpa-AFX, Tagesvorschau vom 13.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 15.11.2026"
+    },
+    {
+     "titel": "dpa-AFX, Tagesvorschau 16.11.2026 (13.11.2026)"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
