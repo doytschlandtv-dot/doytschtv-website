@@ -9,9 +9,178 @@ window.DOSSIERS = [
   "methode": [
    "Wir gehen Fraktion für Fraktion vor, in der Reihenfolge der Sitzstärke. Jede Fraktion wird nach demselben Raster geprüft.",
    "Grundlage sind ausschließlich öffentliche Quellen: Abgeordnetenprofile und Nebeneinkünfte beim Bundestag, das Lobbyregister, die Parteispendenlisten der Bundestagsverwaltung und die Abstimmungsdaten des Bundestages.",
-   "Wir zeigen Fakten und ordnen ein. Abgeordnete melden Nebeneinkünfte in Stufen, aber kein Vermögen. Wo Angaben fehlen, schreiben wir das dazu. Das Privatleben bleibt außen vor."
+   "Wir zeigen Fakten und ordnen ein. Abgeordnete melden Nebeneinkünfte betragsgenau, aber kein Vermögen. Wo Angaben fehlen, schreiben wir das dazu. Das Privatleben bleibt außen vor."
   ],
-  "folgen": [],
+  "folgen": [
+   {
+    "id": "union-fraktion-2026",
+    "datum": "2026-11-15",
+    "titel": "Die Abgeordneten der Union: Nebeneinkünfte, Spenden, Anwesenheit",
+    "teaser": "Die CDU/CSU ist mit 208 von 630 Sitzen die größte Fraktion. Was sagen öffentliche Daten über ihre Nebeneinkünfte, die Spenden an ihre Parteien und ihre Teilnahme an Abstimmungen? Dazu fünf Abgeordnete, die in den Daten besonders auffallen.",
+    "kern": [
+     {
+      "z": "208 von 630",
+      "l": "Sitze hat die Union (164 CDU, 44 CSU). Das sind 33,0 % der Sitze bei 28,5 % der Stimmen."
+     },
+     {
+      "z": "Jede:r Zweite",
+      "l": "in der Unionsfraktion meldet bezahlte Nebentätigkeiten. Im ganzen Bundestag sind es 232 von 630 Abgeordneten (37 %), zusammen rund 10,6 Millionen Euro seit Beginn der Wahlperiode."
+     },
+     {
+      "z": "Rund 7,9 Mio. €",
+      "l": "Großspenden über 35.000 Euro erhielten CDU und CSU 2025 zusammen. Das ist der höchste Wert aller Parteien im Bundestag."
+     },
+     {
+      "z": "Niedrige Fehlquote",
+      "l": "Bei namentlichen Abstimmungen fehlt die Union deutlich seltener als die Linke. Als Regierungsfraktion ist sie aber auch häufiger auf jede Stimme angewiesen."
+     },
+     {
+      "z": "Fünf Fälle",
+      "l": "Wir stellen fünf Abgeordnete der Union mit auffälligen öffentlichen Angaben heraus: von Einkünften in Millionenhöhe bis zu einer verspäteten Meldung."
+     }
+    ],
+    "abschnitte": [
+     {
+      "h": "Worum es geht",
+      "t": [
+       "Mit der Union beginnt unsere Reihe über die Fraktionen des Bundestages, geordnet nach Sitzstärke. Sie ist die stärkste Kraft im 21. Bundestag, gefolgt von der AfD mit 152 und der SPD mit 120 Abgeordneten. Alles hier stammt aus öffentlichen Quellen. Nebeneinkünfte und Parteispenden sind in Deutschland erlaubt, aber meldepflichtig. Es geht um das, was gemeldet wurde, nicht um Vorwürfe."
+      ]
+     },
+     {
+      "h": "Sitze und Stärke",
+      "t": [
+       "Die Union stellt 208 der 630 Abgeordneten, 164 von der CDU und 44 von der CSU. Sie regiert gemeinsam mit der SPD (120 Sitze), zusammen kommen beide auf 328 Sitze. Die Mehrheit liegt bei 316."
+      ]
+     },
+     {
+      "h": "Nebeneinkünfte",
+      "t": [
+       "Abgeordnete erhalten monatlich 11.833 Euro Diäten und dürfen unbegrenzt hinzuverdienen. Sie müssen das innerhalb von drei Monaten der Bundestagsverwaltung melden. Seit der Reform werden Nebeneinkünfte nicht mehr in zehn Stufen, sondern betragsgenau veröffentlicht, die Schwelle liegt bei 3.000 Euro im Jahr, Unternehmensbeteiligungen sind ab 5 statt 25 Prozent anzuzeigen.",
+       "Laut einer Auswertung von abgeordnetenwatch und SPIEGEL vom 22.6.2026 melden 232 von 630 Abgeordneten Nebeneinkünfte oder geldwerte Vorteile, insgesamt rund 10,6 Millionen Euro. In der Unionsfraktion hat die Hälfte der Abgeordneten bezahlte Nebentätigkeiten, bei AfD (37 %) und Grünen (36 %) ist es gut ein Drittel.",
+       "Die höchste Summe in der Union nennt die Auswertung für Alexander Engelhard (CSU): rund 1,5 Millionen Euro als Betreiber einer Bio-Getreidemühle. Er sitzt im Agrarausschuss. Für Aufsichtsratsmandate nennt sie Albert Rupprecht (CSU) mit 40.050 Euro bei Eckert & Ziegler und Tilman Kuban (CDU) mit 40.000 Euro bei der neoshare AG. Die Spitze aller Fraktionen hält laut der Auswertung mit 2,7 Millionen Euro Ophelia Nick (Grüne), aus geerbten Firmenanteilen.",
+       "Zur Einordnung: Wer einen eigenen Betrieb führt oder Anteile hält, verdient daran legal. Kritiker sehen einen Interessenkonflikt, wenn Abgeordnete in Ausschüssen mitentscheiden, die ihre Branche betreffen. Ein generelles Verbot wäre grundgesetzwidrig, sagte 2021 der damalige CDU-Chef Armin Laschet."
+      ]
+     },
+     {
+      "h": "Verstöße gegen Meldepflichten",
+      "t": [
+       "Die Bundestagspräsidentin Julia Klöckner (CDU) veröffentlichte einen Bericht, nach dem Abgeordnete in der Wahlperiode 2021 bis 2025 insgesamt 261 Mal Tätigkeiten, Einkünfte oder Beteiligungen nicht korrekt meldeten. Es blieb jeweils bei einer internen Ermahnung. Die Zahl gilt für alle Fraktionen, wir haben sie nicht nach Union und anderen aufgeschlüsselt. Kritik daran: Die Präsidentin ahndet Verstöße von Kolleginnen und Kollegen, auch der eigenen Partei. Der Europarat (GRECO) bemängelte die seltene Anwendung von Sanktionen."
+      ]
+     },
+     {
+      "h": "Parteispenden",
+      "t": [
+       "Spenden gehen an Parteien, nicht an einzelne Abgeordnete. Ab 35.000 Euro müssen sie der Bundestagspräsidentin sofort gemeldet und veröffentlicht werden. Im Wahljahr 2025 erhielten CDU und CSU nach Zählung von Medien zusammen knapp 7,9 Millionen Euro an Großspenden, davon die CDU rund 6,7 Millionen in 69 Einzelspenden und die CSU 1,24 Millionen in elf. Abgeordnetenwatch kommt für die CDU auf 6,32 Millionen, weil es nach Eingangsjahr zählt. Die AfD folgt mit 5,16 Millionen, die FDP mit 3,2 Millionen, die SPD mit 2,25 Millionen.",
+       "Die größte Einzelspende an eine Unionspartei lag bei 500.000 Euro. Der Aktien- und Kryptodienst Bitpanda gab je 500.000 Euro an CDU, SPD und FDP und 250.000 Euro an die CSU.",
+       "Nach Angaben der Bundesregierung, über die der SPIEGEL berichtete, trafen CDU-Regierungsmitglieder 2025 mindestens 17 Mal Milliardäre oder Unternehmensvertreter, die im selben Jahr an die Partei spendeten. Das belegt Treffen und Spenden im selben Jahr, aber keinen Zusammenhang. Lobbycontrol erklärt die höheren Summen der Union damit, dass sie Unternehmen und Vermögenden politisch näherstehe."
+      ]
+     },
+     {
+      "h": "Abstimmungen und Anwesenheit",
+      "t": [
+       "Seit der Konstituierung im März 2025 zählte die Statistik bis Mitte Dezember 37 namentliche Abstimmungen. Die Linke hat mit fast jedem fünften fehlenden Abgeordneten die größte Fehlquote. Union und SPD schneiden deutlich besser ab. ZDFheute weist darauf hin, dass Koalitionsfraktionen vermutlich häufiger auf jede Stimme angewiesen sind. Gründe für Abwesenheit, etwa Krankheit oder Dienstreisen, gehen aus den Daten nicht hervor. Eine genaue Unionszahl nennt die Quelle nicht, wir haben sie nicht selbst berechnet."
+      ]
+     },
+     {
+      "h": "Fünf Fälle, die in den Daten auffallen",
+      "t": [
+       "Wir stellen fünf Abgeordnete der Union heraus. Das ist keine Wertung ihrer Person. Maßstab sind öffentliche Angaben, die bei der Auswertung von abgeordnetenwatch, SPIEGEL und anderen besonders ins Auge fallen: Höhe der Einkünfte, Zahl der Beteiligungen, mögliche Nähe zwischen Nebentätigkeit und Ausschussarbeit, Umgang mit Meldepflichten. Alles ist erlaubt und gemeldet, soweit nicht anders vermerkt. Ein Interessenkonflikt ist damit nicht belegt. Die Reihenfolge ist keine Rangliste.",
+       "1. Alexander Engelhard (CSU), Betreiber einer Bio-Getreidemühle. Er meldete seit Beginn der Wahlperiode rund 1,5 Millionen Euro und liegt damit auf Platz 2 aller Abgeordneten (eine andere Auswertung nennt 1,76 Millionen). Er gehört dem Agrarausschuss an. Zu einem möglichen Interessenkonflikt äußerte er sich laut abgeordnetenwatch auch auf wiederholte Nachfrage nicht. Gemeldet werden Einkünfte aus dem Betrieb, nicht der Gewinn. Eine frühere taz-Rechnung für die Vorperiode kam auf deutlich niedrigere Gewinne.",
+       "2. Fritz Güntzler (CDU), Platz 4 aller Abgeordneten mit 425.000 Euro. Die Einkünfte stammen laut Tagesspiegel vor allem aus Gewinnbeteiligungen an zwei Steuerberatungskanzleien.",
+       "3. Christian von Stetten (CDU) meldet 16 direkte und indirekte Beteiligungen an Unternehmen aus Bau, Immobilien und Energie. Das ist nach abgeordnetenwatch ein Beispiel für besonders viele Beteiligungen. Insgesamt melden 67 Abgeordnete solche Anteile.",
+       "4. Lars Rohwer (CDU) erhält Vergütungen als Aufsichtsratsmitglied des Kohlekonzerns LEAG. Er sitzt im Ausschuss für Wirtschaft und Energie, der sich unter anderem mit den Entschädigungen für den Kohleausstieg befasst hat. Abgeordnetenwatch nennt das einen möglichen Interessenkonflikt. Eine Stellungnahme von ihm liegt uns nicht vor.",
+       "5. Julia Klöckner (CDU), seit 2025 Bundestagspräsidentin. Nach Recherchen von abgeordnetenwatch gehörte sie seit Februar 2022 dem Beraterkreis eines Wirtschaftsclubs an und meldete das erst nach über einem Jahr und nach Nachfrage nach. Sie schrieb, die Tätigkeit sei unentgeltlich. Die Bundestagsverwaltung stufte sie als anzeigepflichtig ein, Folgen hatte es nicht. Auffällig ist die Rolle: Als Präsidentin soll sie Verstöße anderer ahnden. Das Verfahren sieht vor, dass über eigene Verstöße ihre Stellvertreter entscheiden.",
+       "Wichtig: Die Fälle sind unterschiedlich. Bei Engelhard, Güntzler und von Stetten geht es um Höhe und Umfang, bei Rohwer um mögliche Nähe zur Ausschussarbeit, bei Klöckner um eine verspätete Meldung. Keiner der fünf ist nach unseren Quellen eines Rechtsverstoßes überführt, außer der verspäteten Meldung im Fall Klöckner, die nicht geahndet wurde."
+      ]
+     },
+     {
+      "h": "Was die Union selbst getan hat",
+      "t": [
+       "Nach der Maskenaffäre 2021 einigten sich Union und SPD auf schärfere Transparenzregeln, darunter eine euro-genaue Angabe von Nebeneinkünften. Die Unionsfraktion legte einen Zehn-Punkte-Plan vor, der bezahlte Interessenvertretung gegenüber Regierung und Bundestag verbieten sollte. Mehrere CDU-Politiker sahen damals kein strukturelles Problem, Transparency Deutschland hielt die Pläne für nicht weitgehend genug."
+      ]
+     },
+     {
+      "h": "Was offen oder nicht geprüft ist",
+      "t": [
+       "Nicht ausgewertet haben wir das Lobbyregister nach einzelnen Abgeordneten sowie Abstimmungsverhalten zu einzelnen Gesetzen. Die Nebeneinkünfte beruhen auf Selbstauskünften. Vermögen wird nicht gemeldet. Zahlen von Medien und abgeordnetenwatch können von den Übersichten der Bundestagsverwaltung abweichen. Das Privatleben der Abgeordneten ist nicht Gegenstand dieser Reihe."
+      ]
+     },
+     {
+      "h": "Unsere Einordnung",
+      "t": [
+       "Die Union ist die größte Fraktion und führt bei Nebeneinkünften (Anteil) und Großspenden an ihre Parteien. Das ist legal und öffentlich. Ob es ein Problem ist, hängt von der Frage ab, ob Nebentätigkeit und Mandat in Konflikt geraten und ob Spenden Zugang erkaufen. Beides zeigen die Daten nicht. Sie zeigen nur Umfang und Richtung. Pro: Transparenz ist inzwischen höher als vor 2021. Kontra: Sanktionen bei Verstößen blieben bisher selten."
+      ]
+     }
+    ],
+    "quellen": [
+     {
+      "titel": "Wikipedia: 21. Deutscher Bundestag (Sitzverteilung)",
+      "url": "https://de.wikipedia.org/wiki/21._Deutscher_Bundestag"
+     },
+     {
+      "titel": "Koalitions-Rechner: Sitzverteilung Bundestag",
+      "url": "https://koalitions-rechner.de/sitzverteilung-bundestag.html"
+     },
+     {
+      "titel": "abgeordnetenwatch/SPIEGEL: Mehr als 10 Millionen Euro Nebeneinkünfte (22.6.2026)",
+      "url": "https://www.abgeordnetenwatch.de/presse/pressemitteilungen/mehr-als-10-millionen-euro-nebeneinkuenfte-jeder-dritte-abgeordnete-verdient-neben-dem-mandat"
+     },
+     {
+      "titel": "abgeordnetenwatch: Die vollständige Liste der Nebeneinkünfte",
+      "url": "https://www.abgeordnetenwatch.de/recherchen/nebentaetigkeiten/diese-nebeneinkuenfte-haben-die-abgeordneten-im-bundestag"
+     },
+     {
+      "titel": "parlamentjobs.de: Nebeneinkünfte im Bundestag, Regeln",
+      "url": "https://parlamentjobs.de/nebeneinkuenfte-bundestag/"
+     },
+     {
+      "titel": "abgeordnetenwatch: Klöckner und der exklusive Lobbyclub (261 Verstöße)",
+      "url": "https://www.abgeordnetenwatch.de/recherchen/interessenkonflikte/julia-kloeckner-und-der-exklusive-lobbyclub"
+     },
+     {
+      "titel": "Schwäbische: Union sahnt bei Parteispenden ab",
+      "url": "https://www.schwaebische.de/politik/kaum-bekannte-partei-bekommt-viel-geld-von-spendern-4410739"
+     },
+     {
+      "titel": "Berliner Zeitung: Großspenden 2025",
+      "url": "https://www.berliner-zeitung.de/news/wahljahr-2025-diese-partei-erhielt-am-meisten-spenden-li.10012173"
+     },
+     {
+      "titel": "abgeordnetenwatch: Lobbytreffen der Regierung mit Großspendern",
+      "url": "https://www.abgeordnetenwatch.de/node/6378"
+     },
+     {
+      "titel": "Bundestag: Parteispenden, Meldegrenze 35.000 Euro",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2024/kw51-parteispenden-1034090"
+     },
+     {
+      "titel": "ZDFheute: Wer am häufigsten bei Abstimmungen fehlt",
+      "url": "https://www.zdfheute.de/politik/deutschland/bundestag-abgeordnete-fehlen-abstimmungen-statistik-100.html"
+     },
+     {
+      "titel": "Tagesspiegel: Union schlägt Zehn-Punkte-Plan vor (2021)",
+      "url": "https://www.tagesspiegel.de/politik/union-schlagt-zehn-punkte-plan-fur-mehr-transparenz-vor-5392102.html"
+     },
+     {
+      "titel": "t-online: Laschet zur Maskenaffäre (2021)",
+      "url": "https://www.t-online.de/nachrichten/deutschland/id_89616264/maskenaffaere-rufe-nach-konsequenzen-mehren-sich-armin-laschet-warnt.html"
+     },
+     {
+      "titel": "Tagesspiegel: Nick hat die höchsten Nebeneinkünfte (Platz 2 und 4)",
+      "url": "https://www.tagesspiegel.de/politik/27-millionen-euro-seit-beginn-der-wahlperiode-grunen-politikerin-nick-hat-die-hochsten-nebeneinkunfte-im-bundestag-15744514.html"
+     },
+     {
+      "titel": "agrarheute: Agrarpolitiker mit den höchsten Nebeneinkünften",
+      "url": "https://www.agrarheute.com/politik/bundestag-diese-agrarpolitiker-haben-hoechsten-nebeneinkuenfte-641392"
+     },
+     {
+      "titel": "taz: Union beim Nebenverdienst vorn (Vorperiode)",
+      "url": "https://taz.de/Nebeneinkuenfte-der-Abgeordneten/!5936478/"
+     }
+    ],
+    "stand": "15.11.2026"
+   }
+  ],
   "motiv": "hemicycle"
  },
  {
