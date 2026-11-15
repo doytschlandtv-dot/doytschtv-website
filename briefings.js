@@ -111,6 +111,87 @@ window.BRIEFINGS = [
       ]
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "Spritpreisdeckel: Greift er je?",
+    "caption": "Die SPD verlangt von Wirtschaftsministerin Reiche (CDU) einen schärferen Spritpreisdeckel. Nach dem Entwurf greift er nur, wenn Benzin oder Diesel drei Wochen in Folge um mehr als fünf Prozentpunkte stärker steigen als im EU-Schnitt, und höchstens drei Monate. SPD-Fraktionschef Miersch sagt, der Deckel hätte in den letzten zehn Jahren kein einziges Mal gegriffen. Der Tankrabatt läuft Ende Dezember aus, der Deckel soll Anfang 2027 folgen. Unsere Frage: Sollen Höchstpreise für Sprit möglich sein, auch wenn sie nur selten greifen? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #spritpreise #spritpreisdeckel #tankrabatt #reiche #spd #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Der Spritpreisdeckel kommt. Greift er je?",
+      "kicker": "Berlin · Spritpreisdeckel",
+      "bild": {
+       "url": "cover-spritpreisdeckel-2026-11-15.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Samstag, 14. November",
+      "titel": "Die SPD hält Reiches Spritpreisdeckel für zu schwach.",
+      "text": "SPD-Fraktionschef Miersch verlangt von Wirtschaftsministerin Reiche (CDU), den Gesetzentwurf zu ändern. Der Deckel hätte laut Miersch „in den letzten zehn Jahren kein einziges Mal gegriffen“. Generalsekretär Klüssendorf fordert Höchstpreise, Margenbegrenzung und eine Übergewinnsteuer.",
+      "quelle": "dpa-AFX, 14.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "Kein Mal",
+      "text": "So oft wurde die Schwelle des Entwurfs seit Anfang März erreicht, laut AFP. Sie liegt bei mehr als fünf Prozentpunkten über dem EU-Schnitt, drei Wochen in Folge.",
+      "quelle": "AFP (web.de, 2.11.2026); dpa-AFX, 14.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was für dich gilt",
+      "titel": "Was das für dich heißt.",
+      "punkte": [
+       {
+        "kopf": "Ende Dezember",
+        "text": "Der Tankrabatt läuft aus. Ein neuer ist laut Entwurf wegen der Haushaltslage ausgeschlossen."
+       },
+       {
+        "kopf": "Ab 1. Januar 2027",
+        "text": "Der Deckel soll gelten, höchstens drei Monate. Er ist keine automatische Bremse, sondern die rechtliche Grundlage."
+       },
+       {
+        "kopf": "Wann er greift",
+        "text": "Wenn Sprit drei Wochen in Folge um mehr als fünf Punkte stärker steigt als im EU-Schnitt."
+       },
+       {
+        "kopf": "Mitte Dezember",
+        "text": "Letzte Sitzungswoche des Bundestags. Bis dahin muss das Gesetz stehen, sagt Miersch."
+       }
+      ],
+      "quelle": "dpa-AFX, 14.11.2026; web.de, 2.11.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Das Vorbild gilt dauerhaft. Der Entwurf nicht.",
+      "text": "Die Koalitionsspitzen wollten Mitte September einen Deckel nach dem Vorbild Luxemburgs und Belgiens. Dort gelten solche Regeln laut Handelsblatt-Bericht dauerhaft, anders als im deutschen Entwurf. Das Ministerium nennt Höchstpreise einen schwerwiegenden Eingriff, nur im äußersten Notfall.",
+      "quelle": "ZDFheute, 2.11.2026; web.de (Handelsblatt), 2.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Beide Seiten",
+      "titel": "Zwei Sichtweisen.",
+      "punkte": [
+       {
+        "kopf": "Die Kritiker",
+        "text": "SPD: Der Entwurf begrenze die Gewinne der Ölindustrie nicht. Energieökonomin Kemfert: „Entlastung mit angezogener Handbremse“."
+       },
+       {
+        "kopf": "Das Ministerium",
+        "text": "Zu niedrige Höchstpreise könnten Importe unwirtschaftlich machen. Als Warnung nennt der Entwurf Ungarn, dessen Deckel aufgehoben wurde."
+       }
+      ],
+      "quelle": "web.de (Handelsblatt, AFP), 2.11.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Sollen Höchstpreise für Sprit möglich sein, auch wenn sie nur selten greifen?"
+     }
+    ]
    }
   ],
   "storys": [

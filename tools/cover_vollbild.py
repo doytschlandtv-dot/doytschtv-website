@@ -7,7 +7,7 @@ foto,kicker,schwarz,rot,credit,pill,out=sys.argv[1:8]
 fx=sys.argv[8] if len(sys.argv)>8 else '50%';fy=sys.argv[9] if len(sys.argv)>9 else '50%'
 html=f'''<!doctype html><meta charset=utf-8><link rel=stylesheet href=fonts.css><style>
 body{{margin:0;width:1080px;height:1440px;position:relative;overflow:hidden;background:#0a0a0a url({foto}) {fx} {fy}/cover}}
-.g{{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.72) 0,rgba(10,10,10,.15) 24%,rgba(10,10,10,.1) 38%,rgba(10,10,10,.82) 66%,rgba(10,10,10,.96) 100%)}}
+.g{{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,10,.72) 0,rgba(10,10,10,.15) 24%,rgba(10,10,10,.1) 34%,rgba(10,10,10,.86) 58%,rgba(10,10,10,.96) 100%)}}
 .mk{{position:absolute;left:60px;top:46px;width:76px;height:76px;border-radius:50%;background:#b3151b;color:#fff;font:700 47px/76px "Bodoni Moda",serif;text-align:center}}
 .logo{{position:absolute;top:44px;left:158px;font:700 48px/1.2 "Playfair Display",serif;color:#fff}}
 .logo i{{font-style:normal;color:#ff5a52}}
