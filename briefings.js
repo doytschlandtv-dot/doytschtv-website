@@ -23,7 +23,46 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Stromsteuer: Merz kündigt Einigung im Koalitionsausschuss an",
+    "Karlsruhe weist Klagen gegen Sonderkündigungsrecht für TV-Verträge ab",
+    "Ruanda: SPD kritisiert Dobrindts Pläne für ein Abschiebezentrum",
+    "Schwesig in Mecklenburg-Vorpommern wiedergewählt"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Montag, 16. November.",
+    "Stromsteuer: Kanzler Friedrich Merz hat nach einer Sitzung des CSU-Vorstands in München angekündigt, dass der Koalitionsausschuss am Dienstag die Senkung der Stromsteuer beschließen wird. Laut Reuters sagte er: „Wir werden uns morgen einigen.“ Die Steuer solle 2027 auch für private Haushalte auf das europäische Minimum sinken. Vizekanzler Lars Klingbeil (SPD) hatte sich offen gezeigt, aber eine Gegenfinanzierung verlangt. Nach Angaben von GMX fehlen für die Senkung noch knapp 5,4 Milliarden Euro. Eine Bestätigung der SPD zu Merz' Ankündigung lag uns in den gelesenen Quellen nicht vor. Unsere Einordnung: Bis zum Beschluss ist das eine Ankündigung des Kanzlers, keine Einigung der Koalition (ZDFheute, Reuters, GMX, 16.11.).",
+    "Bundesverfassungsgericht: Das Gericht hat die Verfassungsbeschwerden dreier Kabelnetzbetreiber gegen das Sonderkündigungsrecht für alte Fernsehverträge zurückgewiesen. Vermieter durften Sammelverträge nach dem Wegfall des Nebenkostenprivilegs zum 1. Juli 2024 fristlos kündigen, ohne Schadensersatz. Laut Gericht ist der Eingriff in Eigentums- und Berufsfreiheit verhältnismäßig. Gerichtspräsident Stephan Harbarth sprach laut dpa von einer „erheblichen Belastung“ der Netzbetreiber, der Gesetzgeber habe seinen Gestaltungsspielraum aber noch nicht überschritten (Bundesverfassungsgericht, Pressemitteilung 73/2026; dpa, 16.11.).",
+    "Ruanda: Innenminister Alexander Dobrindt (CSU) verhandelt laut ZDFheute mit Dänemark, Österreich, den Niederlanden und Griechenland über ein Rückführungszentrum in Ruanda. In einer ersten Phase gehe es um eine niedrige dreistellige Zahl abgelehnter Asylbewerber, im Haushalt seien 20 Millionen Euro für Migrationskooperationen und ein Modellprojekt vorgesehen. Die SPD kritisiert die Pläne, unter anderem wegen der Kosten. Ein Regierungssprecher sagte, es gebe in der Koalition noch keine abschließende Entscheidung. Menschenrechtsorganisationen warnen laut ZDFheute vor willkürlicher Haft und fehlendem Schutz. Der britische Supreme Court erklärte den britischen Ruanda-Plan im November 2023 für rechtswidrig. Unsere Einordnung: Bei Abschiebungen in Drittstaaten kommt es auf rechtsverbindliche Schutzgarantien an (ZDFheute, 16.11.).",
+    "Mecklenburg-Vorpommern: Der Landtag hat Manuela Schwesig (SPD) erneut zur Ministerpräsidentin gewählt. Sie erhielt im ersten Wahlgang 39 von 68 abgegebenen Stimmen, so viele, wie die Koalition aus SPD, Linken und Grünen Abgeordnete hat. Laut ZDFheute wurde das Bündnis möglich, weil keine Partei mit der AfD koalieren wollte (ZDFheute, 16.11.).",
+    "Morgen: Der Koalitionsausschuss tagt, neben der Stromsteuer nennt Merz laut Reuters auch Rente und Wahlrecht als Themen. Um 11 Uhr erscheinen die ZEW-Konjunkturerwartungen, die EU-Kommission legt ihre Herbstprognose vor, und in Frankreich ist in der Tagesvorschau ein Generalstreik vermerkt (dpa-AFX, Tagesvorschau, 16.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 16.11.2026"
+    },
+    {
+     "titel": "Reuters, 16.11.2026"
+    },
+    {
+     "titel": "GMX, 16.11.2026"
+    },
+    {
+     "titel": "Bundesverfassungsgericht, Pressemitteilung 73/2026, 16.11.2026"
+    },
+    {
+     "titel": "dpa, 16.11.2026"
+    },
+    {
+     "titel": "dpa-AFX, Tagesvorschau, 16.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,

@@ -2,37 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-16T05:58:00+01:00",
+ "stand": "2026-11-16T21:24:00+01:00",
  "items": [
   {
-   "z": "2026-11-15T13:33:00+01:00",
-   "t": "Zum Volkstrauertag spricht Österreichs Bundespräsident Van der Bellen bei der zentralen Gedenkveranstaltung im Bundestag, Steinmeier das Totengedenken",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/deutschland/volkstrauertag-gedenken-krieg-veranstaltung-gedenktag-berlin-100.html"
+   "z": "2026-11-16T10:26:00+01:00",
+   "t": "Das Bundesverfassungsgericht weist die Verfassungsbeschwerden dreier Kabelnetzbetreiber gegen das Sonderkündigungsrecht für alte Fernsehverträge zurück",
+   "q": "dpa/Radio Bochum",
+   "u": "https://www.radiobochum.de/dpa/kein-erfolg-fuer-klagen-gegen-sonderkuendigung-fuer-tv-vertraege-2807508"
   },
   {
-   "z": "2026-11-15T17:46:00+01:00",
-   "t": "Die iranischen Revolutionsgarden melden laut ZDFheute erneut Explosionen an Schiffen in der Straße von Hormus; zwei Öltanker seien auf Seeminen gefahren, die Besatzung ist laut UKMTO vollzählig und sicher (Eigenangabe, unabhängig nicht geprüft)",
+   "z": "2026-11-16T13:25:00+01:00",
+   "t": "Manuela Schwesig wird vom Landtag mit 39 von 68 Stimmen zur Ministerpräsidentin von Mecklenburg-Vorpommern wiedergewählt",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   "u": "https://www.zdfheute.de/politik/deutschland/manuela-schwesig-spd-mecklenburg-vorpommern-wahl-ministerpraesidentin-100.html"
   },
   {
-   "z": "2026-11-15T18:23:00+01:00",
-   "t": "Estland schließt laut Außenminister Tsahkna ab 1. Dezember alle Grenzübergänge zu Russland, nachdem ein Brandanschlag auf einen Drohnenhersteller laut estnischen Behörden vom russischen Geheimdienst GRU gesteuert wurde",
+   "z": "2026-11-16T16:00:00+01:00",
+   "t": "Die SPD kritisiert Innenminister Dobrindts Pläne für ein Rückführungszentrum in Ruanda; laut Regierungssprecher gibt es noch keine abschließende Entscheidung",
    "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/ausland/estland-grenze-russland-sabotage-drohnenhersteller-100.html"
+   "u": "https://www.zdfheute.de/politik/ruanda-abschiebungen-hubs-dobrindt-spd-100.html"
   },
   {
-   "z": "2026-11-15T18:39:00+01:00",
-   "t": "Hubertus Heil kandidiert laut ZDFheute als Erster für den SPD-Vorsitz; gewählt wird in zwei Monaten beim Bundesparteitag in Bremen",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/deutschland/spd-vorsitz-kandidatur-hubertus-heil-andreas-schmidt-cdu-100.html"
-  },
-  {
-   "z": "2026-11-15T18:40:00+01:00",
-   "t": "In Prag demonstrieren laut Veranstaltern 350.000 bis 400.000 Menschen gegen die geplante Abschaffung der Rundfunkgebühr",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/ausland/tschechien-demo-medien-reform-protest-100.html"
+   "z": "2026-11-16T16:18:00+01:00",
+   "t": "Kanzler Merz kündigt an, dass der Koalitionsausschuss am Dienstag die Stromsteuersenkung für 2027 beschließen wird; nach GMX-Angaben fehlen dafür noch knapp 5,4 Milliarden Euro",
+   "q": "GMX",
+   "u": "https://www.gmx.net/magazine/politik/inland/union-haelt-stromsteuersenkung-muetterrente-fest-42949482"
   }
  ]
 };
