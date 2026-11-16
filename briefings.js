@@ -1,5 +1,143 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-16",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Stromsteuer für alle: Streit vor dem Koalitionsausschuss",
+    "Hubertus Heil kandidiert für den SPD-Vorsitz",
+    "Kassenärzte: Selbstzahler-Termine beim Facharzt?",
+    "Kabinett billigt Elterngeldreform",
+    "Montag: Urteil zu TV-Verträgen in Karlsruhe"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Montag, den 16. November.",
+    "Stromsteuer: Kanzler Friedrich Merz hält laut ZDFheute daran fest, die Stromsteuer auch für private Haushalte auf das EU-Minimum von 0,1 Cent je Kilowattstunde zu senken, derzeit sind es 2,05 Cent. Vizekanzler Lars Klingbeil (SPD) ist offen dafür, verlangt aber eine Gegenfinanzierung. Die Kosten liegen laut ZDFheute bei rund 5,4 Milliarden Euro und sind im Haushalt 2027 nicht eingeplant. Am Dienstag befasst sich der Koalitionsausschuss erneut damit (ZDFheute, 13. und 15.11.). Das ist unser Karussell des Tages.",
+    "SPD-Vorsitz: Der frühere Arbeitsminister Hubertus Heil hat sich laut ZDFheute als Erster offiziell um den Parteivorsitz beworben. Der Parteitag wählt am 16. und 17. Januar in Bremen. Bis Mitte Dezember wollen Präsidium und Parteivorstand einen Personalvorschlag machen, sagte Generalsekretär Tim Klüssendorf (ZDFheute, 14.11.).",
+    "Facharzttermine: Der Chef der Kassenärztlichen Bundesvereinigung, Andreas Gassen, hält es laut ZDFheute für wahrscheinlich, dass es wegen Honorarkürzungen Angebote gibt, bei denen Versicherte für einen schnelleren Termin selbst zahlen. Er nennt Kürzungen von drei Milliarden Euro. Klingbeil sagte, das sei mit der SPD nicht zu machen, und verwies auf die vereinbarte Termingarantie (ZDFheute, 14.11.).",
+    "Elterngeld: Das Kabinett hat laut ZDFheute die Reform von Familienministerin Karin Prien (CDU) gebilligt. Die Bezugsdauer bleibt bei 14 Monaten, je Elternteil sind vier Monate reserviert, der Mindestsatz steigt von 300 auf 320 Euro, der Höchstsatz von 1.800 auf 1.900 Euro. Die Regeln sollen ab 1. November 2027 gelten. Als Nächstes befasst sich der Bundestag damit (ZDFheute, 13.11.).",
+    "Heute: Um 10 Uhr verkündet das Bundesverfassungsgericht in Karlsruhe sein Urteil zum Sonderkündigungsrecht bei Fernsehverträgen (Bezugsverträge Telekommunikationsdienste, laut BVerfG). Um 11 Uhr findet der Nationale Stahlgipfel in Salzgitter statt, ebenfalls um 11 Uhr treffen sich die EU-Außenminister in Brüssel (dpa-AFX, Tagesvorschau, 16.11.).",
+    "Diese Woche: Am Dienstag tagt der Koalitionsausschuss, außerdem erscheinen die ZEW-Konjunkturerwartungen. Am Mittwoch stellt die EZB ihren Finanzstabilitätsbericht vor, am Donnerstag verhandelt der Bundesgerichtshof über Impfschäden nach Corona-Impfung. Am Freitag, 27. November, steht die Schlussabstimmung zum Haushalt 2027 an (dpa-AFX, Wochenvorschau, 13.11.; ZDFheute, 15.11.).",
+    "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Stromsteuer für alle: Kommt die Senkung?",
+    "caption": "Kanzler Merz will die Stromsteuer auch für private Haushalte auf das EU-Minimum senken, derzeit sind es 2,05 Cent je Kilowattstunde, künftig 0,1 Cent. Die SPD verlangt eine Gegenfinanzierung, die Kosten liegen laut ZDFheute bei rund 5,4 Milliarden Euro und sind im Haushalt 2027 nicht eingeplant. Laut Verivox-Rechnung sparte ein Drei-Personen-Haushalt mit 4.000 Kilowattstunden rund 7,75 Euro im Monat. Am Dienstag berät der Koalitionsausschuss erneut. Unsere Frage: Soll die Stromsteuer für alle sinken, wenn die Gegenfinanzierung noch offen ist? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #stromsteuer #strompreis #koalitionsausschuss #merz #klingbeil #haushalt2027 #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Stromsteuer für alle: Kommt die Senkung?",
+      "kicker": "Berlin · Stromsteuer",
+      "bild": {
+       "url": "cover-stromsteuer-2026-11-16.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Sonntag, 15. November",
+      "titel": "Stromsteuer für alle: Merz hält am Ziel fest, die SPD zögert.",
+      "text": "Kanzler Merz will die Stromsteuer auch für private Haushalte auf das EU-Minimum senken. Vizekanzler Klingbeil ist offen dafür, verlangt aber eine Gegenfinanzierung. Am Dienstag berät der Koalitionsausschuss erneut.",
+      "quelle": "ZDFheute, 13.11.2026 und 15.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "5,4 Mrd. €",
+      "text": "So viel kostet die Senkung laut ZDFheute. Im Haushalt 2027 ist das Geld nicht eingeplant. Klingbeil sagt, die nötigen fünf Milliarden seien bisher nicht gefunden.",
+      "quelle": "ZDFheute, 13.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was für dich gilt",
+      "titel": "Was das für dich heißt.",
+      "punkte": [
+       {
+        "kopf": "Heute",
+        "text": "Die Stromsteuer liegt bei 2,05 Cent je Kilowattstunde. Das EU-Minimum beträgt 0,1 Cent."
+       },
+       {
+        "kopf": "Mögliche Entlastung",
+        "text": "Laut Verivox rund 7,75 € im Monat bei 4.000 kWh im Drei-Personen-Haushalt, inklusive MwSt."
+       },
+       {
+        "kopf": "Dienstag",
+        "text": "Der Koalitionsausschuss berät erneut über die Senkung."
+       },
+       {
+        "kopf": "27. November",
+        "text": "Schlussabstimmung zum Haushalt 2027. Änderungsanträge folgen zwischen 24. und 26. November."
+       }
+      ],
+      "quelle": "ZDFheute, 13.11.2026 und 15.11.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Bisher gilt die Senkung nur für Unternehmen.",
+      "text": "Gesenkt wurde die Stromsteuer bislang nur für Industrie, produzierendes Gewerbe sowie Land- und Forstwirtschaft. Die Senkung für alle steht laut ZDFheute an zwei Stellen im Koalitionsvertrag. Die Nettokreditaufnahme im Haushaltsentwurf liegt laut ZDFheute bei über 210 Milliarden Euro.",
+      "quelle": "ZDFheute, 13.11.2026 und 15.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Beide Seiten",
+      "titel": "Zwei Sichtweisen.",
+      "punkte": [
+       {
+        "kopf": "Kanzler Merz",
+        "text": "Er hält am Ziel fest, die Stromsteuer auf das europäische Minimum zu senken, schon zum Jahresbeginn."
+       },
+       {
+        "kopf": "SPD",
+        "text": "Klingbeil: offen, aber nur mit Gegenfinanzierung. Miersch: Eine Einkommensteuersenkung entlaste Familien mit etwa 600 statt 100 Euro im Jahr."
+       }
+      ],
+      "quelle": "ZDFheute, 13.11.2026 und 15.11.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Soll die Stromsteuer für alle sinken, wenn die Gegenfinanzierung noch offen ist?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "typ": "betrifft",
+    "band": "Briefing",
+    "label": "Gestern und zuletzt",
+    "titel": "Was am Wochenende wichtig war",
+    "punkte": [
+     {
+      "kopf": "Stromsteuer",
+      "text": "Merz will sie für alle senken, die SPD verlangt Gegenfinanzierung. Dienstag tagt der Koalitionsausschuss."
+     },
+     {
+      "kopf": "SPD-Vorsitz",
+      "text": "Hubertus Heil kandidiert als Erster. Gewählt wird am 16. und 17. Januar in Bremen."
+     },
+     {
+      "kopf": "Facharzttermine",
+      "text": "KBV-Chef Gassen hält Selbstzahler-Angebote für wahrscheinlich. Klingbeil lehnt das ab."
+     },
+     {
+      "kopf": "Elterngeld",
+      "text": "Kabinett billigt Reform: 14 Monate, vier je Elternteil reserviert, ab 1. November 2027."
+     }
+    ],
+    "quelle": "ZDFheute, 13. und 14.11.2026"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-15",
   "morgen": {
    "titel": "Morning Briefing",

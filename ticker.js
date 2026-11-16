@@ -2,7 +2,7 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-15T21:20:00+01:00",
+ "stand": "2026-11-16T05:58:00+01:00",
  "items": [
   {
    "z": "2026-11-15T13:33:00+01:00",
