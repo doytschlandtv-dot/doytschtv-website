@@ -22,7 +22,37 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Ukraine: Krim-Brücke bei Angriff teilweise eingestürzt, Berlin finanziert Luftabwehr mit 300 Millionen Dollar",
+    "Deutsche Bank: Leak mit mehr als 15 Millionen Dokumenten, Vorwürfe zu internen Kontrollen",
+    "Elterngeld: ZEW sieht Einbußen vor allem für Mütter mit kleinen und mittleren Einkommen",
+    "Bundespolitik: Forderung nach Übergewinnsteuer, Brunnermeier als EZB-Chefökonom vorgeschlagen"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Dienstag, 17. November.",
+    "Erstens: Ukraine. Die Krim-Brücke ist nach einem ukrainischen Angriff teilweise eingestürzt. Präsident Selenskyj bestätigte, dass sein Militär die Brücke getroffen hat. Laut ZDFheute ist der Hauptbogen der Straßenbrücke mit einem Teil der Fahrbahn eingestürzt. Russland bestätigt nach diesen Angaben nur kleinere Schäden, der Verkehr ist laut dem Gouverneur unterbrochen; Moskau hat ein Terrorismusverfahren eröffnet. Das sind Angaben der Konfliktparteien, unabhängig überprüft ist davon wenig. Zugleich griff Russland in der Nacht zwei Brücken über den Dnipro und Infrastruktur in Kiew an. Deutschland stellt ein weiteres Paket von 300 Millionen Dollar für Luftverteidigung bereit, über das Purl-Programm, bei dem Verbündete US-Waffen kaufen; das sagte Verteidigungsminister Pistorius vor dem EU-Verteidigungsrat. Unsere Einordnung: Nach dem Völkerrecht sind Brücken nur dann legitime Ziele, wenn sie einem militärischen Zweck dienen; bei Angriffen auf zivile Infrastruktur in Kiew gilt das nicht ohne Weiteres (ZDFheute, 17.11., 12:56 Uhr; ZDFheute-Newsticker, 17.11., 10:11, 10:33 und 11:05 Uhr).",
+    "Zweitens: Deutsche Bank. Ein Medienverbund aus ZDF frontal, Spiegel und weiteren Redaktionen hat laut ZDFheute mehr als 15 Millionen interne Dokumente der Bank ausgewertet, darunter über neun Millionen E-Mails, die zwei Whistleblower weitergegeben haben. Die Recherche erhebt Vorwürfe zu vernachlässigten Kontrollen bei Geldwäsche und im Umgang mit schwierigen Kunden. Laut dem Artikel verschickte die Bank im März 2017 Finanzunterlagen zu 1.586 Konten an einen Buchhalter in Maine und entschied intern, Betroffene nicht zu informieren; Konzernchef Christian Sewing soll das mit einem knappen Ok abgesegnet haben. Die Bank wollte den Vorfall nach Angaben des Artikels nicht kommentieren. Es gilt die Unschuldsvermutung (ZDFheute, 17.11., 12:51 Uhr; ZDFheute-Newsticker, 17.11., 13:44 Uhr).",
+    "Drittens: Elterngeld. Laut einer ZEW-Analyse würden bei der geplanten Reform vor allem Mütter mit kleinen und mittleren Einkommen verlieren, im Durchschnitt 29 Prozent des Elterngeldes. Grund ist die Anrechnung des Mutterschaftsgeldes auf die Elterngeldmonate (ZDFheute-Newsticker, 17.11., 12:27 Uhr). Unsere Einordnung: Eine Reform, die Familien gezielt entlasten soll, muss sich daran messen lassen, wen sie tatsächlich trifft.",
+    "Viertens: Bundespolitik. Umweltminister Carsten Schneider (SPD) fordert eine Übergewinnsteuer für Ölkonzerne, deren Einnahmen Verbraucher entlasten sollen. Die SPD will das laut dpa beim Koalitionsausschuss am Dienstagabend vorbringen; ein Ergebnis lag uns bis zum Redaktionsschluss nicht vor. Damit bleibt offen, was aus den im Morning Briefing genannten Streitpunkten Stromsteuer, kalte Progression und Spritpreisdeckel geworden ist. Außerdem hat Finanzminister Lars Klingbeil den Ökonomen Markus Brunnermeier als EZB-Chefvolkswirt vorgeschlagen; das Kabinett soll am Mittwoch entscheiden (ZDFheute-Newsticker, 17.11., 10:48 und 12:58 Uhr).",
+    "Morgen: Um 10 Uhr stellt die Europäische Zentralbank in Frankfurt ihren Finanzstabilitätsbericht vor, um 11 Uhr folgen die endgültigen Verbraucherpreise der Eurozone für Oktober. Um 18 Uhr wird in Berlin der Deutsche Zukunftspreis 2026 unter anderem mit Bundespräsident Steinmeier verliehen. Der Deutsche Handelskongress mit Digitalminister Karsten Wildberger findet in Berlin statt; in Shenzhen beginnt der Apec-Gipfel, in Antalya läuft die Weltklimakonferenz COP31 (dpa-AFX, Tagesvorschau 18.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 17.11.2026 (Krim-Brücke, Deutsche-Bank-Leak)"
+    },
+    {
+     "titel": "ZDFheute-Newsticker, 17.11.2026"
+    },
+    {
+     "titel": "dpa-AFX, Tagesvorschau 18.11.2026"
+    }
+   ]
+  },
   "karussells": [],
   "storys": [
    {
