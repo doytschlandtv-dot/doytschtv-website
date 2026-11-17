@@ -1,5 +1,60 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-17",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Stromsteuer: Showdown im Koalitionsausschuss",
+    "Kalte Progression: Lücke von rund 7 Milliarden Euro",
+    "Spritpreisdeckel: Reiches Entwurf",
+    "Rente und Wahlrecht auf der Tagesordnung"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Dienstag, den 17. November.",
+    "Stromsteuer: Kanzler Friedrich Merz will laut dpa-AFX die Stromsteuer für alle ab dem 1. Januar auf das EU-Minimum senken. Das kostet rund 5,4 Milliarden Euro, Union und SPD müssten dafür mehr als 5 Milliarden Euro im Haushalt 2027 finden. Die SPD ist laut dpa-AFX bereit, wenn die Senkung solide finanziert wird; das Finanzministerium von Vizekanzler Lars Klingbeil warnt vor finanzpolitischen Experimenten. Nach Berechnung von Verivox spart ein Dreipersonenhaushalt mit 4.000 Kilowattstunden Jahresverbrauch 7,75 Euro im Monat (dpa-AFX, 17.11.).",
+    "Kalte Progression: Merz sieht darin laut dpa-AFX den zweiten Schmerzpunkt im Haushalt. Der volle Ausgleich kostet Bund, Länder und Kommunen nächstes Jahr rund 4,2 Milliarden Euro, der Bund allein rund 1,8 Milliarden Euro. Klingbeil will bisher nur niedrige und mittlere Einkommen entlasten. Insgesamt fehlen im Haushalt für nächstes Jahr laut dpa-AFX noch etwa 7 Milliarden Euro (dpa-AFX, 17.11.).",
+    "Spritpreisdeckel: Wirtschaftsministerin Katherina Reiche (CDU) hat laut dpa-AFX einen Entwurf, der den Tankrabatt Anfang 2027 ersetzen soll. Er greift nur, wenn die Preise drei Wochen in Folge um mehr als 5 Prozentpunkte stärker steigen als im EU-Schnitt, und gilt höchstens drei Monate. SPD-Generalsekretär Tim Klüssendorf nennt das wirkungslos (dpa-AFX, 17.11.).",
+    "Rente und Wahlrecht: Die Union will laut dpa-AFX einen Termin für den Kabinettsbeschluss zur Rentenreform vor Jahresende. Streitpunkt ist die abschlagsfreie Rente nach 45 Beitragsjahren, die die SPD behalten will. Beim Wahlrecht geht es darum, dass einige direkt gewählte Abgeordnete wegen der Ampel-Reform nicht in den Bundestag einziehen (dpa-AFX, 17.11.).",
+    "Heute: Der Koalitionsausschuss tagt laut dpa-AFX am frühen Abend im Kanzleramt. Um 11:00 Uhr erscheinen die ZEW-Konjunkturerwartungen, um 14:00 Uhr beginnt der Tag der Wohnungswirtschaft mit Bundesbauministerin Verena Hubertz (SPD). In Antalya läuft die UN-Klimakonferenz COP31 (dpa-AFX Tagesvorschau, 17.11.).",
+    "Diese Woche: In Manila wird der Gipfel der Asean-Staaten fortgesetzt (dpa-AFX Tagesvorschau, 17.11.).",
+    "Das Briefing gibt es auch als Story auf Instagram."
+   ]
+  },
+  "abend": null,
+  "karussells": [],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "typ": "betrifft",
+    "band": "Briefing",
+    "label": "Heute im Koalitionsausschuss",
+    "titel": "Worum es heute Abend geht",
+    "punkte": [
+     {
+      "kopf": "Stromsteuer",
+      "text": "Senkung für alle kostet rund 5,4 Mrd. Euro. Die SPD will eine solide Gegenfinanzierung."
+     },
+     {
+      "kopf": "Kalte Progression",
+      "text": "Voller Ausgleich kostet Bund, Länder, Kommunen 4,2 Mrd. Euro. Im Haushalt fehlen rund 7 Mrd."
+     },
+     {
+      "kopf": "Spritpreisdeckel",
+      "text": "Reiches Entwurf greift nur bei Preissprüngen über EU-Schnitt, höchstens drei Monate."
+     },
+     {
+      "kopf": "Rente",
+      "text": "Die Union will einen Kabinettstermin vor Jahresende. Streit um Rente nach 45 Beitragsjahren."
+     }
+    ],
+    "quelle": "dpa-AFX, 17.11.2026"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-16",
   "morgen": {
    "titel": "Morning Briefing",
