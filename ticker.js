@@ -2,25 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-18T05:51:00+01:00",
+ "stand": "2026-11-18T21:20:00+01:00",
  "items": [
   {
-   "z": "2026-11-17T12:56:00+01:00",
-   "t": "Markus Brunnermeier soll laut dpa-AFX neuer EZB-Chefvolkswirt werden; das Kabinett soll am Mittwoch über die Nominierung entscheiden",
-   "q": "dpa-AFX (finanzen.at)",
-   "u": "https://www.finanzen.at/nachrichten/aktien/roundup-deutscher-oekonom-brunnermeier-soll-ezb-chefvolkswirt-werden-1036773446"
+   "z": "2026-11-18T07:37:00+01:00",
+   "t": "Union und SPD haben sich laut ZDFheute im Koalitionsausschuss auf eine Senkung der Stromsteuer für alle geeinigt; sie ist laut Cash. zunächst nur für 2027 finanziert",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/politik/stromsteuer-senkung-beschlossen-100.html"
   },
   {
-   "z": "2026-11-17T17:05:00+01:00",
-   "t": "Die ZEW-Konjunkturerwartungen sind im November laut dpa-AFX um 7,5 auf 35,6 Punkte gestiegen, Volkswirte hatten 28,8 erwartet",
-   "q": "dpa-AFX (ariva.de)",
-   "u": "https://www.ariva.de/news/dpa-afx-ueberblick-konjunktur-vom-17-11-2026-17-00-uhr-12210721"
+   "z": "2026-11-18T09:36:00+01:00",
+   "t": "Laut Cash. hat die Koalition für die Rentenreform einen Kabinettstermin im Dezember vereinbart, bei der kalten Progression gab es keine Einigung",
+   "q": "Cash.",
+   "u": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/"
   },
   {
-   "z": "2026-11-18T04:05:00+01:00",
-   "t": "Die Koalitionsspitzen haben laut Tagesspiegel bis in den frühen Mittwochmorgen verhandelt; laut Parteikreisen gibt es ein Ergebnis, Details sind noch nicht bekannt",
-   "q": "Tagesspiegel",
-   "u": "https://www.tagesspiegel.de/politik/streit-um-stromsteuer-im-koalistionsausschuss-neun-stunden-geredet--und-jetzt-ein-ergebnis-16296823.html"
+   "z": "2026-11-18T11:43:00+01:00",
+   "t": "Das Kabinett hat laut Regierungskreisen Markus Brunnermeier als deutschen Kandidaten für das EZB-Direktorium gebilligt",
+   "q": "WirtschaftsWoche/Reuters",
+   "u": "https://www.wiwo.de/politik/europa/markus-brunnermeier-als-ezb-direktor-kabinett-billigt-offenbar-vorschlag/100270906.html"
+  },
+  {
+   "z": "2026-11-18T19:07:00+01:00",
+   "t": "GLS und DPD wollen in Deutschland fusionieren; das Bundeskartellamt muss laut ZDFheute noch zustimmen",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/wirtschaft/unternehmen/dpd-gls-paket-dienstleister-fusion-100.html"
   }
  ]
 };

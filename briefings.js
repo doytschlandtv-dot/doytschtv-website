@@ -22,7 +22,46 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Koalitionsausschuss: Stromsteuer sinkt 2027, Spritpreisdeckel ab Januar, Rente und kalte Progression offen",
+    "EZB: Kabinett billigt laut Regierungskreisen Brunnermeier als Kandidaten",
+    "Unterhaltsvorschuss: Kabinett bringt Gesetz mit Einkommensgrenze auf den Weg",
+    "Paketmarkt: GLS und DPD wollen in Deutschland fusionieren"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Mittwoch, 18. November.",
+    "Erstens: Koalitionsausschuss. Im Morning Briefing war das Ergebnis noch unter Verschluss, jetzt liegt es vor. Union und SPD haben sich nach rund acht Stunden Beratung darauf geeinigt, die Stromsteuer für alle auf das europäische Mindestmaß zu senken; bisher gilt das nur für bestimmte Unternehmen. Laut Cash. unter Berufung auf das Handelsblatt sinkt der Satz von 2,05 auf 0,1 Cent je Kilowattstunde, und zwar ab dem 1. Januar 2027. Die Kosten liegen laut Weser-Kurier und Cash. bei rund 5,4 Milliarden Euro im Jahr. Gesichert ist die Finanzierung laut diesen Berichten zunächst nur für 2027; das Koalitionspapier setzt für eine dauerhafte Senkung laut Cash. eine nachhaltige Gegenfinanzierung im Bundeshaushalt 2028 voraus. Der Spritpreisdeckel soll ab dem 1. Januar 2027 gelten und den Tankrabatt ablösen; das Kabinett soll laut Weser-Kurier und Cash. am 2. Dezember Gesetzentwurf und Verordnung beschließen, die genaue Ausgestaltung ist noch offen. Bei der Rente gibt es laut Cash. einen festen Termin für den Kabinettsbeschluss, den 9. oder den 16. Dezember; bei der abschlagsfreien Rente nach 45 Beitragsjahren gab es keine Einigung. Die kalte Progression wurde vertagt. Kanzler Merz sagte laut Weser-Kurier, man habe Wort gehalten (Eigenangabe). Unsere Einordnung: Eine Entlastung, die nur für ein Jahr gesichert ist, gibt Haushalten und Betrieben wenig Planungssicherheit (ZDFheute, 18.11., 07:37 Uhr; Cash., 18.11., 09:36 Uhr; Weser-Kurier, 18.11., 18:16 Uhr).",
+    "Zweitens: EZB. Aus dem Morning Briefing: Das Kabinett sollte heute über Markus Brunnermeier als EZB-Chefvolkswirt entscheiden. Laut einer Reuters-Meldung in der WirtschaftsWoche gab das Kabinett am Mittwoch nach Angaben aus Regierungskreisen grünes Licht für den Vorschlag von Finanzminister Klingbeil. Das Verfahren ist Teil eines europäischen Personalpakets; eine offizielle Mitteilung lag uns bis Redaktionsschluss nicht vor, und die Ernennung selbst ist damit noch nicht erfolgt (WirtschaftsWoche/Reuters, 18.11., 11:43 Uhr).",
+    "Drittens: Unterhaltsvorschuss. Laut ZDFheute-Newsticker hat das Kabinett ein Gesetz auf den Weg gebracht, nach dem Alleinerziehende mit mehr als 4.500 Euro brutto im Monat ab 2029 keinen Unterhaltsvorschuss mehr bekommen sollen. Unterhaltspflichtige sollen jederzeit Auskunft geben müssen. 2024 zahlten Bund und Länder dafür rund 3,2 Milliarden Euro. Hier liegt uns nur diese eine Quelle vor (ZDFheute-Newsticker, 18.11., 18:41 Uhr).",
+    "Viertens: Paketmarkt. Die Dienstleister GLS und DPD wollen in Deutschland ein Gemeinschaftsunternehmen gründen. Die Marke DPD soll verschwinden, die Geschäfte laufen dann unter GLS; der GLS-Eigner hält 80 Prozent, der DPD-Eigner 20 Prozent. Das Bundeskartellamt muss noch zustimmen. Nach Angaben der Unternehmen kommt das Gemeinschaftsunternehmen auf mehr als 4 Milliarden Euro Umsatz und rund 15.000 Beschäftigte. Marktführer DHL hat laut Bundesnetzagentur über 40 Prozent Marktanteil bei Paketen (ZDFheute, 18.11., 19:07 Uhr).",
+    "Morgen: Der Bundesgerichtshof in Karlsruhe verhandelt ab 10 Uhr zu Impfschäden nach Corona-Schutzimpfungen und der Frage, gegen wen Amtshaftungsansprüche zu richten sind, und ab 11 Uhr zur hälftigen Teilung der Maklerprovision beim Mietervorkaufsrecht. Um 12 Uhr findet in Berlin der Deutsch-Türkische Automobilgipfel unter anderem mit Wirtschaftsministerin Katherina Reiche statt (dpa-AFX Tagesvorschau, 18.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 18.11.2026"
+    },
+    {
+     "titel": "Cash., 18.11.2026"
+    },
+    {
+     "titel": "Weser-Kurier, 18.11.2026"
+    },
+    {
+     "titel": "WirtschaftsWoche/Reuters, 18.11.2026"
+    },
+    {
+     "titel": "ZDFheute-Newsticker, 18.11.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau, 18.11.2026"
+    }
+   ]
+  },
   "karussells": [],
   "storys": [
    {
