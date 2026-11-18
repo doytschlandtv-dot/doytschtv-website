@@ -1,5 +1,60 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-18",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Koalitionsausschuss: Ergebnis nach acht Stunden noch unter Verschluss",
+    "Stromsteuer: Senkung für alle kostet 5,4 Milliarden Euro",
+    "Brunnermeier soll EZB-Chefvolkswirt werden: Kabinett entscheidet",
+    "ZEW-Konjunkturerwartungen steigen auf 35,6 Punkte"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Mittwoch, den 18. November.",
+    "Koalitionsausschuss: Die Spitzen von Union und SPD haben laut dpa nach mehr als acht Stunden gegen 2 Uhr das Kanzleramt verlassen. Beraten wurde über Stromsteuer, Rente und Spritpreisdeckel. Laut Parteikreisen gibt es ein Ergebnis, Details waren zunächst nicht bekannt; nach Angaben eines Politico-Journalisten ist offenbar nur eine schriftliche Mitteilung geplant (Rhein-Zeitung/dpa, 18.11.; Tagesspiegel, 18.11.).",
+    "Stromsteuer: Die Senkung auf das europäische Mindestmaß gilt bisher nur für bestimmte Unternehmen und soll laut dpa auf die gesamte Wirtschaft und auf private Verbraucher ausgeweitet werden. Die Gegenfinanzierung beträgt 5,4 Milliarden Euro. Die Union wollte laut dpa-AFX Überschüsse auf dem EEG-Konto nutzen, die SPD hält das für verfassungsrechtlich riskant (Rhein-Zeitung/dpa, 18.11.; dpa-AFX, 17.11.).",
+    "EZB: Der Ökonom Markus Brunnermeier, der in Princeton lehrt, soll laut dpa-AFX neuer Chefvolkswirt der Europäischen Zentralbank werden. Das Kabinett soll heute über die Nominierung entscheiden. Der Chefvolkswirt bereitet die Zins- und Strategieentscheidungen des EZB-Rates vor. Christine Lagarde verlässt die EZB laut dpa-AFX am 7. Februar 2027 (dpa-AFX/Börsen-Zeitung, 17.11.; dpa-AFX, 17.11.).",
+    "Konjunktur: Die ZEW-Konjunkturerwartungen stiegen im November laut dpa-AFX um 7,5 Punkte auf 35,6 Punkte. Volkswirte hatten im Schnitt 28,8 Punkte erwartet. Es ist der höchste Stand seit Februar (dpa-AFX, 17.11.).",
+    "Heute: Um 10 Uhr stellt die EZB in Frankfurt ihren Finanzstabilitätsbericht vor. Um 15 Uhr lädt der BDI in Berlin zu einem Mediengespräch zum Papier „Resilienzpolitik neu denken“. Um 18 Uhr wird in Berlin der Deutsche Zukunftspreis 2026 verliehen, unter anderem mit Bundespräsident Frank-Walter Steinmeier. In Antalya läuft die UN-Klimakonferenz COP31 (dpa-AFX, Tagesvorschau vom 17.11.).",
+    "Diese Woche: Am Donnerstag verhandelt der Bundesgerichtshof in Karlsruhe ab 10 Uhr zu Impfschäden nach Corona-Schutzimpfungen und ab 11 Uhr zur Teilung der Maklerprovision beim Mietervorkaufsrecht; um 12 Uhr findet in Berlin der Deutsch-Türkische Automobilgipfel statt, unter anderem mit Wirtschaftsministerin Katherina Reiche. Am Freitag um 8 Uhr erscheinen die Erzeugerpreise für Oktober, um 9 Uhr spricht EZB-Präsidentin Christine Lagarde beim Frankfurt European Banking Congress; der Abschluss der COP31 ist für Freitag geplant (dpa-AFX, Wochenvorschau vom 17.11.).",
+    "Das Briefing gibt es auch als Story auf Instagram."
+   ]
+  },
+  "abend": null,
+  "karussells": [],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "typ": "betrifft",
+    "band": "Briefing",
+    "label": "Gestern und zuletzt",
+    "titel": "Was am Dienstag wichtig war",
+    "punkte": [
+     {
+      "kopf": "Koalitionsausschuss",
+      "text": "Nach über acht Stunden Ende gegen 2 Uhr. Laut Parteikreisen gibt es ein Ergebnis, Details offen."
+     },
+     {
+      "kopf": "Stromsteuer",
+      "text": "Senkung für alle kostet laut dpa 5,4 Mrd. Euro. Streit über die Gegenfinanzierung."
+     },
+     {
+      "kopf": "EZB-Chefvolkswirt",
+      "text": "Brunnermeier soll es werden. Das Kabinett entscheidet laut dpa-AFX heute."
+     },
+     {
+      "kopf": "ZEW-Index",
+      "text": "Konjunkturerwartungen steigen um 7,5 auf 35,6 Punkte, mehr als erwartet."
+     }
+    ],
+    "quelle": "dpa-AFX, 17.11.2026; Rhein-Zeitung/dpa, 18.11.2026"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-17",
   "morgen": {
    "titel": "Morning Briefing",
