@@ -22,7 +22,44 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Ukraine-Gipfel im Kanzleramt: 40 Länder, Streit um das Verhandlungsformat",
+    "Internationaler Gerichtshof: Myanmar hat Völkermord an den Rohingya begangen",
+    "Corona-Impffehler: BGH verhandelt, ob Bund oder Land haftet"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Donnerstag, 19. November.",
+    "Erstens: der Ukraine-Gipfel im Berliner Kanzleramt, den wir im Morning Briefing angekündigt hatten. Laut Handelsblatt (dpa) nahmen Vertreter von rund 40 Ländern der Koalition der Willigen teil, laut ORF waren davon 26 Staats- und Regierungschefs vertreten; auch Präsident Selenskyj sowie die US-Unterhändler Steve Witkoff und Jared Kushner waren dabei. Die Gastgeber wollten nach Angaben des Handelsblatts ein Bekenntnis zur finanziellen Unterstützung der Ukraine im kommenden Jahr, die Beteiligung der Europäer an den Verhandlungen zwischen Ukraine und Russland sowie Sicherheitsgarantien besprechen. Für die Finanzierung nennt das Handelsblatt eine Lücke von 45 Milliarden Euro auf EU-Seite; vier Länder haben eine Beteiligung demnach bisher abgelehnt. Einen Beschluss mit konkreten neuen Zusagen berichteten die beiden von uns gelesenen Quellen nicht. Zeitgleich trafen sich im chinesischen Shenzhen Trump, Xi und Putin. Laut ORF kritisierte Merz ein Jalta-artiges Format, das keinen sicheren Frieden bringe; Kushner sagte laut ORF, Russland habe sich bereit erklärt, sich auf ein Format mit den Europäern einzulassen. Das ist eine Eigenangabe, unabhängig bestätigt ist sie nicht (Handelsblatt, 19.11.; ORF, 19.11.).",
+    "Zweitens: Der Internationale Gerichtshof hat im Verfahren Gambias gegen Myanmar entschieden, dass Myanmar einen Völkermord an den Rohingya begangen hat. Laut Legal Tribune Online sah das Gericht die Zerstörungsabsicht als erwiesen an und stellte außerdem eine Verletzung der Pflicht fest, Völkermord zu verhindern. Es entschied beide Punkte laut LTO mit je neun zu sechs Stimmen. Die Erklärungen Myanmars (Bekämpfung der Gruppe ARSA, gewaltsame Vertreibung, Bestrafung) wies das Gericht laut LTO zurück. Laut Urteilsverlesung wurden mindestens 10.000 Menschen getötet; mehr als 740.000 flohen laut LTO nach UN-Berichten nach Bangladesch. Es ist laut LTO erstmals, dass der IGH die Verantwortung eines Staates für Völkermord feststellt. Unsere Einordnung: Das Urteil zeigt, dass das Völkerrecht auch den Schutz einer verfolgten muslimischen Minderheit durchsetzbar macht, unabhängig davon, wer der verantwortliche Staat ist (Legal Tribune Online, 19.11.).",
+    "Drittens: Der Bundesgerichtshof hat heute in Karlsruhe über Corona-Impffehler verhandelt, aber noch nicht entschieden. Ein Mann, der im Januar 2022 zum dritten Mal geimpft wurde und angibt, nicht ausreichend aufgeklärt worden zu sein, verklagt den Bund auf Schadenersatz. Die Vorinstanzen wiesen die Klage ab, weil die Ausführung der Impfverordnung Sache der Länder gewesen sei. Der BGH hatte im Oktober 2025 entschieden, dass Ärzte für Schäden bei Impfungen bis zum 7. April 2023 nicht haften, sondern nur der Staat; ob Bund oder Land, ließ er damals offen. Ob es im konkreten Fall einen Impffehler gab, steht nicht fest. Das Urteil soll am 30. November verkündet werden (dpa-AFX, 19.11.; beck-aktuell, 19.11.).",
+    "Morgen: Am Freitag spricht EZB-Präsidentin Christine Lagarde um 9 Uhr beim Frankfurt European Banking Congress. In Brüssel findet laut dpa-AFX der zweite EU-UK-Gipfel statt, und in Antalya ist der Abschluss der UN-Klimakonferenz COP31 geplant (dpa-AFX, Tagesvorschau vom 19.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Handelsblatt (dpa), 19.11.2026"
+    },
+    {
+     "titel": "ORF, 19.11.2026"
+    },
+    {
+     "titel": "Legal Tribune Online, 19.11.2026"
+    },
+    {
+     "titel": "dpa-AFX/onvista, 19.11.2026"
+    },
+    {
+     "titel": "beck-aktuell, 19.11.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau, 19.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
