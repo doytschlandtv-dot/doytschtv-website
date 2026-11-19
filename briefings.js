@@ -7,7 +7,7 @@ window.BRIEFINGS = [
    "dauer": null,
    "themen": [
     "Stromsteuer sinkt ab 2027 für ein Jahr auf 0,1 Cent",
-    "Spritpreisdeckel soll ab 1. Januar 2027 aktiviert werden",
+    "Spritpreisdeckel soll ab 1. Januar 2027 gelten, vorerst drei Monate",
     "Rente und kalte Progression: keine Einigung",
     "Heute: Ukraine-Gipfel im Kanzleramt, BGH-Verhandlungen in Karlsruhe"
    ],
@@ -15,7 +15,7 @@ window.BRIEFINGS = [
     "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Donnerstag, den 19. November.",
     "Stromsteuer: Die Koalitionsspitzen haben sich laut Tagesspiegel darauf geeinigt, die Stromsteuer ab 1. Januar 2027 für ein Jahr von 2,05 auf 0,1 Cent je Kilowattstunde zu senken. Nach Berechnungen des Tagesspiegels, die eine volle Weitergabe durch den Versorger annehmen, sparen ein Single-Haushalt mit 1500 Kilowattstunden rund 35 Euro und ein Vier-Personen-Haushalt mit 4500 Kilowattstunden rund 104 Euro im Jahr. Die Kosten liegen laut WirtschaftsWoche bei etwa 5,4 Milliarden Euro im Jahr; gesichert ist die Finanzierung laut WirtschaftsWoche nur für 2027 (Tagesspiegel, 18.11.; WirtschaftsWoche, 18.11.).",
     "Spritpreisdeckel: Er soll laut Tagesspiegel ab 1. Januar 2027 aktiviert werden, zunächst für drei Monate, mit der Option auf zwölf Monate. Der zweite Tankrabatt läuft zum Jahresende aus. Wie der Deckel im Einzelnen greift, ist laut Tagesspiegel noch offen; das Kabinett soll bis übernächste Woche einen Gesetzentwurf samt Rechtsverordnung beschließen (Tagesspiegel, 18.11.).",
-    "Rente und kalte Progression: Dazu gab es im Koalitionsausschuss laut ad-hoc-news keine Einigung (ad-hoc-news, 18.11.).",
+    "Spritpreisdeckel: Er soll laut dpa ab 1. Januar 2027 vorerst für drei Monate per Verordnung aktiviert werden. Der Tankrabatt läuft Ende Dezember aus. Das Kabinett soll am 2. Dezember einen Gesetzentwurf und eine Rechtsverordnung beschließen; wie der Deckel genau aussehen soll, ist laut WirtschaftsWoche offen (WirtschaftsWoche/dpa, 18.11.; t-online/dpa, 18.11.).",
     "Heute: Um 10 Uhr verhandelt der Bundesgerichtshof in Karlsruhe über Amtshaftungsansprüche wegen Impfschäden nach Corona-Schutzimpfungen und ab 11 Uhr über die Teilung der Maklerprovision beim Mietervorkaufsrecht. Um 11 Uhr informiert die EZB-Bankenaufsicht in Frankfurt über Kapitalanforderungen für Banken. Um 12 Uhr findet in Berlin der Deutsch-Türkische Automobilgipfel statt, unter anderem mit Wirtschaftsministerin Katherina Reiche und dem türkischen Handelsminister Ömer Bolat. Außerdem empfängt Bundeskanzler Friedrich Merz laut news.de, die sich auf dpa stützt, rund 30 Staats- und Regierungschefs der Koalition der Willigen zu einem Ukraine-Gipfel im Kanzleramt. Der Internationale Gerichtshof verkündet sein Urteil im Völkermord-Verfahren Gambia gegen Myanmar (dpa-AFX, Tagesvorschau vom 19.11.; news.de, 19.11.).",
     "Diese Woche: Am Freitag spricht EZB-Präsidentin Christine Lagarde um 9 Uhr beim Frankfurt European Banking Congress; in Antalya ist der Abschluss der UN-Klimakonferenz COP31 geplant. Am Montag folgt die dritte Tarifrunde der privaten Banken in Berlin, am Dienstag um 10 Uhr das ifo-Geschäftsklima. Am Donnerstag, 26. November, wird um 14 Uhr in Karlsruhe das Urteil im Verfahren gegen dm wegen Augenscreenings erwartet (dpa-AFX, Wochenvorschau vom 18.11.).",
     "Zahl des Tages: 0,1 Cent je Kilowattstunde. So hoch soll die Stromsteuer ab 2027 sein, bisher sind es 2,05 Cent (Tagesspiegel, 18.11.).",
@@ -26,31 +26,31 @@ window.BRIEFINGS = [
   "karussells": [
    {
     "zusatz": true,
-    "thema": "Stromsteuer: Für wen, wie lange?",
-    "caption": "Die Koalition hat sich laut Tagesspiegel geeinigt: Ab 1. Januar 2027 sinkt die Stromsteuer für ein Jahr von 2,05 auf 0,1 Cent je Kilowattstunde. Bei voller Weitergabe sparen laut Tagesspiegel ein Single-Haushalt rund 35 Euro und ein Vier-Personen-Haushalt rund 104 Euro im Jahr. Die Kosten liegen laut WirtschaftsWoche bei etwa 5,4 Milliarden Euro, gesichert ist die Finanzierung nur für 2027. Unsere Frage: Sollte die Senkung befristet bleiben oder dauerhaft gelten? Quellen auf unserer Website, Link in der Bio.",
-    "hashtags": "#doytschlandtv #stromsteuer #strompreis #energiekosten #koalition #entlastung #nachrichten #einordnung #aktuell",
+    "thema": "Spritpreisdeckel: Ab Januar, aber wie?",
+    "caption": "Die Koalition hat sich laut dpa geeinigt: Der Spritpreisdeckel soll ab 1. Januar 2027 gelten, vorerst für drei Monate per Verordnung. Der Tankrabatt läuft Ende Dezember aus, das Kabinett soll am 2. Dezember Gesetzentwurf und Verordnung beschließen. Offen ist, wie der Deckel genau aussieht: Die SPD hatte den Entwurf von Wirtschaftsministerin Reiche als untauglich zurückgewiesen. Unsere Frage: Soll ein Spritpreisdeckel nur in Krisen gelten oder dauerhaft? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #spritpreise #spritpreisdeckel #tankrabatt #benzinpreis #dieselpreis #koalition #nachrichten #einordnung #aktuell",
     "slides": [
      {
       "typ": "cover",
-      "titel": "Stromsteuer sinkt: Für wen, wie lange?",
-      "kicker": "Berlin · Stromsteuer",
+      "titel": "Spritpreisdeckel: Ab Januar, aber wie?",
+      "kicker": "Berlin · Spritpreisdeckel",
       "bild": {
-       "url": "cover-stromsteuer-2026-11-19.jpg"
+       "url": "cover-spritpreisdeckel-2026-11-19.jpg"
       }
      },
      {
       "typ": "fakten",
-      "label": "Mittwoch, 18. November",
-      "titel": "Die Stromsteuer sinkt ab 2027 für ein Jahr.",
-      "text": "Die Koalition hat sich laut Tagesspiegel geeinigt: Ab 1. Januar 2027 sinkt die Stromsteuer von 2,05 auf 0,1 Cent je Kilowattstunde, befristet auf ein Jahr. Sie gilt laut WirtschaftsWoche für alle Verbraucher, nicht mehr nur für bestimmte Unternehmen.",
-      "quelle": "Tagesspiegel, 18.11.2026; WirtschaftsWoche, 18.11.2026"
+      "label": "Nacht zum Mittwoch, 18. November",
+      "titel": "Der Spritpreisdeckel soll ab 1. Januar 2027 gelten.",
+      "text": "Union und SPD haben sich im Koalitionsausschuss laut dpa geeinigt: Der Deckel soll ab 1. Januar 2027 aktiviert werden, vorerst für drei Monate per Verordnung. Vorbild sind Luxemburg oder Belgien.",
+      "quelle": "WirtschaftsWoche (dpa), 18.11.2026; t-online (dpa), 18.11.2026"
      },
      {
       "typ": "zahl",
       "label": "Die Zahl",
-      "zahl": "5,4 Mrd. €",
-      "text": "So viel Steuereinnahmen entgehen dem Staat laut WirtschaftsWoche im Jahr. Gesichert ist die Finanzierung nur für 2027.",
-      "quelle": "WirtschaftsWoche, 18.11.2026; ad-hoc-news, 18.11.2026"
+      "zahl": "3 Monate",
+      "text": "So lange soll der Deckel vorerst per Verordnung aktiviert werden. Wie lange die gesetzliche Grundlage gilt, ist laut t-online unklar.",
+      "quelle": "WirtschaftsWoche (dpa), 18.11.2026; t-online (dpa), 18.11.2026"
      },
      {
       "typ": "betrifft",
@@ -58,30 +58,30 @@ window.BRIEFINGS = [
       "titel": "Was das für dich heißt.",
       "punkte": [
        {
-        "kopf": "Single, 1500 kWh",
-        "text": "Rund 35 Euro im Jahr weniger, bei voller Weitergabe durch den Versorger."
+        "kopf": "Seit Oktober",
+        "text": "Der Tankrabatt gilt seit Anfang Oktober, laut dpa wegen der Preissteigerungen durch den Iran-Konflikt."
        },
        {
-        "kopf": "Zwei Personen, 2500 kWh",
-        "text": "Rund 58 Euro im Jahr weniger, bei voller Weitergabe."
+        "kopf": "Ende Dezember",
+        "text": "Der Tankrabatt läuft aus."
        },
        {
-        "kopf": "Vier Personen, 4500 kWh",
-        "text": "Rund 104 Euro im Jahr weniger, bei voller Weitergabe."
+        "kopf": "2. Dezember",
+        "text": "Das Kabinett soll Gesetzentwurf und Rechtsverordnung beschließen."
        },
        {
         "kopf": "Ab 1. Januar 2027",
-        "text": "Die Senkung gilt ein Jahr. Für 2028 ist die Gegenfinanzierung laut WirtschaftsWoche offen."
+        "text": "Der Deckel soll gelten, vorerst drei Monate. Die Versorgung soll laut dpa jederzeit gesichert bleiben."
        }
       ],
-      "quelle": "Tagesspiegel, 18.11.2026 (Berechnung mit Annahme voller Weitergabe); WirtschaftsWoche, 18.11.2026"
+      "quelle": "WirtschaftsWoche (dpa), 18.11.2026; t-online (dpa), 18.11.2026"
      },
      {
       "typ": "einordnung",
       "label": "Einordnung",
-      "titel": "Wenig Hebel, offene Finanzierung.",
-      "text": "Die Stromsteuer macht laut Verbraucherschützern nur etwa fünf Prozent des Strompreises aus. Ein Anbieterwechsel kann mehr sparen. 2027 wird die Senkung laut WirtschaftsWoche über Spielräume bei der EEG-Förderung finanziert.",
-      "quelle": "Tagesspiegel, 18.11.2026; WirtschaftsWoche, 18.11.2026"
+      "titel": "Offen ist, wie der Deckel greift.",
+      "text": "Ein neuer Gesetzentwurf des Wirtschaftsministeriums liegt laut t-online bisher nicht vor. Reiches früherer Entwurf sah vor, dass der Deckel nur greift, wenn Sprit drei Wochen in Folge um mehr als fünf Prozentpunkte stärker steigt als im EU-Schnitt. Laut dpa war das in den vergangenen Jahren nie der Fall.",
+      "quelle": "t-online (dpa), 18.11.2026; WirtschaftsWoche (dpa), 18.11.2026"
      },
      {
       "typ": "betrifft",
@@ -89,19 +89,19 @@ window.BRIEFINGS = [
       "titel": "Zwei Sichtweisen.",
       "punkte": [
        {
-        "kopf": "Die Koalition",
-        "text": "Kanzler Merz: „Wir haben Wort gehalten.“ Die Senkung war versprochen und kommt zum 1. Januar."
+        "kopf": "Die SPD",
+        "text": "Generalsekretär Klüssendorf nennt Reiches Entwurf untauglich. Fraktionsvize Zorn will einen neuen, der vor Weihnachten gilt."
        },
        {
-        "kopf": "Die Kritiker",
-        "text": "Laut ad-hoc-news vermisst Saarlands Regierungschefin Rehlinger (SPD) eine dauerhafte Gegenfinanzierung."
+        "kopf": "Das Ministerium",
+        "text": "Ministerin Reiche hatte laut t-online vor negativen Folgen für Raffinerien gewarnt. Die Versorgung müsse jederzeit gesichert sein."
        }
       ],
-      "quelle": "WirtschaftsWoche, 18.11.2026; ad-hoc-news, 18.11.2026"
+      "quelle": "WirtschaftsWoche (dpa), 18.11.2026; t-online (dpa), 18.11.2026"
      },
      {
       "typ": "cta",
-      "frage": "Sollte die Senkung der Stromsteuer befristet bleiben oder dauerhaft gelten?"
+      "frage": "Soll ein Spritpreisdeckel nur in Krisen gelten oder dauerhaft?"
      }
     ]
    }
@@ -121,14 +121,14 @@ window.BRIEFINGS = [
      },
      {
       "kopf": "Spritpreisdeckel",
-      "text": "Soll ab 1. Januar 2027 aktiviert werden, zunächst drei Monate, laut Tagesspiegel."
+      "text": "Soll ab 1. Januar 2027 gelten, vorerst drei Monate per Verordnung, laut dpa."
      },
      {
       "kopf": "Rente, kalte Progression",
       "text": "Dazu gab es im Koalitionsausschuss laut ad-hoc-news keine Einigung."
      }
     ],
-    "quelle": "Tagesspiegel, 18.11.2026; WirtschaftsWoche, 18.11.2026; ad-hoc-news, 18.11.2026"
+    "quelle": "Tagesspiegel, 18.11.2026; WirtschaftsWoche/dpa, 18.11.2026; ad-hoc-news, 18.11.2026"
    }
   ]
  },

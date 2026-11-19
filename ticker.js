@@ -2,8 +2,14 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-19T05:55:00+01:00",
+ "stand": "2026-11-19T06:10:00+01:00",
  "items": [
+  {
+   "z": "2026-11-18T08:00:00+01:00",
+   "t": "Der Spritpreisdeckel soll laut dpa ab 1. Januar 2027 vorerst für drei Monate per Verordnung gelten; das Kabinett soll am 2. Dezember Gesetzentwurf und Verordnung beschließen",
+   "q": "WirtschaftsWoche (dpa)",
+   "u": "https://www.wiwo.de/politik/deutschland/spritpreisdeckel-ab-januar-2027-koalition-einigt-sich-auf-start/100270824.html"
+  },
   {
    "z": "2026-11-18T11:43:00+01:00",
    "t": "Das Kabinett hat laut Regierungskreisen Markus Brunnermeier als deutschen Kandidaten für das EZB-Direktorium gebilligt",
@@ -19,12 +25,6 @@ window.TICKER = {
   {
    "z": "2026-11-18T20:01:00+01:00",
    "t": "Die Stromsteuer soll laut Tagesspiegel ab 1. Januar 2027 für ein Jahr von 2,05 auf 0,1 Cent je Kilowattstunde sinken",
-   "q": "Tagesspiegel",
-   "u": "https://www.tagesspiegel.de/politik/strom-gunstiger-sprit-nicht-noch-teurer-wie-sich-die-einigung-der-koalition-finanziell-auswirkt-16297250.html"
-  },
-  {
-   "z": "2026-11-18T20:02:00+01:00",
-   "t": "Der Spritpreisdeckel soll laut Tagesspiegel ab 1. Januar 2027 aktiviert werden, zunächst für drei Monate mit Option auf zwölf",
    "q": "Tagesspiegel",
    "u": "https://www.tagesspiegel.de/politik/strom-gunstiger-sprit-nicht-noch-teurer-wie-sich-die-einigung-der-koalition-finanziell-auswirkt-16297250.html"
   },
