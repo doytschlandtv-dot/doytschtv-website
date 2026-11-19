@@ -2,20 +2,8 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-18T21:20:00+01:00",
+ "stand": "2026-11-19T05:55:00+01:00",
  "items": [
-  {
-   "z": "2026-11-18T07:37:00+01:00",
-   "t": "Union und SPD haben sich laut ZDFheute im Koalitionsausschuss auf eine Senkung der Stromsteuer für alle geeinigt; sie ist laut Cash. zunächst nur für 2027 finanziert",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/stromsteuer-senkung-beschlossen-100.html"
-  },
-  {
-   "z": "2026-11-18T09:36:00+01:00",
-   "t": "Laut Cash. hat die Koalition für die Rentenreform einen Kabinettstermin im Dezember vereinbart, bei der kalten Progression gab es keine Einigung",
-   "q": "Cash.",
-   "u": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/"
-  },
   {
    "z": "2026-11-18T11:43:00+01:00",
    "t": "Das Kabinett hat laut Regierungskreisen Markus Brunnermeier als deutschen Kandidaten für das EZB-Direktorium gebilligt",
@@ -27,6 +15,24 @@ window.TICKER = {
    "t": "GLS und DPD wollen in Deutschland fusionieren; das Bundeskartellamt muss laut ZDFheute noch zustimmen",
    "q": "ZDFheute",
    "u": "https://www.zdfheute.de/wirtschaft/unternehmen/dpd-gls-paket-dienstleister-fusion-100.html"
+  },
+  {
+   "z": "2026-11-18T20:01:00+01:00",
+   "t": "Die Stromsteuer soll laut Tagesspiegel ab 1. Januar 2027 für ein Jahr von 2,05 auf 0,1 Cent je Kilowattstunde sinken",
+   "q": "Tagesspiegel",
+   "u": "https://www.tagesspiegel.de/politik/strom-gunstiger-sprit-nicht-noch-teurer-wie-sich-die-einigung-der-koalition-finanziell-auswirkt-16297250.html"
+  },
+  {
+   "z": "2026-11-18T20:02:00+01:00",
+   "t": "Der Spritpreisdeckel soll laut Tagesspiegel ab 1. Januar 2027 aktiviert werden, zunächst für drei Monate mit Option auf zwölf",
+   "q": "Tagesspiegel",
+   "u": "https://www.tagesspiegel.de/politik/strom-gunstiger-sprit-nicht-noch-teurer-wie-sich-die-einigung-der-koalition-finanziell-auswirkt-16297250.html"
+  },
+  {
+   "z": "2026-11-19T05:03:00+01:00",
+   "t": "Kanzler Merz empfängt laut news.de unter Berufung auf dpa heute rund 30 Staats- und Regierungschefs der Koalition der Willigen zu einem Ukraine-Gipfel im Kanzleramt",
+   "q": "news.de (dpa)",
+   "u": "https://www.news.de/panorama/860200978/19-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-19-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
   }
  ]
 };
