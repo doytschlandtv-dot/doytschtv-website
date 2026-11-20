@@ -24,7 +24,49 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Bundesrat beschließt die Frühstartrente und billigt die Notfallreform",
+    "Gen-Z-Demos in mehreren Städten, bis zum Mittag friedlich",
+    "Polen: mutmaßlich russischer Marschflugkörper abgestürzt",
+    "COP31 in Antalya geht in die Verlängerung"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Freitag, 20. November.",
+    "Erstens: der Bundesrat, den wir im Morning Briefing angekündigt hatten. Er hat die Frühstartrente beschlossen. Laut dpa zahlt der Bund für jedes Kind ab dem sechsten Lebensjahr bis zum 18. Lebensjahr monatlich 10 Euro in ein Altersvorsorgedepot, höchstens 1.440 Euro je Kind; wir haben nachgerechnet, 12 Jahre zu 120 Euro ergeben genau diese Summe. Verträge sind ab Januar möglich, gefördert werden zunächst die Geburtsjahrgänge 2020 und 2021, wer heute sieben ist, geht leer aus. Das Finanzministerium rechnet laut dpa mit 198 Millionen Euro Kosten im Jahr, bis 2030 mit 411 Millionen Euro; die Grünen kritisierten im Bundestag ein Zweiklassensystem. Eine Korrektur zum Morning Briefing: Zur Notfallreform hatten wir berichtet, Ausschüsse empföhlen den Vermittlungsausschuss. Laut ZDFheute-Newsticker hat der Bundesrat die Reform der Notfallversorgung nun gebilligt; eine ausführliche Fassung dazu haben wir noch nicht gelesen (dpa, 20.11.; ZDFheute-Newsticker, 20.11.).",
+    "Zweitens: die Gen-Z-Proteste. Die Initiative GenZ regelt und weitere Gruppen riefen bundesweit zu Demonstrationen für mehr Bildungsgeld, gegen eine Rückkehr zur Wehrpflicht und für mehr Klimaschutz auf. Laut ZDFheute-Liveblog (Stand 11.31 Uhr) blieb es bis dahin friedlich; die Bundesschülerkonferenz plante in Berlin eine Demonstration mit rund 5.000 Teilnehmenden, in Frankfurt war die Polizei nach eigenen Angaben mit deutlich mehr als 2.000 Kräften im Einsatz. Jugendministerin Karin Prien zeigte Verständnis für die Proteste. Eine Gesamtbilanz des Tages lag uns nicht vor. Unsere Einordnung: Protest von Schülern und Studierenden gehört zur freiheitlichen Grundordnung und bleibt vom Recht auf Versammlungsfreiheit gedeckt, solange er friedlich ist (ZDFheute, 20.11.).",
+    "Drittens: Polen. Laut polnischer Regierung ist ein mutmaßlich russischer Marschflugkörper des Typs Kh-101 im Südosten des Landes abgestürzt. Verteidigungsminister Władysław Kosiniak-Kamysz sprach von einer russischen Provokation; an einem weiteren Ort sei mutmaßlich eine Rakete eingeschlagen, am dritten höchstwahrscheinlich eine Drohne. Verletzte oder Schäden an der Infrastruktur gab es nach seinen Angaben nicht. Das sind Angaben der polnischen Regierung; eine unabhängige Bestätigung und eine Stellungnahme Russlands nennt der Artikel nicht. NATO-Generalsekretär Mark Rutte sicherte Polen laut ZDFheute Unterstützung zu (ZDFheute mit AFP und dpa, 20.11.).",
+    "Viertens: COP31. Der letzte offizielle Tag der Klimakonferenz in Antalya endete ohne Abschluss; laut ZDFheute-Newsticker geht sie über das geplante Ende um 18 Uhr Ortszeit hinaus. Laut moment.at fehlt im Entwurf vom Donnerstag die Passage zur Abkehr von Kohle, Öl und Gas, die der erste Entwurf noch enthielt; EU-Verhandlungskreise nannten den Entwurf laut dpa nicht akzeptabel, Panama drohte mit einer Blockade. Das Climate Action Network wies den Entwurf laut Euronews zurück (ZDFheute-Newsticker, 20.11.; moment.at, 20.11.; Euronews, 20.11.).",
+    "Morgen: In den gelesenen Terminvorschauen steht für Samstag kein Termin. Laut moment.at, das sich auf AP stützt, rechnen Delegierte in Antalya mit Verhandlungen bis Samstag. Am Montag folgen laut dpa-AFX unter anderem die Einkaufsmanagerindizes, die dritte Tarifrunde der privaten Banken in Berlin und das Treffen der EU-Agrarminister in Brüssel, am Dienstag um 10 Uhr das Ifo-Geschäftsklima (dpa-AFX, Wochenvorschau vom 20.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "dpa (Stuttgarter Nachrichten), 20.11.2026"
+    },
+    {
+     "titel": "ZDFheute Liveblog Gen-Z-Demos, 20.11.2026"
+    },
+    {
+     "titel": "ZDFheute (AFP, dpa), Polen, 20.11.2026"
+    },
+    {
+     "titel": "ZDFheute Newsticker, 20.11.2026"
+    },
+    {
+     "titel": "moment.at, 20.11.2026"
+    },
+    {
+     "titel": "Euronews, 20.11.2026"
+    },
+    {
+     "titel": "dpa-AFX Wochenvorschau, 20.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
