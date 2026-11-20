@@ -28,62 +28,62 @@ window.BRIEFINGS = [
   "karussells": [
    {
     "zusatz": true,
-    "thema": "Frühstartrente: 10 Euro im Monat für jedes Kind",
-    "caption": "Der Bundesrat stimmt heute über die Frühstartrente ab: Der Staat soll laut Bundesrat für jedes Kind vom 6. bis zum 18. Lebensjahr monatlich 10 Euro zahlen, insgesamt 1.440 Euro. Ausgezahlt wird erst nach dem 65. Lebensjahr. Geplanter Start ist laut nord24 der 1. Januar 2027 für Kinder ab Geburtsjahrgang 2020. Befürworter verweisen auf den Zinseszins, Kritiker nennen die Summe zu gering. Unsere Frage: Ist die Frühstartrente aus deiner Sicht ein sinnvoller Anfang? Quellen auf unserer Website, Link in der Bio.",
-    "hashtags": "#doytschlandtv #fruehstartrente #altersvorsorge #rente #bundesrat #kinder #geld #nachrichten #einordnung #aktuell",
+    "thema": "Dreiergipfel in China: Kein Wort zur Ukraine",
+    "caption": "Trump, Putin und Xi haben sich in Shenzhen erstmals zu dritt getroffen. Laut chinesischen Staatsmedien verabschiedeten sie eine Erklärung, die einen Dialog über nukleare Risiken ankündigt. Die Ukraine erwähnt sie laut dpa nicht, Zahlen zur Abrüstung nennt sie ebenfalls nicht. Parallel empfing Kanzler Merz in Berlin Vertreter aus 37 Staaten. Unsere Frage: Wie sollte Europa auf Treffen wie in Shenzhen reagieren? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #dreiergipfel #trump #putin #xijinping #shenzhen #atomwaffen #nachrichten #einordnung #aktuell",
     "slides": [
      {
       "typ": "cover",
-      "titel": "Frühstartrente: 10 Euro im Monat für jedes Kind",
-      "kicker": "Bundesrat · Frühstartrente",
+      "titel": "Dreiergipfel in China: Kein Wort zur Ukraine",
+      "kicker": "Shenzhen · Dreiergipfel",
       "bild": {
-       "url": "cover-fruehstartrente-2026-11-20.jpg"
+       "url": "cover-dreiergipfel-2026-11-20.jpg"
       }
      },
      {
       "typ": "fakten",
-      "label": "Freitag, 20. November",
-      "titel": "Die Frühstartrente: 10 Euro im Monat für jedes Kind.",
-      "text": "Der Bundesrat stimmt heute über die Frühstartrente ab, der Bundestag hat sie am 16. Oktober beschlossen. Der Staat zahlt laut Bundesrat vom 6. bis zum 18. Lebensjahr monatlich 10 Euro. Ausgezahlt wird erst nach dem 65. Lebensjahr. Der Finanzausschuss des Bundesrats empfiehlt Zustimmung.",
-      "quelle": "Bundesrat, Plenum kompakt zur 1070. Sitzung; nord24, 18.11.2026; AktienCheck, 19.11.2026"
+      "label": "Donnerstag, 19. November",
+      "titel": "Dreiergipfel in China: Kein Wort zur Ukraine.",
+      "text": "Trump, Putin und Xi trafen sich in Shenzhen erstmals zu dritt. Laut chinesischen Staatsmedien verabschiedeten sie eine Friedenserklärung, die einen Dialog über nukleare Risiken ankündigt. Die Ukraine erwähnt sie laut dpa nicht.",
+      "quelle": "Tagesspiegel (dpa), 19.11.2026; ZDFheute Update, 19.11.2026"
      },
      {
       "typ": "zahl",
       "label": "Die Zahl",
-      "zahl": "1.440",
-      "text": "Euro: So viel zahlt der Staat laut Bundesrat insgesamt pro Kind ein: 10 Euro monatlich über zwölf Jahre, vom 6. bis zum 18. Geburtstag.",
-      "quelle": "Bundesrat, Plenum kompakt zur 1070. Sitzung"
+      "zahl": "80",
+      "text": "Minuten: So lange dauerte laut dpa das erste Dreiertreffen von Trump, Putin und Xi in der Kylin Villa in Shenzhen.",
+      "quelle": "Tagesspiegel (dpa), 19.11.2026"
      },
      {
       "typ": "betrifft",
       "label": "Was für dich gilt",
-      "titel": "Was das für Familien heißt.",
+      "titel": "Was das für Europa heißt.",
       "punkte": [
        {
-        "kopf": "Wer profitiert",
-        "text": "Kinder ab Geburtsjahrgang 2020 mit Erstwohnsitz in Deutschland, laut Bundesrat und nord24."
+        "kopf": "Atomrisiken",
+        "text": "Der Vertrag New START ist laut ZDFheute in diesem Jahr ausgelaufen. Die drei wollen nun über nukleare Risiken sprechen."
        },
        {
-        "kopf": "Start",
-        "text": "Geplant ist der 1. Januar 2027. Für den Jahrgang 2020 soll es laut nord24 rückwirkend für 2026 gelten."
+        "kopf": "Europa fehlt",
+        "text": "Die EU war beim Apec-Gipfel laut ZDFheute außen vor."
        },
        {
-        "kopf": "Kein Antrag",
-        "text": "Die Auszahlung läuft laut Bundesrat über die ZfA, ein gesonderter Antrag ist nicht nötig."
+        "kopf": "Ukraine",
+        "text": "Laut ZDFheute fürchtet die Ukraine, ohne sie könne über ihre Zukunft verhandelt werden."
        },
        {
-        "kopf": "Zuzahlen",
-        "text": "Eltern können laut Bundesrat bis zu 6.840 Euro pro Kalenderjahr in ein zertifiziertes Depot einzahlen."
+        "kopf": "Berlin",
+        "text": "Parallel empfing Merz Vertreter aus 37 Staaten und sprach laut ZDFheute von einem Gegengipfel."
        }
       ],
-      "quelle": "Bundesrat, Plenum kompakt zur 1070. Sitzung; nord24, 18.11.2026"
+      "quelle": "Tagesspiegel (dpa), 19.11.2026; ZDFheute, 18. und 19.11.2026"
      },
      {
       "typ": "einordnung",
       "label": "Einordnung",
-      "titel": "Was am Ende bleibt, ist offen.",
-      "text": "Rechenbeispiel der Bundesregierung bei 7 Prozent Rendite im Jahr: rund 2.200 Euro mit 18 und rund 53.000 Euro zum Rentenbeginn. Finanztip kommt auf rund 25.000 Euro. Eine Garantie gibt es nicht, das Geld geht in breit gestreute weltweite Aktien.",
-      "quelle": "nord24, 18.11.2026; AktienCheck, 19.11.2026"
+      "titel": "Was die Erklärung enthält und was nicht.",
+      "text": "Laut Xinhua und dpa enthält sie ein Bekenntnis, dass ein Atomkrieg nicht geführt werden darf, einen Dialog über nukleare Risiken und mehr Raffinerieprodukte für die Welt. Nicht enthalten sind laut dpa die Ukraine sowie Zahlen oder Verpflichtungen zur Reduzierung von Atomwaffen.",
+      "quelle": "Tagesspiegel (dpa), 19.11.2026; ZDFheute Update, 19.11.2026"
      },
      {
       "typ": "betrifft",
@@ -91,19 +91,19 @@ window.BRIEFINGS = [
       "titel": "Zwei Sichtweisen.",
       "punkte": [
        {
-        "kopf": "Dafür",
-        "text": "Union und SPD stimmten im Bundestag zu. Die Union verweist laut nord24 auf Kapitalmarkt und Zinseszins."
+        "kopf": "Die Beteiligten",
+        "text": "Trump nennt das Treffen laut ZDFheute eines für die Geschichtsbücher, abgestimmte Kürzungen seien laut dpa aber sehr schwierig. Xi nennt laut Xinhua eine atomwaffenfreie Welt das oberste Ziel."
        },
        {
-        "kopf": "Dagegen",
-        "text": "Linke und IG Metall nennen die Summe zu gering. Die Grünen sprechen von einem Zweiklassensystem."
+        "kopf": "Die Kritiker",
+        "text": "China-Expertin Janka Oertel sagt laut ZDFheute, es sei um beeindruckende Bilder gegangen, nicht um Inhalte. Europas Kerninteressen waren nicht vertreten."
        }
       ],
-      "quelle": "nord24, 18.11.2026; AktienCheck, 19.11.2026"
+      "quelle": "Tagesspiegel (dpa), 19.11.2026; ZDFheute, 18. und 20.11.2026"
      },
      {
       "typ": "cta",
-      "frage": "Ist die Frühstartrente aus deiner Sicht ein sinnvoller Anfang?"
+      "frage": "Wie sollte Europa auf Treffen wie in Shenzhen reagieren?"
      }
     ]
    }
