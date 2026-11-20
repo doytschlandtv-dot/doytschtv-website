@@ -2,31 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-19T21:19:00+01:00",
+ "stand": "2026-11-20T06:15:00+01:00",
  "items": [
   {
-   "z": "2026-11-19T13:19:00+01:00",
-   "t": "Der Bundesgerichtshof hat über die Haftung nach möglichen Corona-Impffehlern verhandelt, ob Bund oder Land haftet, bleibt offen; das Urteil soll am 30. November verkündet werden",
-   "q": "dpa-AFX/onvista",
-   "u": "https://www.onvista.de/news/2026/11-19-roundup-2-nach-moeglichem-corona-impffehler-haftet-bund-oder-land-0-10-26578347"
+   "z": "2026-11-18T15:30:00+01:00",
+   "t": "Der Bundesrat stimmt am Freitag über die Frühstartrente ab: 10 Euro im Monat vom 6. bis 18. Lebensjahr, insgesamt 1.440 Euro je Kind, laut nord24",
+   "q": "nord24",
+   "u": "https://www.nord24.de/bremerhaven/fruehstart-rente-10-euro-im-monat-fuer-jedes-kind-ab-6-am-freitag-faellt-die-entscheidung-431683.html"
   },
   {
-   "z": "2026-11-19T15:08:00+01:00",
-   "t": "Der Internationale Gerichtshof hat laut LTO festgestellt, dass Myanmar einen Völkermord an den Rohingya begangen hat",
-   "q": "Legal Tribune Online",
-   "u": "https://www.lto.de/recht/nachrichten/n/igh-internationaler-gerichtshof-gambia-myanmar-voelkermord-rohingya-minderheit"
+   "z": "2026-11-18T21:20:00+01:00",
+   "t": "Das LKA Sachsen-Anhalt prüft laut ZDFheute den Verdacht der Nötigung in der CDU-Landtagsfraktion bei der Wahl des Landtagspräsidenten; es gilt die Unschuldsvermutung",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/politik/deutschland/cdu-sachsen-anhalt-wahl-landtagspraesident-lka-100.html"
   },
   {
-   "z": "2026-11-19T16:14:00+01:00",
-   "t": "Rund 40 Länder der Koalition der Willigen beraten laut Handelsblatt (dpa) im Kanzleramt über Finanzhilfe, Verhandlungsbeteiligung und Sicherheitsgarantien für die Ukraine",
-   "q": "Handelsblatt (dpa)",
-   "u": "https://www.handelsblatt.com/politik/deutschland/gipfel-im-kanzleramt-koalition-der-willigen-40-verbuendete-staerken-ukraine/100271270.html"
+   "z": "2026-11-19T11:48:00+01:00",
+   "t": "Der Internationale Gerichtshof sieht Myanmar laut ZDFheute für den Völkermord an den Rohingya verantwortlich",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/politik/ausland/myanmar-rohingya-voelkermord-internationaler-gerichtshof-100.html"
   },
   {
-   "z": "2026-11-19T18:30:00+01:00",
-   "t": "Nach dem Gipfel in Berlin kritisiert Merz laut ORF ein Jalta-artiges Format für Ukraine-Verhandlungen; 26 Staats- und Regierungschefs waren laut ORF vertreten",
-   "q": "ORF",
-   "u": "https://orf.at/stories/3448703"
+   "z": "2026-11-19T19:28:00+01:00",
+   "t": "Nach dem Ukraine-Gipfel in Berlin nennt Merz laut ZDFheute zusätzliche 45 Milliarden Euro aus Europa für 2027; die Summe ist eine Aussage von Merz und nicht unabhängig geprüft",
+   "q": "ZDFheute",
+   "u": "https://www.zdfheute.de/politik/ukraine-gipfel-koalition-der-willigen-merz-selenskyj-kushner-100.html"
   }
  ]
 };

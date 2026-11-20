@@ -1,5 +1,144 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-20",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Ukraine-Gipfel im Kanzleramt: 37 Staaten, Europa will 2027 zusätzlich 45 Milliarden Euro geben (laut Merz)",
+    "IGH: Myanmar für den Völkermord an den Rohingya verantwortlich",
+    "Trump, Putin und Xi kündigen Dialog über nukleare Risiken an",
+    "LKA Sachsen-Anhalt prüft Nötigungsverdacht in der CDU-Fraktion",
+    "Heute: Bundesrat entscheidet über die Frühstartrente"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Freitag, den 20. November.",
+    "Ukraine-Gipfel: Auf Einladung von Kanzler Friedrich Merz kamen im Kanzleramt Vertreter aus 37 Staaten zusammen, dazu die Spitzen von EU und NATO, Wolodymyr Selenskyj sowie die US-Unterhändler Steve Witkoff und Jared Kushner. Laut Merz gab es drei Entscheidungen: zusätzliche 45 Milliarden Euro aus Europa für die Ukraine im Jahr 2027, die Vorbereitung auf Verhandlungen und eine europäische Vertretung durch Deutschland, Frankreich, das Vereinigte Königreich, Polen und Italien. Die Summe ist eine Aussage von Merz und nicht unabhängig geprüft. Der Politikwissenschaftler Stephan Bierling sprach laut ZDFheute von einem Pfeifen im Walde, Entscheidungen fielen in Washington. Die Bundesregierung nennt in ihrer Mitteilung keine Summe (ZDFheute, 19.11.; Bundesregierung, 19.11.).",
+    "Trump, Putin und Xi trafen sich in Shenzhen erstmals zu dritt. Ihre Erklärung kündigt laut ZDFheute einen Dialog über die Verringerung nuklearer Risiken an, konkrete Abrüstungsschritte nennt sie nicht (ZDFheute Update, 19.11.).",
+    "Internationaler Gerichtshof: Der IGH in Den Haag sieht Myanmar für den Völkermord an den Rohingya verantwortlich. Es ist laut ZDFheute das erste Mal, dass das höchste UN-Gericht die Verantwortung eines Staates für Völkermord feststellt. Die Klage stammt von Gambia, mehr als 700.000 Rohingya flohen 2017 nach Bangladesch. Eine Stellungnahme der Militärregierung nennt der Artikel nicht (ZDFheute, 19.11.).",
+    "Sachsen-Anhalt: Das Landeskriminalamt prüft laut ZDFheute den Verdacht der Nötigung in der CDU-Landtagsfraktion bei der Wahl des Landtagspräsidenten. Es geht um eine Fraktionssitzung am 13. Oktober, 15 Fraktionsmitglieder sollen als Zeugen befragt werden. Ein Abgeordneter verneint Druck; ein Verdacht ist kein Nachweis, es gilt die Unschuldsvermutung (ZDFheute, 18.11.).",
+    "Die Zahl des Tages: 1.440 Euro. So viel soll der Staat laut Bundesrat über die Frühstartrente insgesamt pro Kind einzahlen, 10 Euro im Monat vom 6. bis zum 18. Lebensjahr (Bundesrat, Plenum kompakt zur 1070. Sitzung).",
+    "Heute: Der Bundesrat entscheidet in seiner 1070. Sitzung über 21 Gesetze aus dem Bundestag, darunter die Frühstartrente und die digitale Brieftasche; bei der Notfallreform und dem Startchancen-Gesetz empfehlen Ausschüsse die Anrufung des Vermittlungsausschusses. Um 9 Uhr beginnt der Frankfurt European Banking Congress mit einer Rede von EZB-Präsidentin Christine Lagarde. In Brüssel findet der zweite EU-Großbritannien-Gipfel statt, in Antalya ist der planmäßige Abschlusstag der UN-Klimakonferenz COP31. Merz eröffnet das Deutsch-Ukrainische Wirtschaftsforum (Bundesrat; dpa-AFX, Tagesvorschau vom 19.11.; Bundesregierung, 19.11.).",
+    "Diese Woche: Am Dienstag um 10 Uhr erscheint das Ifo-Geschäftsklima, am Mittwoch um 8 Uhr die zweite Veröffentlichung des Bruttoinlandsprodukts für das dritte Quartal. Am Donnerstag wird um 14 Uhr in Karlsruhe das Urteil im Verfahren gegen die Drogeriemarktkette dm wegen Augenscreenings erwartet; in Brüssel beginnt der EU-Sondergipfel zur langfristigen Finanzplanung und zur Ukraine-Unterstützung. Am Freitag um 9.55 Uhr folgen die Arbeitslosenzahlen für November (dpa-AFX, Wochenvorschau vom 19.11.).",
+    "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Frühstartrente: 10 Euro im Monat für jedes Kind",
+    "caption": "Der Bundesrat stimmt heute über die Frühstartrente ab: Der Staat soll laut Bundesrat für jedes Kind vom 6. bis zum 18. Lebensjahr monatlich 10 Euro zahlen, insgesamt 1.440 Euro. Ausgezahlt wird erst nach dem 65. Lebensjahr. Geplanter Start ist laut nord24 der 1. Januar 2027 für Kinder ab Geburtsjahrgang 2020. Befürworter verweisen auf den Zinseszins, Kritiker nennen die Summe zu gering. Unsere Frage: Ist die Frühstartrente aus deiner Sicht ein sinnvoller Anfang? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #fruehstartrente #altersvorsorge #rente #bundesrat #kinder #geld #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Frühstartrente: 10 Euro im Monat für jedes Kind",
+      "kicker": "Bundesrat · Frühstartrente",
+      "bild": {
+       "url": "cover-fruehstartrente-2026-11-20.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Freitag, 20. November",
+      "titel": "Die Frühstartrente: 10 Euro im Monat für jedes Kind.",
+      "text": "Der Bundesrat stimmt heute über die Frühstartrente ab, der Bundestag hat sie am 16. Oktober beschlossen. Der Staat zahlt laut Bundesrat vom 6. bis zum 18. Lebensjahr monatlich 10 Euro. Ausgezahlt wird erst nach dem 65. Lebensjahr. Der Finanzausschuss des Bundesrats empfiehlt Zustimmung.",
+      "quelle": "Bundesrat, Plenum kompakt zur 1070. Sitzung; nord24, 18.11.2026; AktienCheck, 19.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "1.440",
+      "text": "Euro: So viel zahlt der Staat laut Bundesrat insgesamt pro Kind ein: 10 Euro monatlich über zwölf Jahre, vom 6. bis zum 18. Geburtstag.",
+      "quelle": "Bundesrat, Plenum kompakt zur 1070. Sitzung"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was für dich gilt",
+      "titel": "Was das für Familien heißt.",
+      "punkte": [
+       {
+        "kopf": "Wer profitiert",
+        "text": "Kinder ab Geburtsjahrgang 2020 mit Erstwohnsitz in Deutschland, laut Bundesrat und nord24."
+       },
+       {
+        "kopf": "Start",
+        "text": "Geplant ist der 1. Januar 2027. Für den Jahrgang 2020 soll es laut nord24 rückwirkend für 2026 gelten."
+       },
+       {
+        "kopf": "Kein Antrag",
+        "text": "Die Auszahlung läuft laut Bundesrat über die ZfA, ein gesonderter Antrag ist nicht nötig."
+       },
+       {
+        "kopf": "Zuzahlen",
+        "text": "Eltern können laut Bundesrat bis zu 6.840 Euro pro Kalenderjahr in ein zertifiziertes Depot einzahlen."
+       }
+      ],
+      "quelle": "Bundesrat, Plenum kompakt zur 1070. Sitzung; nord24, 18.11.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Was am Ende bleibt, ist offen.",
+      "text": "Rechenbeispiel der Bundesregierung bei 7 Prozent Rendite im Jahr: rund 2.200 Euro mit 18 und rund 53.000 Euro zum Rentenbeginn. Finanztip kommt auf rund 25.000 Euro. Eine Garantie gibt es nicht, das Geld geht in breit gestreute weltweite Aktien.",
+      "quelle": "nord24, 18.11.2026; AktienCheck, 19.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Beide Seiten",
+      "titel": "Zwei Sichtweisen.",
+      "punkte": [
+       {
+        "kopf": "Dafür",
+        "text": "Union und SPD stimmten im Bundestag zu. Die Union verweist laut nord24 auf Kapitalmarkt und Zinseszins."
+       },
+       {
+        "kopf": "Dagegen",
+        "text": "Linke und IG Metall nennen die Summe zu gering. Die Grünen sprechen von einem Zweiklassensystem."
+       }
+      ],
+      "quelle": "nord24, 18.11.2026; AktienCheck, 19.11.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Ist die Frühstartrente aus deiner Sicht ein sinnvoller Anfang?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "typ": "betrifft",
+    "band": "Briefing",
+    "label": "Gestern und zuletzt",
+    "titel": "Was am Donnerstag wichtig war",
+    "punkte": [
+     {
+      "kopf": "Ukraine-Gipfel",
+      "text": "Merz empfing 37 Staaten; Europa will laut Merz 2027 zusätzlich 45 Mrd. Euro geben."
+     },
+     {
+      "kopf": "Rohingya",
+      "text": "Der IGH sieht Myanmar für den Völkermord an der Minderheit verantwortlich, laut ZDFheute."
+     },
+     {
+      "kopf": "Dreiergipfel",
+      "text": "Trump, Putin und Xi kündigen einen Dialog über nukleare Risiken an, ohne konkrete Schritte."
+     },
+     {
+      "kopf": "Sachsen-Anhalt",
+      "text": "Das LKA prüft Nötigungsverdacht in der CDU-Fraktion. Es gilt die Unschuldsvermutung."
+     }
+    ],
+    "quelle": "ZDFheute, 18. und 19.11.2026; Bundesregierung, 19.11.2026"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-19",
   "morgen": {
    "titel": "Morning Briefing",
