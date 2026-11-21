@@ -24,7 +24,41 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "EU-Haushalt: Merz hält Costas Entwurf für 2028 bis 2034 weiter für zu groß",
+    "Klimagipfel COP31 in Antalya geht in die Verlängerung",
+    "Nato-Generalsekretär Rutte sichert Polen nach dem Absturz russischer Flugobjekte Beistand zu"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Samstag, 21. November.",
+    "Erstens: der EU-Haushalt. Ratspräsident António Costa hat einen Entwurf für die Jahre 2028 bis 2034 vorgelegt: 1,781 Billionen Euro einschließlich Inflation. Das sind laut ZDFheute 204 Milliarden Euro weniger als im Kommissionsplan vom Juli 2025 (1,985 Billionen), also gut zehn Prozent, und 44 Milliarden weniger als im Oktober-Kompromiss der irischen Ratspräsidentschaft (1,825 Billionen); wir haben nachgerechnet, beides stimmt. Kernstück ist eine Digitalsteuer auf Online-Werbung, Vermittlungsdienste und Nutzerdaten, die laut Costa mehr als 5 Milliarden Euro im Jahr bringen soll. Bundeskanzler Merz nennt den Vorschlag einen ersten Schritt, das Volumen aber weiterhin zu hoch, und verlangt Korrekturen bei den Einnahmen. Kritik kommt auch aus Schweden, aus dem Élysée und vom Chefunterhändler des Europaparlaments. Der Sondergipfel findet am 26. und 27. November statt, eine Einigung wird laut ZDFheute frühestens im Dezember erwartet. Damit greifen wir den Hinweis auf den Sondergipfel aus dem Morning Briefing auf (ZDFheute, 21.11.).",
+    "Zweitens: der Klimagipfel. Die COP31 in Antalya läuft laut ZDFheute-Newsticker seit rund 24 Stunden in der Verlängerung. Die Abschlusserklärung ist am Abend weiter offen; strittig ist der Ausstieg aus Kohle, Öl und Gas. Der türkische COP-Präsident Murat Kurum rief die Staaten zum Kompromiss auf, die EU und bedrohte Inselstaaten übergaben ein gemeinsames Forderungspapier für das 1,5-Grad-Limit. Ein Endergebnis lag uns bis zum Redaktionsschluss nicht vor (ZDFheute, 21.11.).",
+    "Drittens: Polen. Nach dem Absturz russischer Flugobjekte am Freitag, den wir im Morning Briefing aufgegriffen hatten, sagte Nato-Generalsekretär Mark Rutte in Warschau, die Nato werde jeden Zentimeter polnischen Territoriums verteidigen. Laut ZDFheute-Newsticker handelte es sich um drei Objekte; die Zuordnung stammt von der polnischen Regierung und wurde nicht unabhängig bestätigt, die Berichte nennen mal einen Marschflugkörper, mal mehrere Flugkörper. Das Auswärtige Amt sprach auf X von einer erneuten Verletzung des polnischen Luftraums durch russische Flugkörper (ZDFheute, 20./21.11.). Unsere Einordnung: Eine Verletzung des Luftraums eines Nato-Staats ist ein Verstoß gegen das Völkerrecht, unabhängig davon, ob sie gezielt oder versehentlich geschah.",
+    "Morgen: Für Sonntag nennt die Terminvorschau keine Termine mit Deutschlandbezug; laut ZDFheute-Meteorologin sinkt die Schneefallgrenze. Am Montag erscheinen um 9.30 Uhr die Einkaufsmanagerindizes für Deutschland, BASF hält einen Capital Markets Day, und in Berlin läuft die dritte Runde der Tarifverhandlungen für die privaten Banken (dpa-AFX und Dow Jones, Vorschau vom 20.11.; ZDFheute, 21.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 21.11.2026 (EU-Haushalt)"
+    },
+    {
+     "titel": "ZDFheute-Newsticker, 21.11.2026"
+    },
+    {
+     "titel": "ZDFheute heute-Nachrichten, 21.11.2026 (Klimagipfel)"
+    },
+    {
+     "titel": "ZDFheute-Liveblog Ukraine-Krieg, 20./21.11.2026"
+    },
+    {
+     "titel": "dpa-AFX und Dow Jones, Tagesvorschau, 20.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
