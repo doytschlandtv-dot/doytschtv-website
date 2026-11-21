@@ -1,5 +1,144 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-21",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Briefporto: Bundesnetzagentur setzt Spielraum für 2027/2028 bei rund 20,4 Prozent fest",
+    "Polen meldet abgestürzten mutmaßlich russischen Marschflugkörper",
+    "Katar kündigt 15 Milliarden Euro für Deutschland an (laut Bundesregierung, fünf Jahre)",
+    "Bundesrat billigt Notfallreform und mehr Cyberabwehr-Befugnisse",
+    "Diese Woche: Ifo-Index, EU-Sondergipfel, Arbeitslosenzahlen"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Samstag, den 21. November.",
+    "Briefporto: Die Bundesnetzagentur hat den Preisspielraum für Briefe in den Jahren 2027 und 2028 festgelegt. Im Schnitt dürfen die Preise laut dpa um rund 20,4 Prozent steigen, in der Vorperiode waren es rund 10,5 Prozent. Die Deutsche Post plant laut dpa 1,15 Euro für den Standardbrief, 20 Cent mehr als bisher; die Preise muss sie bei der Behörde beantragen, sie erwartet die Genehmigung zum 1. Januar 2027. Hauptgrund sind laut Bundesnetzagentur die stark abnehmenden Briefmengen. Der Spielraum ist eine Obergrenze, kein festgelegter Preis (t-online/dpa, 20.11.; Bundesnetzagentur, 12.10., Entwurfsstand).",
+    "Polen: Die polnische Regierung meldet einen abgestürzten Marschflugkörper in Südostpolen und ordnet ihn Russland zu. Verletzte gab es laut Verteidigungsminister nicht. Die Zuordnung ist eine Angabe der polnischen Regierung und nicht unabhängig bestätigt. NATO-Generalsekretär Rutte kritisierte die Verletzung des Luftraums scharf (ZDFheute, AFP, dpa, 20.11.).",
+    "Katar: Nach einem Gespräch mit dem Emir in Berlin begrüßte Kanzler Merz, dass Katar die Investitionen in Deutschland um 15 Milliarden Euro erhöhen will. Laut gemeinsamer Erklärung der Bundesregierung kündigt der Staatsfonds QIA diese Summe für die kommenden fünf Jahre an, vorbehaltlich unabhängiger Investorenentscheidungen (dpa-AFX/Ariva, 20.11.; Berliner Zeitung, 20.11.).",
+    "Bundesrat: Die Länderkammer billigte am Freitag die Reform der Notfallversorgung mit integrierten Notfallzentren und einer neu aufgeteilten Rufnummer 116117 (H@llAnzeiger, 20.11.). Außerdem billigte sie ein Gesetz, das BSI, Bundespolizei und BKA mehr Befugnisse gegen Cyberangriffe gibt (dpa-AFX, 20.11.).",
+    "Zahl des Tages: 20,4 Prozent. So hoch ist laut dpa der durchschnittliche Preisspielraum für Briefe in den Jahren 2027 und 2028.",
+    "Heute: Die Terminvorschau nennt für Samstag und Sonntag keine Termine mit Deutschlandbezug.",
+    "Diese Woche: Am Montag um 9.30 Uhr erscheinen die Einkaufsmanagerindizes, am Dienstag um 10 Uhr der Ifo-Geschäftsklimaindex, am Mittwoch um 8 Uhr das zweite Ergebnis zum Bruttoinlandsprodukt im dritten Quartal. Am Donnerstag und Freitag treffen sich die EU-Staats- und Regierungschefs zu einem Sondergipfel zur Finanzplanung und zur weiteren Unterstützung der Ukraine, am Donnerstag um 14 Uhr wird in Karlsruhe ein Urteil im Prozess gegen dm wegen Augenscreenings erwartet, am Freitag um 9.55 Uhr kommen die Arbeitslosenzahlen (dpa-AFX und Dow Jones, Vorschau vom 20.11.).",
+    "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Briefporto: Spielraum für rund 20 Prozent mehr",
+    "caption": "Die Bundesnetzagentur hat den Preisspielraum für Briefe in den Jahren 2027 und 2028 festgelegt: im Schnitt rund 20,4 Prozent, in der Vorperiode waren es rund 10,5 Prozent. Die Deutsche Post plant laut dpa 1,15 Euro für den Standardbrief, 20 Cent mehr als bisher. Der Spielraum ist eine Obergrenze, die Einzelpreise muss die Post beantragen und die Behörde genehmigen. Hauptgrund sind laut Bundesnetzagentur die stark sinkenden Briefmengen. Unsere Frage: Wie siehst du die geplante Preiserhöhung? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #briefporto #deutschepost #bundesnetzagentur #porto2027 #verbraucher #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Briefporto: Spielraum für rund 20 Prozent mehr",
+      "kicker": "Bundesnetzagentur · Briefporto",
+      "bild": {
+       "url": "cover-briefporto-2026-11-21.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Freitag, 20. November",
+      "titel": "Briefporto: Spielraum für rund 20 Prozent mehr.",
+      "text": "Die Bundesnetzagentur hat den Preisspielraum für Briefe in den Jahren 2027 und 2028 festgelegt: im Schnitt rund 20,4 Prozent. Die Deutsche Post erwartet die Genehmigung der Preise zum 1. Januar 2027.",
+      "quelle": "dpa (t-online), 20.11.2026; Bundesnetzagentur, 12.10.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "1,15 €",
+      "text": "soll der Standardbrief laut Deutscher Post ab 2027 kosten, 20 Cent mehr als bisher. Der Preis ist geplant und noch nicht genehmigt.",
+      "quelle": "dpa (t-online), 20.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was für dich gilt",
+      "titel": "Was die Post plant.",
+      "punkte": [
+       {
+        "kopf": "Standardbrief",
+        "text": "Von 0,95 auf 1,15 Euro, rechnerisch rund 21 Prozent mehr."
+       },
+       {
+        "kopf": "Kompaktbrief",
+        "text": "Von 1,10 auf 1,25 Euro, rund 14 Prozent mehr."
+       },
+       {
+        "kopf": "Groß- und Maxibrief",
+        "text": "Großbrief von 1,80 auf 2,35 Euro, Maxibrief von 2,90 auf 5,00 Euro."
+       },
+       {
+        "kopf": "Genehmigung",
+        "text": "Die Post muss die Preise je Sendungsart beantragen, die Bundesnetzagentur genehmigt sie."
+       }
+      ],
+      "quelle": "netz-trends.de (Preisangaben der Deutschen Post vom 20.10.2026); dpa (t-online), 20.11.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Warum der Spielraum so groß ist.",
+      "text": "Laut Bundesnetzagentur sind die stark abnehmenden Briefmengen der wesentliche Grund. Die Behörde setzt im Entwurf eine Produktivitätsverschlechterung von 16,31 Prozent und eine Inflationsrate von 4,04 Prozent an. Die Post hatte einen höheren Spielraum gefordert.",
+      "quelle": "Bundesnetzagentur, Pressemitteilung vom 12.10.2026 (Entwurfsstand)"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Beide Seiten",
+      "titel": "Zwei Sichtweisen.",
+      "punkte": [
+       {
+        "kopf": "Die Post",
+        "text": "Sie verweist laut dpa auf gestiegene Kosten und sinkende Briefmengen und will den Spielraum nach eigenen Angaben verantwortungsvoll nutzen."
+       },
+       {
+        "kopf": "Die Regulierung",
+        "text": "Die Bundesnetzagentur erkannte laut eigener Mitteilung nicht alle von der Post geltend gemachten Positionen an. Der Spielraum ist eine Obergrenze."
+       }
+      ],
+      "quelle": "dpa (t-online), 20.11.2026; Bundesnetzagentur, 12.10.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie siehst du die geplante Preiserhöhung beim Briefporto?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "typ": "betrifft",
+    "band": "Briefing",
+    "label": "Gestern und zuletzt",
+    "titel": "Was am Freitag wichtig war",
+    "punkte": [
+     {
+      "kopf": "Briefporto",
+      "text": "Die Bundesnetzagentur erlaubt für 2027/28 im Schnitt rund 20,4 Prozent mehr; Standardbrief laut Post 1,15 Euro."
+     },
+     {
+      "kopf": "Polen",
+      "text": "Polen meldet einen abgestürzten, mutmaßlich russischen Marschflugkörper; die Zuordnung ist eine Regierungsangabe."
+     },
+     {
+      "kopf": "Katar",
+      "text": "Katar will laut Bundesregierung 15 Mrd. Euro in fünf Jahren investieren, vorbehaltlich Investorenentscheidungen."
+     },
+     {
+      "kopf": "Bundesrat",
+      "text": "Die Länderkammer billigt die Notfallreform und mehr Cyberabwehr-Befugnisse für BSI, BKA und Bundespolizei."
+     }
+    ],
+    "quelle": "dpa (t-online, Ariva, AktienCheck), ZDFheute, H@llAnzeiger, 20.11.2026"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-20",
   "morgen": {
    "titel": "Morning Briefing",
