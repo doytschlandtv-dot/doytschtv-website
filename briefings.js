@@ -1,5 +1,144 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-22",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Altersvorsorgedepot: Staatliches Standardprodukt startet laut Finanzministerium erst nach dem 1. Januar 2027",
+    "Spritpreisdeckel: Reiche will Autobahntankstellen ausnehmen",
+    "EU-Haushalt: Costa schlägt Digitalsteuer von 3 Prozent vor",
+    "COP31 in Antalya: Verlängerung, Streit um den Ausstieg aus fossilen Energien",
+    "Diese Woche: Ifo-Geschäftsklima, BIP-Zahlen, Arbeitslosenzahlen, EU-Sondergipfel"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Sonntag, den 22. November.",
+    "Altersvorsorgedepot: Die reformierte private Altersvorsorge startet zum 1. Januar 2027, das staatlich organisierte Standardprodukt dagegen voraussichtlich erst danach. Das teilte ein Sprecher des Bundesfinanzministeriums laut RND mit; laut Regierungskreisen ist ein Start frühestens im Sommer 2027 möglich. Die nötige Verordnung dauert laut ZDFheute länger als gedacht. Private Anbieter können ab 1. Januar 2027 zertifizierte Depots anbieten (ZDFheute, 21.11.; dts, 21.11.; dasinvestment.com, 21.11.).",
+    "Spritpreisdeckel: Wirtschaftsministerin Katherina Reiche (CDU) will laut ZDFheute Autobahntankstellen vom geplanten Preisdeckel ausnehmen. Begründung laut Ministeriumskreisen: höhere Pachten und die Pflicht zum Rund-um-die-Uhr-Betrieb. Ein neuer Entwurf liegt in der ersten regierungsinternen Abstimmungsrunde (ZDFheute-Newsticker, 21.11.).",
+    "EU-Haushalt: Ratspräsident Antonio Costa schlägt laut ZDFheute eine EU-weite Digitalsteuer von 3 Prozent auf Umsätze aus Online-Werbung, Plattformdiensten und Nutzerdaten vor. Bundeskanzler Merz hält den Haushaltsentwurf insgesamt noch nicht für zustimmungsfähig (ZDFheute-Newsticker, 21.11.).",
+    "COP31: Die Klimakonferenz in Antalya geht in die Verlängerung. Dutzende Staaten, darunter EU und Inselstaaten, fordern laut ZDFheute, dass das 1,5-Grad-Limit in Reichweite bleibt; COP-Präsident Murat Kurum rief zum Kompromiss auf (ZDFheute-Newsticker, 21.11.).",
+    "Zahl des Tages: 540 Euro. So hoch ist laut ZDFheute die maximale jährliche Grundzulage im Altersvorsorgedepot (50 Cent je Euro bis 360 Euro Eigenbeitrag, 25 Cent je Euro bis 1.800 Euro).",
+    "Heute: Die Terminvorschau nennt für Sonntag keine Termine mit Deutschlandbezug.",
+    "Diese Woche: Am Montag erscheinen die Einkaufsmanagerindizes (PMI), am Dienstag um 10 Uhr das Ifo-Geschäftsklima, am Mittwoch um 8 Uhr die zweite Veröffentlichung des BIP für das dritte Quartal. Am Donnerstag erwartet das Gericht in Karlsruhe ein Urteil im Verfahren gegen die Drogeriemarktkette dm wegen Augenscreenings, außerdem ist ein EU-Sondergipfel zur Finanzplanung und zur Ukraine-Unterstützung in Brüssel angesetzt. Am Freitag um 9.55 Uhr folgen die Arbeitslosenzahlen für November (dpa-AFX Wochenvorschau, 20.11.; Dow Jones Tagesvorschau, 20.11.).",
+    "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Altersvorsorgedepot: Staatliches Standardprodukt kommt später",
+    "caption": "Das reformierte Altersvorsorgedepot startet am 1. Januar 2027, das staatlich organisierte Standardprodukt laut Bundesfinanzministerium aber voraussichtlich erst danach. Laut Regierungskreisen ist ein Start frühestens im Sommer 2027 möglich, die nötige Verordnung dauert länger als gedacht. Private Anbieter können ab Januar zertifizierte Depots anbieten, für sie gilt laut dasinvestment.com eine Kostenobergrenze von 1,0 Prozent im Jahr. Die staatliche Förderung beträgt höchstens 540 Euro Grundzulage im Jahr. Unsere Frage: Wie wichtig ist dir ein staatliches Standardprodukt? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #altersvorsorge #altersvorsorgedepot #riester #rente #bundesfinanzministerium #verbraucher #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Altersvorsorgedepot: Staatliches Standardprodukt kommt später",
+      "kicker": "Altersvorsorge · Reform 2027",
+      "bild": {
+       "url": "cover-altersvorsorgedepot-2026-11-22.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Samstag, 21. November",
+      "titel": "Altersvorsorgedepot: Staatliches Standardprodukt kommt später.",
+      "text": "Das Altersvorsorgedepot startet am 1. Januar 2027, das staatliche Standardprodukt laut Finanzministerium aber voraussichtlich erst danach. Laut Regierungskreisen ist ein Start frühestens im Sommer 2027 möglich.",
+      "quelle": "ZDFheute, 21.11.2026 (dpa, RND); dts, 21.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "540 €",
+      "text": "beträgt laut ZDFheute die höchste Grundzulage pro Jahr. Rechenbeispiel: 360 Euro Eigenbeitrag ergeben 180 Euro Zulage, 1.800 Euro ergeben 180 plus 360, also 540 Euro.",
+      "quelle": "ZDFheute, 21.11.2026; dasinvestment.com, 21.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was für dich gilt",
+      "titel": "Was jetzt feststeht.",
+      "punkte": [
+       {
+        "kopf": "Private Anbieter",
+        "text": "Banken, Fondsgesellschaften und Versicherer können ab 1. Januar 2027 zertifizierte Depots anbieten."
+       },
+       {
+        "kopf": "Kostenobergrenze",
+        "text": "Für private Standarddepots gilt laut dasinvestment.com eine Obergrenze von 1,0 Prozent Effektivkosten im Jahr."
+       },
+       {
+        "kopf": "Zulage",
+        "text": "Laut dts ist ein Eigenbeitrag von mindestens 120 Euro im Jahr nötig, um die Zulage zu erhalten."
+       },
+       {
+        "kopf": "Riester",
+        "text": "Bestehende Verträge genießen laut ZDFheute Bestandsschutz."
+       }
+      ],
+      "quelle": "ZDFheute, 21.11.2026; dts, 21.11.2026; dasinvestment.com, 21.11.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Was ohne das Standarddepot fehlt.",
+      "text": "Das staatliche Depot sollte laut Verbraucherzentrale Bundesverband zeigen, was ein gutes Produkt kosten darf. Dieser Maßstab fehlt vorerst. Wer wirbt, nennt eigene Kosten: Die Deka kündigte laut dasinvestment.com ein passives Standarddepot mit 0,1 Prozent jährlichen Kosten an.",
+      "quelle": "ZDFheute, 21.11.2026; dasinvestment.com, 21.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Beide Seiten",
+      "titel": "Zwei Sichtweisen.",
+      "punkte": [
+       {
+        "kopf": "Verbraucherzentralen",
+        "text": "Ramona Pop fordert die Verordnung schnell und warnt laut ZDFheute vor einem Produktdschungel, der Sparer abschrecke."
+       },
+       {
+        "kopf": "Finanzministerium",
+        "text": "Es prüft laut Sprecher weiter, wie das Angebot sachgerecht umgesetzt werden kann; die Verordnung dauert laut ZDFheute länger als gedacht."
+       }
+      ],
+      "quelle": "ZDFheute, 21.11.2026 (RND); dts, 21.11.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie wichtig ist dir ein staatliches Standardprodukt für die Altersvorsorge?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "typ": "betrifft",
+    "band": "Briefing",
+    "label": "Gestern und zuletzt",
+    "titel": "Was am Samstag wichtig war",
+    "punkte": [
+     {
+      "kopf": "Altersvorsorgedepot",
+      "text": "Das staatliche Standardprodukt kommt laut Finanzministerium voraussichtlich erst nach dem Start 2027."
+     },
+     {
+      "kopf": "Spritpreisdeckel",
+      "text": "Ministerin Reiche will laut ZDFheute Autobahntankstellen vom geplanten Deckel ausnehmen."
+     },
+     {
+      "kopf": "EU-Haushalt",
+      "text": "Ratspräsident Costa schlägt laut ZDFheute eine Digitalsteuer von 3 Prozent vor; Merz zögert."
+     },
+     {
+      "kopf": "Klimakonferenz",
+      "text": "Die COP31 in Antalya geht in die Verlängerung, strittig ist der Ausstieg aus fossilen Energien."
+     }
+    ],
+    "quelle": "ZDFheute und ZDFheute-Newsticker, 21.11.2026"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-21",
   "morgen": {
    "titel": "Morning Briefing",
