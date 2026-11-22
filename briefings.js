@@ -106,6 +106,88 @@ window.BRIEFINGS = [
       "frage": "Wie wichtig ist dir ein staatliches Standardprodukt für die Altersvorsorge?"
      }
     ]
+   },
+   {
+    "zusatz": true,
+    "thema": "COP31 Antalya: Deutschland hält den Beschlusstext für nicht zustimmungsfähig",
+    "caption": "Auf der UN-Klimakonferenz in Antalya hält Deutschland den vorliegenden Beschlusstext für nicht zustimmungsfähig. Er nennt Kohle, Öl und Gas nicht ausdrücklich und verweist nur auf den Beschluss von Dubai 2023. Frankreich nennt ihn einen Rückschritt. Gastgeber Türkei sieht den Text nicht hinter Dubai zurückfallen, der Energieminister sagte vor zehn Tagen, ein Ausstieg ohne Finanzierung ergebe keinen Sinn. Im Abschlussplenum legte die EU laut Medienberichten formell Widerspruch ein. Quellen auf unserer Website, Link in der Bio. Ist ein schwacher gemeinsamer Text besser als gar kein Beschluss?",
+    "hashtags": "#doytschlandtv #cop31 #klimakonferenz #antalya #klimaschutz #fossile #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "hook",
+      "band": "Klima",
+      "kicker": "Klimagipfel in Antalya · Stand Sonntag",
+      "titel": "Deutschland sagt Nein zum Beschlusstext.",
+      "rot": "Nein"
+     },
+     {
+      "typ": "fakten",
+      "band": "Klima",
+      "label": "Sonntag, 22. November",
+      "titel": "Deutschland hält den Text für nicht zustimmungsfähig.",
+      "text": "Umweltminister Schneider sagt, ein ausdrückliches Bekenntnis zur Abkehr von Kohle, Öl und Gas fehle. Viele Delegationen sind schon abgereist. Im Abschlussplenum legte die EU laut oe24 formell Widerspruch ein, ebenso Panama.",
+      "quelle": "t-online (AFP), oe24, 22.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "band": "Klima",
+      "label": "Der Verlauf",
+      "titel": "Wie der Text schrumpfte",
+      "punkte": [
+       {
+        "kopf": "16. November",
+        "text": "Erster Entwurf, laut AFP noch mit Passagen zum Ausstieg aus Fossilen."
+       },
+       {
+        "kopf": "19. November",
+        "text": "Zweiter Entwurf ohne Kohle, Öl und Gas."
+       },
+       {
+        "kopf": "22. November",
+        "text": "Dritter Text mit 10 Seiten, weiter ohne Fossil-Passage."
+       }
+      ],
+      "quelle": "AFP, cleanthinking (Reuters), dpa, 16. bis 22.11.2026"
+     },
+     {
+      "typ": "fakten",
+      "band": "Klima",
+      "label": "Was im Text steht",
+      "titel": "Ein Verweis auf Dubai statt Kohle, Öl und Gas.",
+      "text": "Der Text verweist nur auf den Beschluss von Dubai 2023. Die Klimafinanzierung soll bis 2035 verdreifacht werden, ohne Zwischenziele. Dazu kommt ein Fahrplan bis zur nächsten COP in Äthiopien.",
+      "quelle": "dpa, 22.11.2026"
+     },
+     {
+      "typ": "fakten",
+      "band": "Klima",
+      "label": "Gastgeber Türkei",
+      "titel": "Weniger Öl verbrauchen, aber weiter fördern.",
+      "text": "Energieminister Bayraktar nannte im AFP-Interview das Ziel, den Ölverbrauch bis 2040 um eine halbe Million Barrel pro Tag zu senken. Der Gasbedarf bleibt, die Türkei investiert in eigene Förderung und hält Atomkraft für unverzichtbar.",
+      "quelle": "AFP-Interview, 12.11.2026"
+     },
+     {
+      "typ": "einordnung",
+      "band": "Klima",
+      "label": "Einordnung",
+      "titel": "Das Muster ist nicht neu.",
+      "text": "Schon der Beschlusstext der COP30 in Belém 2025 kam ohne ausdrückliche Nennung fossiler Energien aus. Die EU hatte einen Fahrplan zur Abkehr gefordert und setzte sich nicht durch.",
+      "quelle": "ORF, zur COP30"
+     },
+     {
+      "typ": "vergleich",
+      "band": "Klima",
+      "labelA": "Deutschland, Frankreich",
+      "behauptung": "Ohne ausdrückliche Nennung fehlt der Fahrplan. Frankreich nennt den Text einen Rückschritt.",
+      "labelB": "Gastgeber Türkei",
+      "fakt": "Kurum: Der Text bleibt nicht hinter Dubai zurück. Bayraktar: Ein Ausstieg ohne Finanzierung ergibt keinen Sinn.",
+      "quelle": "t-online (AFP), dpa, Sabah, AFP-Interview 12.11.2026"
+     },
+     {
+      "typ": "cta",
+      "band": "Klima",
+      "frage": "Ist ein schwacher gemeinsamer Text besser als gar kein Beschluss?"
+     }
+    ]
    }
   ],
   "storys": [
@@ -135,6 +217,17 @@ window.BRIEFINGS = [
      }
     ],
     "quelle": "ZDFheute und ZDFheute-Newsticker, 21.11.2026"
+   },
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "band": "Klima",
+    "kicker": "Klimagipfel Antalya · Stand Sonntag",
+    "titel": "Deutschland lehnt den Beschlusstext ab.",
+    "rot": "lehnt",
+    "text": "Es fehlt die ausdrückliche Abkehr von Kohle, Öl und Gas. Karussell: Link in der Bio.",
+    "quelle": "t-online (AFP), 22.11.2026",
+    "theme": "dark"
    }
   ]
  },
