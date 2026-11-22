@@ -24,7 +24,43 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Klimagipfel COP31 endet ohne Abschlusserklärung, Schneider macht Ölstaaten mitverantwortlich",
+    "Spritpreisdeckel: Grüne und Linke kritisieren die geplante Ausnahme für Autobahntankstellen",
+    "Rente: Söder drängt auf rasche Entscheidungen, Merz will das Paket vor Weihnachten im Kabinett beraten",
+    "Ukraine: Selenskyj beklagt Verzögerungen bei Flugabwehrraketen"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Sonntag, 22. November.",
+    "Erstens: der Klimagipfel. Im Morning Briefing hatten wir die Verlängerung der COP31 in Antalya aufgegriffen. Inzwischen steht fest: Die Konferenz ist ohne Abschlusserklärung zu Ende gegangen. Laut ZDFheute-Newsticker lehnten mehrere Staatengruppen, darunter die EU, im Plenum den Entwurf der Konferenzleitung ab; Konferenzpräsident Murat Kurum sagte, es seien keine Beschlüsse gefasst worden. Laut Verhandlungskreisen blockierten vor allem ölproduzierende Länder die Abkehr von fossilen Energien. Die Nachrichtenagentur AFP berichtet, der Text habe die Wörter fossil und Öl nicht enthalten; die EU habe formal Widerspruch eingelegt. Bundesumweltminister Carsten Schneider hatte den Text zuvor für Deutschland als nicht zustimmungsfähig bezeichnet und warf am Abend Ölstaaten vor, die Konferenz zu blockieren; die Lobby der Öl- und Gasindustrie trage Mitverantwortung. UN-Generalsekretär António Guterres zeigte sich enttäuscht. Das sind Positionen der Beteiligten, keine unabhängig festgestellten Tatsachen. Die Zahl der Staaten wird je nach Quelle mit knapp 200 oder 196 angegeben (ZDFheute-Newsticker, 22.11.; ZDFheute, 22.11.; t-online mit Reuters, 22.11.; AFP über Yahoo Nachrichten, 22.11.). Unsere Einordnung: Ein Klimaabkommen kommt nur im Konsens zustande, deshalb kann eine kleine Gruppe von Staaten den Fortschritt aller blockieren.",
+    "Zweitens: der Spritpreisdeckel. Im Morning Briefing ging es um Wirtschaftsministerin Katherina Reiche (CDU), die Autobahntankstellen vom geplanten Preisdeckel ausnehmen will. Dazu gibt es neue Reaktionen: Grünen-Chef Felix Banaszak und Linken-Fraktionsvize Janine Wissler nannten die geplante Ausnahme laut ZDFheute-Newsticker absurd. Der neue Entwurf lag nach ZDFheute-Angaben vom Samstag in der regierungsinternen Abstimmung; eine Entscheidung lag uns heute nicht vor (ZDFheute-Newsticker, 21. und 22.11.).",
+    "Drittens: die Rente. Bei der Landesversammlung der Jungen Union Bayern drängte CSU-Chef Markus Söder laut ZDFheute-Newsticker auf rasche Entscheidungen, am besten noch in diesem Jahr. Bundeskanzler Friedrich Merz will das Paket möglichst vor Weihnachten im Kabinett beraten. Ein Beschluss des SPD-Parteitags Mitte Januar sei nicht abzuwarten. Wir berichten hier nur den Zeitplan; zum Inhalt des Pakets lag uns heute keine gelesene Quelle vor (ZDFheute-Newsticker, 22.11.).",
+    "Viertens: die Ukraine. Präsident Wolodymyr Selenskyj beklagte laut ZDFheute-Newsticker erneut Verzögerungen bei Flugabwehrraketen. Nach seinen Angaben, die wir nicht unabhängig prüfen konnten, setzte Russland in dieser Woche rund 2.700 Drohnen, fast 1.460 Fliegerbomben und 165 Raketen und Marschflugkörper ein und griff 20 Regionen an. Die USA sollen die Übergabe von Patriot-Raketen genehmigen; Partner im Purl-Programm hätten bereits bezahlt. (ZDFheute-Newsticker, 22.11.).",
+    "Morgen: Am Montag beraten die 32 Nato-Staaten in Brüssel über Luftraumverletzungen durch Russland; es handelt sich laut ZDFheute um reguläre Konsultationen, nicht um eine Sondersitzung. Um 9.30 Uhr erscheinen die Einkaufsmanagerindizes für Deutschland, BASF hält einen Capital Markets Day, und in Berlin läuft die dritte Runde der Tarifverhandlungen für die privaten Banken. Wegen eines Streiks in Belgien soll der Flugverkehr von und nach Belgien zwischen 7 und 21 Uhr nahezu ruhen (dpa-AFX, Tagesvorschau vom 20.11.; ZDFheute-Newsticker, 22.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute-Newsticker, 22.11.2026"
+    },
+    {
+     "titel": "ZDFheute, 22.11.2026 (Klimakonferenz)"
+    },
+    {
+     "titel": "t-online (Reuters), 22.11.2026"
+    },
+    {
+     "titel": "AFP über Yahoo Nachrichten, 22.11.2026"
+    },
+    {
+     "titel": "dpa-AFX, Tagesvorschau, 20.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,

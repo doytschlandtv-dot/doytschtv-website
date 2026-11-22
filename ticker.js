@@ -2,31 +2,37 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-22T05:52:00+01:00",
+ "stand": "2026-11-22T21:30:00+01:00",
  "items": [
   {
-   "z": "2026-11-21T14:59:00+01:00",
-   "t": "Wirtschaftsministerin Reiche will laut ZDFheute Autobahntankstellen vom geplanten Spritpreisdeckel ausnehmen; ein neuer Entwurf liegt in der Ressortabstimmung",
+   "z": "2026-11-22T13:01:00+01:00",
+   "t": "Grüne und Linke nennen die von Wirtschaftsministerin Reiche geplante Ausnahme der Autobahntankstellen vom Spritpreisdeckel laut ZDFheute absurd",
    "q": "ZDFheute-Newsticker",
    "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-11-21T17:30:00+01:00",
-   "t": "COP31-Präsident Kurum ruft die streitenden Staaten in Antalya zum Kompromiss auf; strittig ist der Ausstieg aus fossilen Energien",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/ausland/cop-klimakonferenz-antalya-streit-fossile-energien-100.html"
-  },
-  {
-   "z": "2026-11-21T18:15:00+01:00",
-   "t": "Ratspräsident Costa schlägt laut ZDFheute eine EU-Digitalsteuer von 3 Prozent vor; Kanzler Merz hält den EU-Haushalt noch nicht für zustimmungsfähig",
+   "z": "2026-11-22T13:32:00+01:00",
+   "t": "Die Klimakonferenz COP31 in der Türkei endet laut ZDFheute ohne Abschlusserklärung; Konferenzpräsident Kurum sagte, es seien keine Beschlüsse gefasst worden",
    "q": "ZDFheute-Newsticker",
    "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-11-21T21:22:00+01:00",
-   "t": "Das staatliche Standardprodukt des Altersvorsorgedepots kommt laut Finanzministerium voraussichtlich erst nach dem Start am 1. Januar 2027",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/altersvorsorge-basisdepot-2027-verzoegerung-100.html"
+   "z": "2026-11-22T14:03:00+01:00",
+   "t": "CSU-Chef Söder drängt laut ZDFheute bei der Rente auf Entscheidungen noch in diesem Jahr; Kanzler Merz will das Paket möglichst vor Weihnachten im Kabinett beraten",
+   "q": "ZDFheute-Newsticker",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+  },
+  {
+   "z": "2026-11-22T15:18:00+01:00",
+   "t": "Selenskyj beklagt laut ZDFheute Verzögerungen bei Flugabwehrraketen; die Angaben zu den russischen Angriffen dieser Woche sind seine Eigenangaben",
+   "q": "ZDFheute-Newsticker",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+  },
+  {
+   "z": "2026-11-22T18:40:00+01:00",
+   "t": "Umweltminister Schneider wirft Ölstaaten laut ZDFheute vor, die Klimakonferenz zu blockieren",
+   "q": "ZDFheute-Newsticker",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   }
  ]
 };
