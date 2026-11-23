@@ -6,7 +6,6 @@ window.BRIEFINGS = [
    "audio": null,
    "dauer": null,
    "themen": [
-    "Sözcü TV: Tausende demonstrieren in Istanbul gegen die Zwangsverwaltung des Oppositionssenders",
     "IG Metall: Streiks gehen weiter, Arbeitgeber bieten laut Benner 1 Prozent Einmalzahlung und 1,3 Prozent mehr",
     "US-Midterms: Demokraten haben im Repräsentantenhaus laut AP mindestens 258 Sitze",
     "Kalte Progression: Söder fordert sofortigen Ausgleich, Wüst hält ihn derzeit nicht für möglich",
@@ -14,99 +13,16 @@ window.BRIEFINGS = [
    ],
    "text": [
     "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Montag, den 23. November.",
-    "Türkei: In Istanbul demonstrierten am Sonntag laut Tagesschau Tausende für Pressefreiheit. Anlass ist der Oppositionssender Sözcü TV, den die Istanbuler Staatsanwaltschaft laut CPJ und Berliner Zeitung am 17. November durchsuchen und unter einen Treuhänder stellen ließ. Der Vorwurf der Staatsanwaltschaft, Eigentümer Burak Akbay handle im Sinne der Gülen-Bewegung, ist laut Anadolu ihre Darstellung; die Regierung spricht laut Berliner Zeitung von üblichen gerichtlichen Verfahren. (Tagesschau, 22.11.; CPJ, 18.11.; Berliner Zeitung, 17.11.2026)",
     "IG Metall: Vorsitzende Christiane Benner verteidigte im heute journal die Streiks. Die Gewerkschaft fordert laut Benner 5 Prozent mehr Lohn; das Angebot der Arbeitgeber nennt sie ein Minusangebot: 1 Prozent Einmalzahlung im nächsten Jahr und 1,3 Prozent mehr im übernächsten Jahr, bei 3,3 Prozent Inflation. Die Streiks sollen laut Benner am Montag und Dienstag weitergehen. Alle Zahlen sind Angaben Benners. (ZDFheute, 22.11.2026)",
     "USA: Die Demokraten haben im Repräsentantenhaus laut AP mindestens 258 der 435 Sitze, so viele wie zuletzt 1992. Die Republikaner kommen bisher auf 173, vier Wahlkreise sind noch offen. (ZDFheute, 23.11.2026, dpa, Reuters)",
     "Kalte Progression: CSU-Chef Söder fordert den sofortigen Ausgleich. NRW-Ministerpräsident Wüst sagte bei Berlin direkt, ein Ausgleich sei nach den Koalitionsgesprächen derzeit nicht möglich; stattdessen habe sich der Koalitionsausschuss für die Senkung der Stromsteuer entschieden. Den Bundeshaushalt 2027 will der Bundestag laut Wüst in der kommenden Woche beschließen. (ZDFheute, 22.11.2026)",
     "Heute: Dritte Tarifrunde der privaten Banken in Berlin, BASF Capital Markets Day, Einkaufsmanagerindizes für Deutschland und die Eurozone; in Belgien legt ein Streik laut ZDFheute den Flugverkehr zwischen 7 und 21 Uhr lahm. (dpa-AFX Wochenvorschau, Stand 16.11.; ZDFheute, 22.11.2026)",
     "Diese Woche: Dienstag Ifo-Geschäftsklima, Mittwoch BIP Q3 in zweiter Veröffentlichung, Donnerstag Urteil im Verfahren gegen dm wegen Augenscreenings in Karlsruhe, Donnerstag und Freitag EU-Sondergipfel zu Finanzplanung und Ukraine-Unterstützung in Brüssel, Freitag Arbeitslosenzahlen. (dpa-AFX Wochenvorschau, Stand 16.11.2026)",
-    "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
+    "Das Briefing gibt es auch als Story auf Instagram."
    ]
   },
   "abend": null,
-  "karussells": [
-   {
-    "zusatz": true,
-    "thema": "Sözcü TV: Treuhänder übernimmt Oppositionssender",
-    "caption": "Am 17. November durchsuchte die Polizei laut CPJ und Berliner Zeitung die Zentrale von Sözcü TV; die Istanbuler Staatsanwaltschaft stellte den Sender unter einen Treuhänder, den Einlagensicherungsfonds TMSF. Am Sonntag demonstrierten laut Tagesschau Tausende in Istanbul. Die Staatsanwaltschaft wirft Eigentümer Burak Akbay laut Anadolu Nähe zur Gülen-Bewegung vor, die Sözcü-Gruppe weist das laut Inquisitr zurück; die Regierung spricht laut Berliner Zeitung von üblichen gerichtlichen Verfahren. Unsere Frage: Ab wann ist ein staatlicher Eingriff in Medien für dich ein Problem für die Pressefreiheit? Quellen auf unserer Website, Link in der Bio.",
-    "hashtags": "#doytschlandtv #türkei #pressefreiheit #sözcü #istanbul #medienfreiheit #journalismus #nachrichten #einordnung #aktuell",
-    "slides": [
-     {
-      "typ": "cover",
-      "titel": "Sözcü TV: Treuhänder übernimmt Oppositionssender",
-      "kicker": "Türkei · Pressefreiheit",
-      "bild": {
-       "url": "cover-soezcue-2026-11-23.jpg"
-      }
-     },
-     {
-      "typ": "fakten",
-      "label": "Sonntag, 22. November",
-      "titel": "Sözcü TV: Treuhänder übernimmt Oppositionssender.",
-      "text": "Am 17. November durchsuchte die Polizei laut CPJ die Zentrale von Sözcü TV; die Istanbuler Staatsanwaltschaft stellte den Sender unter einen Treuhänder, den Einlagensicherungsfonds TMSF. Vier Führungskräfte wurden laut CPJ festgenommen. Am Sonntag demonstrierten laut Tagesschau Tausende in Istanbul.",
-      "quelle": "CPJ, 18.11.2026; Berliner Zeitung, 17.11.2026; Tagesschau, 22.11.2026"
-     },
-     {
-      "typ": "zahl",
-      "label": "Die Zahl",
-      "zahl": "6. Sender",
-      "text": "ist Sözcü TV laut Berliner Zeitung und EUalive seit 2022, der unter einen Treuhänder gestellt wird, nach Halk TV, Flash TV, Eko Türk, Habertürk und Tele1.",
-      "quelle": "Berliner Zeitung, 17.11.2026; EUalive, 17.11.2026"
-     },
-     {
-      "typ": "betrifft",
-      "label": "Was bekannt ist",
-      "titel": "Vorwurf und Folgen.",
-      "punkte": [
-       {
-        "kopf": "Vorwurf",
-        "text": "Laut Staatsanwaltschaft (via Anadolu) soll Eigentümer Akbay im Einklang mit der Gülen-Bewegung gehandelt haben."
-       },
-       {
-        "kopf": "Treuhänder",
-        "text": "Der Fonds TMSF führt laut CPJ Sender und Website sozcu.com.tr."
-       },
-       {
-        "kopf": "Nicht betroffen",
-        "text": "Die gedruckte Zeitung Sözcü sowie Tavır und Korkusuz sind laut CPJ nicht betroffen."
-       },
-       {
-        "kopf": "Festnahmen",
-        "text": "Laut CPJ (nach BBC Türkçe) wurden vier Führungskräfte festgenommen."
-       }
-      ],
-      "quelle": "CPJ, 18.11.2026; Berliner Zeitung, 17.11.2026; EUalive, 17.11.2026"
-     },
-     {
-      "typ": "einordnung",
-      "label": "Einordnung",
-      "titel": "Was Beobachter fordern.",
-      "text": "Das Komitee zum Schutz von Journalisten (CPJ) fordert, die Treuhänder bei Sözcü TV, Halk TV und Tele1 aufzuheben. Laut EUalive sind Sözcü TV und Halk TV die letzten großen Sender, die der Opposition Raum geben; das ist eine Einschätzung der Agentur, keine Messung.",
-      "quelle": "CPJ, 18.11.2026; EUalive, 17.11.2026"
-     },
-     {
-      "typ": "betrifft",
-      "label": "Beide Seiten",
-      "titel": "Zwei Sichtweisen.",
-      "punkte": [
-       {
-        "kopf": "Türkische Regierung",
-        "text": "Die Maßnahmen folgten laut Berliner Zeitung und EUalive üblichen gerichtlichen Verfahren; die Justiz sei unabhängig."
-       },
-       {
-        "kopf": "Opposition und CPJ",
-        "text": "Die İYİ-Partei nennt es laut Berliner Zeitung einen Schlag gegen Informationsfreiheit; CPJ fordert die Rücknahme der Treuhänder."
-       }
-      ],
-      "quelle": "Berliner Zeitung, 17.11.2026; EUalive, 17.11.2026; CPJ, 18.11.2026"
-     },
-     {
-      "typ": "cta",
-      "frage": "Ab wann ist ein staatlicher Eingriff in Medien für dich ein Problem für die Pressefreiheit?"
-     }
-    ]
-   }
-  ],
+  "karussells": [],
   "storys": [
    {
     "zusatz": true,
@@ -116,10 +32,6 @@ window.BRIEFINGS = [
     "label": "Gestern und zuletzt",
     "titel": "Was am Sonntag wichtig war",
     "punkte": [
-     {
-      "kopf": "Sözcü TV",
-      "text": "Tausende demonstrierten laut Tagesschau in Istanbul; der Sender steht seit dem 17.11. unter Treuhänder."
-     },
      {
       "kopf": "IG Metall",
       "text": "Benner: Arbeitgeber böten 1 % Einmalzahlung und 1,3 % mehr; die Gewerkschaft fordert 5 % und streikt weiter."
@@ -133,7 +45,7 @@ window.BRIEFINGS = [
       "text": "Söder will sie sofort ausgleichen; Wüst hält das laut ZDFheute derzeit nicht für möglich."
      }
     ],
-    "quelle": "Tagesschau, ZDFheute, 22./23.11.2026"
+    "quelle": "ZDFheute, 22./23.11.2026"
    }
   ]
  },
