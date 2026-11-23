@@ -21,7 +21,40 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "IG Metall: Warnstreiks laufen bis Dienstag, am Mittwoch wird in Mannheim wieder verhandelt",
+    "Klimagipfel: Steinmeier mahnt zum Handeln, AfD begrüßt das Scheitern",
+    "EU-Kommission schlägt 22. Russland-Sanktionspaket vor, Rutte zur Nato-Perspektive der Ukraine",
+    "Spritpreise: E10 laut ADAC im Tagesschnitt bei 1,90 Euro"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Montag, 23. November.",
+    "Erstens: IG Metall. Im Morning Briefing ging es um die Streiks in der Metall- und Elektroindustrie. Stand heute Abend: Die Gewerkschaft setzt wieder auf Verhandlungen. Die Bezirke Baden-Württemberg und Nordrhein-Westfalen sollen gemeinsam ein neues Angebot der Arbeitgeber entgegennehmen; die vierte Verhandlungsrunde findet am Mittwoch, 25. November, in Mannheim statt. Die Warnstreiks laufen bis einschließlich Dienstag weiter. Laut dpa nahmen am Montag rund 340.000 Beschäftigte an ganztägigen Warnstreiks teil, bei Opel in Eisenach gab es den ersten 24-Stunden-Streik der Werksgeschichte. Die IG Metall fordert fünf Prozent mehr Geld bei einem Jahr Laufzeit für 3,7 Millionen Beschäftigte. Laut Gesamtmetall bietet die Arbeitgeberseite eine Einmalzahlung und 1,3 Prozent mehr ab Juli 2028 bei 26 Monaten Laufzeit; das sind Angaben der Tarifparteien. Zum Inhalt eines neuen Angebots lag bis zum Abend nichts vor (t-online mit dpa, 23.11.2026; ZDFheute-Newsticker, 23.11.2026).",
+    "Zweitens: der Klimagipfel. Gestern hatten wir berichtet, dass die COP31 ohne Abschlusserklärung endete. Heute folgten Reaktionen. Bundespräsident Frank-Walter Steinmeier bedauerte bei einem Besuch in Abidjan das Scheitern; das Jahr habe Klimaveränderungen in Europa so deutlich gemacht wie nie, man müsse handeln, Klimaschutz sei nur gemeinsam weltweit möglich. Der Erste Parlamentarische Geschäftsführer der AfD-Bundestagsfraktion, Bernd Baumann, sagte laut ZDFheute, es habe sich gezeigt, die anderen machten nicht mit; weitere Klimapolitik nannte er sinnlos und dumm. Haushaltspolitiker Michael Espendiller begrüßte die Entwicklung in Antalya. Unsere Einordnung: Dass einzelne Staaten Beschlüsse blockierten, ist kein Beleg dafür, dass Klimaschutz sinnlos wäre; wir teilen diese Schlussfolgerung der AfD nicht (ZDFheute-Newsticker, 23.11.2026).",
+    "Drittens: Russland und die Ukraine. Die EU-Kommission hat laut ZDFheute ein 22. Sanktionspaket gegen Russland vorgeschlagen. Laut Kommissionspräsidentin Ursula von der Leyen zielt es vor allem auf Finanzinstitute und Krypto-Plattformen: 60 weitere Banken sollen auf die Sanktionsliste, eine Arbeitsgruppe für Krypto-Sanktionen ist geplant, erstmals wären auch Stromversorger betroffen, und ehemalige russische Soldaten sollen keine Einreisevisa mehr erhalten. Das ist bislang ein Vorschlag. Außerdem sagte Nato-Generalsekretär Mark Rutte bei der Jahrestagung der Nato-Parlamentarierversammlung in Berlin, unter den Mitgliedern gebe es keine Einstimmigkeit über einen Beitritt der Ukraine; sie habe eine Perspektive, über die Mitgliedschaft entscheide allein die Nato (ZDFheute-Newsticker, 23.11.2026).",
+    "Viertens: Spritpreise. In den vergangenen Tagen ging es um den geplanten Preisdeckel. Aktuell sinken die Preise: Laut ADAC lag der Tagesdurchschnitt am Sonntag für Super E10 bei 1,90 Euro und für Diesel bei 2,12 Euro. Auf Wochensicht fiel E10 um knapp sechs Cent, Diesel um mehr als acht Cent. Laut ZDFheute sind das die niedrigsten Werte seit dem Ende des ersten Tankrabatts im Sommer (ZDFheute-Newsticker, 23.11.2026).",
+    "Morgen: Um 10 Uhr erscheint das Ifo-Geschäftsklima für November, um 17 Uhr folgt der zweite Tag des Capital Markets Day von BASF. Die EU-Kommission will laut Terminvorschau voraussichtlich das Herbstpaket des Europäischen Semesters vorstellen. Politik-, Gerichts- oder Tariftermine nennt die Vorschau für Dienstag nicht; die IG-Metall-Verhandlung in Mannheim ist erst für Mittwoch angesetzt (dpa-AFX Tagesvorschau, 23.11.2026).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute-Newsticker, 23.11.2026"
+    },
+    {
+     "titel": "t-online (dpa), 23.11.2026"
+    },
+    {
+     "titel": "Investing.com (dpa-AFX), 23.11.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau für den 24.11.2026, 23.11.2026"
+    }
+   ]
+  },
   "karussells": [],
   "storys": [
    {
