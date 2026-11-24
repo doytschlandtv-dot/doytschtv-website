@@ -24,7 +24,49 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Haushalt 2027: Klingbeil bringt den Etat ein, rund 210 Milliarden Euro neue Schulden eingeplant",
+    "Ifo-Geschäftsklima steigt auf 90,6 Punkte, Tarifkonflikte in der Autoindustrie dauern an",
+    "Ostsee: Der Frachter heißt Sparta II, der Angriff liegt laut Berichten schon vom Samstag",
+    "Polen: Zeitweise Luftalarm im Bezirk Lublin"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Dienstag, 24. November.",
+    "Erstens: der Haushalt 2027. Finanzminister Lars Klingbeil (SPD) sollte den Etat am Vormittag um 10.10 Uhr in den Bundestag einbringen. Der Kernhaushalt umfasst laut dpa-AFX rund 560 Milliarden Euro, etwa 36 Milliarden mehr als 2026; für Verteidigung sind fast 140 Milliarden Euro vorgesehen. Zusammen mit den Sondertöpfen für Infrastruktur und Bundeswehr sind laut dpa-AFX rund 210 Milliarden Euro neue Schulden geplant; zunächst war von rund 203 Milliarden Euro die Rede, ZDFheute spricht von inzwischen rund 210 Milliarden Euro Nettokreditaufnahme. Die Zinsausgaben des Bundes beziffert ZDFheute für 2027 auf knapp 42 Milliarden Euro. Die Generaldebatte ist für Mittwochvormittag angesetzt, beschlossen werden soll der Etat am Freitag, 27. November. Der Verlauf der Rede selbst lag uns bei Redaktionsschluss nicht aus gelesener Quelle vor (dpa-AFX, 24.11.; ZDFheute, 24.11.).",
+    "Zweitens: Wirtschaft und Tarife. Das Ifo-Geschäftsklima stieg im November laut Ifo-Institut um 0,5 Punkte auf 90,6 Punkte, den siebten Monat in Folge und auf den höchsten Stand seit dem Frühjahr 2023. Zugleich berichtet die Funke Mediengruppe über eine IW-Umfrage unter 935 Unternehmen, nach der neun von zehn Firmen für 2027 keine wirtschaftliche Erholung erwarten. In der Metall- und Elektroindustrie bleibt das Klima laut Gesamtmetall angespannt, das ist die Sicht des Arbeitgeberverbands. Bei Volkswagen begannen laut ZDFheute heute in Emden die Tarifgespräche über schärfere Sparpläne; Positionen nannte die Quelle nicht. Die vierte Verhandlungsrunde der Metall-Tarifrunde ist für Mittwoch in Mannheim angesetzt (dpa-AFX, 24.11.; ZDFheute, 24.11.).",
+    "Drittens: Ostsee, mit einer Korrektur zum Morning Briefing. Dort stand der Angriff auf den russischen Frachter im Finnischen Meerbusen als Montagsmeldung. Laut ORF und Euronews geschah er bereits am Samstag, 21. November: Der Frachter Sparta II, laut Berichten mit zwei Drohnen getroffen, geriet in Brand und trieb in finnische Gewässer. Die 16 Besatzungsmitglieder wurden in Sicherheit gebracht, ein Seemann wurde leicht verletzt. Seit Sonntag wurde das Schiff in russische Gewässer geschleppt. Die finnische Armee schreibt den Angriff laut ORF der Ukraine zu; Kiew hatte sich nach den gelesenen Berichten nicht geäußert. Zur Ladung ist öffentlich nichts bekannt, militärisches Material ist laut finnischem Grenzschutz nicht auszuschließen. Betreiber ist laut ORF ein Logistikunternehmen, das für das russische Verteidigungsministerium arbeitet und von den USA sanktioniert ist. Verteidigungsminister Pistorius hatte am Montag vor einer Ausweitung des Krieges auf die Ostsee gewarnt. Unsere Einordnung: Militärisch genutzte Ziele sind völkerrechtlich etwas anderes als zivile Schifffahrt; ob die Sparta II ein militärisches Ziel war, ist nach den gelesenen Quellen nicht belegt (ORF, 22.11.; Euronews, 23.11.; dpa-AFX, 23.11.).",
+    "Viertens: Polen. Im Bezirk Lublin gab es am frühen Morgen zeitweise Luftalarm; das Krisenzentrum der polnischen Regierung forderte Anwohner im grenznahen Südosten laut ZDFheute auf, Schutzräume aufzusuchen. Der Alarm wurde kurz darauf aufgehoben. Am Freitag waren während massiver russischer Luftangriffe auf die Ukraine drei Flugobjekte in den polnischen Luftraum eingedrungen und abgestürzt, verletzt wurde laut ZDFheute niemand (ZDFheute-Newsticker, 24.11.).",
+    "Morgen: Um 8 Uhr folgt die zweite Veröffentlichung des Bruttoinlandsprodukts für das dritte Quartal. Im Bundestag folgt die Generaldebatte zum Haushalt, laut dpa-AFX eröffnet vom Oppositionsführer der AfD, danach antwortet Kanzler Friedrich Merz; in Sondersitzungen beraten Haushalts- und Finanzausschuss das Begleitgesetz zur Stromsteuer. In München findet um 10.30 Uhr eine mündliche Berufungsverhandlung zu einer Klage gegen die Chatkontrolle bei Facebook statt, in Brüssel der EU-Westbalkangipfel (dpa-AFX, Tagesvorschau 24.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "dpa-AFX (ariva.de), 24.11.2026"
+    },
+    {
+     "titel": "ZDFheute Update am Morgen, 24.11.2026"
+    },
+    {
+     "titel": "dpa-AFX Überblick Konjunktur (finanzen.net), 24.11.2026"
+    },
+    {
+     "titel": "ZDFheute-Newsticker, 24.11.2026"
+    },
+    {
+     "titel": "ORF, 22.11.2026"
+    },
+    {
+     "titel": "Euronews, 23.11.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau (finanzen.net), 24.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,

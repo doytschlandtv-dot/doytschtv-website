@@ -2,37 +2,37 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-24T06:00:00+01:00",
+ "stand": "2026-11-24T21:45:00+01:00",
  "items": [
   {
-   "z": "2026-11-23T10:57:00+01:00",
-   "t": "Die IG Metall nimmt nach Warnstreiks die Verhandlungen wieder auf; die vierte Runde ist für Mittwoch in Mannheim angesetzt",
-   "q": "t-online (dpa)",
-   "u": "https://www.t-online.de/finanzen/aktuelles/id_101541832/ig-metall-verlangt-zu-neuem-termin-angebot-der-arbeitgeber.html"
+   "z": "2026-11-24T06:01:00+01:00",
+   "t": "Zeitweise Luftalarm im polnischen Bezirk Lublin: Das Krisenzentrum der Regierung forderte Anwohner im grenznahen Südosten auf, Schutzräume aufzusuchen; der Alarm wurde kurz darauf aufgehoben",
+   "q": "ZDFheute-Newsticker",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
   },
   {
-   "z": "2026-11-23T17:34:00+01:00",
-   "t": "Heute um 10 Uhr erscheint das Ifo-Geschäftsklima für November; die EU-Kommission stellt voraussichtlich das Herbstpaket des Europäischen Semesters vor",
+   "z": "2026-11-24T07:35:00+01:00",
+   "t": "Der Bundestag berät diese Woche den Haushalt 2027 mit rund 560 Milliarden Euro im Kernhaushalt; beschlossen werden soll er am Freitag, 27. November",
+   "q": "dpa-AFX (ariva.de)",
+   "u": "https://www.ariva.de/news/roundup-was-an-dieser-bundestagswoche-besonders-ist-12218036"
+  },
+  {
+   "z": "2026-11-24T07:40:00+01:00",
+   "t": "Bei Volkswagen beginnen in Emden die Tarifgespräche über schärfere Sparpläne; die IG Metall ruft zu einer Kundgebung auf",
+   "q": "ZDFheute-Newsticker",
+   "u": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+  },
+  {
+   "z": "2026-11-24T17:04:00+01:00",
+   "t": "Das Ifo-Geschäftsklima steigt im November laut Ifo-Institut um 0,5 Punkte auf 90,6 Punkte, den siebten Monat in Folge",
    "q": "dpa-AFX (finanzen.net)",
-   "u": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-24-november-2026-16082266"
+   "u": "https://www.finanzen.net/nachricht/aktien/dpa-afx-ueberblick-konjunktur-vom-24-11-2026-17-00-uhr-16084305"
   },
   {
-   "z": "2026-11-23T19:42:00+01:00",
-   "t": "Pistorius warnt nach einem mutmaßlichen ukrainischen Angriff auf einen russischen Frachter im Finnischen Meerbusen: Der Krieg dürfe sich nicht auf die Ostsee ausweiten",
-   "q": "dpa-AFX (Investing.com)",
-   "u": "https://de.investing.com/news/economy-news/pistorius-krieg-darf-sich-nicht-auf-ostsee-ausweiten-3782984"
-  },
-  {
-   "z": "2026-11-23T19:58:00+01:00",
-   "t": "Deutschland will die ukrainische Aufklärungsdrohne Babka bauen; Pistorius kündigt laut AFP 34 Millionen Euro an, Wingcopter und Shadow Flytech gründen ein Gemeinschaftsunternehmen",
-   "q": "AFP (Yahoo Nachrichten)",
-   "u": "https://de.nachrichten.yahoo.com/pistorius-deutschland-will-ukrainische-aufkl%C3%A4rungsdrohnen-185852146.html"
-  },
-  {
-   "z": "2026-11-23T21:07:00+01:00",
-   "t": "Die finnische Grenzschutzbehörde meldet einen brennenden russischen Frachter im östlichen Finnischen Meerbusen und leitet einen Rettungseinsatz ein; nach russischen Angaben war er auf dem Weg nach Kaliningrad",
-   "q": "Nordkurier (dpa)",
-   "u": "https://www.nordkurier.de/politik/russischer-frachter-in-flammen-jetzt-warnt-pistorius-vor-eskalation-in-der-ostsee-5032925"
+   "z": "2026-11-24T17:34:00+01:00",
+   "t": "Morgen um 8 Uhr erscheint die zweite Veröffentlichung des Bruttoinlandsprodukts für das dritte Quartal; in München steht um 10.30 Uhr eine Berufungsverhandlung zur Chatkontrolle bei Facebook an",
+   "q": "dpa-AFX (finanzen.net)",
+   "u": "https://www.finanzen.net/nachricht/aktien/tagesvorschau-termine-am-25-november-2026-16084438"
   }
  ]
 };
