@@ -1,5 +1,140 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-24",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Ostsee: Pistorius warnt nach mutmaßlichem Angriff auf russischen Frachter vor Ausweitung des Krieges",
+    "Ukraine: Deutschland will Aufklärungsdrohne Babka bauen, 34 Millionen Euro",
+    "Femizide: Hubig will den Mordparagrafen klarstellen",
+    "Nvidia setzt Jensen Huang wieder als Chef ein",
+    "Heute: Ifo-Geschäftsklima um 10 Uhr"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Dienstag, den 24. November.",
+    "Ostsee: Verteidigungsminister Boris Pistorius (SPD) hat am Montag in Berlin nach einem Treffen mit seinem ukrainischen Amtskollegen Jewhenij Chmara vor einer Ausweitung des Krieges auf die Ostsee gewarnt. Anlass ist ein mutmaßlicher ukrainischer Angriff auf einen russischen Frachter im Finnischen Meerbusen. Die finnische Grenzschutzbehörde meldete laut dpa einen brennenden Frachter und leitete einen Rettungseinsatz ein. Nach russischen Angaben war das Schiff auf dem Weg in die Exklave Kaliningrad; der Kommunikationschef der finnischen Streitkräfte sprach laut Yle von einem wahrscheinlich ukrainischen Angriff. Pistorius sagte, die Ukraine habe das Recht, militärisch genutzte Ziele in Russland anzugreifen, die freie Schifffahrt dürfe aber nicht gefährdet werden (dpa-AFX, 23.11.; Nordkurier/dpa, 23.11.; AFP, 23.11.).",
+    "Ukraine-Hilfe: Deutschland will die ukrainische Aufklärungsdrohne Babka im eigenen Land bauen. Laut Bundesverteidigungsministerium fördert Deutschland den Aufbau der Produktion mit rund 34 Millionen; laut AFP gründeten die deutsche Firma Wingcopter und das ukrainische Unternehmen Shadow Flytech dafür ein Gemeinschaftsunternehmen. Pistorius und Chmara unterzeichneten zudem eine Absichtserklärung, dass die Bundeswehr das ukrainische Gefechtsführungssystem Delta nutzt. Für das kommende Jahr plant Deutschland laut Pistorius 11,6 Milliarden Euro Ukraine-Unterstützung (BMVg, 23.11.; AFP, 23.11.).",
+    "Femizide: Bundesjustizministerin Stefanie Hubig (SPD) will Tötungen aus geschlechtsspezifischen oder sonstigen menschenverachtenden Beweggründen im Strafgesetzbuch ausdrücklich als niedrige Beweggründe einstufen, die Taten wären dann Mord. Einen eigenen Tatbestand Femizid will sie laut AFP nicht vorschlagen. Der Entwurf ist in der Abstimmung der Bundesregierung und soll noch in diesem Jahr in die Länder- und Verbändeanhörung gehen (AFP, 22.11.).",
+    "Nvidia: Der Verwaltungsrat des US-Chipkonzerns hat Jensen Huang laut Unternehmensmitteilung mit sofortiger Wirkung wieder als Präsident, Vorstandschef und Verwaltungsratsmitglied eingesetzt, einstimmig. Eine Untersuchung durch unabhängige Direktoren zu Berichten über ein ausländisches Geheimdienstvorgehen gegen Huang läuft laut Mitteilung weiter; ein neuer Ausschuss soll Handelskonformität und nationale Sicherheit überwachen (Nvidia, 23.11., SEC-Mitteilung).",
+    "Die Zahl des Tages: 11,6 Milliarden Euro. So viel will Deutschland laut Pistorius im kommenden Jahr für die Ukraine bereitstellen, Schwerpunkt Luftverteidigung (AFP, 23.11.).",
+    "Heute: Um 10 Uhr erscheint das Ifo-Geschäftsklima für November. Die EU-Kommission stellt voraussichtlich das Herbstpaket des Europäischen Semesters vor, bei BASF läuft der zweite Tag des Capital Markets Day (dpa-AFX, Tagesvorschau 23.11.).",
+    "Diese Woche: Am Mittwoch um 8 Uhr folgt die zweite Veröffentlichung des BIP für das dritte Quartal, die IG Metall verhandelt laut dpa am Mittwoch in Mannheim zum vierten Mal. Am Donnerstag ist ein EU-Sondergipfel angesetzt, am Freitag um 9.55 Uhr folgen die Arbeitslosenzahlen für November (dpa-AFX, Wochenvorschau 20.11.; dpa, 23.11.).",
+    "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Ostsee: Pistorius warnt vor Ausweitung des Krieges",
+    "caption": "Nach einem mutmaßlichen ukrainischen Angriff auf einen russischen Frachter im Finnischen Meerbusen hat Verteidigungsminister Pistorius am Montag gewarnt: Der Krieg dürfe sich nicht auf die Ostsee ausweiten. Die finnische Grenzschutzbehörde meldete laut dpa einen brennenden Frachter, nach russischen Angaben war er auf dem Weg nach Kaliningrad. Pistorius sagte zugleich, die Ukraine dürfe militärisch genutzte Ziele in Russland angreifen. Deutschland will laut Verteidigungsministerium die ukrainische Drohne Babka bauen und plant für 2027 laut Pistorius 11,6 Milliarden Euro Ukraine-Hilfe. Unsere Frage: Wo verläuft die Grenze zwischen Verteidigung und Eskalation, wenn zivile Schifffahrt betroffen sein kann? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #ostsee #pistorius #ukraine #finnland #bundeswehr #sicherheitspolitik #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Ostsee: Pistorius warnt vor Ausweitung des Krieges",
+      "kicker": "Ostsee · Ukraine-Krieg",
+      "bild": {
+       "url": "cover-ostsee-2026-11-24.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Montag, 23. November",
+      "titel": "Ostsee: Pistorius warnt vor Ausweitung des Krieges.",
+      "text": "Nach einem mutmaßlichen ukrainischen Angriff auf einen russischen Frachter im Finnischen Meerbusen warnt Pistorius vor einer Ausweitung des Krieges. Die finnische Grenzschutzbehörde meldete einen brennenden Frachter; nach russischen Angaben war er auf dem Weg nach Kaliningrad.",
+      "quelle": "dpa-AFX, 23.11.2026; Nordkurier (dpa), 23.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "11,6 Mrd. €",
+      "text": "will Deutschland laut Pistorius im kommenden Jahr für die Ukraine bereitstellen, Schwerpunkt Luftverteidigung.",
+      "quelle": "AFP, 23.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was für dich gilt",
+      "titel": "Was das mit Deutschland zu tun hat.",
+      "punkte": [
+       {
+        "kopf": "Schifffahrt",
+        "text": "Pistorius sagt, die freie Schifffahrt in der Ostsee dürfe nicht gefährdet werden."
+       },
+       {
+        "kopf": "Umwelt",
+        "text": "Finnlands Grenzschutz bereitet laut dpa Maßnahmen gegen mögliche Umweltschäden vor."
+       },
+       {
+        "kopf": "Drohne Babka",
+        "text": "Das Verteidigungsministerium nennt rund 34 Millionen für den Produktionsaufbau in Deutschland."
+       }
+      ],
+      "quelle": "dpa-AFX, 23.11.2026; BMVg, 23.11.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Nicht der erste Vorfall.",
+      "text": "Schon am 13. November meldeten Finnlands Streitkräfte laut Al Jazeera einen Angriff auf ein russisches Kriegsschiff im Golf von Finnland. Verteidigungsminister Häkkänen sagte laut Yle, man habe den Ukrainern die Gefahr für Umwelt und zivile Schifffahrt mitgeteilt.",
+      "quelle": "Al Jazeera, 13.11.2026 (zitiert Yle)"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Beide Seiten",
+      "titel": "Zwei Sichtweisen.",
+      "punkte": [
+       {
+        "kopf": "Recht zur Verteidigung",
+        "text": "Pistorius: Die Ukraine darf militärisch genutzte Ziele in Russland angreifen, die Angriffe abschwächen."
+       },
+       {
+        "kopf": "Risiko der Ausweitung",
+        "text": "Pistorius: Der Krieg darf sich nicht auf die Ostsee ausweiten. Finnlands Minister Häkkänen warnte laut Yle vor Gefahren für Umwelt und Schifffahrt."
+       }
+      ],
+      "quelle": "dpa-AFX, 23.11.2026; Al Jazeera, 13.11.2026 (zitiert Yle)"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wo verläuft die Grenze zwischen Verteidigung und Eskalation, wenn zivile Schifffahrt betroffen sein kann?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "typ": "betrifft",
+    "band": "Briefing",
+    "label": "Gestern und zuletzt",
+    "titel": "Was am Montag wichtig war",
+    "punkte": [
+     {
+      "kopf": "Ostsee",
+      "text": "Pistorius warnt nach mutmaßlichem Angriff auf einen russischen Frachter vor Ausweitung des Krieges."
+     },
+     {
+      "kopf": "Drohne Babka",
+      "text": "Deutschland will die ukrainische Aufklärungsdrohne bauen; das Verteidigungsministerium nennt rund 34 Millionen."
+     },
+     {
+      "kopf": "Femizide",
+      "text": "Hubig will geschlechtsspezifische Tötungen im Mordparagrafen klarstellen, laut AFP ohne eigenen Tatbestand."
+     },
+     {
+      "kopf": "Nvidia",
+      "text": "Der Verwaltungsrat setzt Jensen Huang laut Mitteilung wieder als Chef ein; eine Untersuchung läuft weiter."
+     }
+    ],
+    "quelle": "dpa-AFX, AFP, 23.11.2026; BMVg, 23.11.2026; Nvidia (SEC), 23.11.2026"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-23",
   "morgen": {
    "titel": "Morning Briefing",
