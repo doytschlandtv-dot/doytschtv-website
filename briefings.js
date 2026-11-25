@@ -23,7 +23,37 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "USA planen neue Zölle gegen 14 Handelspartner, EU-Kommission widerspricht",
+    "Linke Berlin: Krach verteidigt Ausschluss von Emde, Regierungsbildung in heißer Phase",
+    "Bundestag gedenkt Femizid-Opfern, Merz kündigt besseren Schutz an",
+    "EU-Parlament beschließt Haushalt 2027"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Mittwoch, 25. November.",
+    "Zölle: Die USA planen laut ZDFheute neue Zölle gegen 14 Handelspartner, darunter die EU, die Schweiz, China, Japan und Südkorea. Für die EU gilt demnach weiterhin die im Handelsabkommen vereinbarte Obergrenze von 15 Prozent. Die EU-Kommission weist laut ZDFheute die US-Begründung struktureller Überkapazitäten zurück und verlangt, dass die USA das Abkommen auch bei den neuen Zöllen einhalten (ZDFheute-Newsticker, 25.11.).",
+    "Linke Berlin: Zum Morning-Briefing-Thema Emde gibt es einen neuen Stand. Der Berliner SPD-Landeschef und Fraktionschef Steffen Krach verteidigte laut RBB-Inforadio den Ausschluss von Vanessa Emde aus der Linke-Fraktion; bei künftigen klaren antisemitischen Vorfällen werde wieder ausgeschlossen. Die Verhandlungen von Linke, Grünen und SPD über eine Regierungsbildung sind laut ZDFheute in einer heißen Phase: Ergebnisse aus 14 Facharbeitsgruppen sollen bis Ende der Woche vorliegen, das Ziel ist ein Koalitionsvertrag bis Anfang Januar (ZDFheute-Newsticker, 25.11.).",
+    "Gewalt gegen Frauen: Der Bundestag hat laut ZDFheute eine Schweigeminute für Opfer von Femiziden eingelegt. Bundeskanzler Merz kündigte besseren Schutz an und sagte, erste Gesetzgebungsvorschläge lägen vor. Welche Maßnahmen das genau sind, ging aus der Meldung nicht hervor (ZDFheute-Newsticker, 25.11.).",
+    "EU-Haushalt: Das Europaparlament in Straßburg hat den Haushalt 2027 mit 406 Stimmen angenommen, er umfasst knapp 200 Milliarden Euro. Der Rat hatte in dieser Woche bereits zugestimmt (ZDFheute-Newsticker, 25.11.).",
+    "Morgen: In Brüssel beginnt der EU-Sondergipfel zur langfristigen Finanzplanung und zur weiteren finanziellen Unterstützung der Ukraine. Um 14 Uhr wird in Karlsruhe ein Urteil im Prozess gegen die Drogeriemarktkette dm wegen des Augenscreenings in Filialen erwartet, um 16 Uhr verkündet das Oberlandesgericht Frankfurt sein Urteil zur Handgepäck-Unterlassungsklage gegen eine Fluggesellschaft (dpa-AFX, Tagesvorschau, 25.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute-Newsticker, 25.11.2026"
+    },
+    {
+     "titel": "RBB-Inforadio (laut ZDFheute), 25.11.2026"
+    },
+    {
+     "titel": "dpa-AFX, TAGESVORSCHAU 26.11.2026, 25.11.2026"
+    }
+   ]
+  },
   "karussells": [],
   "storys": [
    {
