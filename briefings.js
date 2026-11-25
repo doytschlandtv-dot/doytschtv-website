@@ -1,5 +1,61 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-25",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Linke Berlin: Fraktion schließt Abgeordnete Emde aus",
+    "Ungarn: Ministerpräsident Magyar besucht erstmals die Ukraine",
+    "VW: Erste Tarifrunde in Emden ohne Annäherung",
+    "Bundeswehr: Über 4 Milliarden Euro für Flugabwehr geplant",
+    "Heute: Rutte bei Trump, BIP-Zahlen um 8 Uhr"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Mittwoch, den 25. November.",
+    "Linke Berlin: Die Fraktion der Linken im Berliner Abgeordnetenhaus hat die Abgeordnete Vanessa Emde ausgeschlossen. Laut Fraktionssprecher stimmten 33 von 44 Mitgliedern dafür, die nötige Zweidrittelmehrheit wurde erreicht. Hintergrund sind laut dpa und AFP Kritik an Äußerungen zum Nahost-Konflikt und der Vorwurf, sie stelle das Existenzrecht Israels in Zweifel. Emde will ihr Mandat als fraktionslose Abgeordnete behalten. Josef Schuster, Präsident des Zentralrats der Juden, nannte den Ausschluss laut dpa 'nur ein erster Schritt'. Die Linke verhandelt seit Anfang November mit Grünen und SPD über eine Koalition (ZDFheute/dpa/AFP, 24.11.).",
+    "Ungarn und Ukraine: Der neue ungarische Ministerpräsident Péter Magyar hat die Ukraine erstmals offiziell besucht und Präsident Selenskyj in Uschhorod getroffen. Laut ZDFheute bezeichnet Magyar Russland im Unterschied zu seinem Vorgänger Viktor Orbán klar als Aggressor und kündigte humanitäre Hilfe an (ZDFheute, 24.11.).",
+    "VW: In Emden endete die erste Runde der Tarifverhandlungen bei Volkswagen laut ZDFheute nach etwa eineinhalb Stunden ohne Annäherung. Verhandlungsführer der IG Metall ist Thorsten Gröger; es geht um Standorte, deren Zukunft VW derzeit infrage stellt (ZDFheute, 24.11.).",
+    "Flugabwehr: Die Bundesregierung will laut ZDFheute mehr als vier Milliarden Euro für die Flugabwehr der Bundeswehr ausgeben, davon rund 2,42 Milliarden Euro für Patriot-Lenkflugkörper und knapp zwei Milliarden Euro für Transportfahrzeuge und Feuerleitstände. Der Haushaltsausschuss soll im Dezember zustimmen, was laut ZDFheute als sicher gilt (ZDFheute, 24.11.).",
+    "Heute: Nato-Generalsekretär Mark Rutte trifft Donald Trump in Mar-a-Lago, Hauptthema sind Bemühungen um eine Waffenruhe in der Ukraine (ZDFheute, 24.11.). Um 8 Uhr folgt die zweite Veröffentlichung des BIP für das dritte Quartal (dpa-AFX, Wochenvorschau, Stand 16.11.).",
+    "Diese Woche: Am Donnerstag und Freitag findet in Brüssel der EU-Sondergipfel zur langfristigen Finanzplanung und zur Ukraine-Finanzierung statt. Am Donnerstag um 14 Uhr wird in Karlsruhe ein Urteil im Prozess gegen dm wegen Augenscreenings in Filialen erwartet, am Freitag um 9.55 Uhr folgen die Arbeitslosenzahlen für November (dpa-AFX, Wochenvorschau, Stand 16.11.).",
+    "Das Briefing gibt es auch als Story auf Instagram."
+   ]
+  },
+  "abend": null,
+  "karussells": [],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "typ": "betrifft",
+    "band": "Briefing",
+    "label": "Gestern und zuletzt",
+    "titel": "Was am Dienstag wichtig war",
+    "punkte": [
+     {
+      "kopf": "Linke Berlin",
+      "text": "Die Fraktion schließt Vanessa Emde aus; 33 von 44 stimmten laut dpa für den Ausschluss."
+     },
+     {
+      "kopf": "Ungarn und Ukraine",
+      "text": "Ministerpräsident Magyar besucht erstmals offiziell die Ukraine und trifft Selenskyj in Uschhorod."
+     },
+     {
+      "kopf": "VW-Tarifrunde",
+      "text": "Die erste Runde in Emden endet laut ZDFheute nach etwa 90 Minuten ohne Annäherung."
+     },
+     {
+      "kopf": "Flugabwehr",
+      "text": "Der Bund will laut ZDFheute über 4 Mrd. Euro ausgeben, rund 2,42 Mrd. davon für Patriot-Lenkflugkörper."
+     }
+    ],
+    "quelle": "ZDFheute, dpa, AFP, 24.11.2026"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-24",
   "morgen": {
    "titel": "Morning Briefing",
