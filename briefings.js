@@ -24,7 +24,44 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "EU-Sondergipfel: Streit um den Haushalt 2028 bis 2034 und die Ukraine-Finanzierung, noch keine Einigung",
+    "dm darf Augenscreenings weiter anbieten, muss aber die Werbung ändern",
+    "Bundestag: Haushalt 2027 in zweiter Beratung, Abschluss am Freitag"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Donnerstag, 26. November.",
+    "EU-Sondergipfel: In Brüssel verhandeln die Staats- und Regierungschefs über den EU-Haushalt 2028 bis 2034 und die Finanzierung der Ukraine. Laut Euronews hat Ratspräsident António Costa einen Kompromiss vorgelegt, der den ursprünglichen Vorschlag um 204 Milliarden Euro kürzt. Die sogenannten Sparsamen, darunter Deutschland, wollen demnach tiefere Einschnitte bei Agrar- und Kohäsionsmitteln; 17 Staaten der Gruppe der Freunde der Kohäsion lehnen den Vorschlag als zu stark gekürzt ab. Für die Ukraine nennt Euronews eine Lücke von 70 Milliarden Euro im Haushalt 2027; ein von der EU-Kommission vorgeschlagener Kredit von 45 Milliarden Euro soll zwei Drittel davon schließen. Die Slowakei, Tschechien, Ungarn und Bulgarien wollen sich laut Euronews nicht beteiligen. Laut IT Boltwise sagte Bundeskanzler Merz, die Europäische Union finanziere etwas gemeinsam als Union, nicht nur mit 23 oder 24 Mitgliedern, und hält eine Blockade des Haushalts für möglich. Beschlüsse meldeten beide Quellen bis zum Nachmittag nicht; der Gipfel dauert bis Freitag, eine Einigung wird für den Dezember-Gipfel angestrebt. Unsere Einordnung: Ein gemeinsamer Haushalt, der nur von einem Teil der Mitgliedstaaten mitgetragen wird, wirft die Frage nach fairer Lastenteilung auf (Euronews, 26.11.; IT Boltwise, 26.11.).",
+    "dm und das Augenscreening: Das Landgericht Karlsruhe hat die Klage der Wettbewerbszentrale gegen die Drogeriemarktkette dm weitgehend abgewiesen. dm darf die KI-gestützten Augenscreenings, die 14,95 Euro kosten, weiter anbieten. Laut beck-aktuell sah das Gericht keine ernsten Gesundheitsgefahren, weil Kunden einen Ergebnisbericht mit dem Hinweis auf eine ärztliche Untersuchung erhalten. Beanstandet wurde die Werbung: Sie darf nicht den Eindruck erwecken, das Screening ersetze den Besuch beim Augenarzt. Das Urteil ist nicht rechtskräftig; laut beck-aktuell ist Berufung zum Oberlandesgericht möglich, die Wettbewerbszentrale hat noch nicht entschieden. dm sieht sich bestätigt und nennt die Werbung bereits angepasst. Unsere Einordnung: Bei Gesundheitsangeboten im Supermarktumfeld zählt vor allem, dass Kunden klar erfahren, was ein solcher Test leisten kann und was nicht (beck-aktuell, 26.11.; Handelsblatt/dpa, 26.11.).",
+    "Bundestag: In der Haushaltswoche stand am Donnerstag laut Tagesordnung des Bundestags die zweite Beratung des Haushaltsgesetzes 2027 an, mit Debatten unter anderem zu den Etats des Innen-, Justiz-, Wirtschafts-, Bau-, Landwirtschafts- und Familienministeriums sowie des Bundesverfassungsgerichts. Laut dpa-AFX schließt der Bundestag die Beratungen über den Haushalt 2027 am Freitag um 9 Uhr ab (Bundestag, Tagesordnung, Stand 25.11.; dpa-AFX, 26.11.).",
+    "Morgen: Der EU-Sondergipfel in Brüssel geht in den zweiten und letzten Tag. Der Bundestag schließt um 9 Uhr die Beratungen über den Haushalt 2027 ab. Um 9.55 Uhr stehen laut dpa-AFX die Arbeitslosenzahlen für November an, um 11 Uhr das Wirtschafts-, Industrie- und Verbrauchervertrauen im Euroraum (dpa-AFX, Tagesvorschau, 26.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "Euronews, 26.11.2026"
+    },
+    {
+     "titel": "IT Boltwise, 26.11.2026"
+    },
+    {
+     "titel": "beck-aktuell, 26.11.2026"
+    },
+    {
+     "titel": "Handelsblatt (dpa), 26.11.2026"
+    },
+    {
+     "titel": "Deutscher Bundestag, Tagesordnung 112. Sitzung, Stand 25.11.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau, 26.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
