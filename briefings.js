@@ -1,5 +1,140 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-26",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Netanjahu-Prozess: Richter raten der Anklage, den Bestechungsvorwurf in Fall 4000 fallen zu lassen",
+    "Türkei: Tausende demonstrieren trotz Verbots in Istanbul gegen Gewalt an Frauen",
+    "Prostitution: Expertenkommission legt 51 Maßnahmen vor, Freier sollen bei nicht angemeldeten Prostituierten strafbar werden",
+    "Rente mit 63: Drei Unionspolitiker schlagen eine \"Respekt-Rente\" vor",
+    "Heute: EU-Sondergipfel zur Finanzplanung und zur Ukraine-Hilfe, Urteil im dm-Prozess um Augenscreening"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Donnerstag, den 26. November.",
+    "Netanjahu-Prozess: Das Bezirksgericht Jerusalem hat der Anklage am Mittwoch empfohlen, den Bestechungsvorwurf in Fall 4000 fallen zu lassen. Im Fall 2000 sollen die Staatsanwälte ihre Anklage überdenken, im Fall 1000 sollen sie das Verfahren per Vereinbarung oder Urteil abschließen. Die Empfehlungen sind kein Urteil; Netanjahu bestreitet in allen Fällen jedes Fehlverhalten. Generalstaatsanwältin Gali Baharav-Miara sagte zu, sie zu prüfen (JTA, 25.11.; Audiatur-Online, 25.11.).",
+    "Türkei: Die Behörden in Istanbul hatten Kundgebungen zum Internationalen Tag gegen Gewalt an Frauen für 24 Stunden verboten. Laut AFP kamen in Istanbul trotzdem etwa 3000 Menschen zu einer Kundgebung, in Ankara etwa tausend. Nach Zahlen der Plattform \"Wir werden Femizid stoppen\" wurden in diesem Jahr in der Türkei 369 Frauen ermordet, 2025 waren es 462 (Spiegel nach AFP, 26.11.).",
+    "Prostitution: Eine von Familienministerin Karin Prien (CDU) eingesetzte Expertenkommission hat 51 Maßnahmen vorgelegt. Freier sollen sich strafbar machen, wenn sie Dienste bei nicht angemeldeten Prostituierten nutzen; Prostituierte selbst sollen bei Verstößen gegen die Anmeldepflicht straffrei bleiben. Das Mindestalter soll von 18 auf 21 Jahre steigen. Ein Sexkaufverbot nach dem Nordischen Modell sehen die Empfehlungen nicht vor; Teile der Union fordern es und kündigten einen Gruppenantrag an (dpa-AFX, 25.11.; ZDFheute, 25.11.; ntv, 25.11.).",
+    "Rente mit 63: Die Unionspolitiker Johannes Winkel, Marc Biadacz und Pascal Reddig schlagen eine \"Respekt-Rente\" vor. Wer höchstens 70 Prozent des Durchschnittseinkommens verdient hat, soll nach 45 Beitragsjahren weiter abschlagsfrei in Rente gehen können; wer mehr verdient hat, zahlt Abschläge nur auf die Rentenpunkte oberhalb dieser Grenze. Die SPD lehnt ein Ende der Rente mit 63 ab. Kosten nennen die Berichte nicht (Handelsblatt nach dpa, 25.11.; t-online, 25.11.).",
+    "Zahl des Tages: Rund 32.500 Prostituierte sind laut Statistischem Bundesamt angemeldet, Schätzungen gehen von etwa 200.000 aus (dpa-AFX, 25.11.).",
+    "Heute: Um 8 Uhr erscheint der Reallohnindex für das dritte Quartal, um 13.30 Uhr das Protokoll der EZB-Ratssitzung vom 28. und 29. Oktober. Um 14 Uhr wird in Karlsruhe ein Urteil im Prozess gegen die Drogeriemarktkette dm wegen des Angebots von Augenscreening in den Filialen erwartet. Um 17 Uhr findet eine Kundgebung für die Tarifforderungen der IG Metall statt. In Brüssel tagt der EU-Sondergipfel zur langfristigen Finanzplanung und zur weiteren finanziellen Unterstützung der Ukraine (dpa-AFX, Tagesvorschau, 25.11.).",
+    "Diese Woche: Der EU-Sondergipfel dauert laut Dow-Jones-Vorschau bis Freitag, den 27. November. Rheinmetall hält bis Freitag einen Kapitalmarkttag ab (dpa-AFX, Wochenvorschau, 25.11.).",
+    "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Netanjahu-Prozess: Richter raten zum Verzicht auf die Bestechungsanklage",
+    "caption": "Das Bezirksgericht Jerusalem hat der Anklage im Verfahren gegen Benjamin Netanjahu am Mittwoch empfohlen, den Bestechungsvorwurf in Fall 4000 fallen zu lassen. Fall 2000 soll sie überdenken, Fall 1000 per Vereinbarung oder Urteil abschließen. Das ist kein Urteil: Netanjahu bestreitet alle Vorwürfe, die Generalstaatsanwältin will die Empfehlungen prüfen. Laut Audiatur hatten die Richter den Bestechungsvorwurf schon im Juni 2023 und im Juni 2026 infrage gestellt. Unsere Frage: Wie viel Gewicht sollte der Rat eines Gerichts bei der Frage haben, ob eine Anklage aufrechterhalten wird? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #israel #netanjahu #justiz #rechtsstaat #gericht #nahost #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Netanjahu-Prozess: Richter raten zum Verzicht auf die Bestechungsanklage",
+      "kicker": "Israel · Gerichtsverfahren",
+      "bild": {
+       "url": "cover-netanjahu-prozess-2026-11-26.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Mittwoch, 25. November",
+      "titel": "Netanjahu-Prozess: Richter raten zum Verzicht auf die Bestechungsanklage.",
+      "text": "Das Bezirksgericht Jerusalem empfiehlt der Anklage laut JTA und Audiatur, den Bestechungsvorwurf in Fall 4000 fallen zu lassen. Fall 2000 soll sie überdenken, Fall 1000 abschließen. Ein Urteil ist das nicht; Netanjahu bestreitet alle Vorwürfe.",
+      "quelle": "JTA, 25.11.2026; Audiatur-Online, 25.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "690.000 NIS",
+      "text": "an Geschenken, vor allem Zigarren, Champagner und Schmuck, wirft die Anklage Netanjahu und seiner Frau in Fall 1000 vor, laut JTA rund 204.000 US-Dollar.",
+      "quelle": "JTA, 25.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was dahintersteckt",
+      "titel": "Die drei Verfahren.",
+      "punkte": [
+       {
+        "kopf": "Fall 1000",
+        "text": "Geschenke von zwei Geschäftsleuten. Die Richter raten laut Audiatur, ihn per Vereinbarung oder Urteil abzuschließen."
+       },
+       {
+        "kopf": "Fall 2000",
+        "text": "Betrug und Untreue wegen einer Abmachung mit einem Zeitungsverleger. Die Richter bezweifeln laut JTA, dass das strafbar ist."
+       },
+       {
+        "kopf": "Fall 4000",
+        "text": "Bestechung, Betrug, Untreue: Gefälligkeiten für den Konzern Bezeq gegen wohlwollende Berichte, so die Anklage. Hier raten sie zum Fallenlassen."
+       }
+      ],
+      "quelle": "JTA, 25.11.2026; Audiatur-Online, 25.11.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Nicht der erste Rat.",
+      "text": "Laut Audiatur (nach Jerusalem Post) empfahlen die Richter schon im Juni 2023 und im Juni 2026, den Bestechungsvorwurf fallen zu lassen. Die Staatsanwaltschaft hielt daran fest. Neu ist laut Audiatur, dass das Gericht in Fall 4000 auch die Untreue infrage stellt.",
+      "quelle": "Audiatur-Online, 25.11.2026 (nach Jerusalem Post)"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Beide Seiten",
+      "titel": "Zwei Sichtweisen.",
+      "punkte": [
+       {
+        "kopf": "Netanjahu",
+        "text": "Er spricht laut JTA von zehn Jahren absurder Ermittlungen und bestreitet jedes Fehlverhalten."
+       },
+       {
+        "kopf": "Anklage",
+        "text": "Generalstaatsanwältin Baharav-Miara will die Empfehlungen prüfen; eine Vereinbarung sei laut Audiatur (nach Globes) der schnellere Weg."
+       }
+      ],
+      "quelle": "JTA, 25.11.2026; Audiatur-Online, 25.11.2026 (nach Globes)"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie viel Gewicht sollte der Rat eines Gerichts bei der Frage haben, ob eine Anklage aufrechterhalten wird?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "typ": "betrifft",
+    "band": "Briefing",
+    "label": "Gestern und zuletzt",
+    "titel": "Was am Mittwoch wichtig war",
+    "punkte": [
+     {
+      "kopf": "Netanjahu-Prozess",
+      "text": "Richter in Jerusalem raten laut JTA, die Bestechungsanklage in Fall 4000 fallen zu lassen."
+     },
+     {
+      "kopf": "Türkei",
+      "text": "Trotz Verbots demonstrieren in Istanbul laut AFP etwa 3000 Menschen gegen Gewalt an Frauen."
+     },
+     {
+      "kopf": "Prostitution",
+      "text": "Eine Expertenkommission legt 51 Maßnahmen vor; Freier sollen bei Nichtangemeldeten strafbar werden."
+     },
+     {
+      "kopf": "Rente mit 63",
+      "text": "Drei Unionspolitiker schlagen laut dpa eine \"Respekt-Rente\" vor; die SPD lehnt ein Ende ab."
+     }
+    ],
+    "quelle": "JTA, Audiatur, Spiegel (AFP), dpa-AFX, ZDFheute, Handelsblatt (dpa), 25./26.11.2026"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-25",
   "morgen": {
    "titel": "Morning Briefing",
