@@ -1,5 +1,49 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-27",
+  "morgen": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "EU-Sondergipfel zum Haushalt 2028 bis 2034 ohne Einigung beendet, Ukraine-Kredit ungeklärt",
+    "Bundestag beschließt Haushalt 2027 mit 317 zu 260 Stimmen",
+    "Haushaltsbegleitgesetz: Stromsteuer 2027 gesenkt, Zuckersteuer ab 2028, Spirituosen teurer"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Freitag, 27. November.",
+    "EU-Sondergipfel: Eine Korrektur zu gestern: Der Gipfel dauerte nicht bis Freitag, er wurde vorzeitig ohne Ergebnis beendet. Laut ZDFheute reiste Bundeskanzler Merz früher ab; er sagte auf der Pressekonferenz, man komme am Abend nicht zu einem Ergebnis, die Vorstellungen lägen noch weit auseinander. Ratspräsident Costa hatte laut Euronews 1,78 Billionen Euro für sieben Jahre vorgeschlagen, rund 10 Prozent weniger als der ursprüngliche Entwurf. Merz hält diese Summe für zu hoch und sagte laut Euronews, die Kürzungen würden nicht bei 204 Milliarden Euro enden. Auf der Gegenseite stehen laut Euronews 17 Staaten der Freunde der Kohäsion, die weitere Einschnitte bei Regionen und Landwirtschaft verhindern wollen. Macron verlangt laut Euronews eine Einigung bis zum 31. Dezember. Der geplante Hilfskredit von 45 Milliarden Euro für die Ukraine geriet laut Euronews in dem Streit ins Hintertreffen. Gespräche auf Arbeitsebene sollen bis zum Dezember-Gipfel kurz vor Weihnachten weitergehen (ZDFheute, 26.11.; Euronews, 27.11.). Unsere Einordnung: Ohne Haushalt ab 2028 und ohne gesicherte Ukraine-Finanzierung wächst der Druck, dass die Staaten sich auf faire Lastenteilung einigen.",
+    "Bundeshaushalt 2027: Der Bundestag hat den Haushalt 2027 beschlossen, in namentlicher Abstimmung mit 317 Ja- zu 260 Nein-Stimmen, ohne Enthaltungen. Laut dpa-AFX stimmten zwei Abgeordnete der CDU mit Nein. Die Ausgaben des Kernhaushalts liegen bei rund 556 Milliarden Euro, etwa 6 Prozent mehr als im laufenden Jahr. Die Nettokreditaufnahme im Kernhaushalt steigt von 98 auf 123 Milliarden Euro; zusammen mit den Sondertöpfen für Infrastruktur und Klimaschutz (57,8 Milliarden Euro) und die Bundeswehr (29,6 Milliarden Euro) ergeben sich mehr als 210 Milliarden Euro neue Schulden. Die Verteidigungsausgaben liegen bei fast 140 Milliarden Euro, für die Ukraine sind 12 Milliarden Euro vorgesehen. Offen bleibt die Einkommensteuerreform, über die Union und SPD streiten. Finanzminister Klingbeil erwartet für 2028 einen noch schwierigeren Haushalt. Wirtschaftsweiser Felbermayr nannte den Haushalt laut Reuters ein kurzfristiges Stopfen von Lücken (ZDFheute, 27.11.; dpa-AFX, 27.11.).",
+    "Steuerpaket zum Haushalt: Mit dem Haushaltsbegleitgesetz sinkt die Stromsteuer zunächst befristet für 2027; laut Abendzeitung nach dpa kostet das rund 5 Milliarden Euro, die Gegenfinanzierung ab 2028 ist ungeklärt und gilt auch in der Koalition als riskant. Eine Steuer auf stark gezuckerte Getränke kommt erst Anfang 2028, nach Zuckergehalt gestaffelt von 25 bis 35 Cent je Liter. Spirituosen wie Rum, Wodka und Korn werden um 20 Prozent höher besteuert, die Alkopopsteuer gilt künftig für Mischgetränke bis 15 statt bisher 10 Volumenprozent. Geplante Kürzungen bei Wohngeld und anderen Sozialleistungen nahmen die Koalitionsfraktionen laut dpa zurück (ZDFheute, 27.11.; Abendzeitung nach dpa, 27.11.; dpa-AFX, 27.11.).",
+    "Morgen: Laut der Tagesvorschau von Dow Jones Newswires stehen für Samstag keine Termine an. Am Sonntag stimmt die Schweiz über Referenden ab, unter anderem zu einer Anhebung der Mehrwertsteuer, zur Besteuerung von Ehepaaren und zum Kriegsmaterialgesetz; zudem treffen sich die OPEC+-Staaten. Am Montag tagen laut dpa-AFX in Brüssel die EU-Verkehrs- und die EU-Handelsminister, und um 14 Uhr stehen die vorläufigen Verbraucherpreise für Deutschland im November auf dem Terminplan (Dow Jones Newswires, 27.11.; dpa-AFX, 27.11.).",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 26.11.2026"
+    },
+    {
+     "titel": "Euronews, 27.11.2026"
+    },
+    {
+     "titel": "ZDFheute, 27.11.2026"
+    },
+    {
+     "titel": "dpa-AFX (ARIVA), 27.11.2026"
+    },
+    {
+     "titel": "Abendzeitung München (dpa), 27.11.2026"
+    },
+    {
+     "titel": "Dow Jones Newswires (finanzen.net), 27.11.2026"
+    }
+   ]
+  },
+  "karussells": [],
+  "storys": []
+ },
+ {
   "datum": "2026-11-26",
   "morgen": {
    "titel": "Morning Briefing",
