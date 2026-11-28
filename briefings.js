@@ -1,5 +1,138 @@
 window.BRIEFINGS = [
  {
+  "datum": "2026-11-28",
+  "morgen": {
+   "titel": "Morning Briefing",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Rentenreform: Schweitzer legt Entwurf vor, Frührente mit 35 Beitragsjahren erst ab 64, laut dpa keine Einigung mit der Union",
+    "Zentralrat der Juden: Präsident Schuster weist Weidels Vorwurf der Fremdsteuerung zurück",
+    "Spritpreisdeckel: Entwurf geht in die Regierungsabstimmung, Kabinett soll am Mittwoch beschließen",
+    "Heute und diese Woche: Inflation am Montag, EU-Innenminister am Donnerstag, Gerichtstermine am Freitag"
+   ],
+   "text": [
+    "Guten Morgen. Hier ist dein Morning Briefing von DoytschlandTv für Samstag, den 28. November.",
+    "Rentenreform: Arbeitsminister Alexander Schweitzer (SPD) hat einen rund 150-seitigen Gesetzentwurf vorgelegt und ans Kanzleramt geschickt. Die Altersgrenze für langjährig Versicherte soll von 63 auf 64 Jahre steigen, der Abschlag je Monat ab 1. Juli 2028 von 0,3 auf 0,4 Prozent. Die Rente nach 45 Beitragsjahren bleibt, ab 2029 zählen laut dts aber nur noch Arbeit, Kindererziehung und Pflege. Neu ist eine Kapitalrente mit einem zusätzlichen Beitrag ab 2028, zunächst 0,5, später 2 Prozent des Bruttoeinkommens. Kanzleramtschefin Nina Warken sagte laut dpa, eine Verständigung darauf gebe es nicht; Kanzler Merz will die Reform laut dpa in wesentlichen Teilen noch vor Weihnachten im Kabinett verabschieden. (dpa, 27. und 28.11.; dts, 27.11.)",
+    "Zentralrat der Juden: AfD-Chefin Alice Weidel sagte laut Jüdischer Allgemeine und dts in einem Welt-Podcast, der Zentralrat werde von der CDU fremdgesteuert. Zentralratspräsident Josef Schuster teilte mit: Die jüdische Gemeinschaft werde ihr dieses Feigenblatt nicht liefern. Einen Beleg für den Vorwurf nennen die beiden Berichte nicht. (Jüdische Allgemeine, 27.11.; dts via Ludwigsburg24, 27.11.)",
+    "Spritpreisdeckel: Das Wirtschaftsministerium hat den Entwurf in die Ressortabstimmung gegeben. Laut Regierungskreisen soll das Kabinett am Mittwoch beschließen. Der Deckel soll am 1. Januar den auslaufenden Tankrabatt ablösen und zunächst bis 31. März 2027 gelten. Autobahntankstellen sind ausgenommen, Verstöße können mit bis zu 100.000 Euro geahndet werden. Die SPD-geführten Ministerien dürften laut dpa auf Änderungen dringen, etwa auf den Durchschnittspreis statt der teuersten Tanklagerregion. (dpa-AFX, 27.11.)",
+    "Heute: Laut dpa-AFX und Dow Jones sind für Samstag keine Termine gelistet. Am Sonntag stimmt die Schweiz über Mehrwertsteuer, Ehepaarbesteuerung und das Kriegsmaterialgesetz ab, außerdem tagt die OPEC+.",
+    "Diese Woche: Am Montag um 14 Uhr kommen die vorläufigen Verbraucherpreise für November, erwartet wird laut Dow Jones ein Plus von 2,8 Prozent zum Vorjahr; um 17.30 Uhr wird EZB-Präsidentin Lagarde im Europaparlament angehört. Am Donnerstag treffen sich die EU-Innenminister in Brüssel. Am Freitag verhandelt der BGH zu Schäden in Wohnungseigentümergemeinschaften, das Oberverwaltungsgericht NRW zur Grundsteuer in NRW. (dpa-AFX Wochenvorschau, 26.11.; Dow Jones Tagesvorschau, 27.11.)",
+    "Zahl des Tages: 4,8 Prozent. So hoch wäre der Abschlag bei zwölf Monaten früherem Rentenbeginn nach dem Entwurf (12 mal 0,4 Prozent), bisher 3,6 Prozent (12 mal 0,3). Eigene Rechnung nach dpa.",
+    "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
+   ]
+  },
+  "abend": null,
+  "karussells": [
+   {
+    "zusatz": true,
+    "thema": "Rentenreform: Schweitzers Entwurf verschärft die Frührente",
+    "caption": "Arbeitsminister Alexander Schweitzer (SPD) hat laut dpa einen rund 150-seitigen Rentenentwurf vorgelegt. Die Altersgrenze für langjährig Versicherte steigt von 63 auf 64, der Abschlag je Monat von 0,3 auf 0,4 Prozent, die Rente nach 45 Beitragsjahren bleibt, wird aber enger gefasst. Neu ist eine Kapitalrente mit zusätzlichem Beitrag ab 2028. Der Entwurf ist nicht abgestimmt: Kanzleramtschefin Warken sagt laut dpa, es gebe keine Verständigung. Unsere Frage: Wie viel längeres Arbeiten ist für eine stabile Rente zumutbar, und für wen? Quellen auf unserer Website, Link in der Bio.",
+    "hashtags": "#doytschlandtv #rente #rentenreform #schweitzer #frührente #altersvorsorge #sozialpolitik #nachrichten #einordnung #aktuell",
+    "slides": [
+     {
+      "typ": "cover",
+      "titel": "Rentenreform: Schweitzers Entwurf verschärft die Frührente",
+      "kicker": "Rente · Gesetzentwurf",
+      "bild": {
+       "url": "cover-rente-2026-11-28.jpg"
+      }
+     },
+     {
+      "typ": "fakten",
+      "label": "Freitag, 27. November",
+      "titel": "Rentenreform: Schweitzers Entwurf verschärft die Frührente.",
+      "text": "Arbeitsminister Schweitzer (SPD) legt laut dpa einen rund 150-seitigen Entwurf vor. Die Altersgrenze für langjährig Versicherte steigt von 63 auf 64, die Rente nach 45 Beitragsjahren bleibt. Kanzleramtschefin Warken (CDU): Eine Verständigung gebe es nicht.",
+      "quelle": "dpa (Osthessen|News), 27.11.2026; dpa (ad-hoc-news), 28.11.2026"
+     },
+     {
+      "typ": "zahl",
+      "label": "Die Zahl",
+      "zahl": "27 %",
+      "text": "der Anspruchsberechtigten könnten die Rente nach 45 Beitragsjahren laut dpa künftig nicht mehr wie heute nutzen. Die Zahl steht nur in diesem dpa-Text.",
+      "quelle": "dpa (Osthessen|News), 27.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Was für dich gilt",
+      "titel": "Was der Entwurf vorsieht.",
+      "punkte": [
+       {
+        "kopf": "45 Beitragsjahre",
+        "text": "Ab 2029 zählen laut dts nur Arbeit, Kindererziehung und Pflege. Arbeitslosengeld, Krankengeld und reine Minijob-Zeiten fallen heraus."
+       },
+       {
+        "kopf": "35 Jahre",
+        "text": "Altersgrenze 64 statt 63, Abschlag ab 1.7.2028 je Monat 0,4 statt 0,3 Prozent. Rechenbeispiel: 12 Monate früher sind 4,8 statt 3,6 Prozent."
+       },
+       {
+        "kopf": "Kapitalrente",
+        "text": "Ab 2028 zusätzlicher Beitrag, zunächst 0,5, später 2 Prozent des Bruttoeinkommens, getragen von Arbeitgebern und Beschäftigten."
+       },
+       {
+        "kopf": "Selbstständige",
+        "text": "Ab 2030 pflichtversichert, wer sich nach Januar 2027 selbstständig macht. Ausnahmen gelten etwa für Künstler und Landwirte."
+       }
+      ],
+      "quelle": "dpa, 27.11.2026; dts (ad-hoc-news), 27.11.2026"
+     },
+     {
+      "typ": "einordnung",
+      "label": "Einordnung",
+      "titel": "Noch kein Gesetz.",
+      "text": "Der Entwurf ist nicht abgestimmt. Kanzler Merz will die Reform laut dpa in wesentlichen Teilen noch vor Weihnachten im Kabinett verabschieden. Danach folgt das parlamentarische Verfahren.",
+      "quelle": "dpa (ad-hoc-news), 28.11.2026"
+     },
+     {
+      "typ": "betrifft",
+      "label": "Beide Seiten",
+      "titel": "Zwei Sichtweisen.",
+      "punkte": [
+       {
+        "kopf": "Schweitzer (SPD)",
+        "text": "Der Entwurf setze den größten Teil der Rentenkommission um und sei laut dpa \"weder eine reine SPD- noch eine reine CDU- oder CSU-Lösung\"."
+       },
+       {
+        "kopf": "Kritik",
+        "text": "Die Union hält ihn laut dpa für nicht weitgehend genug. SoVD und VdK lehnen höhere Altersgrenzen und Abschläge ab."
+       }
+      ],
+      "quelle": "dpa (Osthessen|News), 27.11.2026; dpa (ad-hoc-news), 28.11.2026"
+     },
+     {
+      "typ": "cta",
+      "frage": "Wie viel längeres Arbeiten ist für eine stabile Rente zumutbar, und für wen?"
+     }
+    ]
+   }
+  ],
+  "storys": [
+   {
+    "zusatz": true,
+    "art": "nachricht",
+    "typ": "betrifft",
+    "band": "Briefing",
+    "label": "Gestern und zuletzt",
+    "titel": "Was am Freitag wichtig war",
+    "punkte": [
+     {
+      "kopf": "Rentenreform",
+      "text": "Schweitzers Entwurf hebt die Altersgrenze von 63 auf 64; laut dpa gibt es keine Einigung mit der Union."
+     },
+     {
+      "kopf": "Zentralrat der Juden",
+      "text": "Josef Schuster weist Weidels Vorwurf zurück, der Zentralrat sei von der CDU fremdgesteuert."
+     },
+     {
+      "kopf": "Spritpreisdeckel",
+      "text": "Ab 1. Januar soll er den Tankrabatt ablösen; Kabinett laut Regierungskreisen am Mittwoch."
+     }
+    ],
+    "quelle": "dpa, dts, Jüdische Allgemeine, dpa-AFX, 27./28.11.2026"
+   }
+  ]
+ },
+ {
   "datum": "2026-11-27",
   "morgen": null,
   "abend": {

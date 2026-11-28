@@ -2,37 +2,31 @@
    Format: {z: Zeitpunkt der Quelle (ISO), t: Meldung in einem Satz, q: Quelle, u: Link}.
    Meldungen, die älter als 24 Stunden sind, blendet die Startseite von selbst aus. stand = letzte Durchsicht. */
 window.TICKER = {
- "stand": "2026-11-27T21:35:00+01:00",
+ "stand": "2026-11-28T05:55:00+01:00",
  "items": [
   {
-   "z": "2026-11-26T23:45:00+01:00",
-   "t": "Der EU-Sondergipfel zum Haushalt 2028 bis 2034 wird vorzeitig ohne Ergebnis beendet, Bundeskanzler Merz reist früher ab (laut ZDFheute)",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/ausland/eu-gipfel-haushalt-bruessel-europaeische-union-merz-abbruch-100.html"
+   "z": "2026-11-27T12:05:00+01:00",
+   "t": "Zentralrats-Präsident Schuster weist Weidels Vorwurf zurück, der Zentralrat werde von der CDU fremdgesteuert (laut Jüdischer Allgemeine)",
+   "q": "Jüdische Allgemeine",
+   "u": "https://www.juedische-allgemeine.de/politik/fremdgesteuert-nach-den-unterstellungen-von-alice-weidel-jetzt-reagiert-der-zentralrat-der-juden/"
   },
   {
-   "z": "2026-11-27T08:44:00+01:00",
-   "t": "Nach dem gescheiterten Gipfel liegt Costas Vorschlag von 1,78 Billionen Euro für sieben Jahre auf dem Tisch; Macron fordert eine Einigung bis 31. Dezember (laut Euronews)",
-   "q": "Euronews",
-   "u": "https://de.euronews.com/2026/11/27/chaos-statt-durchbruch-eu-sondergipfel-zum-haushalt-scheitert"
+   "z": "2026-11-27T18:33:00+01:00",
+   "t": "Arbeitsminister Schweitzer legt einen rund 150-seitigen Rentenentwurf vor; Kanzleramtschefin Warken sagt laut dpa, eine Verständigung gebe es nicht",
+   "q": "dpa (Osthessen|News)",
+   "u": "https://osthessen-news.de/n11803990/schweitzer-kuendigt-eine-der-groessten-rentenreformen-an.html"
   },
   {
-   "z": "2026-11-27T15:03:00+01:00",
-   "t": "Der Bundestag beschließt den Haushalt 2027 mit 317 zu 260 Stimmen; der Kernhaushalt umfasst rund 556 Milliarden Euro (laut ZDFheute)",
-   "q": "ZDFheute",
-   "u": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html"
+   "z": "2026-11-27T20:40:00+01:00",
+   "t": "Der Spritpreisdeckel soll am 1. Januar den Tankrabatt ablösen; der Entwurf geht laut dpa-AFX in die Regierungsabstimmung, das Kabinett soll am Mittwoch beschließen",
+   "q": "dpa-AFX (finanzen.net)",
+   "u": "https://www.finanzen.net/nachricht/aktien/kreise-spritpreisdeckel-entwurf-geht-in-regierungsabstimmung-16091166"
   },
   {
-   "z": "2026-11-27T16:08:00+01:00",
-   "t": "Unter den 260 Nein-Stimmen zum Haushalt 2027 sind laut dpa-AFX zwei aus der CDU",
-   "q": "dpa-AFX (ARIVA)",
-   "u": "https://www.ariva.de/news/roundup-2-bundestag-beschliesst-haushalt-aber-noch-offene-12223018"
-  },
-  {
-   "z": "2026-11-27T17:35:00+01:00",
-   "t": "Am Montag tagen in Brüssel die EU-Verkehrs- und die EU-Handelsminister (laut dpa-AFX-Tagesvorschau)",
-   "q": "dpa-AFX (ARIVA)",
-   "u": "https://www.ariva.de/news/tagesvorschau-termine-am-30-november-2026-12223106"
+   "z": "2026-11-28T05:05:00+01:00",
+   "t": "DGB und IG Metall begrüßen laut dpa, dass die abschlagsfreie Rente nach 45 Beitragsjahren erhalten bleibt; SoVD und VdK lehnen höhere Altersgrenzen ab",
+   "q": "dpa (ad-hoc-news)",
+   "u": "https://www.ad-hoc-news.de/politik/rentenreform-schweitzer-haelt-an-fruehrente-nach-45-jahren-fest/70563791"
   }
  ]
 };
