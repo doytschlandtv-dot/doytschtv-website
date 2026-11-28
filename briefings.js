@@ -22,7 +22,46 @@ window.BRIEFINGS = [
     "Das Briefing gibt es auch als Story auf Instagram, das wichtigste Thema des Tages als Karussell."
    ]
   },
-  "abend": null,
+  "abend": {
+   "titel": "Tagesrückblick",
+   "audio": null,
+   "dauer": null,
+   "themen": [
+    "Rentenreform: Streit um Schweitzers Entwurf, SPD-Spitze verteidigt, Union und Arbeitgeber kritisieren",
+    "BSW-Parteitag in Dresden lehnt schärfere Abgrenzung von der AfD ab, 30 Mitglieder erklären Austritt",
+    "Spritpreisdeckel: Verordnung soll zum 1. Januar gelten, werktägliche Höchstpreise ab 4. Januar",
+    "Jusos fordern eine Frau an der SPD-Spitze"
+   ],
+   "text": [
+    "Guten Abend. Hier ist dein Tagesrückblick von DoytschlandTv, Samstag, 28. November.",
+    "Erstens: Rentenreform. Der Entwurf von Arbeitsminister Alexander Schweitzer (SPD) ist laut ZDFheute nicht mit der Union abgestimmt. Florian Dorn (CSU), Vizevorsitzender der Rentenkommission, nannte es sehr irritierend, mit einem nicht geeinten Entwurf an die Öffentlichkeit zu gehen. Der Arbeitgeberverband BDA und Christian von Stetten (CDU) kritisierten den Entwurf ebenfalls, CDA-Chef Dennis Radtke warnte vor einem Scheitern der Reform. Schweitzer nannte den Entwurf im heute journal in sich stimmig und erwartet eine baldige Einigung. SPD-Fraktionschef Matthias Miersch sagte, es bleibe bei der Rente nach 45 Beitragsjahren; Parlamentsgeschäftsführer Dirk Wiese drängt laut Rheinischer Post auf einen Kabinettsbeschluss vor Weihnachten und einen Bundestagsbeschluss im ersten Quartal 2027. Laut ZDF-Politbarometer lehnt eine klare Mehrheit die Abschaffung der Rente mit 63 ab. Unsere Einordnung: Ein unabgestimmter Entwurf ist noch keine Position der Koalition; entscheidend ist, was am Ende im Kabinett landet. (ZDFheute, 28.11.)",
+    "Zweitens: BSW. Auf dem Bundesparteitag in Dresden stimmte laut ZDFheute die Mehrheit der rund 600 Delegierten gegen einen Antrag von Gründungsmitgliedern auf schärfere Abgrenzung von der AfD. Beschlossen wurde der Vorschlag des Vorstands: Landesverbände dürfen demnach Mehrheiten in der Sache nutzen, sofern BSW-Politik durchgesetzt wird; ausgeschlossen sind eine Koalition mit der AfD, die Tolerierung einer AfD-Regierung und eine Beteiligung an einer Brandmauer-Koalition. Laut ZDFheute und Tagesspiegel erklärten 30 Mitglieder ihren Austritt, Mitgründer Klaus Ernst kündigte seinen an. Grünen-Fraktionschefin Britta Haßelmann und Dietmar Bartsch (Linke) kritisierten den Beschluss laut ZDFheute. Unsere Einordnung: Auch ohne Koalition bedeutet gemeinsames Abstimmen mit der AfD eine Aufwertung ihrer Positionen; das Abstimmungsverhalten gehört deshalb in die Bewertung. (ZDFheute, 28.11.; Tagesspiegel, 28.11.)",
+    "Drittens: Spritpreisdeckel. Eine Korrektur zum Morning Briefing: Laut dpa soll die Verordnung zwar zum 1. Januar in Kraft treten, die bundesweiten Höchstpreise für Super E5, Super E10 und Diesel sollen aber erst ab 4. Januar werktäglich ermittelt werden. Die Maßnahme soll zunächst bis Ende März befristet sein, eine Verlängerung ist laut Entwurf höchstens bis 31. Dezember 2027 möglich. Autobahntankstellen sind ausgenommen. Laut Regierungskreisen soll das Kabinett am Mittwoch beschließen. (dpa via Handelsblatt, 28.11.)",
+    "Viertens: Jusos. Auf ihrem Bundeskongress in Bochum beschlossen die Jusos laut dpa, dass eine Frau die SPD führen soll und niemand mit einem Regierungsamt im Bund. Die Neuwahl der Parteispitze ist Mitte Januar auf einem Parteitag; Hubertus Heil ist bisher der einzige erklärte Kandidat. Parteichef Lars Klingbeil kam laut dpa nicht zum Kongress. (dpa via Handelsblatt, 28.11.)",
+    "Morgen: Am Sonntag stimmt die Schweiz laut Dow Jones über Mehrwertsteuer, Ehepaarbesteuerung und das Kriegsmaterialgesetz ab, außerdem tagt die OPEC+. Der Deutsche Wetterdienst warnt laut ZDFheute vor gefrierendem Regen in der Landesmitte. Am Montag um 14 Uhr erscheinen die vorläufigen Verbraucherpreise für November; erwartet wird laut Dow Jones ein Plus von 2,8 Prozent zum Vorjahr. Um 17.30 Uhr wird EZB-Präsidentin Christine Lagarde im Europaparlament angehört. (Dow Jones und dpa-AFX Tagesvorschau, 27.11.)",
+    "Das war der Tagesrückblick. Zu jedem Thema gibt es ein Karussell auf Instagram und TikTok und die ausführliche Fassung auf unserer Website. Einen guten Abend wünscht dir DoytschlandTv."
+   ],
+   "quellen": [
+    {
+     "titel": "ZDFheute, 28.11.2026"
+    },
+    {
+     "titel": "Tagesspiegel, 28.11.2026"
+    },
+    {
+     "titel": "dpa via Handelsblatt, 28.11.2026"
+    },
+    {
+     "titel": "ZDFheute-Newsticker, 28.11.2026"
+    },
+    {
+     "titel": "Dow Jones Tagesvorschau, 27.11.2026"
+    },
+    {
+     "titel": "dpa-AFX Tagesvorschau, 27.11.2026"
+    }
+   ]
+  },
   "karussells": [
    {
     "zusatz": true,
